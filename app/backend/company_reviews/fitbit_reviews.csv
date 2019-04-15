@@ -1,0 +1,802 @@
+date,employee_title,location,employee_status,review_title,years_at_company,helpful,pros,cons,advice_to_mgmt,rating_overall,rating_balance,rating_culture,rating_career,rating_comp,rating_mgmt
+2019-01-23,,,Current Employee ,HR,More than a year,0,"wonderful people, amazing product, changing lives","high turnover, always feel behind the curve",,5.0,4.0,4.0,4.0,4.0,3.0
+2019-04-12,,"San Francisco, CA",Former Employee ,"Lack of leadership, vision, and commitment",More than a year,0,"- great brand and product history
+- yummy snacks and cool office","- Existing executive team still around from the start up days, even after poor market performance, massive attrition, and major complaints from employees
+- CEO who is still way too deep in the weeds of product instead of providing the strategic direction and leadership needed to sustain the business
+- lack of commitment to a vision and direction creates major spin and time wasted on work that never makes it to market
+- Disempowered product and marketing teams unable to make even the smallest decision on their own without an executive approval",The executive team absolutely needs to be refreshed at this point. The company will not sustain itself with the existing management and attrition will continue to be a pain point.,2.0,3.0,2.0,2.0,3.0,1.0
+2019-02-21, Marketing Manager,"San Francisco, CA",Former Employee ,Great work-life balance; lack of innovation,More than 3 years,0,"- Great work life balance
+- Opportunity to roll up your sleeves and get work done
+- Opportunity to work with some really nice and talented people
+- Mission-driven and people really care about it
+- Flexible WFH policy","- Opportunity to roll up your sleeves... because you’re constantly fighting fires and cleaning up messes.
+- No clear path for growth; results in in-fighting among middle management
+- Lack of innovation/always feeling behind the curve
+- Unclear strategic vision from senior leadership.
+- Lack of alignment from senior leadership",Get aligned with each other. Create real goals that go beyond “deepen engagement with existing users” and “reach more users.” Set a strategy that gets us there. Then follow through with that strategy.,3.0,5.0,2.0,2.0,3.0,2.0
+2019-03-01,,,Current Employee ,Good but not great anymore,,0,"good compensation
+good flexibility
+good movement depending on your org","losing momentum
+lots of disorganization of upper management
+not a clear vision anymore",,3.0,5.0,3.0,5.0,5.0,2.0
+2019-02-02,,,Former Employee ,Sinking ship,,0,"Good people
+Still some talent left
+Good location","I’ve never been anywhere that felt more like a sinking ship. Everyone is scrambling to get off.
+
+Continual layoffs feel like peeling off a bandaid very slowly. It is public knowledge that execs want to shed headcount. Just get it done already.",Spend that cash in reserve to do something dramatic and fast.,2.0,4.0,3.0,1.0,2.0,1.0
+2019-02-06, Reliability Engineer,"San Diego, CA",Former Employee ,Decent place to work,More than a year,0,"Lots of perks, and great people",Lack of innovation and vision.,,3.0,,,,,
+2019-01-22,,"San Francisco, CA",Current Employee ,Fun place to work,More than a year,0,The work is challenging and the hours are reasonable. Fun to work with other people who are wild about fitness.,Some middle and upper management are hard to work with.,,4.0,,,,,
+2019-02-15, Senior Analyst,,Current Employee ,"Low morale, constantly changing priorities",More than a year,0,Recognizable brand. Your parents' friends will think it's cool you work at Fitbit. Employee discounts on products.,Leadership keeps changing priorities and can't deliver on promises. Inflated middle management. 20% of the people do all the work while the rest try desperately to make themselves helpful. No career pathing. Systems tools are barely working.,,1.0,5.0,1.0,1.0,3.0,2.0
+2018-12-30, Manager,"San Francisco, CA",Current Employee ,Good Upside!,Less than a year,0,"*Strong product roadmap
+*Good communication from Sr Staff
+*Good benefits, started 401k company contribution
+*Very metrics driven
+*Put recent focus on better managing OPEX w/ good results
+*Likes to celebrate
+*Philanthropic
+*No debt, a lot of cash in the bank","*Need stronger accountability on meeting deliverables
+*Better focus on the projects w/ the bigger bang for the buck","Sr team to improve on collaboration, need to ask the tough Qs to move the company forward.",5.0,,,,,
+2018-12-09,,,Current Employee ,Work balance,,0,Fitbit cares their employees a lot and provides flexible work schedule for their employees,Meeting might be too much.,,4.0,,,,,
+2018-12-18,,,Current Employee ,Company with so much potential,,0,"Great mission and ability to work on projects that can really improve the world. Smart, passionate, and dedicated colleagues.",Ability to execute on strategy. Weak and uninspiring leadership.,,3.0,4.0,3.0,3.0,4.0,2.0
+2018-12-03, Senior Test Engineer,"San Francisco, CA",Former Employee ,Lacks leadership,More than a year,0,"Cool technology, work from home, good work/life balance",Leadership is weak. Lack of marketing direction.,Company needs a visionary leader that has a set of stones.,3.0,5.0,3.0,4.0,3.0,1.0
+2018-11-27,,,Current Employee ,Welp,,0,"WFH-Work from home
+FTA-Flex Time Away",Everything else is below the standard,,3.0,2.0,2.0,2.0,2.0,2.0
+2018-12-16,,,Former Employee ,Stay Away. Sinking Ship.,More than 3 years,0,"- Flexible work from home.
+- 'Unlimited' time off
+- Free snacks
+- Good people","- Company doesn't have a solid direction to go in and is falling behind the rest of the market.
+- Decision making is very slow.
+- Zero opportunity for career growth. The company is in such a constant state of crisis that there is no time for career growth.
+- No 401k matching.
+- Underpaid compared to the rest of the market. You'll be lucky to get a decent bonus (if you get one at all) or a promotion.
+- Poor, argumentative leadership.. Top level leadership is often unable to be realistic about the state of the company and is unwilling to take responsibility for failures.
+- Overworked and over stressed. Working overtime is often expected for no extra compensation.
+- Losing employees at an alarming rate with a lack of effort to replace them.
+- Company is in constant crunch time. More work is falling on the shoulders of less people.
+
+Look elsewhere. I promise you there are better options. This company cannot last much longer the way it is being run.","Focus on your employees. Don't work them to death. Compensate fairly, show appreciation, and give them the resources they need to get their work done. Be realistic and upfront with them.",1.0,2.0,2.0,1.0,1.0,1.0
+2018-11-10,,,Former Employee ,Overall positive experience but concerns about company future,,0,Solid work life balance at Fitbit,"Poor executive leadership, unclear about company direction",,3.0,,,,,
+2018-11-05, Engineer,"San Francisco, CA",Former Employee ,Like A New Company,More than 3 years,0,"1. Lots of flexibility in working environment
+2. Talent colleagues","1, Slow in making decision
+2. Not good at manufacture",,3.0,4.0,3.0,3.0,4.0,2.0
+2018-11-15, Firmware Engineer,"San Diego, CA",Former Employee ,Hopeless company,More than a year,0,"Cool people, smart engineers. You work for a recognizable brand. Good work/life balance","The company doesn't know what it wants to be. There is no innovation whatsoever on the devices. Years of development time are spent to produce a tiny improvement.
+The decision process is flawed: too many cooks in the kitchen, lack of general direction and endless back and forth. Often, projects end up in a dead end and get cancelled for the wrong reason (inability of engineering teams to agree on a path and commit to it).
+Eric & James live in La La Land.",Get rid of the founders and hire a seasoned CEO.,1.0,4.0,2.0,2.0,3.0,1.0
+2018-10-30,,,Current Employee ,Great place,,0,Fast pace and lots of things to do,cancelled projects and roadmap need work,,3.0,3.0,3.0,3.0,3.0,2.0
+2018-10-16, Finance,"San Francisco, CA",Current Employee ,Senior management trainwreck,More than a year,0,There are some good folks doing their best and at least that takes the edge off a little bit,"Senior management can't seem to execute on a vague and overly broad vision. Very little innovation, Apple is crushing us. No corporate values, no accountability, under-performers get job offers to purely leverage promos and retention at Fitbit because we're desperate to stop the attrition. No 401k.","Listen to the workforce who is clearly full of disengaged people who have heard the same promises over and over with no action or accountability. Drain the swamp... of VPs, SVPs, EVPs",1.0,2.0,1.0,1.0,2.0,1.0
+2018-09-06, Infrastructure Engineer,"San Francisco, CA",Current Employee ,"Good people, improving culture",Less than a year,0,"Flexible working environment, global teams, caring people, can be who you want to be",Some idiotic IT policies that hinder productivity and happiness,Continue discussions about culture and involving everyone.,4.0,5.0,4.0,4.0,4.0,3.0
+2018-09-10, Senior Software Engineer,"San Francisco, CA",Current Employee ,"Good technology, bad management",More than a year,0,"free snacks and beverages
+onsite shared gym
+fitness and yoga classes
+fascinating technology to work with
+convenient downtown location","no 401k match
+
+Penny wise, pound foolish management:
+
+o They have moved numerous employees across the street twice in twelve
+months. After a couple of months in the new location they abandoned
+one entire floor to sublease it, causing more disruption.
+
+o Loss of autonomy as management forces angineers to use a round peg in square hole approach in their attempts to make everything uniform.
+
+The company uses a facade of self-empowerment in the evaluation
+process. Managers write ""goals"" for employees and have them
+copy-paste the text into the Workday system as their own input.
+
+Top level management is often uncertain on the best way to implement
+their plans, and this makes them prone to using charlatans and petty
+tyrants in low-level management positions.","Try to achieve real transparency in communications with employees. The
+current all-hands meetings are mostly dog and pony shows designed by
+sales to create a PR splash.",3.0,3.0,4.0,2.0,3.0,2.0
+2018-08-14,,,Former Employee ,Excellent place to work,More than 3 years,0,"The best aspect of working at Fitbit (at least for a Firmware engineer) is the people. They have a great team of smart and friendly people. In four years there I never encountered any problems of internal politics or anything else that is unpleasant.
+The company is very flexible as far as working from home whenever you need. They vacation policy is FTA, and the benefits package is excellent. Work/Life balance is also excellent - the company is really encouraging it.",During the four years I worked at Fitbit it was growing at a very fast rate (the number of firmware engineer increased about x10). This caused sometimes communication failures - not hearing about things that you should know - but it was not too bad.,,5.0,5.0,5.0,5.0,5.0,5.0
+2018-09-03,,,Former Employee ,Used to be amazing; now it's just okay,Less than a year,0,"-Lots of autonomy.
+-Many people on engineering are kind and smart. (There are outliers though)
+-Great location if you live in SF.
+-Flexible work from home policy.","-High attrition on the engineering team. Rigor is lacking. Makes it hard to accomplish quality design work.
+-No proactive support for talent resources, just ad-hoc reactions. You will have to advocate for yourself (E.g., some people had no managers for several months)
+-Missing cohesion everywhere. Poor communication between business and engineering results in a large understanding gap.","Decision making politics slows down innovation, distracting already scarce engineering resources. Advocate for your employees, don't hinder them.",3.0,5.0,3.0,4.0,3.0,1.0
+2018-07-26,,"San Francisco, CA",Current Employee ,Not the time to join,More than 3 years,0,"I love Fitbit. Our products are a great mid-level option for nearly everyone who wants to understand their health data and is not an elite athlete.
+We have many amazing employees to work with who care about the customer and the product.
+The company used to have a great culture and there were many opportunities to do new things in interesting ways. Some of the employees still can do innovative and interesting work, but it's now completely restrained to the research group and the new Boston team.
+Pay and benefits are good and time-off is excellent. There is no 401k match but there is a 401k.
+Work-life balance can be good when departments are staffed.
+The culture retains a health and fitness focus that benefits everyone.","The current management team under the founders are poor leaders. From HR to Operations the leaders are out of alignment with one another, running their own fiefdoms. Leaders generally treat their employees and first and second level managers like pawns or cogs - irrelevant and unimportant. VP's, however, can do no wrong even when their departments are losing people in large numbers. Behavior is bizarrely hierarchical. You have to get VP approval to buy a pencil. You will not have much autonomy at Fitbit anymore. You won't even be able to work from home in many departments. You will not do innovative work. You will be asked to do things in outmoded ways often. You will also have much of your interesting work given to vendors or off-shored, bit-by-bit. You will still have lots of uninteresting work because your peers will continue to leave in droves (attrition is higher here than anywhere I have ever worked). You will be micromanaged in many departments. Your VP will take credit for all of your work (which is their right) and they will not share that credit or acknowledge you even in private (which is not their right). And the worst part is that you will keep hoping that things change and go back to the culture Fitbit had before January of 2017 and you will suffer for your loyalty.","My first word of advice is not to write a condescending reply to this review. It makes you look petty and proves my review correct. I would also advise that the founders look closely at the reality of what it's like to work at Fitbit - not at the VP level and not through the words of the HR department - but at the level where the work gets done. And, when you see that it isn't good, change it. Fire a senior VP every once in a while. Hold people responsible for attrition. Be open and honest about the plan to move jobs to Romania - tell us what work will go and what will stay in the US. If you want someone to stay, tell them and then don't turn around and lay them off. Produce a strategy you can articulate clearly and in less than 30 minutes. The new Boston team is great, protect them from the negativity of corporate. Do one thing every day that shows you value your employees (not your VPs) and then tell people what it was. It will work way better than doing one thing every day that shows you don't value us and then denying that it was done.",2.0,3.0,2.0,1.0,4.0,1.0
+2018-08-26,,,Former Employee ,Senior firmware engineer,,0,"Talented engineers, good culture, cool location","Bad business decisions , change plans and directions frequently.",Make better business decisions,3.0,4.0,5.0,4.0,2.0,3.0
+2018-08-06,,,Current Employee ,QA firmware,,0,"Great work life balance, great perks",office location in San Diego,Invest and expand your RnD,5.0,4.0,5.0,3.0,5.0,5.0
+2018-07-27,,,Current Employee ,I LOVE Fitbit! Great team and Great products!,,0,"Amazing mission to make the world healthier
+Best work/life balance I’ve every had
+Able to work from home
+Unlimited vacation time (still need approval)
+Smart people
+Supportive manager
+Great environment
+Employee discounts (50% off 10 devices per year)
+Lots of company and wellness events (onsite yoga, holiday party, picnic, product launch celebrations, speakers and race sponsorships)
+Pretty standard/decent benefits (medical, dental, commuter benefits, etc.)
+Pay/bonus/equity seem decent based on my experience - just need to get the stock price up
+Unlimited free snacks/drinks","No 401K match (need to fix this) but they do have a 401K and offer free financial advisors (new)
+Attrition is high so there is a lot of churn
+Inconsistent managers (some are great, some aren’t)
+Long term vision is unclear. Direction is shifting and it is very unsettling. CEO needs to give more clarity on future direction.","I have a great manager and a great team. Not everyone has the same experience as me though. I suggest that there be more manager training to have better consistency. Some technical people maybe shouldn’t be managers. Keep focusing on improving engagement and communication (this has been getting better). Make sure you are hiring people who are
+scrappy and can tolerate a lot of change as I have seen people get really upset and leave when they are moved to different projects. Execs need to give more confidence to us about where we are heading and reduce churn/movement of people around.",5.0,,,,,
+2018-07-16,,,Current Employee ,Good team,,0,Good team to work with,upper management seems to be lacking direction,,4.0,,,,,
+2018-08-14, Visual Designer,"San Francisco, CA",Former Employee ,Trying too hard to be Apple,More than a year,0,Decent location in city. Offices are ok.,"Leadership is a mess, we should have stuck with trackers and owned the market now we are trying to compete with apple when we will never win. Old components and no ownership of all technology limits us.","Refocus on devices, focus on health. Support your team and train them up.",2.0,3.0,2.0,2.0,3.0,1.0
+2018-07-13,,,Current Employee ,Director,More than 3 years,0,"Great culture on the marketing team
+Employees act like family and treat each other with respect
+Good amount of autonomy to get the job done","There’s big company vision, but have been struggles around execution","Create more/better people managers
+Pay top talent
+Continue investing in culture",4.0,5.0,5.0,4.0,3.0,4.0
+2018-07-11,,"San Francisco, CA",Current Employee ,"Great culture, Lots of smart people",More than a year,0,"A lot of smart people, I get to work on projects outside of my day to day job, lots of fun events, great work life balance","no free lunch, no 401k matching",,5.0,5.0,5.0,5.0,4.0,4.0
+2018-06-29, Logistics Coordinator,"San Francisco, CA",Former Employee ,Limited,More than 3 years,0,Great staff and potential for growth,Poor leadership as company grows,"Communicate with the team, show that management cares about it employees and their development.",4.0,3.0,3.0,3.0,4.0,2.0
+2018-07-20, Director G&A,"San Francisco, CA",Current Employee ,Tragic,More than a year,0,"Amazing product, people with their hearts in the right place, flexible work schedule/work from home, location, perks","employee benefits, incompetent management, low morale, high attrition, many inefficiencies, criteria for promotion = give notice of resignation","Listen to feedback from regrettable terminations and take action based on it. Implement 360 degree reviews to understand why confidence in management is so low. Promote based on merit not fear of loss. Make executive compensation performance based. Evaluate leadership and decisions made against company performance, not likability. On the plus side, fostering a culture of wellness, taking care of each other and being nice/respectful is great!",2.0,2.0,2.0,3.0,2.0,1.0
+2018-07-04,,,Former Employee ,"Started off great, now downward spiral",More than a year,0,"Some really great people, great subject matter to work on if you’re interested in health and fitness, random fitness perks, nice work from home culture","Extremely negative attitudes, cutthroat environment at times, don’t move up unless the right person is your manager, heavy attrition, slow progress, been talking about the same initiatives for the last 2 years and probably longer. Confused leaders, lack of guidance.",Do SOMETHING to boost morale and inspire confidence in your employees. Take the resourcing problem seriously.,3.0,5.0,3.0,4.0,4.0,2.0
+2018-08-08, Quality Engineer,"San Diego, CA",Former Employee ,Quality,More than a year,0,"Name recognition, must be a good place to work!","No value. Not valued by team mgnt, department mgnt, or executive management so how is an employee to feel valued?? LEAVE!",Figure out why the high turnover,1.0,2.0,1.0,1.0,2.0,1.0
+2018-08-07,,"San Francisco, CA",Former Employee ,Awful place,Less than a year,0,"Some good folks here. Some people and teams seemed really great, doing amazing work. Some real workaholics too.
+Great snacks, cereal, smoothies.","My manager and colleagues were terrible people to work with- toxic, hostile and duplicitous. Fitbit has a fair number of people who are either cast offs of a-list companies, or trying to get to an a-list co. Then the cast offs take it out on their charges.","Fitbit has a broken business model. So they do what companies with big egos and broken businesses do: they reward aggressive and unscrupulous behavior to “get’r done.”
+Fitbit is not unique in this, its tech, it’s the Bay Area, baby!
+
+My advice: tech is still comprised of human beings.",1.0,2.0,1.0,1.0,3.0,1.0
+2018-06-09,,,Current Employee ,software engineer,,0,fun great w/l balance,growth of the company is questionalble,,4.0,,,,,
+2018-06-29,,,Former Employee ,Engineer,,0,"- Good flexibility
+- Good technology/tools","- Bad bad bad management
+- Lack of accountability",,3.0,3.0,2.0,3.0,3.0,1.0
+2018-07-26, Engineer,"San Francisco, CA",Current Employee ,Think twice before joining!,More than 3 years,0,"Amazing colleagues
+Flex time
+Work from home opportunities","Had a CFO that ran the stock to the ground, yet blamed Wall Street with no accountability from the board
+Senior leadership that changes company strategy every quarter
+High attrition with no signs of improvement
+Engineers in the states laid off and replaced by cheap labor in Eastern Europe","It’s sad to see what has happened to this company over the past few years... it’s turned into a cut throat environment due to distrust and resentment towards senior leadership. Most of the employees that I speak to are actively interviewing for a new job, turning a blind eye to attrition does not instill faith in current employees",1.0,3.0,1.0,2.0,3.0,1.0
+2018-07-14, Program Manager,"San Francisco, CA",Current Employee ,PMO allows co-worker yell at us,More than 8 years,0,I love the idea of helping people become more active,"Unfortunately the PMO had a problem with one of their workers who has a very short fuse and with out warning will yell, talk down, talk over to the women in the group. The issue has been raised by most of the women in the group and nothing has been done.",Please provide us a safe place to work.,1.0,1.0,1.0,1.0,1.0,1.0
+2018-05-11,,,Current Employee ,Finance and G&A,,0,"- Great team and colleagues, very collaborate
+- Smart people and interesting issues for a growing company
+- Good work life balance and flexibility
+- Great company mission and vision","- Company needs to continue to execute on its strategy and mission, but the potential is there and is achievable","Town hall meetings are good to keep employees informed, keep it up. Mission and strategy is focused, now it's just about execution",5.0,,,,,
+2018-05-14,,"Boston, MA",Current Employee ,Climbing back to glory,More than a year,0,"Great missions.
+Not much players left in the field.",Super low stock price compared to 2 years ago.,,5.0,4.0,5.0,4.0,4.0,4.0
+2018-05-07, Senior Program Manager,"San Francisco, CA",Current Employee ,It was the best of times...,,0,Great growth experience. Some excellent leaders within the company. The company is maturing.,Turnover makes organizational efficiency an uphill battle.,,4.0,5.0,3.0,3.0,5.0,4.0
+2018-05-19,,"San Francisco, CA",Current Employee ,"Once great, now troubled.",More than 3 years,0,"* A truly inspiring mission.
+* Products that really help people.
+* Lot's of opportunity to improve things.
+* Some great people trying really hard to make things work.","* Poor leadership from the executive team.
+* In-experienced/junior Directors.
+* Difficulties executing.
+* Poor strategic and tactical planning.","Hire some experienced directors.
+Replace some of the executive team with new outsiders.
+Invest better in your employees and culture.",2.0,1.0,3.0,3.0,2.0,1.0
+2018-06-10,,,Former Employee ,"Mechanical engineering, just don't do it",,0,There were individual contributors that made the days easier. I was able to learn how to not do a lot of different things.,"This could be an exhausting list, so let me keep it simple.
+
+The managers are weak. And the team suffers for it. Their bosses are even weaker. Indicision kills momentum on a daily basis. Everyone is afraid to make a decision. You're rewarded if you talk a good game, even if you've provided no tangible results.
+
+The VP plays favorites, so... Hope you're one of the three people to have worked with him in the past. Otherwise don't waste your time.
+
+It's not a fun work place, it's not a trendy environment, the perks are gone and the promise of a flexible start up like environment is a lie, so don't fall for it when recruiting shovels that on you.
+
+Pay is also weak. And promotions are done apparently by throwing a dart at the wall","Leave. The company would be better for it. Really, hanging out and taking money will make you feel good now. But when you go to a real company and can't keep pace with your counterparts that actually worked their way to the top, you'll be worse off for it.",1.0,2.0,3.0,1.0,2.0,1.0
+2018-06-06,,,Former Employee ,"Horrible leadership, company lacks direction, poor people managing",,0,"The idea of this device company is cool, but they don't executive. Potential for better utilization. Young work culture.","Management team has no clue how to run a business. They lack transparency both to their employees and to the investor community. They need an actual CEO that knows how to run a business, neither cofounders are good at business or investment community. They provide no onboarding to their employees and their people managers typically have never managed people and need severe training. This feels like the end of the company and is a crowded market with others doing way cooler things way faster.",Hire an actual CEO and have the cofounders put in different strategy positions. Provide actual onboarding for employees and set clear goals for individual performance.,1.0,1.0,1.0,1.0,3.0,1.0
+2018-05-10, CS Lead ,"San Francisco, CA",Current Employee ,Creating monsters,More than 3 years,0,"- Okay pay
+- Good benefits
+- Good work life balance
+- Great team","- Lack of career growth opportunities for internal candidates
+- Other departments/teams are not reliable, could be due to horrible attrition rates
+- Some employees have the same title/responsibilities on paper but in reality they have completely different responsibilities/productivity expectations and get paid the same, still hold same title
+- The moral here is in the gutter. The people i lunch with are some of the only reasons im still here and I know this to be the case for many others.",Really need to identify and get rid of weak links and also need to identify and go to bat for key team members/consistent top performers who could be utilized elsewhere in the organization.,3.0,3.0,2.0,2.0,3.0,2.0
+2018-04-27, Manager,"San Francisco, CA",Former Employee ,Reap What You Sow,More than 3 years,0,- Innovative company (at least it was),"- Failure to invest/groom individual contributors
+- Lack of vision
+- Bloated management corps","Your people were your greatest asset, not your technology. If you understood this all the people who sacrificed and were responsible for the company's early success would not have all left.",2.0,3.0,3.0,1.0,2.0,1.0
+2018-04-27, Senior Software Engineer,"San Francisco, CA",Former Employee ,All the negativity is true,More than a year,0,"The people you directly work with are the only ones keeping you sane at this place. And even then, they're already dead inside. Um, what else... there's cheese in the fridge? I'm grasping for straws here.","You know how sometimes you read reviews and skim by the 1 stars because usually they're the result of an unusual situation or an employee that's upset because he/she got terminated? Well, this is neither of the above, so don't skim over this one.
+
+Short version: if you are considering accepting an offer here -- don't. For your sake, accept the fact you got some decent interview experience here and use it to get an offer somewhere else.
+
+Long version: Let me elaborate on a few examples of ""fun"" things that happened during my tenure at Fitbit:
+
+- For about a month and a half I didn't receive a paycheck because they switched payroll providers and I was marked as ""terminated"" in the system.
+- I watched my initial RSU grant get cut into about 1/8th of what it was after only about year of employment. You read that right folks, a consistent monthly decline for 12 straight months. The year after was just as bad.
+- I was re-org'd 3 times - each time more confusing than the last.
+- Lunches were taken away.
+- All supplemental perks were reduced in some capacity or another.
+- We were promised a company gym, and 401k match. Neither of which happened, surprise surprise.
+
+And that's just the tip of the iceberg - here are the REAL goodies that should be showstoppers for you:
+
+- Round of layoffs, plus a paraphrased inspirational quote for you: ""we are saving lives here, if you want to get paid fair wages, go work somewhere else"".
+- Deadlines were unreasonably tight -- a consistent theme that you get numb to over time.
+- Bonuses were sad at best, with veiled threats of taking them away completely if you can't work at 150% capacity.
+- Resources were insanely mismanaged. Decades of backlog estimates.
+- Company vision changed roughly once every 3 weeks or so. ""X"" is the future. Wait 3 weeks. ""Y"" is the future. Wait 3 weeks. ""Z"" is the future. Want to know what this means? It means the execs are throwing darts on a dartboard and hoping something sticks.
+- Attrition levels are maddeningly high. I don't know the exact figures, but don't expect to work with your teammates for long here. Culture and morale is in the toilet.
+- Empty promises and hazy direction on all levels of management.
+- HR/Payroll made boneheaded mistakes all the time. Corrected W2's, ESPP miscalculations, etc.
+
+Ask yourself, do you really want to work in this kind of environment given how competitive the tech industry is right now?",There is nothing I can say that will fix the clown show that management has been putting on for years. Leadership continues to stagnate.,1.0,1.0,2.0,3.0,2.0,1.0
+2018-03-13,,,Current Employee ,Technical Recruiter,,0,"Active, forward thinking, fast paced, great environment, work life balance","Competitive market, sometimes slow to react to the market, stock price",Keep working hard and turn this ship around. Focus on innovation and digital health solutions,5.0,5.0,5.0,5.0,5.0,5.0
+2018-03-21, Tier III Agent,"San Francisco, CA",Current Employee ,Was fun at first but morale has been downhill since,More than a year,0,"Employee discount is 50% off
+Medical/dental/vision benefits
+FSA + Commuter benefits
+Ability to work from home
+Test upcoming products and features","No opportunity for growth within customer support department
+People not held to same standards
+Management disorganized
+Morale very low almost like no one wants to be there
+No communication between the different teams within customer support",Hold people to the same standards and hold people accountable,2.0,3.0,2.0,1.0,3.0,2.0
+2018-03-02,,"San Francisco, CA",Current Employee ,"Company Struggles, Still Enjoy Working Here",More than 3 years,0,"Respectable work-life balance for most. At times you can be extremely busy meeting deadlines but it's pretty good for the most part.
+
+Coworkers are very pleasant to be around. There are always exceptions to the rules though. Extremely humble for how talented some people are.
+
+No shortage of snacks and coffee in the building.
+
+Treadmill desks and some minor gym equipment on various floors.
+
+On-site yoga, mindfulness, and workout classes.
+
+If you're ambitious and talented you can step in and make your own role a reality.","Lots of talented folks have left for better opportunities. Some people only want to work at the most successful companies or have an opportunity to get in early on
+
+There are a ton of complainers. I think they are mostly spoiled by having a lot of opportunities for work in the Bay Area. It can be tough to block the constant downpour of complaints and whining.
+
+Company is struggling.
+
+Still not a very clear description as to how an employee can level-up and grow within the company. The career ladder is listed with job titles, but there is absolutely no description as to what tasks an individual needs to do in order to get to the next level.","Make the career ladder more clear. It's been years and some organizations within the company only now have a defined career ladder. However, only the job titles are listed. There isn't a clearly defined description of this individuals role. There also isn't any opportunity to learn new things. There is no system in place that actively tries to get team members (engineers in my case) to learn from someone above them.
+
+I've been here 3-4 years and never received constructive feedback. Please fix that.",4.0,5.0,5.0,2.0,3.0,3.0
+2018-03-02,,,Current Employee ,Growing Pains,More than a year,0,"- Company treats employees well
+ - Great general attitude in offices
+ - Effort from C-level management to stay transparent to employees
+ - Comfortable workspaces","- Satellite offices feel somewhat second class; coordinating between multiple location is a hassle
+ - People and projects have been forgotten and not allocated proper resources as the company has grown",,4.0,5.0,5.0,4.0,5.0,4.0
+2018-03-14,,,Current Employee ,PM,More than a year,0,- Great place to get your career started,"- Too chaotic
+- Cross-team communication is terrible
+- Always rushing everything
+- Pay is not competitive especially for the Bay Area",,3.0,4.0,3.0,2.0,2.0,2.0
+2018-03-11,,"San Francisco, CA",Current Employee ,Supply Chain Manager,More than 3 years,0,"Great mission, pretty cool products, good people","New senior management has created a ""everyone-for-himself"" culture.
+Company is in transition with its roadmap.
+Product intros are typically brutal on work-life balance.",Take care of the people you have. Be more generous with RSU's.,3.0,3.0,3.0,3.0,3.0,3.0
+2018-03-09, Content Production Manager,"San Francisco, CA",Former Employee ,"Rigid culture, poor execution of an admirable vision",More than a year,0,A lot of smart people to learn from and work with.,"Office politics get in the way of doing the best work.
+Culture is not attuned to the modern workforce and setting employees up for success and productivity.",Learn to be more flexible against process/bureaucratic barriers in order to actually succeed in fulfilling the mission the company sets out to do.,2.0,3.0,2.0,3.0,3.0,1.0
+2018-01-21,,,Former Employee ,Unfortunate State of Affairs,,0,"A really great mission underlies this company - ""Making the world a healthier place"". Who couldn't get aligned with that mission? In past, there has been a great external brand, image and connection to the world. Made you proud to be part of it.","This is an HBR text book case of the impact of Leadership. The company had everything going for it, and has really floundered due to inexperienced and a really out-dated approach to building a company, executing on a vision and cultivating employee engagement, connection and loyalty. The two founders are simply inexperienced and take far too long to catch on to what matters and often just don't. The CFO has a classic 1970s/80s mindset. Anything employee related is an expense that can be cut without a second thought and then wonders why there is 40% turnover. So many talented people gave it their all and then gave up. The replacements are mediocre of course, because the brand has lost it's appeal. What A players are going to leave great roles to join Fitbit now? Really sad actually. Could have been such a great story.","Start over with your philosophy. You've really lost the plot. Employees simply can't come last. The turnover you are experiencing is unfortunately so well deserved, and could have so easily been avoided. You kind of need great talent to execute on a strategy, but that seems to be a difficult concept for the Exec team to grasp.",2.0,,,,,
+2018-03-04,,,Former Employee ,Growing Pains,,0,"Energetic and focused people, lack of corporate cynicism among employees at first.","Rapid expansion without proper management strategy and support. Always fires to put out, not enough long term vision.",Get back to being markey proactive instead of reactive,3.0,2.0,3.0,3.0,4.0,3.0
+2018-02-12, Senior Research Scientist,"San Francisco, CA",Current Employee ,Some great things. And some drawbacks.,More than a year,0,"Great work/life balance, amazing co-workers",Lack of direction as a company (and constant pivots) causes lack of motivation in employees.,,3.0,5.0,3.0,3.0,5.0,3.0
+2018-01-06, Manager,"San Francisco, CA",Current Employee ,Commodity Manager,More than 3 years,0,Great Team work environment and flexible working hours,Top management in operation never learn the lessons from the past,,4.0,4.0,4.0,4.0,4.0,3.0
+2017-10-13,,"San Francisco, CA",Current Employee ,"RUN, do not walk, to the NEAREST EXIT.",More than a year,0,"- Offices in downtown SF. No south bay commute is nice.
+- Cool to work on hardware products.
+- Raw passion and compassion for colleagues at the lowest levels of the hierarchy.","Buckle up, buttercup.
+
+- Lack of vision from top leadership on whether we want to be a health company or a consumer electronics company. This creates a fragmented and broken product portfolio. Latest smartwatch release is a prime example. It pales in comparison to almost any other smartwatch on the market, and though it is equipped some more advanced sensors, they are not functional on the product because the software work required wasn't completed.
+
+- Numerous layers of completely inept middle management are given way too much power. The largest piece of this problem is the product management org, which needs to be completely gutted. The new trimester planning process is a turf war, consisting of weeks to months of bitter fighting to get features on the roadmap. We end up committing to doing too much, since NO ONE seems to do any resource planning to figure out whether we actually have the staff to build what the PM org and execs put on the roadmap. The actual dev and design teams who will be tasked with the work have little voice in this process and only find out the results at the end. Compounding all of these problems, the planning cycle takes so long and happens three times per year which means we're almost always in a planning cycle and continuously shifting around our priorities.
+
+- Teams across the product development side of the house (sw and fw engineering, QA, design) are all understaffed. This leads to dismal team morale, constant tension between ICs in these teams, and very high attrition rates even by Silicon Valley standards. Some employees are so overworked that they come in even when sick because they have too much on their plates to take time off.
+
+- Due to overcommitting and lack of resources, the scope and feature set of products we release are usually severely cut from the original plan for the product, to the point that the original vision for the product is barely recognizable in what is actually released.
+
+- Major lack of diversity especially in management teams. Mostly white men. The company has no visible programs to foster diversity in hiring. There are some special interest programs once already inside, but they don't seem very active. Fitbit's answer to our diversity problem is ""we don't have one.""
+
+- C-level leadership is not present and feels disconnected from the rank and file. Bi-weekly all hands meetings feel more like a mandatory address from a dictator than an open dialogue. I have worked at companies much larger than Fitbit, with *thousands* more employees on their HQ campuses, and still felt the executive leadership was more open and connected to staff. The CEO and CTO really should take a pause from whatever they do on a daily basis and take time to meet with a listen to all of the teams building out their products.
+
+-- As a sub-item to this, there is a lack of transparent communication from the top down at Fitbit. Exec leaders yack all the time about how they are working to improve this, but little has changed. Prime example: earlier this summer, there were apparently some kind of violent threats made against our San Francisco HQ. The company sent out cryptic emails telling all of us to work from home and not come into the office, but leaving us otherwise in the dark. This came from HR, not even the C-level execs. This went on for several days, with nightly emails saying to ""keep working from home tomorrow."" After a week, they claimed they worked with law enforcement to confirm it was safe for us to return to the offices, but never shared exactly what the threats were or what steps were taken to keep all of us safe in the future. The entire situation was completely mishandled. Reminds me of our layoffs in Jan '17, but I'm sure there are enough Glassdoor reviews on those so I'll skip over that subject.
+
+- There is no formal performance review process at Fitbit. There is only a self service check in web app that is fairly useless. Some departments have come up with their own performance review processes which are biased and opaque. Apparently I have had several performance reviews in my time at the company but no one has ever shared any of the results with me. When I surfaced this complaint to HR, they asked, ""have you ever had a conversation that seemed like it _could have been_ a performance review?"" *jaw drops*.
+
+Given this lack of clear evaluation, promotions seem unfair and opaque, and many ICs and even team leads do way more than their job description but still don't get promoted. This increases our attrition problem. Some who have left have told me they were offered (long overdue) promotions on their way out, which just feels pathetic.
+
+- Our entire marketing organization has a very poor understanding of our product portfolio and relies heavily on people in the product development side of the house to do their jobs for them. They have dozens of project managers, coordinators, and other oversight roles but not enough executors which means they outsource or try to force others to fill in on the execution.
+
+- Archaic tools and lack of proper productivity technology and processes result in an insane amount of unruly emails, lost decisions, and lack of clarity across functions of the product development org. It is baffling to me how little this company invests in basic project management and team planning software. Our Jira structure is a giant mess with a huge part of the prod dev org sharing one single Jira project with tens of thousands of tickets (not at all how Jira is supposed to work). Different teams also use Jira in different ways which makes it even less effective. Our Wiki is a joke with thousands of unorganized, duplicate, and abandoned pages. This is such an easy problem to solve compared to all the others this company faces. Will someone WAKE UP and smell the roses already?!
+
+- Lack of office perks including no food, poor snack choices which never change (and unhealthy ones at that).","- Stop trying to crank out hardware products without any regard for whether they have compelling market value or not. Spend more time thinking about and explaining your vision for the company to all of us, if there is one.
+
+- Staff up teams in the prod dev org so that you have enough resources to build out your product roadmap, or cut down the roadmap. You are going to burn out your entire staff or literally drive us into the grave.
+
+- Have lower level staff submit goals for middle tier management and work out a system for said management to be accountable to reaching those goals or at least attempting to solve problems in their org.
+
+- Do a listening tour with all of the teams involved in the prod-dev process.
+
+- Give us better collaboration and communication tools, and a few more heads to do knowledge management.
+
+- Implement a better and more transparent performance review process, with safeguards to make sure staff are promoted appropriately when doing the responsibilities of higher roles, to prevent them from leaving to level up.",2.0,1.0,2.0,2.0,3.0,1.0
+2018-01-04, Program Manager,"San Francisco, CA",Current Employee ,"Although I've enjoyed working here, so much about the company could/needs to be improved!",More than a year,0,"-Great, intelligent people
+-Fun culture/environment (fun perks like weekly happy hours, Workout Wednesdays)
+-Universal mission that everyone is passionate about -- lots of products and new opportunities to be excited about",Fitbit has grown very quickly and wasn't able to keep up in some aspects - organizational communication leaves a lot to be desired for and lots of processes/programs that should be put in place for such a large company are either underdeveloped or don't exist at all. This leads to a lot of unnecessary work/time/effort spent on things that could be better put to use. Some senior/exec management is also unaligned and disconnected.,,3.0,4.0,4.0,3.0,3.0,2.0
+2017-12-20,,"San Francisco, CA",Current Employee ,A Change Would Do Them Good,,0,"Great aspirations, good intentions, some awesome folks who are a pleasure to work with.","Feels like the customers and products come first, with employee well-being trailing far behind.",It only takes one bad apple in management to ruin something good. When you see high turnover in one section of a department you might want to talk to the little guys on that team.,2.0,1.0,2.0,1.0,2.0,2.0
+2017-12-06, Product,,Former Employee ,Great potential but shaky vision,,0,"Smart people, great brand, innovations reach a lot of people","Narrow vision, start and stop product roadmap, lots of employee turnover",If you're really a health & wellness company and not just a hardware company you have to invest there,3.0,4.0,2.0,2.0,3.0,2.0
+2017-12-05,,"South San Francisco, CA",Former Employee ,go somewhere else if you have choices,More than 3 years,0,Free trackers and ok compensation.,"horrible middle management forces good people to leave.
+managers who don't know what they are doing only cares about budget and headcount so that they can be promoted. Half-million- dollar analytical instrument was bought without proper evaluation and justification. Lying to upper management to get more budget and headcount, while people in the group have no work to do and instruments are idling. Senior people in the group bully on new comer and forced him to leave in 2 weeks. Quite unique experience!",too disappointed to say anything.....,1.0,2.0,3.0,1.0,2.0,1.0
+2017-12-06, Customer Support Specialist,"San Francisco, CA",Former Employee ,Customer Support,Less than a year,0,Great sense of purpose helping people work towards fitness goals.,The supervisors treat you like children regardless of your performance.,"Treat people like adults, not children.",1.0,1.0,1.0,1.0,1.0,1.0
+2017-10-18,,"San Francisco, CA",Current Employee ,Not a good place to go to,Less than a year,0,"Snacks, Great work/life balance, ""unlimited"" ptos, downtown SF","No career path. No leadership. No goals.
+The company is going down. For example, It's real hard to release new products without a lot of issues - Firmware, hardware quality is really down. Everything is a mess and nothing is documented. There are not desire to optimize the work of people and there is waste everywhere. Leadership team is only focus on the hardware product side of things not on the support side (IT, Finance, CS...) or the services around the product (group health). Nothing is done to make you feel valued.
+No 401k contribution","Value people who are doing good work and promote them. Clarify goals at every levels of the company.
+For the CEO and CTO stop being engineers and start managing people... That means giving guidance and making decisions for the company as a whole not only for the people working on the product. Have and promote leadership values.
+We are not a startup anymore!",2.0,5.0,2.0,1.0,3.0,1.0
+2017-09-22,,,Current Employee ,Making the right changes,More than 3 years,0,Humbling year is starting to show signs of turnaround. Mood is becoming better as we gain confidence in our strategy. Great work/life balance.,Management is generally cheap and slow. Generally better at vision than execution. Could be better at defining career tracks.,"If you want people to stay, help them grow in their career rather than bringing in outside management",4.0,5.0,5.0,2.0,4.0,3.0
+2017-09-22, Engineer,"San Francisco, CA",Current Employee ,Lots of employees but only a few matter,More than 3 years,0,No micromanaging. Flex time. Good pay. Nice location.,"Where to start. There are over 1000 employees but due to improper execution of SCRUM only a relative few are in the know and doing all the necessary work. These few are then spread thin while the rest are left in the dark wanting to help but are left only to waste time in their own vacuum. Most employees that care but are left out will spend most of their day sifting through wikis and internal chat rooms trying to gather and piece together info in order to stay relevent. Many will even create work for themselves that didnt need to be created in order to keep busy, while others will just text on their phone or watch wrestling on their laptops. Bad habits have formed, culture breakdown. Upper management is too busy to notice what 90% of their employees are doing whilst putting pressure on those 10% to keep the company making money. Many of the 90% are actively looking for work and even interviewing whilst on the clock! Meeting rooms have thin walls. It is typical to overhear someone in the next room in the middle of a phone interview with some recruiter poaching Fitbit employees. Lots of talented employees here not tapped, many are fed up and leaving everyday. Positions of those whom left are unfilled because they did not matter to the leadership in the first place. Every week they have going away parties. This company doesnt know what they need from most of their employees yet they keep them on payroll until they leave, wasting people's time and careers and putting imbalanced load on a few.","Take a step back and envision the company you want to build. Treat your company like a team, what you have now is a few superstars on the court and the rest are sitting on the bench. That isn't teamwork, and that is 100% leadership's responsibility for not getting the rest of the team to practice and on the court during games.",2.0,4.0,1.0,1.0,4.0,1.0
+2017-08-21, Research Scientist,"San Francisco, CA",Current Employee ,Reaching the bottom,More than 3 years,0,"Smart colleagues, important missions. We are sitting on a pile of unpolished gold. Need more incentives to make gold miners aggressive.",Company is facing transition. People with no faith in the company start leaving. Sadly some of them are pretty talented.,Good people need better compensation. Losing good people with important domain knowledge is more expensive than hiring new ones and training them again.,5.0,4.0,5.0,4.0,2.0,3.0
+2017-09-21,,,Former Employee ,It could have been great,,0,Fitbit allowed me the opportunity to work with a company from the ground up. I was able to learn a lot about start-up culture and how to manage my time in an ever-changing environment. I was able to grow in my career and find a path that is fulfilling.,"Overall management is terrible. From the very top to the most mid-level, Fitbit does not have a vision for the future. They thrive on shooting out products without having a proper product life-cycle. The CEO would rather get a product out by a specific date than truly test the product for defects. This creates a negative, stressful environment where employees across the board are stretched too thin and are not rewarded for their efforts. Fitbit thrives on being reactive rather than proactive.",,2.0,1.0,2.0,1.0,2.0,1.0
+2017-08-28,,,Former Employee ,"Smart exec team, good culture & mixed senior level development",,0,"- Smart, entrepreneurial exec team
+- Fun, active, young culture
+- Be part of a movement - in many way!","- Leadership communication isn't great - be prepared not to know the direction of the company at all times
+- If you're a director or higher, don't expect much in the way of development opportunities
+- Inexperienced young work force makes for fun culture but lots of co-workers without any experience at their jobs","- Put together development opportunities for mid-level manager
+- Increase communication to staff about leadership meetings and company direction",4.0,5.0,4.0,4.0,4.0,3.0
+2017-09-13,,"San Francisco, CA",Former Employee ,"Great people, great place. Lot's of time wasted due to program changes.",More than 3 years,0,"Lots of smart people, great to work with.
+Good work environment - facilities, benefits, fitness culture, beer fridge.",Top down technical and roadmap decisions that impact projects and don't always make sense. Lots of churn as roadmap or product definition changes.,Listen to the teams. Focus on long term.,3.0,5.0,3.0,4.0,5.0,2.0
+2017-09-05, Senior Engineer,"San Francisco, CA",Current Employee ,"Suffers from gender, diversity, and systemic tech-debt issues.",Less than a year,0,"* Products aim to help millions of people achieve fitness goals and live healthier lives.
+* Flexible work schedule and healthy work/life balance. Well rounded benefits.
+* Ability to work on beta-testing of new hardware by all employees.","* Key terms: complacency, ineptitude, tech debt, complete lack of long term focus for success.
+* Recent gutting of in-office niceties: no lunches, minimal snacks and limited fruit, no yearly company events/parties, cost cutting everywhere, old spec on employee laptops and related equipment.
+* Lack of industry standard tooling inhibits productivity on many levels; staying with existing vendors is wasting finite implementation and upkeep cycles. Repetitive actions are repetitive.
+* Stunningly high Dunning–Kruger effect on infrastructure/engineering side of org.
+* Bleak culture of accepting ineffective/inefficient solutions from tenured engineers who lack creativity and experience at global scale... stacking tech-debt on top of tech-debt in favor of status-quo.
+* Dead end nature of the architecture with lack of focused road map for long term success equates to high rate of engineer turnover and demoralizing culture for those who remain.
+* Most managers are ineffective ""yes men"" with very few women in leadership. Diversity (gender/cultural/etc) is sorely lacking. Women's concerns tend to be listened to and swept under the rug. On more than several instances, male cleaning staff have barged into the women's restrooms and opened stall doors while women employees are using the facilities. UNACCEPTABLE.
+* Dismissive sexism, man-splaining, and man-spreading is culturally rampant. Most offenders make zero effort to conceal their lechery. Recommend not waiting for lawsuits, just fix it.
+* Given the mission statement of the company I expected to work with actually fit people who cared about the benefits of a fitness lifestyle, not the same run of the mill desk jockeys that eat take out at their desk while endlessly browsing reddit and mistaking cleavage for eyes.",Where to even begin... there's so much wrong. Most people are on cruise control and it's eating the morale from the inside out. Prepare the life rafts!,1.0,4.0,2.0,2.0,5.0,2.0
+2017-07-30,,,Current Employee ,Senior Finance Manager,,0,Leading great Mission and Vision,Only located in San Francisco,Continue to improve in execution,4.0,3.0,4.0,4.0,3.0,4.0
+2017-07-27,,,Current Employee ,Ok Company,,0,Lots of Learning. New Technology. Decent Snacks.,Salary Packages not that great. Promotions and raises are slow.,,3.0,3.0,3.0,2.0,2.0,2.0
+2017-07-13,,,Former Employee ,Fitbit,,0,Great work atmosphere with good benefits and co-workers.,didn't see any room to move up in the company.,,4.0,5.0,5.0,3.0,3.0,5.0
+2017-06-08, Technical Recruiter,"San Francisco, CA",Current Employee ,"The team is personable and upfront, coudlnt ask for more.",Less than a year,0,"Im left alone to do my work, my manager is not shy to tell me what he thinks about my progress for better or worse.",i cant think of any,keep up the great work,5.0,5.0,5.0,5.0,5.0,5.0
+2017-05-12,,"San Francisco, CA",Former Employee ,Need to focus on employee success.,More than 3 years,0,"Wonderful health wellness benefits. Such as on-site exercise/wellness classes every day (twice a day on most days). That type of benefit is a HUGE plus and $$ saver if you truly care about taking care of your body, while bending over backwards for a ""start-up"". You get a ""birthday"" PTO. Unlimited vacations, (they encourage you to take), stocked kitchen (snacks, drinks, beer). Competitive health plans. Extra allowance for ""health"" - which I use it on massage therapy and is free to use it on whatever your choosing. Management truly tries to get the stakeholders to sign off on the annual bonus plan. Many free t-shirts, and are encouraged to wear it as your work attire. (I don't remember the last time I wore slacks). No more free catered meals, but still some free delivery due to lunch time meetings. Friday company-wide happy hour is fun to see everyone/meet new people. Everyone are very nice, many sincere where they can truly be your ""Fitbit family"". The founder and Co-founder are kind and nice people. They may look intense when walking around the office (to many things on their mind) but no egotistical behavior at all. Overall, the work environment is not stuffy or stand-offish at all.","It breaks my heart that I'm giving the company 3 stars, (rather than 4 or 5). Their mission and their purpose of existence is amazing!! I would carry their purpose for public health with me forever. Sad truth is, some departments are ran/led with either unqualified leaders or leaders who makes short-sighted decisions where it comes bites them back. Other team managers are slave drivers. They do not communicate their plans with their teams. Don't get me wrong, some team has AMAZING leaders but so unfortunate to see employees desperately trying to get on the other ""good leaders"" teams. The founders speeches are very inspirational during all-hands, but that's as far as it goes. Because many managers would work everyone till breaking point when the end goal is not for the benefit of the company, rather personal managerial/promotional goals. Unfortunately, employee success is not part of the company culture.","Invest in each and one of your employees. They are some of the most dedicated and hard-working people, who would go over the cliff for the company. Only if the company would care to showed the same investment.",3.0,4.0,3.0,1.0,4.0,2.0
+2017-05-15, Research Staff Member,"San Francisco, CA",Former Employee ,Promising company ruined by incompetent managers and leadership,More than a year,0,"The mission of creating products to enable peoples' fitness and health is wonderful and motivating
+Generally very nice and highly competent non-managerial colleagues
+Very nice office space
+Fairly descent compensation","Founding CEO/CTO should have stepped aside and brought in professionals a while ago and not pretend to know what they're doing
+Inexperienced middle management, especially in research and engineering, has lead to confusing and inefficient development cycles and copious degrees of tech debt
+General trend in management to not take responsibility for things and blame people further down the chain (e.g. layoffs earlier in the year)",Recognize that you don't know as much as you think you do and be humble and a bit less machiavellian and all will benefit.,2.0,3.0,4.0,2.0,4.0,1.0
+2017-05-25,,,Former Employee ,"fun product, internal structure needs improvement",,0,"Fun product, loved workout Wednesdays.","Many divided organizations not working with eachother results in duplication where it isn't necessary. Internal approval process for new methods or solutions take too long, thus making it difficult to achieve goals. No structure in place for professional development.",Focus on putting a plan in place to develop employees to ensure they stay.,3.0,,,,,
+2017-05-24,,,Current Employee ,Rebvir,,0,Good Environment. Clean and relax.,Bad Strategy. Lack of vision,,3.0,2.0,2.0,2.0,2.0,2.0
+2017-03-13,,"San Francisco, CA",Current Employee ,Leaner and meaner,More than a year,0,"After a pretty bad 2016, Fitbit's CEO laid it to us straight: 2017 is going to be a rebuilding year. We are only at the beginning of our reorg, but it's clear that this is no joke: About 100 people were laid off, and some very high level people were ""mutually decided"" off. Company structure makes a lot of sense, with more revenue streams being pursued.
+
++ Can make tough decisions
++ We are still building amazing things that make people healthier
++ Great work/life balance
++ Amazing brand","Obviously things are a little more anxiety. 2017 is a make-or-break year. If you can't put in the work, try elsewhere.
+
+- Product team can be slow
+- CTO is more disruptive than helpful
+- About a year behind market",Stop paying attention to the people that led us to this point. Rally the troops on the ground. Invest in your people.,4.0,5.0,4.0,2.0,3.0,2.0
+2017-05-14, Customer Support,"San Francisco, CA",Current Employee ,Could be better,More than a year,0,Everyone knows Fitbit and it's exciting to work for a company whose products you can see in public every day. Coworkers are generally good people. Lots of team building activities.,They slashed the perks. Career opportunities and advancement are limited. Salary is below average for a tech company. The company is slow to adapt.,Support your employees. Create products that are meant to last.,3.0,5.0,3.0,2.0,3.0,3.0
+2017-05-05,,,Former Employee ,software engineer,,0,good perks and healthy work space,fast paced . little to no direction,,4.0,,,,,
+2017-05-15,,,Former Employee ,Sinking Ship!,,0,"Well known brand, low expectations, relaxed environment. Great place to hang out if you don't want to work hard.",Shockingly poor level of talent for a known tech company. Weak managers throughout the organization that either micro-manage or are too weak to manage at all. No vision for the future and no innovation. Poor pay and really poor perks compared to other companies. Not sure why anyone would join at this point.,Eliminate the bad employees and stop just copying everyone else.,2.0,5.0,1.0,1.0,1.0,1.0
+2017-05-18,,,Current Employee ,Good place to learn and grow,,0,"Lots of super talented engineers, great company culture. Okay benefit in general.","Chaotic management, lack of process. Not very efficient in terms of product development.",,3.0,4.0,4.0,4.0,3.0,2.0
+2017-05-24, Research,"San Francisco, CA",Current Employee ,Avoid the Void,,0,"The Research team remains very friendly, comprised of smart people, and has great work-life balance (basically borderline irresponsibly lax work culture).
+
+Recently the Research leadership has attempted to crack down on useless projects and finally acknowledged the widespread dissatisfaction with career develop as an actual problem.
+
+Hiring is now happening again, mostly because lots of talent either got fired or left.","The biggest con, in both my own personal experience (largely validated from my conversation with colleagues), is the lack of leadership material from the Research management.
+
+What makes a great leadership? Here were the top characteristics that were aggregated during a company wide survey of Facebook employees (a company with happy people) and my own experience of whether management met this.
+
+1. Show and demonstrate interest in what is most important for EACH person’s work experience in the team?
+
+Nope. Manager never approach me to ask me specifically what I wanted professionally or helped plan my career path.
+
+2. Support people in finding opportunities to develop base on areas of strength and interest.
+
+Nope. Although leadership knows what my strengths are, they do not care to find out what my interests are, let alone align my strengths with them. In fact I have to actively search for my own opportunities with no support.
+
+3. Set CLEAR expectations for individuals and team
+
+Nope. While we do have a goal setting system, it's viewed as overhead and not treated with much respect. Each team and manager engages with the system differently, yet we've come to find out that it was actually used to determine who got fired. Also people get promoted out of the blue with NO published/defined set of guidelines as to why they were chosen. If the leadership thinks they are making the right promotions, then why can't they have the guts to announce to the team what metrics they used to determine this? Answer: subjective and political
+
+4. Give clear, actionable, feedback on a timely basis
+
+How can you give feedback when are no set expectations of different levels with in the team? It continues to be an excuse for managers to shy away from giving real feedback.
+
+5. Hold people and team accountable for impact
+
+Yep. Not enough impact -> fired
+
+6. Recognize people and teams for outstanding impact
+
+My manager has only recognized me with ""good jobs"" about 1-3 times in my life.",Get audited by HR professionals. Isolate managers who need to be put into regular leadership training. Don't just make managers out of great technical people.,1.0,5.0,3.0,1.0,3.0,1.0
+2017-05-04,,"San Francisco, CA",Current Employee ,Marketing,More than a year,0,"Fun people, happy hours and career development opportunity.","Loss of perks, disorganization, loss of resources",,3.0,4.0,3.0,3.0,2.0,2.0
+2017-04-09,,,Former Employee ,Leadership has lost its way.,,0,Attracts many fitness enthusiasts.,"This review is long overdue but necessary. I hope all the best for Fitbit, but the most recent executive leadership in HR was toxic. This executive HR leader illustrated that nepotism was ok by hiring her friend from a previous job who lives outside of the country. She allowed him to stay 2 weeks every month in SF sometimes bringing friends, sometimes family with him and then again by not laying him off in January when it was clear there was no value add brought to the team. Sadly, even the people in other senior HR roles didn't have a say in the matter even though they knew this was happening and saw that he was no longer an asset.
+
+Furthermore, internally Fitbit is a real life example of the movie Office Space. If you're bad at your job and are lazy then you will get promoted. It doesn't matter how great of a job you do or how outstanding your track record is, working hard will get you nowhere in the company especially as it relates to HR. My only hope is that Fitbit finds a strong and honest executive HR leader who makes decisions that are focused on the company to instill trust back into the employees. This is no easy task, but for the sake of the customer base and employees this is vital to the company's ability to bounce back from the current state of affairs and turn things around.","Pay attention to the leaders you are hiring, single handedly they can change the culture of their department.",3.0,4.0,2.0,1.0,2.0,2.0
+2017-04-11,,,Current Employee ,Great People,More than a year,0,Best colleagues you will ever have; Zero Politics; smart colleagues; flat organizational structure; very humble management; everyone is treated with respect; good product; cooperative and respectful work culture; good work life balance; people are always willing to help; a profound sense of we are in it together.,Pay is less; growth can be restrictive; stock market has not been very kind to the company which in turn affects your pay. Fitbit has a great product but suffers from meeting high stock market expectations.,"They are doing a good job, but should consider paying more, otherwise it will be difficult to retain smart people.",4.0,5.0,5.0,3.0,3.0,4.0
+2017-05-15,,,Former Employee ,Research Scientist,,0,Product are ok. Free snacks and meals.,Poor management. Biologist and chemist are promoted without significant merit.,,1.0,1.0,1.0,1.0,1.0,1.0
+2017-04-18,,,Current Employee ,Fitbit,,0,"Great people to work with
+Staffs are always friendly and more than willing to help one another","Low pay
+No career opportunities
+Managers are blinded by arbitrarily chosen metric instead of focusing on quality of work
+Lack of investment for employees' development
+If you are hired as a contractor, expect to test your limits of your patience",Please invest in your own employees and focus on retaining talented people who are dedicated to your company.,3.0,3.0,5.0,3.0,2.0,1.0
+2017-05-05, Electrical Design Engineer,"San Francisco, CA",Current Employee ,Electrical Engineer,More than a year,0,Interesting technology and cool products. Smart co-workers,"Poor management. Managers promoted with no management experience. As a result steep learning curve, no employee development, no growth opportunity, very low morale in engineering as a whole.",Need management that cares about employees development and growth.,1.0,4.0,3.0,1.0,3.0,2.0
+2017-03-16, Sales Manager,"San Francisco, CA",Current Employee ,"Great Company, Bright Future",More than 3 years,0,"Strong talent pool. Sales have picked up in a meaningful way. We should be profitable again this year (at least by internal projections). Releasing a new form factor watch this year. The company's is headed in the right direction. Stock hasn't done too well, but most employees are pretty optimistic still. Management has become very proactive in acquiring new partners. Some complaints here and there from employees about cuts in ""perks"", but honestly, I most of SF employees are spoiled. A public company should be operating lean and mean. At the end of the day, I'd much rather sacrifice free daily lunches for helping to create a strong company of the future. Lots of opportunity in this space. We are actively trying to push into the global market where wearables have performed much stronger. US seems to be too saturated. Global markets have performed well and seem to be getting stronger.","Management team needs to be trimmed. We've let go a lot of upper ""pre IPO"" management. They didn't seem to have the sense of urgency needed to success as a public company. Everyone kept deferring for the ""long term"", but neglected to realize that the ""long term"" depends on the ""short term"".","I believe more upper management from ""pre IPO"" needs to be replaced by people who have led at other public companies. This is the tough transition required to success at a public company. We've done a pretty good job so far, but I think more can be done here.",5.0,5.0,5.0,4.0,4.0,3.0
+2017-04-03,,,Former Employee ,Great people. Bad leadership.,,0,"Dedicated and capable design group. Creative engineers. Good, open environment for collaboration and teamwork.","Ineffective corporate leadership who have a lack of strategic vision, or who cant communicate that vision to the company. Incompetent guidance to Wall St that has resulted in plummeting stock price and widespread employee dissatisfaction.","Time for founders to step down, or at least partner with, leaders who have a realistic plan for the company.",3.0,4.0,4.0,1.0,3.0,2.0
+2017-04-04, Marketing Coordinator,"San Francisco, CA",Current Employee ,Marketing Coordinator,More than a year,0,"Great people, mission driven and fun place to work",Upper management doesn't know what it's doing,,3.0,5.0,4.0,3.0,2.0,2.0
+2017-04-06, Program Manager,"San Francisco, CA",Current Employee ,"Great people, not great decision making",More than 3 years,0,"- Great people to work with
+- The brand and products are widely recognized by people in a positive way
+- Work life balance can be okay depending on your group and manager","- Key decisions are often by a committee of executives and if everyone doesn't agree than decisions will get stalled... but your ship date is supposed to stay the same
+- Recently morale has been low because the low stock price means your equity has little value and there's a wave of attrition with a lot of the long-time employees",Give employees more confidence in the vision for the company,3.0,,,,,
+2017-03-26, Engineer,"San Francisco, CA",Current Employee ,Future is Cloudy,More than a year,0,Fitbit wants to be a great company. The founders are well intended. There have been some serious management shake-ups in the upper echelons of the company in an attempt to right the ship.,"There are still too many people who don't contribute much. There are lots of managers of this and that, but there aren't enough people who are both capable and willing to roll up their sleeves and do actual work. This is one of the bigger factors that creates the work/life dichotomy that's been noted - some people are working insane hours and other people seem to have plenty of time for workout Wednesday and still leaving at 5.
+
+We're losing people, and having trouble hiring now.","Recognize and reward the people who are making a difference instead of coaching them to pull back. Fitbit has a very challenging 2017 ahead of it and work/life balance is not going to be great for awhile. Let's admit that and drive focus on delivering the results we need to survive. Assuming we do survive, then let's also organize ourselves so that the heroics aren't constantly necessary going forward.",3.0,1.0,4.0,2.0,3.0,1.0
+2017-03-17,,,Current Employee ,Incredibly Smart Coworkers,,0,"staffers are thoughtful, innovative, and genuinely want to improve the health of their users",the way teams are structured can be a limiting factor for certain projects--but the execs are working on it!,,5.0,4.0,5.0,5.0,4.0,4.0
+2017-03-25, Senior Product Developer,"San Francisco, CA",Former Employee ,For those who dislike management,Less than a year,0,"Compensation, Location, if you are on an interesting team you will have fun.","Management, CEO, product roadmap, Market driven products, Slow paced.","Make decisions, stop pussy-footing around and holding 12 more meetings to make simple decisions. Realize there is a flow or development pace that some departments move at and manage around that schedule not some made up one that doesn't work for anyone, that doesn't bring innovation just frustration and poor products that all end up mirroring the rest of the junk out there.",2.0,5.0,1.0,2.0,4.0,1.0
+2017-03-22,,"San Francisco, CA",Former Employee ,Working at Fitbit,More than 3 years,0,"Exciting colleagues, fun company activities, located in SF downtown, great work-life balance, makers of a great health product.","Left hand not knowing what right hand is doing for the ,most part, cronyism and cliqueism",None,3.0,3.0,4.0,3.0,3.0,1.0
+2017-03-16,,,Current Employee ,Sinking Ship,,0,"Great work-life balance, awesome people, good work atmosphere","Poor management, disconnect between execs and employees, lack of foresight",Treat employees like human beings and not numbers or expendable resources,3.0,4.0,4.0,1.0,2.0,1.0
+2017-03-15,,,Former Employee ,They Put On A Good Front,,0,"Willing to train and invest in employees
+Company perks (no longer providing to employees)
+Career growth (no longer promoting or training employe","no longer promoting or training employees to do budget shrinkage
+no longer having company perks
+no company outings anymore
+no more catered lunches
+Products are poorly made and do not last
+Customers are not satisfied with products breaking
+Discontinuing most of the there products
+Management is unprofessional. Not out to help there staff",Test technology products before you give them to people to by. There are literally some countries these products will never be sold in again because there are actually consumer laws in other countries that protect people from CRAPPY PRODUCTS!,2.0,4.0,3.0,1.0,2.0,1.0
+2017-02-20,,,Former Employee ,Customer Success Manager,,0,"Company culture, cool office, cool product, startup feel, transparency","Poor management, compensation packages, not much growth opportunity",,4.0,5.0,5.0,3.0,3.0,2.0
+2017-02-10,,"Boston, MA",Former Employee ,QA Engineer,,0,"Fun, fast place to work!",None that I can think of.,,4.0,4.0,4.0,4.0,4.0,4.0
+2017-03-14, Technician,"San Francisco, CA",Former Employee ,technitian,Less than a year,0,no no pros at all,"horrible atmosphere, grumpy peoples every comers",,1.0,2.0,1.0,1.0,1.0,1.0
+2017-02-11,,"San Francisco, CA",Current Employee ,Mixed emotions & no growth,More than a year,0,"Smart, friendly employees
+Free food
+Close to transportation
+Engaging work (if your mission is to improve others' health)","Poor management at lower levels
+Office politics
+Stringent in-office policy
+No work from home opportunities/little flexibility
+No growth opportunities
+Talent and skill suppression
+You'll be silenced and feel like a number",Talent and experience should be recognized and valued. Cut the office politics and backstabbing and be honest. Work together as a holistic team. Value your employees' career talents and growth.,2.0,2.0,2.0,2.0,3.0,4.0
+2017-01-30, Senior Site Operations Engineer,"Boston, MA",Current Employee ,decent but not super great place to work,More than a year,0,"* Very flexible work-from-home policy
+* Wide variety of projects to work on
+* Pays pretty decently","* Collaboration tools are not great
+* Unnecessary siloing of information
+* Top-down management
+* So much ""agile"" that it inhibits progress",,3.0,3.0,2.0,3.0,4.0,3.0
+2017-01-27, Supply Base Manager,"San Francisco, CA",Current Employee ,Manager,More than 3 years,0,product team is great to work with. Very smart people.,management needs improvement. No career advancement opportunities,,3.0,3.0,4.0,2.0,3.0,1.0
+2017-01-08, IT Support,"San Francisco, CA",Former Employee ,Weak Management Appointments,Less than a year,0,"Fast-paced, growing company (how? their stock is terrible and they're losing tons of money.)","Management hires were not well vetted at all. Hiring people for the sake of hiring. Then employees and contractors are placed into tight boxes, not allowed to expand their roles or skill sets, meaning no room for personal growth. You'll get bored. Management then just says, ""yes, there'll be turnover."" That's a very poor attitude to have.",Listen to your employees. Stop hiring weak frauds to lead your teams.,2.0,2.0,3.0,2.0,4.0,1.0
+2016-12-27, Director,"San Francisco, CA",Current Employee ,Great Place to Work,,0,Great company and work environment! Compensation is highly competitive.,"Long hours, but worth it! You need a strong work ethic and great business skills to succeed here.",Keep up the good work!,5.0,2.0,5.0,5.0,5.0,5.0
+2017-01-29, Software Engineer,"San Francisco, CA",Current Employee ,"Terrible management, no career growth",More than 3 years,0,Free food Smart people Good location,"Weak management
+Terrible communication
+No career growth, some sides of the business get great titles like they are going out of fashion. Other sides of the business - especially under Eric, have to fight for title changes and promotions, constantly.","Work on your people
+Cut the dead wood from management. Those who got us here are obviously not the people to take us to the next stage of growth. Too much personal attachment and inability to let go of micro controlling everything. This isn't a start up anymore, let go, trust your managers and their decisions. Retire...",1.0,1.0,1.0,1.0,3.0,1.0
+2017-01-31,,,Current Employee ,Not worth it,,0,"The employees that make up the Research and Development team are kind, intelligent, and hard working individuals who any company would be more than lucky to have. The work that they do goes unrecognized and is often exploited by upper management in order to ""show off"" to stake holders and other company employees - all the while not giving credit or coinciding support to those putting in the work.","Employees of the R&D Team are treated beyond poorly by the leader(s) of the team, as well as the leaders of the company. Those with authority are often selfish and do not care to grow or take care of their employees. Instead focus is placed on lining upper management's pockets and ensuring their own career stability and reputation at the expense of those working beneath them. The outstanding members of the Research team are paid poorly and non competitively, are not given appropriate opportunities to advance in their career, and are often lied to and misdirected in order to keep company/team morale up. Management often pump the team full of false promises and praises in order to keep themselves better liked and the employees falsely motivated. These are all tactics that are used throughout the company and show no means of changing. Anyone would be lucky to work with the members of the Research Department. However if you would like to be paid competitively, be respected as a valuable employee, and advance in your career at any point (3+ years even) - upper management unfortunately has not made this a place for you.","Take care of your employees but ultimately dissolve or sell the company, running a large company is not for you.",1.0,4.0,1.0,1.0,1.0,1.0
+2017-01-26,,"San Francisco, CA",Former Employee ,The Absolute Worst,Less than a year,0,Flexible working schedule. Work from home is an option if you're a golden child.,"* Creepy middle and entry level managers.
+* Smoke and mirror tactics plus amateur politics deployed by managers to further their cause.
+* Back stabbing is highly encouraged.
+* No 401K match.
+* Shared work space, lack of privacy.
+* No formal work phone number.
+* Employee retention (capable ones).",Hire outside consultants and do a deep dive. Stop hiring weaklings to lead your teams.,1.0,3.0,1.0,1.0,1.0,1.0
+2017-01-17,,,Former Employee ,Ineffective Management,,0,Fitbit has hired some good people who try to do the right thing.,"Sr. Management lack the experience to manage a company of its size.
+The founders are excessively involved in decisions and are unable to scale their respective teams.",Stop focusing on lining your own pockets and build a company that has a potential to disrupt and lead the industry.,1.0,1.0,2.0,1.0,2.0,1.0
+2016-11-21,,,Current Employee ,Mixed emotions,,0,It's a very collaborative environment. People really want to help in any way they can.,Management has a hard time making decisions. Sometimes things can spin.,"We need our leadership team to actually figure out what we need to do and lead us. Right now, it feels like we are being led by Wall Street.",4.0,3.0,5.0,4.0,4.0,2.0
+2016-12-04,,,Current Employee ,Fitbit's Management,,0,I feel like Fitbit is an okay place to work at in regards to customer service and the employees in general.,"Management is difficult at times but all in all, I feel like they are generally easy to get along with.",Listen to your employees because they see a lot more than what you do.,4.0,,,,,
+2016-10-11,,,Current Employee ,"Great People, Great Product",,0,"-work out Wednesday's
+-casual wear to the office
+-lunch BI-Wednesdays and every Friday
+-happy hour every Friday
+-free products and discounts","-certain teams comes with micromanagement
+-CEO and CTO could be more involved with diversity initiatives
+-more company events",,4.0,,,,,
+2016-10-16,,,Current Employee ,Great place to work,,0,Love the products and working as part of a team.,It can be hard to make cohesive change,,4.0,4.0,5.0,3.0,4.0,4.0
+2016-09-26,,,Former Employee ,Not what you think,More than a year,0,"Feels small for a somewhat Medium to Large company. Easy to access downtown location(s). Friendly employees. Lunch 2x a week, snacks and happy hour each week.","No diversity on the leadership team.
+
+Weak weak weak (did I mention weak) leadership. Being decisive is not a core competency that is valued. Smoke & mirrors - similar to this site it looks like they care and want you to reach out but in reality you wouldn't receive a response if you tried.
+
+There are a lot of people managers that were promoted into these roles during the start up days, and were not given proper training. Just because an employee has been here a while, doesn't mean they are cut out to manage.
+
+Do you like politics? No? This isn't for you then.
+
+The company can be split down the middle - those who have amazing work/life balance and those who burn the candle at both ends (not by choice).
+
+Benefits & compensation are lack luster. No 401K match.",Do some self reflection and clean house. Don't be afraid to hire leaders who show up every day - it's important to be there and the only way to really add value.,2.0,1.0,2.0,2.0,2.0,1.0
+2016-10-14, Mechanical Engineer,"San Francisco, CA",Current Employee ,Work-Life balance is great,More than a year,0,Great work-life balance and start up company enivorement,Tough business to compete with Apple watch etc,N/A,4.0,4.0,3.0,4.0,3.0,3.0
+2016-09-19,,"San Francisco, CA",Current Employee ,Great place for balance!,Less than a year,0,"Fitbit is in growth mode, lots of smart people working on interesting challenges, inspiring vision for the company from the CEO, well funded and staffed teams. I've got kids and both the benefits and work life balance are excellent.","Rapid growth makes some coordination a challenge, some managers are new to leading and need time to get seasoned. Tech heavy interviews need to be rounded out with more focus on real achievements and soft skills.","Investments in pm org was on target, love the company vision, would love more details!",5.0,5.0,5.0,5.0,5.0,5.0
+2016-09-27,,,Current Employee ,great place to work,,0,very positive place to work,working in san francisco can be inconvenient sometimes,,5.0,5.0,5.0,4.0,4.0,5.0
+2016-09-28,,"San Francisco, CA",Former Employee ,Excellent culture,,0,Long term vision of CEO,very fast pace. sometimes confusing to work there.,,5.0,,,,,
+2016-09-08, Software Engineer,"San Francisco, CA",Current Employee ,Best Job I've ever had,More than a year,0,"Lots of innovation, feels small while being $1 billion+ company, everyone is into fitness, general excitement about everything","Its not certain our business model isn't a fad, so wall street has not been a fan of the stock, pay could be a little better, no 401k match",401k match and diversify our product line away from just fitness trackers,5.0,5.0,5.0,5.0,4.0,5.0
+2016-09-19,,"San Francisco, CA",Current Employee ,"Work Hard, Play Hard",,0,"Fun company culture, work with talented and cool people, awesome work perks, ""work hard, play hard"" mentality",Work politics can get overwhelming at times,,4.0,3.0,5.0,4.0,5.0,
+2016-09-11, Tier II/III Customer Support Agent,"San Francisco, CA",Former Employee ,Micromanaged and Bureaucratic Environment,Less than a year,0,"- Weekly catered lunches every Friday and every other Wednesday
+- Quarterly department-wide off-sites
+- Free Fitbit products","- Agents are micromanaged on the floor
+- Passive aggressive competition between agents since CS uses contractors that eventually get converted to full-time, so some agents feel the need to show others up
+- Department is disorganized and constantly trying to be more bureaucratic
+- Underpaid
+- Redundant work as a CS Agent","Bureaucracy in the department probably isn't the way to go. Coupled with an environment that already involves micromanagement, it makes for an unpleasant experience at a company that's supposed to be cool to work for.",3.0,4.0,4.0,4.0,2.0,3.0
+2016-09-15,,,Former Employee ,manager,,0,"free food
+young environment
+free alcohol
+pong table","bad management
+look out for your own
+sexism",take care of the people on the bittom,3.0,3.0,3.0,3.0,1.0,2.0
+2016-08-27, Analyst,"San Francisco, CA",Former Employee ,Cutting edge products 5 years ago,More than a year,0,"The employees are supportive and it is easy to work cross functionally. From the top down everyone is really into health, fitness, and sports. The weekly free lunches and unlimited snacks are a fluffy perk.","The product features were great 5 years ago but since then the company has been unable to scale and develop differentiated features. With all of the department in-fighting and pointing of blame for lackluster performance, Fitbit is turning into GoPro 2.0",Too many inexperienced managers that feel verbally abusing employees will inspire them.,2.0,3.0,2.0,2.0,4.0,1.0
+2016-08-25, Research Scientist,"San Francisco, CA",Former Employee ,Environment feels like a college campus,,0,They give very good packages (salary/stocks/bonus),"If you are experienced Engineer then you will feel you are on a college campus: bunch of fresh college kids make up most of the firmware/R&D/Tools teams. The kids are mostly from good colleges, but the young management thinks they don't need experienced engineers to make good product. So if you are the experienced engineer your experience will not be valued there. Result: For two years and they still cannot make reliable heart rate measurements in their devices!","I say to the management: ""Good luck beating Apple and Samsung using fresh grads, even if they are from Berkely and Stanford.""",2.0,2.0,2.0,3.0,4.0,2.0
+2016-08-25,,"San Francisco, CA",Former Employee ,Engineering Change Order Analyst,More than a year,0,"- Very Fast Paced Company
+- Will get lots of opportunity to learn from day 1.
+- Hands on experience on Current/Future product.
+- Heavy Cross function engagement
+- Immigration Support","- No Goals/Review System.
+- Lower Salary (Not competitive)
+- Company does not match 401K
+- No Commuter Shuttle service to work.","Good Management should appreciate the hard work in all areas. They should not be limited in terms of race, nationality etc. Manager should trust their employee when in comes to work/personal matter. Sometime THANKS or Lunch/gift is not enough. I feel everyone should be treated fairly in terms hard work & appreciation. In terms of best practice, Trust your employee & teamwork should be core goals of this company in order to be successful for long term.",3.0,3.0,3.0,5.0,1.0,1.0
+2016-07-19, Product Manager,"San Francisco, CA",Former Employee ,Friendly culture but product falling behind,,0,"Lots of friendly and smart coworkers, collegial culture, and good encouragement around making time for health and fitness in your schedule","Product vision and execution are falling behind, and it's being reflected in the low stock price and morale. The Blaze and Alta were disappointments, and inventory levels in stores are starting to pile up. The company says it will differentiate from Apple Watch based on a health and fitness focus, but Apple is investing very heavily around health and fitness as well, has many more features than Fitbit to make it more useful, and looks cooler than Fitbits. As Jim Cramer and other have said, Fitbit is in for the fight of its life with Apple and others, since people will only wear 1 watch.","Build or acquire new truly differentiated products and features more quickly, because Apple, Garmin, Xiaomi and others could make Fitbit a commodity product soon.",3.0,4.0,3.0,2.0,3.0,2.0
+2016-07-15,,,Current Employee ,A large company that feels small,Less than a year,0,"Let's start with the vision. Motivating people to lead healthier lives. I think that's pretty worthwhile. Whether its yoga during lunch breaks or spontaneously running into your team while hiking at Big Sur, people really live the mission here.
+
+The company is growing, but it's kindly kept its humble roots. I don't know too many public, billion dollar revenue companies where the CEO sits at a desk among their staff. Also, the culture is hardworking but contained; there are no free dinner take-over-your-life mind games to keep you at work. The pace of work is quite fast but the hours are generally 9-5. Salary is very good, and the perks are enough, the dress code is casual. Done.
+
+My team is fantastic. Our lab is fantastic. I'm really lucky to work with such amazing people.","Some minor growing pains--people move around desks every day as new offices come online, so it's hard to keep track of everyone. Bathrooms are always busy.",,5.0,5.0,5.0,4.0,5.0,5.0
+2016-07-01,,,Current Employee ,Great company w/ fast growth,,0,"Everyone is very passionate about the work we are doing, and it helps that we are able to help others with our work.","There is fast growth, which some people might not like but I think they are doing a good job keeping up.",I think they just need to make sure to keep up with the growth and continue to come up with great ideas.,5.0,5.0,5.0,5.0,4.0,4.0
+2016-07-21, Product Manager,"San Francisco, CA",Former Employee ,Stay away. Short sighted and poor leadership,More than a year,0,"Start up company. Average product, easy to get along if you agree with everything the top management says. Good place if you just want a brand on resume and can handle all the headache that is attached with it.","Really bad leadership team. I've seen people frustrated across teams with senior managers and VPs simply demanding instead of leading. Vendors are not happy either. Cheap tactics, slave like treatment, talent less teams and vision less higher management. Good place to lose your confidence and get along with some unprofessionals.HR is a joke with no one in the department willing to hear what the employee is going through.",,1.0,1.0,2.0,1.0,2.0,1.0
+2016-06-15,,"San Francisco, CA",Current Employee ,Great place but Empire Builders abound,More than a year,0,"People are fun, friendly. Environment is lively and super exciting. Definitely a happening place with great energy.",Organization is very much finding its feet leading to confusion in decision making. Meeting overkil. Empire builders are on the march with little kingdoms sprouting like a JRR Tolkien novel.,KISS - keep it simple stupid,3.0,4.0,4.0,4.0,3.0,3.0
+2016-07-11, Senior Project Manager,"San Francisco, CA",Former Employee ,"Great product, poor leadership",,0,I really liked working alongside very dedicated people who were excited about the company and their products.,"IT Leadership was short sited and reactive. I was asked to develop a project management office (PMO) and a roadmap then later told that the VP never wanted to hear those words again. Also, my contract wasn't continued because of one difficult individual in Finance. Not a lot of protection or integrity within IT leadership.",,1.0,3.0,1.0,1.0,2.0,1.0
+2016-06-03, Senior Software Engineer,"Boston, MA",Current Employee ,Amazing people,More than a year,0,Great people with good balance. Awesome place to work. Fun projects and very open culture.,Company is growing like crazy; lots of technical debt that now has to be repaid.,,5.0,5.0,5.0,4.0,5.0,5.0
+2016-03-10, Lead Mechanical Engineer,"San Francisco, CA",Former Employee ,Great place to work.,More than 3 years,0,"Great people to work with. Happy Hour every Friday, workout meetings every Wednesdays and great new exciting products to work on.",No defined development process. Fitbit is still internally in startup mode and the fast chaotic work environment is not for everyone. Best suited for highly motivated self-starters.,,4.0,5.0,5.0,5.0,4.0,4.0
+2016-03-05,,,Current Employee ,Program Manager - Fitbit,,0,"Company atmosphere is very welcoming, startup culture is dynamic and constantly changing, lots of perks such as beta testing new products, company swag, and catered food!","The startup culture can be a little overwhelming, especially if you are not used to the many changes on a normal basis. Team structures can be almost too fluid sometimes with changes in management, physical location (desk space), and responsibilities.","Management in my department is especially great, my only words of advice would be to remember stay connected and engaged with the entirety of team as it grows. Because Quality is so new now, it's easy to stay on top of what's happening, but that could change as the team continues to build.",5.0,,,,,
+2016-02-25, Software Recruiter,"San Francisco, CA",Current Employee ,Great/Fun company!,More than 3 years,0,"High energy, fun company to work for. Everyone really gets along with each other, very collaborative/cross-functional environment. Definitely recommend!",Can get a bit hectic with the amount of growth company is going through. Have to jump through a decent amount of hoops to complete tasks,"Providing feedback/keeping the teams aware of changes to the organization can be improved. Have to stay on top of people to receive feedback/answers, which can be difficult.",5.0,4.0,5.0,5.0,4.0,4.0
+2016-02-02,,"San Francisco, CA",Former Employee ,Good company with some growing pains.,More than a year,0,Fitbit offers a great work environment with like-minded people all really interested in solving problems in the health and wellness space.,"The explosive growth means there are still a lot of processes that need to be worked out, and inter-team relationships that need extra care and attention.",,4.0,5.0,3.0,4.0,4.0,4.0
+2016-01-15," Customer Support Agent, Tier II","San Francisco, CA",Former Employee ,"Controlling, micromanaged work environment",More than a year,0,"Great coworkers, good benefits, advancement opportunities available.","Micromanagement to the max! I felt extremely restricted, controlled, overworked. Very little payoff for what was demanded. No opportunities to work from home. Very low pay.",Stop hiring temps and abusing them with the promise of being converted to full-time if you cannot fulfill that promise in less than 5 months. You will definitely have an idea after 3-4.,3.0,4.0,4.0,4.0,3.0,
+2016-01-26,,,Current Employee ,Amazing company,,0,"Amazing company and mission. The people who work here are incredibly intelligent, down to earth, and passionate about making the world a healthier place. A known brand where you can make a large impact within the company.","As we are growing in size, space is limited. Good thing -- we are currently moving to a brand new building :)",,5.0,,,,,
+2016-01-14, Training and Development Manager,"San Francisco, CA",Current Employee ,Manager of Training,More than a year,0,"Dynamic, fast growing company with a positive work environment","Rapid growth requires ""start-up"" type hours which restricts true work-life balance",no advice at this time,4.0,2.0,5.0,4.0,4.0,5.0
+2016-01-03, Shipping Clerk,"Santa Clara, CA",Former Employee ,Fitbit Inc. Review,More than a year,0,"Friendly, collaborative, hard working, innovative, understanding","loud, gossipy, overly collegiate, bougie, n/a",,4.0,3.0,5.0,4.0,4.0,4.0
+2016-01-10,,"San Francisco, CA",Current Employee ,hiring spree may prove wasteful,Less than a year,0,Operations leadership really cares very much about technology and producing quality products.,"The hiring spree since early last year has brought a lot of new people in, which resulted in some people being prompted 2 or 3 months after being hired, since after 2 or 3 month, they are seen as senior, but they are not in fact.
+
+The speed that the teams are expanding at makes me worry that there'll be efforts wasted in unnecessary politics since there are more people than needed.",regularly communicate long term vision of company to employees and think twice before moving too fast chasing short term personal/small team gains.,3.0,3.0,2.0,3.0,3.0,4.0
+2015-12-09, Software Engineer,"San Francisco, CA",Current Employee ,Growing pains and non competitive,,0,"Good people, good talent. Great product and a good cash flow","Shared services are under invested and understaffed. Benefits are lack lustre and the company culture has suffered significantly under the pressure of rapid expansion. No all company events since before IPO, and no real significant celebrations or thank you's handed down by the now -incredibly- wealthy founders. For a company that makes significant profit, the unwillingness to share and reward staff for significant effort and investment is causing serious problems for employees. No 401(k) matching.",Invest in shared services and scaling the company culture. What worked a year ago doesn't scale when you have 100% more employees but only 20% investment.,3.0,3.0,4.0,4.0,2.0,3.0
+2015-12-22, Senior Recruiter,"San Francisco, CA",Current Employee ,"Awesome culture, still building",Less than a year,0,"The people here are amazing, kind, generous, down to earth. super smart. it feels as though all departments have an equal voice in the company which is really important. Innovation is always top of mind, keeping a great culture and hiring top talent are both very important to the company.","I think we're still somewhere in between startup and large company, so some things one would assume we'd have aren't built yet, such as a learning and development program and some processes on the backend. But the plus in this is that employees still have a voice in building programs that make sense for them in the future.","Our leadership is awesome and doing the right things, just continue to listen to what your people need and you'll stay on the right track.",4.0,5.0,5.0,4.0,4.0,5.0
+2015-12-30, Test Engineer,"Raleigh, NC",Current Employee ,Rising Star,More than a year,0,Nice place for younger professionals. Free snacks,The office area is bursting at the seams.,,3.0,3.0,3.0,1.0,2.0,2.0
+2015-12-04,,"San Francisco, CA",Former Employee ,Fantastic work experience lacking normal tech company benefits.,,0,"Passionate, brilliant people. Incredibly collaborative. Every single person was friendly. Growing rapidly but not hiring in excess. Family-friendly culture/work-life balance is great. Market leader with continued massive opportunity. Attracts top-tier talent.",Divide between engineering and business teams. Cramped workspace (should improve with new building). Technical debt (decreasing though). Travel for some hardware engineers. Missing typical tech perks like daily catered lunch (would have made lunch meetings or meeting new people easier).,"Add more process as the company grows but in order to make it less, not more, bureaucratic. Perhaps restructure management titles to allow for promotion of middle managers. Improve benefits to be on par with the companies you consider yourself to be in the league of.",5.0,5.0,5.0,5.0,3.0,5.0
+2015-11-18, Senior Firmware Engineer,"San Diego, CA",Current Employee ,"Rapid growth, dynamic environment",Less than a year,0,This company is young and still treats it's employees well. The founders are very involved. New hires are given exceptional responsibility right away with the current rapid growth. I am excited to be here.,"No matching 401(k). Minimal resources available to new hires to understand the organization of the company, and of product development.","Invest more in orientation/onboarding. A second day specific to job duties (engineering vs research vs marketing, etc) would be a big help. Just the act of putting together the syllabus and materials might expose some holes.",4.0,4.0,5.0,3.0,4.0,4.0
+2015-11-30,,,Current Employee ,Quick and active company who want to get a lot of great things accomplished.,,0,"Lots of energy in and around the office.
+They are hiring and filling much needed positions.
+Healthy snacks and lunches",The dust hasn't settled with all the new hires and there isn't a clear org chart which makes it difficult for new hires to know who is who.,Have and communicate the top 10 goals for each quarter. This would help in keeping the company stay on point.,4.0,3.0,4.0,4.0,4.0,4.0
+2015-11-24, California,"San Francisco, CA",Current Employee ,Love working here.,,0,"Flexible working scheduled, friendly employees, amazing company.",Needs a bit more organization.,,4.0,,,,,
+2015-08-28,,"San Francisco, CA",Current Employee ,Tech company that lacks arrogance!!!!,More than a year,0,"- lacks arrogance
+- tons of passion for the mission of the company and its products
+- easy to move around the company (great place for new grads or career changing)
+- interesting projects/products with hard problems to solve
+- flexible work hours
+- Fun people to work with even though it's growing faster than we can handle at this point, some how we have continued to hire great people.
+- The ability to reach out to James or Eric, they are such humble executives.","- HR Benefits are bad! (If you are a man with a pregnant wife, I'd suggest a google or facebook)
+- No annual reviews (which is ok, I guess) But that means no bonuses or any sort of promotions.
+- legacy employees in management positions that they should not be in
+- The office is a mess! Limited space","I think the executive team is doing great! Awesome job on the IPO and continue doing what you are doing. HR needs some help. The new 10% bonus plan is kind of a joke for the bay area, especially since taxes will take half. Most of our competitors offer at least a 20% bonus. Salaries need to be reviewed and so do our managers, they need to held accountable.",4.0,5.0,5.0,5.0,3.0,5.0
+2015-10-04, California,"San Diego, CA",Current Employee ,Firmware Engineer,Less than a year,0,"CEO and CTO are still very much connected to engineering. It's not uncommon to have James or Eric sitting in and contributing to an engineering discussion. It's clear from all my interactions with them that they care about the health of the organization, not just the bottom line.
+
+Fitbit has a great product and the leadership knows that they must continue to improve in order to stay on top of the market. The investment in engineering is impressive.
+
+Fitbit brings San Francisco engineering culture to San Diego and that's refreshing.
+
+Engineering managers all remain very technical and they continue to contribute to projects.
+
+The engineering team is extremely supportive, trusting and demanding all at the same time.
+
+Very flexible work hours to accommodate a healthy work/life balance. Afternoon walks/runs/workouts are extremely common.
+
+Fitbit is setup for remote workers. Working from home can sometimes be even more productive than working in the office.
+
+Modern workplace perks like 6 catered lunches a month, snacks, drinks, happy hour Fridays
+
+For now, they still pay for traditional (low-deductible) medical benefit plans
+
+Generous Employee Stock Purchase and Bonus Program","Fast growth is stretching the management team thin.
+
+Very ambitious schedules for future products are on the edge of demoralizing for the more seasoned Fitbiters. It will take time for the hiring boom to kick in and allow us to crank out new devices quicker and quicker.","Create a policy for allowing failed candidates to try again.
+
+Get outside help with the teleconferencing equipment.
+
+401K matching would be nice",5.0,4.0,4.0,4.0,5.0,4.0
+2015-10-05, Software Engineer,"San Francisco, CA",Current Employee ,"Pros are great, Cons are painful",More than a year,0,"-Work/Life balance is great
+-Lots of exercise if you want (team walks, yoga, martial arts etc)
+-Very fun environment
+-Some departments are great and make day to day enjoyable
+-Executives are approachable and down to earth.","-Hiring process through the Recruiters is painful if you aren't ""talent."" Better off going through a job agency like Aerotek.
+-Very little checks and balances between different departments that affect each other. Changes that one department makes internally will negatively affect another department, causing a waste of time
+-Documentation is poor and unorganized. To get caught up, generally have to hunt people down and have them verbally explain things to you. Slowly getting better
+-Deadlines are unrealistic
+-You aren't here for the pay","-Better Benefits
+-Deadlines shouldn't be driven by outside departments that don't understand how long a task would take or how difficult
+-Better follow up with candidates that don't get a position",3.0,5.0,4.0,4.0,3.0,3.0
+2015-10-02,,,Current Employee ,Copywriter,,0,"Flexible, nice people, good products",The energy can be a bit boring,,4.0,5.0,3.0,4.0,4.0,4.0
+2015-10-01, Hardware Design Engineer,"San Francisco, CA",Current Employee ,"So far so good, really excited about this job!",Less than a year,0,"Fitbit is a great place to work: coworkers are great, salary is very good and benefits and perks are exhaustive. The thing I love the most is how they try to schedule activities so that employees can get to know each other a little bit better.","I haven't really found any downside so far, but it's also true that I've been working here for a very short time so eventually I'll come back in the future to update this review if I notice that something is not working well.",Managers are really doing their best to eliminate road blocks and I think they are doing a great job about that.,5.0,5.0,5.0,4.0,5.0,5.0
+2015-09-12, Research Scientist,"San Francisco, CA",Current Employee ,Research Scientist-Fitbit,Less than a year,0,"Great team environment
+Great perks
+Great resources
+Upbeat atmosphere
+Great mission
+Some flexibility in choosing research projects","Growing very fast, some bureaucracy",,4.0,4.0,4.0,4.0,5.0,4.0
+2015-09-15,,,Current Employee ,Lack of structure and micro-management,Less than a year,0,"Decent pay
+Good perks
+Some autonomy, but not where it matters
+Fun
+Good energy","Layers of middle management that can be out of touch with daily priorities and life on the front line.
+
+Lack of trust in the experts Fitbit hires, leading to micro-management that then leads to waste and inefficiency.
+
+Lack of planning and structure, and somewhat dismal distribution of responsibility. Instead of really evaluating what each team member's strengths are, and working to cater and distribute work to those strengths, work is assigned in a somewhat haphazard, fire-fighting style. Manager claims to be open to feedback, but that is not the reality. For a young company, there seems to be a lot of waste, and that is possibly only exacerbated by the lack of processes and somewhat unbridled hiring and growth.","Trust your employees and experts to do their jobs.
+Don't micro-manage at every step of a process.
+Develop a plan of attack when it comes to projects that caters to the project as a whole and each team member's strengths.",2.0,4.0,4.0,3.0,4.0,2.0
+2015-08-14, Engineering Manager,"San Francisco, CA",Current Employee ,Executive level focus amidst day-to-day ambiguity and change,More than a year,0,"James and Eric have excellent vision and focus- I don't see myself working on projects that get canceled partway through development.
+Great people in most organizations.
+Strong desire to develop high quality products that can make an impact on people's lives.
+Good opportunities to make an impact on the company, if you are pro-active.
+Open purse strings to support product development.","You have to prove yourself to get a promotion.
+Problematic groups (too boys club, not adequately staffed, etc) and more disturbing, no push to make them better. People say ""oh yea, that group would be terrible to work in"", but nothing is done about it!
+Hesitation to define any policy has resulted in us losing a lot of original Fitbit culture.
+No strong HR organization until very recently- so no training, coaching, education. But it's coming.
+Desks are terrible- engineers need large desks with shelving/storage.","Invest in your managers because they want to become better at their jobs.
+Provide an opportunity for each group in the company to share, on a regular basis, what they do and what they are working on. HW doesn't know what SW is working on. SW doesn't know what HW is working on.",4.0,5.0,4.0,4.0,3.0,5.0
+2015-08-17,,"San Francisco, CA",Current Employee ,The best professional experience in my career,,0,"Fitbit makes culture a high priority so I think there are several things that stand out to me:
+-This is the friendliest office I’ve ever worked in. Everyone smiles and says hello. Everyone will stop what they are doing to ask you how your weekend was (and actually listen).
+All of the VPs and Execs sit with the other employees. No one is removed or has their own office or a “better space"". You wouldn’t even know someone was a VP until you look at their calendar.
+-There is a lot of lateral and upward mobility. Fitbit really invests in all of its employees. It’s the type of place where you’re hired for you and all of your skills and personality. If a role opens that is a better fit for you, Fitbit wants you to be able to move around. If you’re not fitting with the role you currently have, it’s the type of place where managers will work with you to see where else you can focus to do your best work.
+-There is an awesome work / life balance. People work really hard and they are excited about what they do, but no one gives you a hard time if you tell them you’re leaving at 4pm one day because you really want to spend time with your friend from out of town, or when you tell them you need an extra day because it’s been a long week and you need some time to relax. Everyone is excited to hear about what people are doing outside of work and understands that investing in that is important.
+-Everyone loves the product – it’s really cool to be in a place where people actually use product that we are all working on every day. When the latest software or hardware or even color comes out, the office is buzzing with people who get the first edition to test out! it’s really exciting.","If you aren't a proactive person, it's possible to slip between the cracks here. There is so much developing and going on at once, and that comes with a lot of opportunity. The most successful employees can capitalize on that opportunity without waiting for it to be given to them. Everyone here is juggling so many things that there isn't a lot of support for someone who can't forge their own way once in a while.",Keep it up!,5.0,5.0,5.0,5.0,5.0,5.0
+2015-08-28, Customer Service,"San Francisco, CA",Current Employee ,customer s,,0,great atmosphere friendly people great food,you work your butt off,,4.0,3.0,4.0,4.0,3.0,4.0
+2015-08-26, Research Software Engineer,"San Francisco, CA",Current Employee ,Research Software Engineer,Less than a year,0,"The research team has an incredible culture--people here are very fun and goofy and very very intelligent. There is essentially no hierarchy here, and everyone has the opportunity to be heard equally and to contribute. I feel very comfortable with asking anyone at all on the team for help, including the director of R&D. I'm also very supported in my efforts to learn/expand into new areas of expertise. Benefits are incredible.","There is very flat hierarchy on the research team--perhaps too flat. I feel that I personally could use a little more guidance/oversight, an issue that would be helped by hiring more manager positions for the research team.",Continue protecting the research team culture; continue hiring really smart but nice people; maybe hire someone to be a more direct boss to me :),5.0,5.0,5.0,5.0,5.0,5.0
+2015-08-11, Mechanical Engineer,"San Francisco, CA",Current Employee ,Great place to work for a young Mechanical Engineer,,0,Easy to see your impact on the products you are making. Lots or resources and tools at your disposal. The only limit to your resources is your own time. Great place to grow in skills as an engineer.,"Company is growing so quickly that it always feels understaffed, even after doubling in employees every year. This is good for young engineers(<5 years experience) because the opportunity exists to really shine and prove yourself and learn a lot.","The company needs to have more unified culture and values across departments. It is obvious that while some departments are awesome, others are not so great.",5.0,4.0,5.0,5.0,4.0,4.0
+2015-08-17,,,Current Employee ,"Happy, Fun & Exciting Work Environment",,0,"Inclusion, opportunity, friendliness, self-growth, challenging",Sometimes can have long hours.,,5.0,4.0,5.0,5.0,5.0,5.0
+2015-08-09, Research Scientist,"San Francisco, CA",Current Employee ,Excellent opportunities for growth in a positive environment,Less than a year,0,"Really talented group of people on research team - great expertise in diverse areas
+Very collaborative culture - low-ego, just try and get the job done
+Good work-life balance; work hard during the day, but not expected to work excess hours outside that - definitely trying to live to a vision of helping people live healthier lives.
+Lots of opportunity to contribute new ideas and thinking - the company is very open to new influences and ideas.","No real cons to mention.
+Like all SFO jobs, commute can be a hassle if BART or Caltrain have delays, it can mess up your day.","Keep the collaborative ""sleeves rolled up"" work attitude - the founders have created a great culture of low-key, but highly effective, work practices.",5.0,5.0,5.0,5.0,5.0,5.0
+2015-07-31,,,Current Employee ,Best place to work!,,0,"Working here doesn't feel like work at all, great culture, great people!","None... honestly, none. You'll love it here",,5.0,5.0,5.0,5.0,5.0,5.0
+2015-08-13,,,Current Employee ,Company Review,,0,"Great company culture, snacks, still has start-up feeling despite IPO","Things are constantly changing, which could be a con. I think its a good thing though.",,5.0,5.0,5.0,4.0,4.0,5.0
+2015-08-12, CAD Drafter,"San Francisco, CA",Current Employee ,CAD Drafter,,0,"Very quick process (2-3 weeks from initial screening call to finishing my on-site)
+Helpful and patient people
+Friendly
+Informative
+Overall a wonderful experience and great recruitment/interview process!!",No cons I can think of,,5.0,5.0,5.0,5.0,5.0,5.0
+2015-08-16,,"Gilroy, CA",Current Employee ,HR and Org Development Needed,More than a year,0,"Great product, smart people, passionate employees.","No accountability of poor leadership within Operations. Lack of resources and time to hire is inexcusable. Culture and back stabbing within Ops team, too much finger pointing. Compensation is way to low for the amount of hours employees are expected to work.",HR invest in development of Operations Leadership. Feedback has been given and swept under the carpet. We have already had a few excellent employees leave due to lack of support & poor leadership. Address the situation or prepare for a mass exodus once folks can cash in vested stock options.,2.0,1.0,2.0,1.0,1.0,1.0
+2015-07-22,,"San Francisco, CA",Current Employee ,"Fast and fun company, needs to grow up in some areas",Less than a year,0,"Things happen fast, and growth is astounding. This results in an environment where an individual can have a lot of impact, but they need to be able to deal with uncertainties and sometimes chaos.
+Most people seem to be working hard and are productive, and are fun to be around. I've not really met any jerks yet.
+Decent work-life balance as in folks leave the office mostly on time to get home (could use more relaxed PTO policies though).","There's severe lack in ""people processes"" - I haven't yet found out if there's any kind of performance review process or how feedback gets back to employees.
+
+The office's desk areas are very cramped, incredibly noisy, and clutter everywhere (the meeting rooms/lobby/break areas are nice though), worse than any other SF office I've seen. No personal space at all. I hope that gets better with the new office.","- Get people processes into place
+- Improve the work areas",4.0,4.0,3.0,3.0,3.0,4.0
+2015-08-21,,,Current Employee ,*Experience may vary,More than a year,0,"Overall the people are very nice. If you are an engineer you are the top of the heap and get to enjoy a lot of the perks offered. The company seems to be trying hard to maintain its culture, even as it continues to grow as quick as it does.",Long hours and minimal support from leadership. Very few are willing to stand up and own decisions. No one repeatedly wants to be the bad guy but some support and back up for those that have to make tough calls would go far. There are a lot of layers to go through. The previous reviews are interesting; the high level of praise for the company on all ends is not something seen often in daily fb life and the fact they are coming in grouped together is interesting. Perhaps it's very subjective to the organization you report into.,Make the Fitbit experience balanced across the board. Leadership should communicate to the employees more. It is limited to once a month all hands meetings.,1.0,1.0,1.0,1.0,2.0,2.0
+2015-07-09, Hardware Design Engineer,"San Francisco, CA",Current Employee ,Love it here.,More than a year,0,"Transparent Leadership
+Challenging fast-paced work
+Talented and driven co-workers
+No big egos, people are nice, even when things don't go as planned
+Work/life balance - everyone works really HARD, so we can all go home on time.
+Fun/not-cheesy company and team outings.
+
+In my 15 years as a hardware engineer, this is hands-down the absolute best job I've ever had.","Company is growing really fast, so meeting load load is increasing as more management layers are added.
+
+Culture is in flux as we add more people. This is not necessarily a bad thing, but just want to avoid the corporate culture pitfalls of larger companies.
+
+Work moves fast here, things can get a bit chaotic. I personally like that type of environment.","As we grow, work to keep fitbit leadership transparent and open to change. Continue to listen to your employees and engage with them personally.",5.0,5.0,5.0,5.0,4.0,5.0
+2015-07-09,,,Current Employee ,Product Programing Manager,Less than a year,0,Fitbit is a great place to work. People work hard and leadership pushes us to do our best. Working on really exciting products with smart coworkers. People are in general collaborative and fun to be around.,"Fitbit is in the process of growing very rapidly. Meaning that we don't have enough conference rooms and it's a bit crowded. Other than that, it's a great place to work",Let's focus in on great products and continue to work together to launch them. Let's dream even bigger to bring future products that really live up to our mission statement of helping people live healthier lives.,5.0,4.0,5.0,5.0,4.0,5.0
+2015-05-24,,,Former Employee ,Could have been great if not for two unprofessional middle managers,More than a year,0,"In addition to the free catered lunch on Fridays, this is a great place to grow your career. I learned new things and met great people. Employees can learn not only how certain things are to be done but also why, which is the most important. Furthermore, the top executives are great people to work with as they are knowledgeable, professional, and not arrogant.","As much as I respect the top executives, I wish they deal with problem middle managers rather than doing nothing about it.
+
+I reported to two unprofessional middle managers who took credit for other people's work, played the blame game, cursed loudly at meetings, badmouthed people behind their backs, complained all day, and were more concerned about office politics than with getting work done. Furthermore, not only were they arrogant, but they were also incompetent. Numerous complaints were lodged to HR and to top executives against these two middle managers by several people they interacted with, but nothing was done.
+
+Therefore, if you report to an unprofessional middle manager, start looking elsewhere because nothing will be done to correct the situation.","Listen to your employees and take action if there is a known problem with a middle manager. Kicking the can down the road will only make the problem worse.
+
+It's a shame. The top executives wanted me to stay. My colleagues wanted me to stay. I wanted to stay. But I couldn't stomach those two unprofessional middle managers any longer.",2.0,2.0,2.0,3.0,3.0,4.0
+2015-07-02, Chief Executive Officer,"New York, NY",Current Employee ,Great!,,0,All round awesome. Everything you could ever need or ask for in a company is readily available here amigos!,"Nothing I can think of. The only fault this company has is no fault at all. Just sit down, do your job and earn your top of the line pay.","Keep it up. Everything y'all be doing is great and all the workers, myself included appreciate everything.",5.0,5.0,5.0,5.0,5.0,5.0
+2015-07-09,,,Current Employee ,Hardware,,0,"Great products, great position in the market, smart people, usually good teamwork, results oriented","Need more employee development support, could be more diverse, benefits could be better","Need better alignment between senior and executive management, better benefits, increased diversity, support for employee development",3.0,3.0,3.0,2.0,2.0,2.0
+2015-06-23, CRM Manager,"San Francisco, CA",Former Employee ,CRM Manager,More than a year,0,"Great company, great product, high energy",no Clear technology direction for entire company,clear plan on enterprise wide technology,4.0,3.0,4.0,2.0,4.0,3.0
+2015-06-03,,,Current Employee ,"“Excellent, fast paced company with passionate and friendly environment ”",,0,Passionate and friendly environment for all employees,Very Fast Paced and dynamic environment,Continue to focus on the culture,5.0,4.0,5.0,5.0,4.0,5.0
+2015-05-17,,"Boston, MA",Current Employee ,Good culture,,0,Good culture and atmosphere at lively Boston office. Growing company with lots of opportunity.,Many fast changes in a growing company.,Keep listening,5.0,3.0,5.0,4.0,3.0,5.0
+2015-05-20,,"San Francisco, CA",Former Employee ,"If Your Boss is a JERK, Oh WELL",,0,"Free food, fun folks, nice offices, some nice peeps.","There is rampant favoritism and if your boss does't like you, too damn bad. They boarder on abusive and that's just the way it is.
+
+If you and your boss get along well, great! If not start looking because they will make your life miserable.
+
+Too many snotty, entitled millennials. Grow up kids!
+
+Oh, they have sold bulk orders to Monsanto. Help them get healthier while they kill us, great!","Please listen to the staff when you do polls that are anonymous. There is some very interesting information there, for those brave enough to write the truth.",2.0,3.0,2.0,1.0,4.0,1.0
+2015-05-24,,,Current Employee ,painful,,0,exciting energetic company with good diversity,huge growth recently which effects culture and leads to more roles and responsibility confusion. unbaked processes and lots and lots of politics. sad for a company that is relatively small (or used to be). lots of politics.,"organize, and listen to people, not just the people who don't stop talking.",2.0,2.0,2.0,2.0,3.0,1.0
+2015-04-21,,,Former Employee ,"Great Company, Great People",,0,"Great work environment, awesome people to work with, tons of opportunity to branch out.","Heavy workload with long hours, processes were not yet developed and were hard to improve upon due to resistance from certain players.","Remember this company was built on the hard work of great people, so continue to give them incentives to stay and continue to grow with the company past IPO, once you get there.",4.0,4.0,4.0,4.0,5.0,4.0
+2015-04-15, Director,"San Francisco, CA",Current Employee ,"Great culture, huge opportunity",Less than a year,0,"Hypergrowth company, leader in an extremely hot space. Employees are engaged and passionate. People are very friendly. Company has done an amazing job of executing, leading to very high market share (over 60%). High growth means lots of opportunities to grow, learn and participate in all kinds of neat projects.","High growth companies aren't for everyone. Things are always changing (that's the nature of young, fast-growing companies). Fast pace of hiring could make it challenging to retain the culture.","Continue to execute, don't let the culture dissipate as the company grows.",5.0,4.0,5.0,5.0,4.0,5.0
+2015-03-24, Senior Product Designer,"San Francisco, CA",Former Employee ,Unhappy stepping,More than a year,0,"Top management is accessible, kinda. Good breakfast and weekend HH (weekend lunches used to be good, nof anymore). Growing brand will get you lot of attention in outside world.","Unskilled management across the board Mktg/Hardware/Sply Chain/Finance/Cust Support. No dearth of dictators and micro-managers here. Individual contributors certainly have little voice and are generally scared to voice opinions - therefore many yes men/women. Lot of cross-departmental stress/politics and team shifts are not encouraged (and managers will not not keep your discreet reqiests a secret). Management is generally all bells-n-whistles, and with impractical expectations. Ambitious subordinates, many of whom have never worked in a real company before, will use every opportunity to stab you in the back. Suck up or shut up and be prepared to face heat if you don't like no for an answer.",Come out of the bubble if you really want company growth.,2.0,2.0,3.0,1.0,4.0,2.0
+2015-03-30, Customer Support Representative,"San Francisco, CA",Former Employee ,Never Again....,,0,"The product is SO cool! Their are a handful of people that are wonderful, and the research team kicks serious butt! The office is nice, and their is some fun swag, free lunches and happy hours. Lunch provided could be healthier but, its still super duper.","I do not know where to begin. But, having now experienced some time in a new position in another company/start up - I can truly say this place is FAR from a normal work place. This place tore me apart for life. The customer support management was SO unkind, it was harassment. Nothing was ever taken seriously, and their were other people on the team that were so mean due to the constant bullying from upper management and onto other people. It took everything in my power to come there every day. I couldn't believe I was in a work environment that was this stressful. Not due to the work load, but the people!
+
+This place needs some help, and people need to learn to be professional and normal in the work place. I have continuously told others never to apply there and will forever be a Jawbone up advocate. Too bad :(","Get some people that are actually nice, and speak kindly to others. Be professional, and when employees are coming to HR due to harassment, take it seriously!
+
+You guys are headed straight for law suit land. Really serious stuff going on here.",1.0,2.0,1.0,1.0,2.0,2.0
+2015-03-13, Software Engineer,"San Francisco, CA",Current Employee ,"Excellent, fast paced company with passionate and friendly environment",,0,"Developers get to impact the company in a meaningful way, without having to jump through hoops or work through politics. Very friendly environment and culture with a healthy work-life balance, and the company is still moving very fast. Exciting growth in an industry that is a positive influence in in the world.","The company is growing very fast, which puts company culture at risk",Continue to improve communication of product vision and company direction,5.0,5.0,5.0,5.0,4.0,5.0
+2015-01-29, Software Engineer,"San Francisco, CA",Current Employee ,Great place to work,Less than a year,0,"No expectation to work long hours - come and go as you please as long as work gets done. There is good communication within my team and daily meetings where opinions are heard so that everyone feels valuable.
+For a recent grad, the salary/compensation is competitive versus offers from the big software companies (Amazon, Facebook, Google). The increase in salary makes up for the limited perks compared to the big companies.",The only con that I can think of is that perks are limited to snacks/drinks and happy hour/catered lunch once a week.,,5.0,5.0,5.0,4.0,5.0,4.0
+2015-01-08,,,Current Employee ,Ssl review,,0,Good work life balance. Come and go as you please if you get stuff done,Managers are an issue. There are many managers that aren't sharp at all and only see their own tiny world,,4.0,4.0,3.0,3.0,3.0,2.0
+2015-01-19, Software Engineer,"San Francisco, CA",Current Employee ,Nice place to work,Less than a year,0,"Small teams, standard startup feeling. I can walk to every one and they are willing to help me. There isn't much meetings, mostly working on my stuff.",Lunch is not provided every day,,5.0,5.0,5.0,5.0,4.0,4.0
+2014-11-29,,,Current Employee ,Fast paced company with accountability,More than a year,0,"It's a fairly large startup, but each position is given significant influence to the success of the company. It has a good, recognizable name in the Tech industry. It is easy to reach senior management from entry level / junior positions and they respond to your concerns. There's not much of a hierarchy feel in Fitbit, which I like. The perks are nice and working with people who are genuinely passionate about building innovative products is fulfilling in itself.","Because it's growing so fast, I can see people inundated with work that they can't handle by themselves. Some teams work long hours and receive the least amount of help in terms of growing their actual team. There needs to be better communication across teams from production to distribution and the same problems that occur during this process needs to be addressed and fixed.","Communication across all fronts needs to be more streamlined and transparent. Keep releasing a multitude of products but have an honest, sincere expectation of launch dates and expect delays.",4.0,3.0,4.0,4.0,3.0,3.0
+2014-12-05, Customer Support,"San Francisco, CA",Former Employee ,great experience!,,0,Everyone was super nice and supportive. I felt like I could approach anyone in the company easily.,"Customer service anywhere can be emotionally stressful for some people, and the offices were in two different buildings.",Keep doing you.,5.0,4.0,5.0,5.0,4.0,5.0
+2014-12-14,,"San Francisco, CA",Current Employee ,Worst experience ever,,0,"Great marketing team, Free products, Weekly catered lunch","Desperately need an experienced HR Executive. Communication from top down inon existent. Vision, Goals, Roles & Responsibilities unclear. Working conditions horrible, everyone has a little tables lined up next to each other like an assembly line, non conducive for getting work done. Immature teams lacking experience. Time to clean house at the top and bring in skilled execs to take company to the next level. Compensation plan uncompetitive. Need annual review process.","Exec management please get out of the day to day and LEAD. Doing the work that individual contributors and managers have been hired to do, is not leading. Empower managers. Be more mindful of how dollars are being spent. Focus on tools and processes that are desperately lacking. Don't blame others who have departed from the company for the issues that you allowed to happen, the issues are still the same. Don't let Ego and personal agendas impede the company's success.",1.0,1.0,1.0,1.0,1.0,1.0
+2014-08-23,,"San Francisco, CA",Current Employee ,Best place I've ever worked!,More than a year,0,"It's obvious as soon as you walk in the door how passionate everyone is about working at Fitbit. Everyone is here because they absolutely love the products, love the culture, and believe in Fitbit's mission. Combine all that with being at company that's at the forefront of, arguably, the hottest tech space out there! What more do you want?!?!",Honestly none...it's by far the most fun I've ever had at a job.,Keep it up!,5.0,5.0,5.0,5.0,5.0,5.0
+2014-07-19, Software Engineer,"San Francisco, CA",Current Employee ,Great company and opportunity to help improve people's lives,More than a year,0,"Fitbit is the leading consumer fitness technology company. The ideals of the brand are observable in the company culture. The work/life balance is refreshing. Everyone is passionate about helping people be more active and make healthier choices. As an engineer, I appreciate how pleasant the product designers and managers are to work with.",A large monolithic code base and explosive growth make software engineering more difficult and slower than it should be. There is great hesitation and unreasonable skepticism towards anything that's not Java-based.,Management should be more transparent about product roadmap and do regular Q&A with the company.,4.0,5.0,5.0,5.0,5.0,4.0
+2014-07-24, IOS Engineer,"San Francisco, CA",Current Employee ,Great team of people working on a cool product.,Less than a year,0,"It's awesome to work on a product that I use daily. The people are great too, willing to help and nice.
+Management is very trusting. Employees know where the company is and where it is going. The work environment is pretty relaxed- I play ping pong pretty much every day in the office.",The office is split into two floors which can be annoying sometimes.,,5.0,5.0,5.0,5.0,5.0,5.0
+2014-07-07,,,Current Employee ,Yikes...,Less than a year,0,"It is a young company, and therefore the energy around the office is certainly positive.","Too many to list. Underpaid, no training, horrible middle management, broken promises.",Stop adding so many additional levels of management and focus on keeping the people that you do have happy. Or you're about to start losing many more.,2.0,2.0,2.0,1.0,1.0,2.0
+2014-06-15,,"San Francisco, CA",Current Employee ,Cool company but poor middle management and little room for growth,More than a year,0,Great coworkers and really cool products that help people. Company used to encourage collaboration and taking ownership of projects which sparked leadership and the excitement to learn.,"With new management many of the company's pros are no longer considered acceptable. New ideas, suggestions, and taking leadership are now either discouraged or ignored. Those who express strong leadership are often treated with disrespect and/or micromanaged. In addition, expressing ambition to grow with the company is now seen as overly ambitious.",Allow employees to seek out and discuss potential career paths within the company. Assist them in working toward new roles with more responsibility if they express interest in growing. Allow and encourage employees to voice suggestions and opinions so teams can collaborate on projects and work processes. Provide direction when working on projects but avoid micromanaging employees who are consistently dependable.,2.0,4.0,4.0,1.0,1.0,3.0
+2014-03-26, Firmware Engineer,"San Francisco, CA",Current Employee ,Fun job with good people,Less than a year,0,"* Wonderful group of people to work with in firmware. It is like a team of the top people you'd find if you were working at other companies.
+* Laid back culture.
+* Close to most major transit in the Bay Area.
+* Fun problems to solve.
+* Upper management feels accessible and has an engineering background.","* Seems like there's always more work to do. This may or may not be a bad thing.
+* Office is a bit cramped right now, but will be moving to a bigger office soon.",Keep up the good work. Take a vision and run with it.,5.0,5.0,4.0,5.0,4.0,4.0
+2014-03-19, Operations,,Current Employee ,Great location but company poorly managed,Less than a year,0,Cool product. Nice people.,Operationally dysfunctional and lack of exec leadership. Bringing in talented people and cannot retain them.,"If you are going to hire and build a team, than be committed to Lead, otherwise step aside and move on.",2.0,1.0,2.0,2.0,2.0,1.0
+2014-02-02, On the Research Team,"San Francisco, CA",Current Employee ,"Challenging, fun and friendly",More than a year,0,"Some really challenging problems.
+Really great team: smart, motivated, friendly, encouraging.
+A really exciting space to be in at the moment (wearables).",The company has grown past the tiny stage and has turned into a very legitimate company. That means roles are starting to become less dynamic. That can be a pro for some people though.,Keep on keepin on. Continue to hire for the cultural fit. Continue to work with the teams and people that don't mesh as well.,5.0,3.0,5.0,4.0,4.0,5.0
+2014-01-15,,,Current Employee ,"Fun, Young Company",Less than a year,0,"I came to Fitbit after working for one of the giants of Silicon Valley, really wanting to go somewhere with the small company feel. While Fitbit is no longer super small, upper management did a great job at maintaining the culture that was there when it was still a very early stage start-up. Everyone is extremely passionate about the products and the company and you are able to pick up on that right away. Very open and collaborative environment, very transparent and flat, tons of different types of people and personalities which really make for a fun, unique environment.",Only real con is that we're spread out right now...three different floors / offices that can make it to get face time in with all the different teams. That should be solved when we make the move to our new office.,Keep up the good work,5.0,5.0,5.0,5.0,5.0,5.0
+2013-12-29,,"San Francisco, CA",Current Employee ,"Low Salaries, Poor Middle Management",More than a year,0,"free food
+casual work attire
+great concept
+happy hour on fridays","LOW NON-COMPETITIVE SALARIES
+most are contract employees = no benefits, paid vaca, paid holidays or anything
+huge work load
+middle management is abusive and unprofessional, Sr management not willing to listen
+lots of free UNHEALTHY food, odd for a fitness/wellness company
+very high school mentality among younger employees who are clicky
+staff who has been there longer turn their noses up at new hires, not welcoming or friendly
+HR is all about cronyism and there are contract people with no skills getting paid more
+be expected to work 24/7 from your phone/laptop",Make sure that middle management is following the culture you originally created!,2.0,1.0,2.0,1.0,1.0,2.0
+2013-12-14, Senior Product Manager,"San Francisco, CA",Current Employee ,Meaningful and fulfilling work,More than a year,0,"Smart people who are good at what they do and easy to get along with
+Prevalent appetite to tackle big challenges grounded in practical approaches
+Opportunities aplenty to influence direction
+No politics, no needless process","Not as many perks as you'd get at a big company (but getting better)
+No swanky offices, just the essentials",,5.0,5.0,5.0,5.0,3.0,5.0
+2013-12-11, Software Engineer,"San Francisco, CA",Current Employee ,Fantastic Place to Work,Less than a year,0,"No one here has an ego. This is the only company I've worked at this is devoid of overbearing egos. This means that all the decisions getting made are being done so because of intelligent pragmatic reasoning.
+
+By far the best project management team I have ever worked with. The PMs here have the right balance of technical knowledge, organization skill and trust in their teams to ensure that projects are moving forward in a predictable way.
+
+In order to keep pace with our increasing product popularity we are constantly encountering and solving growth related technical challenges.
+
+There are a tremendous amount of interesting, intelligent and genuine people to interact with professionally and socially.",As the company continues to grow its beginning to lose its small company feel. I'm starting to not know larger numbers of people.,,5.0,5.0,5.0,4.0,4.0,5.0
+2013-10-17,,,Former Employee ,"High stress, low pay, odd culture.",More than a year,0,"Lots of free food, drinks and products. The CEO and CFO are good guys, and there are plenty of smart people to go around.","Employees are overworked and many are unhappy. For being a company that makes fitness products, there is little incentive for employees to be healthy themselves. Overcrowded, germ-ridden workspaces, long work days, and boozy happy hours reign, while there is little of funding for most athletic events, lame gym membership discounts ($5 off at the YMCA), and a general lack of work/life balance.",Check in on how employees are feeling in all departments. There is some major mismanagement bordering on abuse happening in some of them.,2.0,2.0,3.0,2.0,2.0,4.0
+2013-10-17, Firmware Engineer,"San Francisco, CA",Current Employee ,"Great products, great company",Less than a year,0,"* Young, friendly and relaxed environment
+* Everybody is focused on delivering great products
+* Challenging and motivating work
+* Flexible working hours
+* Regular company communication meetings so everybody is aware of what's happening
+* Make products that people love",Desks are too small... that's the only negative thing I can think of.,Keep going!,5.0,4.0,5.0,4.0,4.0,5.0
+2013-10-10, Engineer,"San Francisco, CA",Current Employee ,"Cutting Edge Products, Incredible Team and Laid-Back Environment",More than a year,0,Fitbit has an awesome work environment that is driven by making the best products out there. It's really laid back without any politics or red-tape. The culture and energy in the office contagious and keeps everyone excited to come in everyday and work on products we are all passionate about.,Everyone wears a lot of hats since we are small and growing. The hiring process is stringent since we want the best out there.,Keep innovating and keep celebrating all the amazing accomplishments!,5.0,5.0,5.0,5.0,4.0,5.0
+2012-11-19,,"San Francisco, CA",Current Employee ,"Awesome leadership, exciting products, a lot of room for growth",More than a year,0,Fitbit is an amazing company to be a part of within the tech scene in San Francisco. Fitbit has great leaders who are very transparent in the goals and vision of the company. Everyone is tied into a great mission of building products to enhance individuals lives. The work is incredibly exciting.,"Like any start up there is a lot of work with limited resources, but this is to be expected.","Continue to invest in the best talent, employee appreciation incentives, and building the most innovative exciting products in this category.",5.0,5.0,5.0,5.0,5.0,5.0
+2012-06-08, Senior Software Engineer,"San Francisco, CA",Former Employee ,"Exciting product, young team, great founders",More than a year,0,"Fitbit products have a near cult like following, and it really is an amazing hardware product. Young team, lots of flexibility to do what you want. Great enthusiasm, and the nicest people I've ever worked with.","Hard to get decent engineers, so a lot of the sw eng team is imported from offshore. Product team is incompetent and refuses to hire good talent.",Keep up the great work!,4.0,4.0,5.0,2.0,2.0,5.0
+2019-03-16,,,Former Employee ,Senior manager,,0,Great products fun place to work,"Need more executive direction, the current direction of the company is worrying",,4.0,5.0,5.0,4.0,4.0,3.0
+2019-03-05, Customer Support Agent,"Medellín, Antioquia (Colombia)",Current Employee ,Customer Support,More than a year,0,"Great experience, opportunity to learn and improve all customer support","Low salary, the opportunity to grow in the company is too low.",,4.0,,,,,
+2019-02-22,,,Former Employee ,Manager,,0,Good products and nice office,Start up cultural with poor cost and people management. Useless HR....,Provide 360 employee review,3.0,2.0,2.0,3.0,3.0,1.0
+2019-02-06, Vice President & GM EMEA,"London, England (UK)",Former Employee ,Fitbit EMEA,More than 5 years,0,Positive and high performance atmosphere. Great can-do spirit,slow down in innovation disappointing,Your leaders are your role models,5.0,4.0,5.0,4.0,3.0,4.0
+2019-01-30, Senior Financial Analyst,Bucharest (Romania),Current Employee ,Very good culture and company in general,More than a year,0,"Great work/life balance, good compensation package, good benefits, overall a great place","Slight lack of future vision from senior management, they do plan ahead, but execution sometime lacks innovation, and not all internal ideas for operational improvements are actually heard or given a chance.",,5.0,5.0,5.0,4.0,5.0,4.0
+2019-01-09, IOS Developer,Bucharest (Romania),Former Employee ,Great environment and culture,Less than a year,0,Amazing work atmosphere and people,Chaotic way of tackling tasks,,5.0,4.0,5.0,3.0,4.0,3.0
+2018-10-12, Retail Sales Associate,New Delhi (India),Former Employee ,Good company,More than a year,0,Good salary and incentives,Already close the retail,,3.0,3.0,3.0,3.0,3.0,
+2018-10-18,,,Current Employee ,marketing,More than 3 years,0,Flexible for WHO. Nothing else really,Has lost its competitive advantage. All about leadership team who is sinking the business. Nothing for employees.,,1.0,1.0,1.0,1.0,1.0,1.0
+2018-07-27,,,Current Employee ,Senior Program Manager,,0,"Challenging, fun, cool projects, big impact","Sync across timesones, stock price",,5.0,3.0,5.0,5.0,5.0,5.0
+2018-07-22, Reception,Bucharest (Romania),Current Employee ,Best experience you will ever have,Less than a year,0,"People
+Benefits
+Workplace
+Ability to develop new skills",There are no cons at the moment,,5.0,5.0,5.0,5.0,5.0,5.0
+2018-06-30, Marketing,,Current Employee ,Incredibly hard to move forward,More than 3 years,0,"Challenging & interesting business
+Autonomy
+Some very smart colleagues","Huge lack of resources (which is clearly a choice)
+Lack of support
+Painstaking internal processes & tools
+Unclear management/decisions",,2.0,1.0,1.0,1.0,3.0,2.0
+2018-06-15,,"Dublin, Co. Dublin (Ireland)",Current Employee ,Great company culture,Less than a year,0,"Work from home
+Discounted products
+Small team
+Collaborative culture
+Communicative Management approach
+Free Snacks
+Free in-house fitness classes
+Bright modern office with fitness room & library
+Underground parking
+Comprehensive benefit package","Coming off a huge period of growth allows for reflection on some areas which lack structure, such as process documentation & improvement","Many resources have been put in place of late to improve the back-end side of the business, improvements in this area are much needed; I'm hopeful this will begin to bear fruit be year-end. Advice would be to continue to invest in this area, huge savings and efficiencies can be made here.",5.0,5.0,5.0,5.0,5.0,5.0
+2018-04-05,,,Former Employee ,Great culture!,,0,"As a fitness oriented company, Fitbit cares about the customers' health as well as the employees. There are a lot of benefits and fitness-centric programs available for employees to partake. You'll never be bored!",Not much to complain about!,,5.0,5.0,5.0,5.0,4.0,5.0
+2018-02-06,,"Dublin, Co. Dublin (Ireland)",Current Employee ,Great environment,More than a year,0,"Great workplace and culture
+Interesting projects
+Incredible mission - to make the world a healthier place
+Like minded colleagues
+Phenomenal growth in last 24 months",Some processes outdated as have grown so quickly,"Stick to your guns, we are on the right path for continued growth",5.0,5.0,5.0,5.0,5.0,5.0
+2018-01-09,,,Current Employee ,Fitbit company pros and cons,,0,"Flexible, innovative and exciting, never boring.",Turbulent and constantly dealing with changing goals.,,4.0,4.0,4.0,3.0,4.0,4.0
+2017-09-06,,Bucharest (Romania),Current Employee ,Cool company. Great culture.,Less than a year,0,"- great team
+- friendly people
+- working on a great product that has a positive impact all over the world
+- flexible working hours",Don't have any for the moment. To be continued. :),,5.0,5.0,5.0,4.0,5.0,
+2017-07-25,,Bucharest (Romania),Current Employee ,I am a proud fitizen :),Less than a year,0,"+the mission of the company is so nobile and you can truly contribute your ideas to life-changing products and services
++the people working here are extremely friendly and smart
++you can feel even now after 10 years of existence the spirit of a start up but with all the advantages of a big company
++great work-life balance
++free snacks, fruits and happy hours on Friday
++office location in the heart of the city
+ ...and so much more :)","not applicable, honestly, just filling the blanks",keep up the good work!,5.0,5.0,5.0,5.0,5.0,5.0
+2016-09-21, Recruiter,Minsk (Belarus),Current Employee ,Recruiter,Less than a year,0,Great people who love the mission of the company and what they do!,you need to know English to be a part of the family),,5.0,5.0,5.0,5.0,5.0,5.0
+2015-09-07,,Melbourne (Australia),Current Employee ,Brilliant opportunity,Less than a year,0,"Dynamic, focused, international team. Responsibility and autonomy. Your input into business improvement is valued and acted upon. Extremely fast pace.","Extremely fast pace, sometimes long hours.",Keep going!,4.0,4.0,5.0,4.0,4.0,5.0
+2015-08-30, National Account Manager,Sydney (Australia),Current Employee ,Highest quality team I've ever worked with,Less than a year,0,"A company at the cutting edge of technology, creating great products and encouraging people to lead healthier, happier and more active lives. The work culture is fantastic to be a part of and it's great to be surrounded by colleagues of the highest standard.","None so far, though if I had to pick something it would be the challenges of keeping up in such a fast growing business.","Be proud of what you have created, stick to the business core values, keep up the hard work and future success will follow",5.0,4.0,5.0,5.0,5.0,5.0
+2015-07-18, Country Manager,Melbourne (Australia),Current Employee ,great place to work energised people,More than a year,0,lots great to lace to work,none to speak of just growing pains,keep going,5.0,5.0,,,,
+2015-03-13,,,Current Employee ,best place to work for someone having entrepreneurial mind,,0,"1) super friendly leadership
+2) start up , so first hand experience on company growth and structure
+3)company philosophy is amazing, their products are popular and you would get to see, the value of your input","1) tight work schedule, even though a great work life balance sometimes it can get a bit hectic",1) to much entrepreneurial experience need to have some structure,4.0,4.0,4.0,3.0,3.0,5.0

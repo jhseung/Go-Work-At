@@ -1,0 +1,309 @@
+date,employee_title,location,employee_status,review_title,years_at_company,helpful,pros,cons,advice_to_mgmt,rating_overall,rating_balance,rating_culture,rating_career,rating_comp,rating_mgmt
+2019-03-05,,,Former Employee ,Great experience,More than a year,0,"Awesome environment, supportive managers, and focus on diversity and inclusion",Hard to have any upward mobility,,5.0,,,,,
+2019-02-03, Analyst,"Chicago, IL",Current Employee ,Good Culture,More than 3 years,0,The people and culture are great.,"Owned by PayPal, more and more Braintree is losing it's startup identity.",,5.0,3.0,5.0,4.0,4.0,4.0
+2018-10-04,,,Former Employee ,Some great people; lack of career growth & accountability for poor leaders,More than a year,0,"- Some amazing, incredibly smart people who deeply care about their teammates and the product
+- Commitment to D&I is better than most places I've worked. There's still a lot of work to be done, but this was one of my favorite parts of working at Braintree
+- Good work life balance, excellent benefits including discounted stock (mostly thanks to PayPal)","Your experience is going to different drastically by team; poor performing Managers can really break your experience there, and unfortunately Senior Leadership was often willing to not act on feedback about toxic managers. There's also very little opportunity for career growth; there are plenty of really smart and talented people who have nowhere to grow because their teams aren't structured in a way where everyone who is capable of more challenging work is given that opportunity.",,3.0,4.0,3.0,2.0,4.0,2.0
+2018-08-23,,,Current Employee ,a lot of work,,0,"good people, they care about you","bad management, people are all over the place",not long term,4.0,,,,,
+2018-08-04, Credit Analyst,"Chicago, IL",Current Employee ,Great at Getting People in but not Keeping Them,More than a year,0,"- Free daily lunch
+- ESPP up to 10% of your salary (especially with a growing stock like PYPL)
+- Great overall team camaraderie
+- Tech office
+- Transit reimbursement
+- Work from home (depending on which team you are working for)","- No significant growth opportunities unless you are a dev
+- Underpayment is justified by benefits
+- Free lunch causes you to work more
+- Late nights working due to understaffing
+- High turnover across most teams
+- ""Unlimited"" vacation keeps people from taking vacation
+- The company is not yet in the mature phase so there are no standard processes and the key decision makers are often a ""clique"" within departments",,3.0,2.0,5.0,2.0,4.0,3.0
+2018-04-12, Software Engineer,"San Francisco, CA",Current Employee ,"Awesome engineering culture, poor direction",More than 3 years,0,"Braintree prides itself on having a great engineering culture, and it really does. If you're passionate about building and shipping quality products, this is a great place to do it and learn from some really smart folks. Leadership takes the time to understand problems surfaced by engineers, and makes an effort to remove tech debt. It is truly a great engineering culture. Effort is also made for employees to invest in themselves, by sending employees to two conferences a year. In addition, every other Friday is reserved for learning working on passion projects or work projects where you might not ordinarily have time.
+
+Benefits are really good. PayPal offers a competitive 401k match, health care offerings are great, and time off is generous. Because we pair at Braintree, the hours are pretty strictly 9-5 which is hard to beat.","In my time at Braintree, PayPal has gone from a faraway entity which cuts your paychecks to an overbearing presence, and frankly, a constant downer on your day to day work. Since it acquired Braintree, PayPal seems to not know what to do with it. More and more PayPal uses Braintree as a crutch for its own bad tech. Like every inexperienced film director saying, ""we'll fix it in post,"" PayPal leans on Braintree to power products that it cannot deliver itself.
+
+PayPal has done a lot of good things with Braintree, but by slowly removing the sheen from Braintree's pristine engineering culture, we have seen and will continue to see the hiring bar fall to the level of PayPal, and Braintree will no longer be the great place to work that it is now.",Stop letting PayPal leech away your values. Stick to what you know.,4.0,5.0,5.0,4.0,4.0,5.0
+2017-11-08, Operations Manager,"Chicago, IL",Current Employee ,Lots of Pros,More than 3 years,0,Great teams to work with. Mostly everyone is on board to push Braintree forward and do whats best for the organization. Braintree hires great people from diverse backgrounds.,Could be better diversity in leadership positions. Ambiguity in the job can sometimes be frustrating. Can feel like there is a lack in consistent direction.,,5.0,5.0,4.0,3.0,4.0,4.0
+2017-11-05, Software Engineer,"Chicago, IL",Current Employee ,Wow.,Less than a year,0,"This is the best job I've ever had. As a software developer who has been worked into the ground at other companies I feel like Braintree has all it's priorities in order.
+
+As an engineer here is what I appreciate:
+
+1. We're a product company who's mission is customer success. When you, as a engineer, are arguing with your peers about what the best outcome for your customers is - you know you're working at the right place.
+2. The company has large technical scaling issues. It's hard to get these problems other places and they are tough and exciting to work on.
+3. Mentorship is available at almost every level; there are some very very smart people here.
+4. Opinions and criticism are welcome and encouraged.
+5. Automated testing is baked into the culture",Like any company growing this fast there are problems with internal communication.,You've got a very good thing going here and it will be tough to scale but please try! This is a special company with a special culture and I really want to see us succeed. I've already referred multiple friends because they are so impressed with BT after hearing about it.,5.0,5.0,5.0,5.0,5.0,5.0
+2017-11-19,,,Former Employee ,Sales,,0,Great office space & perks. Startup feel without the risk (since being acquired by Paypal). Many smart and friendly people -- a low stress and enjoyable work environment.,"Nothing stands out. The company still wants to project a startup image, which is really no longer the case, but I don't think there's anything wrong with that.",,4.0,4.0,4.0,4.0,4.0,4.0
+2017-09-27,,,Current Employee ,Great company,,0,Amazing culture and benefits. Work is challenging and always changing,There's a lot going on and can sometimes be difficult to keep up,Keep doing what you're doing,5.0,4.0,5.0,4.0,5.0,4.0
+2017-09-19, Production Engineer,"Chicago, IL",Current Employee ,Great office culture with Work/Life Balance,Less than a year,0,This is a place that will constantly challenge you. You can grow in every way. People are treated like people. The work is valuable. Flexible schedule. Meaningful but few meetings.,"Work is set up around an office (because of pair programming), so if you don't like going into an office, you're at a slight disadvantage.",,5.0,5.0,5.0,5.0,5.0,5.0
+2017-09-20,,,Former Employee ,Great place to work!,,0,Very welcoming and inclusive culture.,Lack of opportunities to grow.,,5.0,4.0,5.0,3.0,4.0,4.0
+2017-09-27,,,Former Employee ,Great Environment!,,0,"-Great diversity
+-Positive environment
+-Understanding and collaborative team members","-Growth
+-Management sticks to old ideals, less flexbility",,4.0,4.0,4.0,4.0,2.0,
+2017-08-18, Software Engineer,,Current Employee ,Can be worth it if you like XP. Not for me.,More than a year,0,"- Catered lunch 4 out of 5 days of the week.
+- Work from home whenever you want to.
+- Lot's of creature comforts like ping pong and beer.
+- ESPP plan and 401k matching are pretty good.
+- Good development culture for people who subscribe to XP philosophy.
+- Earnest effort to increase diversity and inclusiveness.","- Mandatory pair programming, up to 7 hours a day.
+- Lots of rote repetition; problems tend to be simple and predictable.
+- Slow deploys and cycle time and trending to be even worse.
+- Aggressive/mean Slack candor; expect to get your ear chewed off publicly if you ask a dumb question.
+- Insufficient training for new employees (""we don't mentor,"" is a phrase I've heard used quite a bit).
+- Decisions are based on anecdotal versus empirical evidence.
+- Not much upwards mobility.
+- Incompetent/absent management.
+- Pay tends to be below market rate.",We need more deploys and people need to cool their jets on Slack. We're all human after all. The current influx of quality managers are a breath of fresh air; keep it up.,2.0,5.0,2.0,1.0,3.0,2.0
+2017-09-01, Software Engineer,"San Francisco, CA",Current Employee ,Great working enviornment,Less than a year,0,"prioritize learning, work life balance, challenging yet rewarding products, catered lunch/breakfast",I don't have any cons to list,,5.0,5.0,5.0,5.0,4.0,5.0
+2017-08-03, Head of Talent,"Chicago, IL",Current Employee ,I am new and I could not be happier with my decision!,Less than a year,0,"fun, challenging, transparent and inclusive",no plain M&Ms and I am scared to fall off my scooter,"Keep up the good work! I appreciate the transparency and how we recognize our wins, talk about when we make mistakes - fix it, learn and move on.",5.0,5.0,5.0,5.0,5.0,5.0
+2017-07-31,,"Chicago, IL",Current Employee ,Awesome place to work,More than a year,0,Very inclusive culture; fun and casual,Flat organization with unclear career progression for some groups,,5.0,4.0,5.0,3.0,5.0,5.0
+2017-08-02, Operations,"Chicago, IL",Current Employee ,Work hard & Play Hard,More than a year,0,"Very smart team, where team members and leadership care to make a difference & create something new and build something better every day while also having fun in the process. Great benefits and lots of ways for flexible ways of working.","While being part of PayPal is of course great for job stability, benefits (like PYPL stock!) etc - the downside is that the sheer size of PYPL can slow things down, and decisions making process can be frustrating, when PYPL sign off is needed. With that said, for a company 3 years after acquisition, Braintree still enjoys most of its freedoms and identity.","Take the best of ""both worlds"". Keep the Braintree culture alive, while building bridges WHEN it makes sense to harmonize with PYPL.",5.0,5.0,5.0,4.0,5.0,5.0
+2017-08-01, Account Executive,"Chicago, IL",Former Employee ,Slowly becoming a shadow of what it once was,More than 3 years,0,"A dream office, fully equipped with beautiful furniture and everything you could ask for (catered lunch, snack bar, scooters, bar, standing desks, etc). The people are also truly incredible; everyone there are hard workers who are not only great to work with, but are just as fun outside of the office as well.","Since the PayPal acquisition, corporate arms have slowly seeped into the operations and id of Braintree. This isn't always a good thing. For a company that has touted itself for its transparency, that has been slowly decreasing as more questions from employees have gone unanswered. There's also a tough challenge with favoritism amongst certain teams, which is difficult to overcome when teams are still small as news spreads quite quickly. There's also a growing concern for the company's response to its lack of diversity. The coworkers have attempted to make strides to correct this, but these are people who aren't trained in HR; the company really needs to make a concrete effort to put money and time towards addressing this very valid concern.",Remember what made Braintree so special before the PayPal acquisition and get a hold on the favoritism running though the office.,4.0,4.0,3.0,4.0,5.0,3.0
+2017-07-25,,,Current Employee ,Software Engineer,,0,"* Great perks
+* Friendly, collaborative culture
+* Great tech
+
+PayPal/Braintree/Venmo are incredible businesses and will continue to be successful for a long, long time.","* Inexperienced middle management. Very talented top leadership
+* Big and bureaucratic
+* Strange disconnect between Product and Operations (second class citizens)",,3.0,5.0,3.0,3.0,3.0,5.0
+2017-07-08, Technical Support,"Chicago, IL",Current Employee ,"Great job, stellar culture",Less than a year,0,There is a culture of genuine desire to help others. Feedback is alive and well. I appreciate the interconnectivity between all the teams. Leadership seems to truly care about employees on an individual basis. Plenty of opportunity to grow into other areas of the business.,"Sometimes folks will get bummed when there isn't their favorite flavor of LaCroix or get cynical about PayPal bureaucracy. It's true that there are some rules, but the Braintree culture is still so alive. Nothing to complain about!",Keep doing what you're doing. You've helped craft the best work environment.,5.0,5.0,5.0,5.0,4.0,5.0
+2017-05-30,,,Current Employee ,Braintree,Less than a year,0,Great culture with awesome benefits and a fun work environment,Lack of upward mobility can be an issue,,5.0,5.0,5.0,3.0,5.0,4.0
+2017-05-08,,,Current Employee ,Great Products / Services,More than 3 years,0,"Creative, and fast paced. Best technology in payments currently",Workload is extremely high. The pace creates for long hours.,,4.0,3.0,5.0,3.0,4.0,4.0
+2017-04-23, Software Engineer,"San Francisco, CA",Current Employee ,A good place to write code,More than a year,0,Good transparency in the organization. Smart engineers. Good products. Enjoyable work environment. Pair programming and TDD with good benefits and incredible work life balance.,PayPal has increased its control over Braintree and more of the bureaucracy is creeping into the daily life of being an engineer. They don't do a great job of training hires who don't have a natural proclivity for the type of work Braintree does. Training is pretty much 100% on the job which can leave some people behind.,,4.0,5.0,4.0,5.0,5.0,5.0
+2017-04-11,,"Chicago, IL",Current Employee ,Split between startup and big business,More than a year,0,"All the classic ""startup"" perks - awesome offices, free catered lunch, unlimited snacks and la croix, a bar in the office, events like trivia/booze/beer pong, etc. A ton of people here are so friendly, talented, smart, and driven, and really want to do their best work.","Like another review stated, ""PayPal with ping pong."" Becomes more and more like PayPal every passing quarter, both culturally and in terms of management/goals. These are not positive changes. The bigger Braintree gets, the more the company tries to hold onto this idea of being a fun, small company with its own separate culture from PayPal. This just isn't the case. People used to hang out at the office after work, form friendships between departments/teams, etc, but not anymore. It's gotten cliquey and competitive. Managers have minimal manager training. There's almost no recognition for good work (especially when it comes from non-Product teams), only for early hires who are still around and have, seemingly by default, become team leads.","Please, please implement some useful, mandatory manager training. Stop pretending to be a ""flat"" hierarchy/structure and start focusing on career development and growth. Work on the relationship between PayPal and Braintree. Make employees feel valued for tangible accomplishments and professional growth, not just for being around a long time.",2.0,4.0,2.0,1.0,4.0,2.0
+2017-04-05,,,Current Employee ,For the complacent,,0,"The company does its best to pretend that they're still a startup. There are some very neat perks like having catered lunches. The benefits are decent (above average health insurance, transit reimbursement).","Success is rarely noticed or acknowledged in any meaningful way. If you are looking for a job that you can stand out in, and use as a stepping stone, keep looking. If you are looking for a comfortable entry level role to stay in long-term, this may be your place.
+
+A company that once did a great job of noticing talent has been put under PayPal's thumb. It shows.",,2.0,3.0,4.0,1.0,4.0,1.0
+2017-04-23, Customer Service Manager,"Chicago, IL",Current Employee ,API Specialist,More than 5 years,0,Nice environment that makes you believe you are doing something important.,"- They make you believe this is a start-up company, but all they are trying to do is keep their employees by offering petty benefits. It's cool to have unlimited PTO, but statistics show that employees take even less PTO when you have this perk. They know that, so they do this.
+
+- Lack of vision. A lot of the people here think they are super smart, but the truth is that they are just book smart and want to be stagnant in a position for many years as they think they landed their dream job. The CEO has done a great job keeping people comfortable.
+- Lack of experience - A lot of employees are young, myself included. This gives us the impression that we are smart and know everything. The problem is that there is a lot of people that lack the experience to make a correct judgment in upper management.",Get off of your high horse. It's just a company with scooters that work on something not appealing(payments?),1.0,2.0,1.0,1.0,3.0,1.0
+2017-02-14, Senior Software Engineer,"San Francisco, CA",Current Employee ,"Always practical, tactical in problem solving",,0,"Great people, who care about their work. Always strive to improve.","Lots of generalist engineers can occasionally lead to putting out less in-depth, less proven technical solutions.",,5.0,5.0,4.0,4.0,4.0,4.0
+2017-03-17,,,Current Employee ,PayPal with ping pong,More than a year,0,"All the requisite start-uppy type things are there: free lunch, ping pong, beer, etc. If that gets you out of bed in the morning, then you're set. For the most part, the people are wonderful.
+
+This is a fine place to work if you want to clock in, keep your head down, and cash your (paltry, unless you're on the product side) check.","You are not working for a start-up. You are working for PayPal. Whatever comes to your mind when you think of PayPal is probably correct. You're not innovating with sexy tech.
+
+The startup bones are still there in the form of completely unqualified management. Early hires are managing large departments and they shouldn't be. There are a lot of elephants in the room. Some teams are happy, others are in a constant state of anxiety. The anxiety isn't because they're too busy.
+
+Very distracting open office that is somehow used as a selling point.
+
+If you're considering a role here, be aware that the flowery speeches in the interview haven't been revised in awhile. The company isn't ""metrics driven"" in that you will have no fair warning that you're being judged by metrics, but you sure are.
+
+Career advancement is mostly about luck and lateral moves. I think they finally stopped calling it a 'flat structure' but they were using the term for far longer than it was appropriate.","Accept that you're a gigantic company and hire managers that are trained to manage people. There is such disparity in the expectations and treatment of different teams that it is awkward. ""Team leads"" spend 80% of their day chatting in the kitchen and openly looking at not-work on their computers. It infuriates people that aren't even on their team.",1.0,1.0,1.0,1.0,1.0,1.0
+2017-01-22, Engineering Manager,"Chicago, IL",Current Employee ,Former great place to work is still a very good place to work,More than 3 years,0,"• great people throughout the company
+• fun offices with lots of perks (free food, parties, swag, etc.)
+• good pay
+• good place to build career experience for more junior-level people","• senior leadership is seriously lacking in vision and execution
+• now owned by PayPal for 2+ years and increasing control and culture from PayPal (which are both pretty awful)
+• product development is fragmented, often ineffective, changes direction based on latest whims of management without much hard market research and data to support direction","Sadly, there are simply too many areas where management (both past and present) have failed that giving advice won't help. What would help is getting new management. Not likely.",3.0,5.0,4.0,3.0,4.0,1.0
+2016-12-06,,"San Francisco, CA",Former Employee ,Amazing Company,More than a year,0,"- Culture is great. Amazing team. Everyone is bright, works hard, and believes in the product.
+- Product is growing.
+- The payments space is challenging.
+- Leadership is very transparent.
+- Being apart of PayPal, means great pay and benefits.","Nothing really. But if I had to pick one, it would be PayPal having a little more reach into Braintree then it did in the past. However overall, Braintree still runs as its own company.",Keep doing what you're doing. It was fun working at a company that was growing as fast as we did.,5.0,5.0,5.0,5.0,5.0,5.0
+2016-10-19, Technical Support Representative,"Chicago, IL",Current Employee ,Still growing; supportive environment,,0,"Being a tech companies, the environment is already a cut-above the average. Even on a bad day, it still feel like we have it ""pretty good"". Potential for advancement, but not always clear. Internal candidates for new positions definitely don't get any special treatment.
+
+Nice office, lots of amenities and lunch is catered in.
+
+Super cool to see how few people leave the company, they may change positions, but we're all excited to be with Braintree for a while. Very low average-age, sometimes I find this amusing given the volume of responsibility we have :-P
+
+Intelligentsia is their idea of regular coffee, enough said! :-)","Advancement paths isn't always clear, sometime it feels as though we're quietly encourage to stay in-place just because of a lack of communication. While I get that during the hiring process, internal candidates should be treated equally as external, however I feel that in the initial screening phase, our recruiters should be much more up-front and provide some added updates/insight with internal candidates.","Recruiters should be more up-front in the initial screening process with internal candidates for new positions.
+
+Some ""department"" managers have far too large of a span-of-control for effective people management.",5.0,5.0,5.0,5.0,4.0,3.0
+2016-09-09,,,Former Employee ,Software Engineering Intern,,0,"Really great culture, smart people, interesting problems. They really care about interns and want you to learn a lot, and you get to work on teams with full time developers.",Honestly can't think of one,,5.0,5.0,5.0,5.0,5.0,5.0
+2016-07-28, Engineering Manager,"San Francisco, CA",Current Employee ,"Great developers, bad leadership",,0,"The developers, account managers, technical support are all really smart and there is a lot to learn from everyone around. Great benefits including paternity leave, flexible vacation policy, fully stocked kitchen.","People in the director or above positions are amazing individual contributors but have little experience or skills with leading their teams, especially in the SF office. As a result, the attrition rate is high. More than 60% of the employees leave within 2 years. Senior managers have the skills but do not do right because they get played into the favoritism game. The company takes pride in making decisions on employee growth and development based on data and outcomes but what really works is being the ""yes man"".",Refactor the people in director roles. Get some new blood in to the company. Don't let a few people who have been there for 4+ years run the show.,2.0,5.0,4.0,3.0,5.0,1.0
+2016-05-24,,"Chicago, IL",Current Employee ,"Great company, neat perks and challenging work",More than 3 years,0,"Really cool to work for a company that builds software influencing some of the most well respected tech brands in the space. And doing it from Chicago :)
+
+Perks are amazing ... daily catered lunch, office bar, good benefits, neat workspace, etc.
+
+The work is also very challenging, so refreshing to be pushed on a daily basis. Kudos to higher ups about incorporating a flat structure and being very open and forthcoming with info about the state of the business.","As you go from <100 employees to 400+ in a few years there are some changes you have to get used to, but that's what happens to every successful business that is growing. Not to say these changes are bad, just shakes things up.",,5.0,5.0,5.0,5.0,5.0,5.0
+2016-05-07, Developer,"San Francisco, CA",Current Employee ,Amazing post-start-up,More than 3 years,0,"Pay, bonuses, benefits, catered meals, career development, work-life balance, independence from PayPal","Subsidiary of PayPal, occasionally the politics of PayPal bleed over.",Keep doing what you're doing!,5.0,5.0,4.0,4.0,5.0,4.0
+2016-04-12,,"Chicago, IL",Former Employee ,"Great company, people and shaping the future of payments",More than 3 years,0,"Corporate culture, co-workers, global offices, impressive benefits. The company is also leading the pack and shaping the future in mobile payments","Now part of a larger organisation, PayPal, which could hinder its fast growth",,5.0,4.0,5.0,5.0,5.0,5.0
+2016-04-27,,"San Francisco, CA",Current Employee ,marketing,More than a year,0,"decent benefits , easy office location","juvenile senior managers, lack of respect for experience...focus on consensus so no one assumes responsibility, paralysis in pride of a flat org structure that puts no emphasis on training on development of managers",take management courses and make decisions in meetings rather than keep churn,1.0,3.0,1.0,2.0,3.0,1.0
+2015-12-09, Account Manager,"Chicago, IL",Current Employee ,Best career choice you could possibly make.,More than 3 years,0,"-Amazing team of competent humans-- I've never experienced anything where I've had so much trust in my team.
+-Great superficial perks-- games, food, an actual bar in the kitchen, all the La Croix you could ever need, team outings and events.
+-Socially-conscious-- we have women and people of color in our leadership, we compost, we have peer-led, corporately sponsored initiatives for volunteering.
+-Really fair compensation package-- enough said.
+-Great insurance, improving parental leave policies, and, in general, the kind of supportive environment that lets you take care of yourself as a human when you really need it even if it's out of scope for a policy.
+-Flexible hours and environments-- Offices all over the world, lots of shifts to fit different lifestyles, and flexibility to WFH (wherever ""H"" may be that day) to accommodate your real life.
+-Rewarding work-- we solve real problem. We help real people solve actual needs that help get people paid, sustain communities, and serve others. That's real, real cool.
+-Long-term career support and lots of opportunities to transfer to other PayPal family companies as your own life-goals evolved.","Real talk: The work we do is hard. Period. And it's not a product of Braintree as a company.
+
+It's deeply challenging work by its nature. We're building the least visible but most important piece of most companies' business. Day-to-day few companies are deeply passionate about their payments processor (as opposed to, like, their merchandise or marketing efforts...)--- but if there is any difficulty in that revenue stream, it's a huge, huge deal. While it's the best job I've ever had, it's certainly also the hardest. Not a job for the faint of heart. It's a career, a commitment. And that's not for everyone.
+
+Being part of the PayPal family does mean some more structure to certain policies and the occasional bureaucratic mandates, but the leadership team here does a great job of shielding us from the major inconveniences. But know coming in that, yeah, you're gonna have to go through some eye-rolls to get a legal document executed or to organize an event. It's not often, but we're not a start up anymore and you shouldn't expect to do whatever you want without formal checks.
+
+That said. The still-pretty-flat structure we have on our teams, built out of our start up legacy, does mean that your job is what you make of it. Reading through the other reviews, comments of ""lacking leadership"" or ""big learning curve"" or ""not much guidance in career paths"" resonate-- but it's not the management's fault. Because there's not really a ton of management to hold responsible. The only person holding you back here is you, and that's hard in its own right. There's a huge opportunity to carve out your role in an established-but-always-evolving team. If you don't put in the effort to define your work, it can be uncomfortable-- but it's really your own fault.
+
+The hiring process is intense. We are deeply pickly. I think we sometimes miss really great candidates because we have almost-unattainably-high standards. But, I guess, the people that DO make it are pretty spectacular and stay around forever-- so what the (awesome) recruiting team does might be working.
+
+It's an alcohol-centric environment at times. As not-a-big-drinker, it's not my favorite thing and can make me disinclined to engage socially.",Keep the people-centric culture... but let's cut out the booze sometimes.,5.0,5.0,5.0,5.0,5.0,5.0
+2016-02-04,,"Chicago, IL",Current Employee ,"Real, hard, rewarding work",,0,"Most of all- people CARE. You will want to come into work everyday and know that you are working with smart, driven people who are building awesome products. It is insanely inspiring. You are given the chance to sink your teeth in whatever interests you.
+
+Work/life balance is truly respected. They understand employee's needs and wants and reward you for hard work. You are given the chance to dig your hands in whatever interests you.","PayPal bureaucracy can creep in from time to time and drive you crazy.
+
+We're growing- there's a lot of work!","Provide employees with tangible growth opportunities
+
+Be careful to keep Braintree culture alive. That's what got us where we are!
+
+Be transparent with employees. We're intelligent and curious- tell us what's up.",5.0,5.0,5.0,4.0,5.0,5.0
+2016-02-24,,,Current Employee ,Unique Position,,0,Great place to work so long as you have a solid understanding of your position.,Challenging should your position be underdeveloped.,,3.0,5.0,5.0,3.0,4.0,5.0
+2016-01-17, Technical Support Representative,"Chicago, IL",Current Employee ,Wonderful Place to Work!,,0,"Smart and talented co-workers
+Challenging work that keeps you busy each day
+Beautiful office space
+Excellent benefits (catered lunch each day!)",Young office -- most people are in their twenties,,5.0,5.0,5.0,4.0,5.0,4.0
+2016-01-27,,,Current Employee ,Great company to work for; glad to see the tech industry growing in Chicago,,0,"Teammates are smart and motivated. Constant collaboration across projects; always opportunities to learn and get better at your job. They don't explicitly look for candidates with background in the payments industry, so there is a lot diversity in professional backgrounds.","It's a fast paced environment, so there are a lot of temporary fixes that will inevitably break.",Increased transparency in business strategy so employees can understand how they're driving success.,5.0,5.0,5.0,5.0,4.0,4.0
+2015-09-04, Product Manager,"San Francisco, CA",Current Employee ,"Generous, Stable, Supportive Culture and Team",Less than a year,0,"I write from the perspective of the San Francisco office.
+
+* The compensation (at least in product/engineering, don't know others) is generous with solid benefits/perks, like delicious lunches 4 days/week
+
+* The team and culture are very low-drama, low-BS. Titles are pretty flat, and manager/subordinate relationships all seem pretty healthy.
+
+* Almost every role is pretty much 9-to-5/6-ish, with little pressure to look busy or make bogus work
+
+* Occasional work-from-home and cutting out for a doctors appointment, etc., are pretty flexible as long as you're being reasonable
+
+* Though owned by Paypal, Braintree operates reasonably independently. Management does a good job of shielding the org from corporate pressures.
+
+* The company is growing, building new stuff, and being pretty successful, which helps keep morale high
+
+* The company invests solidly in employee happiness, with workshops, off-site events, and regular happy hours/fun events
+
+* The physical office space is masterfully designed to feel human and warm. No rows of 30 sterile standing desks here.
+
+* While broad industry demographics apply – engineers tend to be male, etc. – the culture is very welcoming to all, and the leadership team represents a broad spectrum of ethnicity/gender/orientation.","Honestly, there are not many cons: it's definitely a 5-star company. But there are certain things to be mindful of that may make it the wrong company for some people:
+
+* While everyone is pleasant and morale is high, there doesn't seem to be very much outside-of-work social activity between coworkers. (Your mileage may vary).
+
+* While Braintree operates pretty independently from Paypal, it is still an established 300-ish person org inside a 14,000-ish person public company. Certain things will involve bureaucracy/approval.
+
+The closest things I have to actual drawbacks compared to some competitors are:
+
+* Flat-ness makes career advancement paths within the company less obvious. Some people have had great advancement trajectories, so it's very possible, but it's not well-articulated how to get on that path.
+
+* Paypal's 401k provides a fine-but-not-amazing 4% match, has somewhat underwhelming fund choices, and doesn't allow super backdoor Roth's (though only a very few firms do allow that)","* Keep doing all the good stuff you're doing
+
+* Keep vigilant about creeping red tape or bureaucratic slowness
+
+* Be careful that the focus on building product doesn't make people in other job roles to feel unappreciated
+
+* Better articulate career-advancement paths within the company
+
+* Improve the 401(k)",5.0,5.0,5.0,4.0,5.0,5.0
+2015-09-03,,,Former Employee ,Account Manager,,0,Nice office in a cool tech startup atmosphere. The fact they acquired Venmo and was later acquired by PayPal is pretty cool.,Learning curve is super high and bad management. Felt like I was written off from day 1 and did not have much support thereafter.,"Invest in employees rather than writing them off from the get go. It fostered an environment where I felt like I was walking on ""eggshells"".",1.0,2.0,1.0,1.0,2.0,1.0
+2015-06-26, Sales,"Chicago, IL",Former Employee ,Better before Paypal,,0,"- Awesome people
+- Great tech
+- All the perks of a well-funded startup, catered lunch, ping pong, etc
+- Fast moving, little bureaucracy",Poor management on some teams,Pay attention to your talent,3.0,4.0,4.0,5.0,3.0,2.0
+2015-07-09,,,Former Employee ,I worked at Braintree,,0,"9 different coffee machines and paid meals.
+standing desks
+they use slack","Identity crisis between Venmo/Braintree/PayPal/eBay
+PayPal implemented their processes and systems which were cumbersome and impractical
+Lack of communication and transparency from management
+Their new office space lacks natural light and feels like a maze getting around.
+No soda, sweets, or any chocolate",,1.0,4.0,2.0,3.0,4.0,2.0
+2015-05-10, Support Treep,"Chicago, IL",Current Employee ,Great workplace!,Less than a year,0,"I was hired fairly recently and work as part of the support staff. Many other reviews go over the same pros, but:
+- Amazing office with a variety of different conference rooms, lounges, little comfy spaces that would suit almost anyone
+- Automatically adjustable desks so you can switch between standing and sitting as often as you like
+- Super transparent management that really cares and treats you like adults (this is weirdly rare in support jobs and I value it a lot)
+- Great coworkers - literally everyone I've met has been kind and welcoming
+- They value diversity... the company recently sponsored a fellowship for Dev Bootcamp for underrepresented gender/racial groups. I also feel like they really value having employees that are different. Some of the people there are quirky, and it seems like this is not only accepted, but valued.
+- I work on a team of mostly men (which I was nervous about) but they have all been so kind and welcoming and inclusive
+- Super delicious coffee, snacks, beverages, and daily catered lunches
+- Flexibility to work from home on days you're not feeling great but aren't so sick you need a PTO day
+- Very affordable medical/dental/vision benefits as well as a multitude of other great benefits (transit reimbursement, generous PTO, sabbatical after 5 years)
+- Fair, competitive compensation","- Sometimes it does feel like working in a Silicon Valley episode... But honestly that's not really a con.
+- I feel a little unclear on what a career path might look like there and what kind of opportunities I would have in the future, but I've only recently started and haven't taken the time to ask.","Keep up the good work! Especially - continue to be transparent, treat employees with utmost respect, and encourage feedback.",5.0,5.0,5.0,5.0,5.0,
+2015-05-12, Account Manager,"Chicago, IL",Current Employee ,Absolutely love this company.,,0,"Great work environment, flexible work schedule, awesome perks and amazing people. People care about coming to work every day.","We're part of PayPal and sometimes the overhang can get a little annoying. Most of the time they keep to themselves, but every once in a while you feel like the daughter company instead of the sister.",I wish there were more being done internally to track our achievements. I'd love to know how we're doing aside from TPV.,5.0,5.0,5.0,4.0,4.0,4.0
+2015-06-02,,"Chicago, IL",Current Employee ,Marketer,More than 3 years,0,"Super smart people, fun office environment, great perks (free lunch, stocked kitchen). Flexibility to work remotely when needed.",Limited growth opportunities. Also Braintree is starting to feel more like PayPal since we got acquired by them. They are bringing people over from PayPal who don't understand the Braintree culture and imposing a lot of the PayPal style on us.,Be careful about who you bring over to Braintree. Make sure they understand the Braintree culture and values and are willing to respect them.,4.0,5.0,5.0,3.0,4.0,3.0
+2015-04-22,,,Former Employee ,Mid-Market Sales,,0,The office is very cool.,"The boss has his favorites and they are taken care of way more than the rest of the team regardless of performance. If you challenge something, be prepared to be in the dog house.",,2.0,3.0,2.0,2.0,3.0,1.0
+2015-04-21, Illinois,"Chicago, IL",Current Employee ,Designer,,0,"Wonderful perks - probably the best in the area. Open dev days were you get to work on whatever you'd like, 2 paid conferences a year (and they cover all your expenses). Everyone gets brand new equipment - macbook pro and cinema display. Tons of free swag that keeps on coming (backpacks, shirts, hoodies, thermo bottles, etc). Health/time off benefits are nice. Laid back, open atmosphere. A beautiful new office in the Merchandise Mart. Catered lunch everyday from really good local places. Snacks and drinks on hand at all times. A wellness room, mother's room, bar with kegs on tap, high end ping pong and foosball tables, scooters to get around the office, etc. And there's even more then that and they are open to new ideas to help improve the space.
+
+As for the work, it's challenging and motivating. You may think, ""what would I do as a designer at a company like Braintree?"" But there is A LOT. The design team is broken up by product, and visual. Product as it states, works on our products - really making a difference in how our users/merchants are able to use what we build, and they make it beautiful. They are a hybrid of designer and developer. Visual works on a lot of brand design including materials for events, new programs, swag, and a lot of other internal projects. They make Braintree look good.
+
+A product company like Braintree is a great change coming from an agency - there aren't annoyances like time sheets to fill out or a push for a strict process. There are no pitches you are required to work late nights and weekends on. Rarely will you work on a weekend or after hours. You don't have clients, and you are really able to influence your work. And you're compensated for your work, not how high you move up - in fact hierarchy on the team is very minimal. If you want to be a designer here, you can be a designer. You don't need to stop designing in order to escalate your career. And we work together and there isn't that sense of competition.","Downsides come from Braintree having a start up mentality - what feels like downsides are more like challenges. We have an opportunity to really shape what we want our team to be - how much process do we really want? Where do we need hierarchy in our team? How do we want to work with the other teams in the office who may have a different mentality and different goals then us? It can be frustrating at times, and not everyone always feels on the same page... but if you look at the big picture it's it's nice to know we can make mistakes and try new things to find what works best for us.
+
+Another con in some people's eyes would be the fact we use an outside agency to develop our branding. We split a lot of work between the agency and our visual design team. It feels like 2 different teams working on 1 common goal, and that can bring inconsistencies in the work and goals of the brand. To be fair, our visual team is small - so the task of rebranding Braintree wasn't an option to do in house. It's been a challenge finding a way to work together, and have a voice on the overall brand. But again, it's a learning experience and finding how we can contribute and where we can make an impact is something we are working on and making strides towards.",,4.0,5.0,4.0,5.0,5.0,4.0
+2015-01-07, Software Developer,"San Francisco, CA",Current Employee ,Really awesome,,0,"Nice new office
+Very competent developers
+Big focus on security
+Pair programming
+Test driven development
+Low tech debt in the codebase (there is always tech debt in all codebases in the world... but Braintree has a ""higher level"" of tech debt- there are very few inane problems that need refactoring. Most of it is like ""well, this codebase has evolved organically and we need to do a structural refactoring to make it more extensible"", not like terribly named variables and unextracted methods etc.
+Great support for users of the product (I feel totally confident recommending the product to friends)
+Polyglot developer culture
+Catered lunch
+Great time off policy (officially two weeks, but in reality ""as much as you want"" and no stigma for using it- lots of people do doctor appointments, short vacations etc without stressing about it)
+Good at work-from-home (actual communication)
+Good internal communication channels through chat (Slack)
+Kanban workflow with weekly monday morning IPM
+Very 9-to-5 (although big events mean that certain senior developers usually have to be online and responsive over New Years, Black Friday etc)","Excessive focus on ""startup"" activities like drinking, playing video games in the office. Full-size arcade games installed in the front room.
+There is some interference by the owning company in daily activities, especially when it comes to scheduling conference rooms, building improvements (bathrooms), maintenance
+Not great at maintaining its open source libraries
+Very few retrospectives on the team level, resulting in low introspection on the in-team-interactions level.",Stuff is pretty awesome! There should be better teambuilding & encouragement for technical learning beyond self-guided and task-related work,5.0,5.0,4.0,5.0,5.0,5.0
+2015-01-07, Software Engineer,"San Francisco, CA",Current Employee ,"Best company I've worked at, ever",Less than a year,0,"I could easily write an extremely long list of what makes me so happy to work at Braintree, but in the interest of your time, here are the highlights:
+
+- The people - I really enjoy the company of my colleagues - like, each and every one of them is a great person and fun to be around.
+- Hiring - Braintree's interviews are unlike normal tech interviews. Much more emphasis is put on communication skills and personal integrity. Since we pair on interviews, devs start interviewing candidates soon after they start. (To give you an example, I interviewed my first candidate a month after I started at Braintree).
+- Pairing - We pair around 80-90% of the time, and pairs switch fairly often. Because of this, I have improved far more as a developer in the months I've been here than in any other role.
+- Importance - The code I write is responsible for handling billions of dollars.
+- Polyglot culture - Sharing context is encouraged. It's not unusual for an iOS dev to be working on the Python client library.
+- Open dev day - Like 20% time, but for the whole day every other Friday. Great for working on open source.","- Braintree doesn't prioritize open source work as highly as one might want - priority is given to building new features (although this is changing).
+- (At least in the Bay Area) Stripe dominates PR and developer mindshare in the payments space, not as many people know of Braintree.","No complaints here. It's clear that senior management at Braintree takes their job very seriously. If you bring something up, they actually listen and do something about it.",5.0,5.0,5.0,5.0,5.0,5.0
+2015-01-12,,"San Francisco, CA",Current Employee ,Braintree is an amazing place to be a builder,More than a year,0,"- Incredibly friendly and down to earth
+- Zero arrogance and strong emphasis on patience and humility
+- Ability to make an impact quickly
+- Amazing offices with lots of amenities, great (free) food & outings
+- Small company culture with the security / resources of a large public company
+- True balance between work + life","- Sometimes slow decision making
+- Growing into a more medium sized company, so takes more effort to get to know everyone",,5.0,5.0,5.0,5.0,5.0,4.0
+2015-01-13, Developer,"San Francisco, CA",Current Employee ,"Awesome, smart team. Get to plan a big part in product decisions and still feels like a smaller start-up",More than a year,0,"* Catered breakfast/lunch
+* industry-leading benefits (via PayPal/eBay)
+* good work/life expectations (40~50 hour weeks)
+* office space is nice with kitchenettes, scooters, premium coffee, adjustable desks, etc
+* healthy investigation of latest technologies
+* individualism is embraced","Corporate vacation policy seems to be lacking. This may change with the announces split of PayPal/eBay this year. The current maternity/paternity benefit is amazing, but uncertain how this will change the second half of 2015.",,5.0,5.0,5.0,4.0,5.0,5.0
+2014-12-10, Braintreep,"Chicago, IL",Current Employee ,Braintree is great! I love my co-workers and love going to work every day.,More than a year,0,"Office Culture
+Work/Life Balance
+Great Benefits (Yearly Bonus and awesome time off policy)
+Smart Co-workers and hardworking management
+Catered Lunch (daily)
+Free Breakfast, Coffee and Snacks","The lounge lacks a Pool Table, and there aren't enough tables in the lunch room.
+
+Seriously though - there isn't much to complain about. The only thing to mention is that Braintree is growing rapidly and with that comes a few growing pains.",Keep doing what you're doing!,5.0,5.0,5.0,5.0,4.0,5.0
+2014-10-31, Talent Acquisition,"San Francisco, CA",Current Employee ,Perfect,Less than a year,0,"Everything
+- Great Product
+- Small and great team
+- Pay and benefits
+- Office
+- Culture",None. Really is an amazing place to work,Keep doing what your doing.,5.0,5.0,5.0,5.0,5.0,5.0
+2014-10-07, Sales Support Associate,"Chicago, IL",Current Employee ,The best employer I've ever had,Less than a year,0,The people make the company. Everyone is accountable for their work and there's always someone willing to help out. The pay and benefits are great and the culture is the best I've ever seen in a company. They actually believe in it. There's nothing you can't take on here.,This sort of environment isn't built for everyone.,Keep asking us about our thoughts on the progress of the company. I know it makes me feel like my voice is heard.,5.0,5.0,5.0,4.0,4.0,4.0
+2014-10-06,,"San Francisco, CA",Current Employee ,Best career choice,Less than a year,0,"- cutting edge technology and products
+- the people
+- the clients
+- great leadership
+- very transparent
+- great work/life balance
+- competitive compensation
+- world class office",- can't think of any,Keep it up!,5.0,5.0,5.0,5.0,5.0,5.0
+2013-12-11,,"Chicago, IL",Current Employee ,One of the best jobs I've ever had,More than a year,0,"-Really great and talented people who do care
+-Lots of opportunity to grow inside of the company
+-Fair pay and EXCELLENT treatment
+-Get to work with some of the coolest companies in the tech worlds on a regular basis
+-Free lunches","-There is nobody to fall back on but you and your team so don't expect a huge safety net
+-The learning curve is steep
+-Dev-centric company which is great but expect to put in some late hours getting up to speed on programming in general
+-You own the problem from beginning to end so there can be some 2 AM nights",Keep the magic alive,5.0,4.0,5.0,5.0,5.0,4.0
+2013-05-16,,,Current Employee ,"Good for work/life balance, Love the people",More than a year,0,"I like that there's no vacation policy and there's a great work/life balance. It's a very fun and social atmosphere. Everything moves at a very fast pace, so there's never a dull moment. Braintree tends to attract great people, so co-workers are typically a pleasure.","Braintree has some growing pains due to its explosive growth. Developers are treated better than other employees, which can be frustrating. Company typically doesn't promote from within.","Treat employees equally. See the value in all employees, rather than catering to a few selected all-star employees.",4.0,5.0,4.0,3.0,3.0,2.0
+2013-04-11,,,Current Employee ,"Great team, great products. Small(ish) and doing really well.",More than a year,0,"extremely open communication
+smart, committed coworkers
+progressive technical environment
+good work/life balance","no real downside; not a huge company, but I like that",,5.0,5.0,5.0,5.0,5.0,5.0
+2012-02-27,,"Chicago, IL",Current Employee ,Good! Grand! Wonderful!,,0,Braintree is a fun and spirited organization that aims to be the best in everything it does. The character of the organization shines through its happy employees!,"It's a very fast growing company, which can have some minor growing pains. You have to be ready for a ever-changing company.",Analyze your talent make sure to use them for all of their abilities. As the workforce continues to expand do not loosen your hiring standards!,5.0,5.0,3.0,3.5,5.0,
+2012-02-20, Human Resources,"Chicago, IL",Current Employee ,"Amazing culture, great place to work",,0,"There is ample opportunity to create and work with really smart people - all in a very successful company. Additionally, because of the somewhat flat hierarchy, there is an immense sense of ownership over work product.","As with any start up, things change constantly, and space is outgrown very quickly.","Continue the dialogue with employees, promote constant feedback.",5.0,5.0,5.0,4.0,4.0,
+2019-03-06, Senior Software Engineer,"Toronto, ON (Canada)",Former Employee ,If you like to work independently this is a great place,More than a year,0,"Given opportunities to work with lots of different tech. CTO is very knowledgeable technically and taught me a ton about engineering and project management workflow.
+Very laid back culture, get your work done and you will be fine.","No other engineers, other than CTO who is very busy.",,5.0,5.0,5.0,5.0,4.0,5.0
+2017-12-18,,,Former Employee ,"Claims to be a startup, yet very much stuck in their own ways",,0,"Nice product, great design team","Very ageist people, a institutionalised distrust of anyone older than 27.",,2.0,2.0,1.0,3.0,4.0,1.0
+2017-01-19,,"London, England (UK)",Current Employee ,Best company I have ever worked for!,Less than a year,0,"Working at Braintree is amazing! The people are lovely, management are encouraging and supportive, and the culture is second to none. If you wish to, you can travel a lot which is great and allows you to see more of the world than you would normally sitting at your desk! Very refreshing to work for a company who respect you, trust you and reward you - Thanks!",Can't think of any! genuinely!,Keep doing what you are doing.,5.0,5.0,5.0,5.0,4.0,5.0
+2016-04-05,,"London, England (UK)",Current Employee ,Awesome,More than 3 years,0,"This place is awesome. If you're lucky enough to get an opportunity to work here, take it.","If you don't get on here, it'll be more about you than the business.",,5.0,5.0,5.0,5.0,5.0,5.0
+2015-10-16,,,Former Employee ,Wonderful culture with great people,,0,Braintree was a great place to work. The people were friendly and challenged you to push yourself beyond what you thought you could do to encourage you to grow. Great opportunities and wonderful coworkers!,"They went through some tough times early in the paypal acquisition, but they did get through and are stronger than before.",,5.0,5.0,5.0,4.0,5.0,5.0

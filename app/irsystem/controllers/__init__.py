@@ -26,3 +26,6 @@ from app.irsystem import irsystem
 # Import module models
 from app.accounts.models.user import *
 from app.accounts.models.session import *
+
+# Import backend
+from app.backend import engine

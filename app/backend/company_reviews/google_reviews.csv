@@ -1,0 +1,998 @@
+date,employee_title,location,employee_status,review_title,years_at_company,helpful,pros,cons,advice_to_mgmt,rating_overall,rating_balance,rating_culture,rating_career,rating_comp,rating_mgmt
+2019-04-11,,,Former Employee ,Great company to work for,More than 3 years,0,Great culture and nice co worker,no cons at the moment,,5.0,,,,,
+2013-06-21, Program Manager,"Mountain View, CA",Former Employee ,"Moving at the speed of light, burn out is inevitable",More than 8 years,0,"1) Food, food, food. 15+ cafes on main campus (MTV) alone. Mini-kitchens, snacks, drinks, free breakfast/lunch/dinner, all day, errr'day.
+
+2) Benefits/perks. Free 24:7 gym access (on MTV campus). Free (self service) laundry (washer/dryer) available. Bowling alley. Volley ball pit. Custom-built and exclusive employee use only outdoor sport park (MTV). Free health/fitness assessments. Dog-friendly. Etc. etc. etc.
+
+3) Compensation. In ~2010 or 2011, Google updated its compensation packages so that they were more competitive.
+
+4) For the size of the organization (30K+), it has remained relatively innovative, nimble, and fast-paced and open with communication but, that is definitely changing (for the worse).
+
+5) With so many departments, focus areas, and products, *in theory*, you should have plenty of opportunity to grow your career (horizontally or vertically). In practice, not true.
+
+6) You get to work with some of the brightest, most innovative and hard-working/diligent minds in the industry. There's a ""con"" to that, too (see below).","1) Work/life balance. What balance? All those perks and benefits are an illusion. They keep you at work and they help you to be more productive. I've never met anybody at Google who actually time off on weekends or on vacations. You may not hear management say, ""You have to work on weekends/vacations"" but, they set the culture by doing so - and it inevitably trickles down. I don't know if Google inadvertently hires the work-a-holics or if they create work-a-holics in us. Regardless, I have seen way too many of the following: marriages fall apart, colleagues choosing work and projects over family, colleagues getting physically sick and ill because of stress, colleagues crying while at work because of the stress, colleagues shooting out emails at midnight, 1am, 2am, 3am. It is absolutely ridiculous and something needs to change.
+
+2) Poor management. I think the issue is that, a majority of people love Google because they get to work on interesting technical problems - and these are the people that see little value in learning how to develop emotional intelligence. Perhaps they enjoy technical problems because people are too ""difficult."" People are promoted into management positions - not because they actually know how to lead/manage, but because they happen to be smart or because there is no other path to grow into. So there is a layer of intelligent individuals who are horrible managers and leaders. Yet, there is no value system to actually do anything about that because ""emotional intelligence"" or ""adaptive leadership"" are not taken seriously.
+
+3) Jerks. Sure, there are a lot of brilliant people - but, sadly, there are also a lot of jerks (and, many times, they are one and the same). Years ago, that wasn't the case. I don't know if the pool of candidates is getting smaller, or maybe all the folks with great personalities cashed out and left, or maybe people are getting burned out and it's wearing on their personality and patience. I've heard stories of managers straight-up cussing out their employees and intimidating/scaring their employees into compliance.
+
+4) It's a giant company now and, inevitably, it has become slower moving and is now layered with process and bureaucracy. So many political battles, empire building, territory grabbing. Google says, ""Don't be evil."" But, that practice doesn't seem to be put into place when it comes to internal practices. :(","1) Don't dismiss emotional intelligence and adaptive leadership. They're not just catch phases. You need great managers and leaders in order to build great companies and develop great employees. The people who may be brilliant at solving technical issues may not be (and are most often, not) the best candidates for management.
+
+2) Do something about that work-ife balance. Don't just have a bunch of pow-wows and tech talks and discussions about it. Leadership should actually model it. Consider re-evaluating how work is done; what processes are in place that are inefficient and ineffective and need to be updated or removed?
+
+3) Don't forget that there is already a pool of incredibly talented people within the company. If career development is really a goal at Google, then do it. Don't just hire from the outside. Take the time to help your employees develop their careers - then maybe you won't lose some of the great ones, and maybe you'll have prevent some of that burn out and disillusionment.",4.0,2.0,3.0,3.0,5.0,3.0
+2014-05-10, Software Engineer III,"New York, NY",Current Employee ,"Great balance between big-company security and fun, fast-moving projects",More than a year,0,"* If you're a software engineer, you're among the kings of the hill at Google. It's an engineer-driven company without a doubt (that *is* changing, but it's still very engineer-focused).
+* The perks are amazing. Yes, free breakfast, lunch, an dinner every weekday. Aaaaaamazing holiday parties (at Waldorf Astoria, NY Public Library, MoMA, etc.); overnight ski trips to Vermont; overnight nature trips to the Poconos in the summer; summer picnics at Chelsea piers; and on and on and on. I don't see this going away unless the company starts hurting financially.
+* Speaking of which, the company is doing quite well, which reflects in bonuses and equity grants.
+* There a huge diversity of work ranging from defending independent journalism worldwide (Google Project Shield) to crisis response during disasters (see Maps during Hurricane Sandy or Tsunamis), to the best machine learning experts and projects in the world, to more mundane revenue-driving projects in advertising, there's really something for everybody.
+* It's easy to move around within the company as long as you're in good standing (the vast majority of engineers are).
+* The company is amazingly open: every week Larry Page and Sergey Brin host what's called TGIF where food, beer, wine, etc. is served, a new project is presented, and afterward there's an open forum to ask the executives anything you want. It's truly fair game to ask anything, no matter how controversial, and frequently the executives will be responsive.
+* No, nobody cares if you use an iPhone, Facebook, shop with Amazon, stream using Spotify, or refuse to use Google+. The company is amazingly open and flexible.
+
+Neither pro nor con, but general information on work-life balance, promotions, and advancement.
+* Work life balance can be what you want it to be on most teams. (Some teams are in more competitive sectors and require more crazy hours all the time - but very few of them). If you do what's expected, you'll be fine at least for a handful of years. Working a roughly 40 hour work week is possible, and many people do it. There are also people who are hyper-motived and work like crazy just because they love it, or because they're competitive, or they want to get a promotion. If you work 40 hour weeks without putting in anything extra, you'll fall behind them as they advance and you stand still - and maybe that doesn't matter, so it works out for everybody. But at least know where you would realistically stand.
+* If you excel and work your butt off, you'll be compensated and promoted. If you let yourself be a code monkey, and just sit coding with your head down all day, you'll be fine but won't advance. A big complaint from some Googlers is about not being able to advance ""even at Google"" with pure coding. Sure, if you're the uber genius who created MapReduce and Bigtable, you're going to advance like a rocket without having to do anything but coding; but if you're like most engineers at Google -- smarter than average, but just average compared to other Googlers -- you're just a good coder and not revolutionary. Code monkeys are important to actually get stuff done, and to be sure you absolutely need to be a good coder as a software engineer (it's the minimum requirement), but code monkeys won't advance because they're not leaders and they're easy to replace. To get promoted you need to lead and do more than just code. There are plenty of ways to lead other than being an official tech lead, so this isn't actually _that_ hard, so the real point is just that you can't just sit there coding what other people tell you to code all day and expect to advance.","* It *is* becoming larger, and with it comes growing pains: bureaucracy, slow to respond to market threats, bloated teams, cross-divisional tension (though nothing remotely approaching that of Microsoft's internal tension).
+* The quality of the engineers is possibly dropping, but possibly not. It's hard to get real metrics, because as the absolute number of people grows, naturally the number of bad apples grows; as a percentage it's supposedly the same as it ever was, but with larger numbers of poorer quality engineers it just _feels_ like things might be changing for the worse.
+* Also with growth means more internal-confidential data leaks (again, because of the raw numbers of people) -- product announcements being ruined, etc. That means the company has to be tighter-lipped internally to avoid leaks, which makes things less open. It's still an amazingly open place, but less so than it was even a couple years ago. The good thing is they recognize it and actively look to improve things because they know how important it is to keep the good culture.",Keep the focus on the user. Everything else will follow.,5.0,5.0,4.0,5.0,5.0,4.0
+2015-02-08,,"Mountain View, CA",Current Employee ,The best place I've worked and also the most demanding.,,0,"You can't find a more well-regarded company that actually deserves the hype it gets.
+
+You'll work on cutting edge projects / solve important issues that impact your community and the world
+
+You'll meet interesting people who are your colleagues, managers, and senior management.
+
+You'll open the paper and see your company in the news almost every day, and read about projects you're working on, which is a cool thing
+
+You'll see Larry and Sergey at TGIF and you'll admire how they lead the company. They are brilliant, goofy, low key but intense, and likeable.
+
+There are 22 cafes (more or less), the food is excellent, and it's free.
+
+Your pay will typically be competitive, though it needs to be tweaked up a bit since the economy has improved.
+
+Google cares about how it treats its employees.
+
+The campus is like an academic campus in many ways.
+
+There are tons of activities on campus, like authors speaking about their books, films after work, and gyms where you can work out - but you'll need to make sure to carve out time to do these things.
+
+You'll get plenty of external validation from people who suddenly think you're smart and rich because you work there, even if you're not rich and you're as smart when you didn't work at Google.
+
+If and when you leave, you'll never regret having that company on your resume. It opens doors.
+
+The company is flexible - if you're lucky, you won't have a micromanager boss and you can be somewhat flexible in how you work - but don't get me wrong - you'll work a LOT. But you don't have to do all of it chained to your desk.","I live in SF so the commute can take between 1.5 hours to 1.75 hours each way on the shuttle - sometimes 2 hours each way on a busy day or rainy day. That means being on the bus for 3-4 hours PER DAY. It's a wired bus though which means you can work on the way to Mountain View. But it can feel brutal.
+
+Your first year or two are really important in terms of your career at Google and they affect how you're viewed, and your ability to be promoted. You should always ask to work on high profile projects. If you don't get them, don't expect to get high ratings or get promoted. Always volunteer for cross functional group work for maximum exposure, and then work hard at those things.
+
+You'll likely work on something that no one will explain to you and it will take you at least a year to be comfortable doing what you're working on, even if you're super quick at learning. No one has time to train you or teach you what you're doing - which is kind of hard.
+
+After two or three years, people you started out with at Google start to get promoted. If you're not one of them, you'll wonder why and how it happened, and that process is somewhat political and not always clear.
+
+It's a big company now. And super political. So don't be naive. Expect some people to be catty, some people to be territorial, and be prepared to be mentally tough. Don't let people see your vulnerableness. It's a Darwinistic culture with a huge dose of 30-something idealism on top which can fool you into thinking that people are easygoing - they're not. They're driven. If you're not driven, you're not going to fit in.
+
+When you start at Google, it seems like peer reviews are super important - they are, but they are the sprinkles on the fro yo. The important thing is that your direct manager knows your work, likes your work and likes you, and then you can get promoted. If your boss doesn't like you, all the positive peer reviews in the world won't help you. Make sure you know what your boss wants, and give it to them. You will have weekly one on ones, and make sure you are addressing your performance at each one, asking if they have questions, how you can improve, can you work on cross functional projects, etc.
+
+It's really hard to find work life balance at Google. The workload is huge. I hardly have time to work out. The commute is brutal. My family sometimes needs more from me and I can't give it. I'm still trying to find the balance. I think I need more down time than most people so I have a hard time being structured every day to fit all the things I want into my day, so a lot of things slip, like working out.","Keep on NOT micromanaging - that is a huge benefit to Google. Most of us have a huge workload and we work in spikes and not chained to our desks, and we care deeply about producing, and we produce a lot. We can do that because you respect us enough to give us some freedom in how we do our jobs.",5.0,2.0,5.0,5.0,4.0,5.0
+2019-04-01, Developer Advocate,"San Francisco, CA",Current Employee ,Enormous resources to let you do what you want to do,More than 5 years,0,"Great benefits.
+Mostly great managers.
+Talented coworkers.
+Good culture that tries to make things better, with leaders that take action to try to make things better.","It's a big company. Not all parts/teams/people are good.
+It can be hard to ""assume good intent"" when interacting with people you do not know across the company.
+It can be hard to get things done because the company is so big that you have to find your own roadmap.","Focus on rewarding the values that Google wants to uphold. The words are right, and a lot of the action looks good, but it's important that these are deeply emphasized all the way to performance evaluations and compensation.",5.0,5.0,4.0,4.0,5.0,4.0
+2018-07-19, Software Engineer,"Los Angeles, CA",Former Employee ,"Unique, one of a kind dream job",More than 3 years,0,"Google is a world of its own. At every other company, there were lots of people who had serious gaps in their skills. At Google, I could have a serious work conversation about technology with everyone and could trust that they have solid expertise. In that way, Google is a sheltered garden from the rest of the world.
+
+There is a general sense of trust in the company. You can leave your valuables and laptops lying around, and they are safe. People joke that it's the only place where you use an expansive laptop to reserve a seat at the cafeteria, while walking away.
+
+At other companies, teams are very protective of their own code. Trying to execute another team's code requires following a 50 step installation process that's out of date and was never complete to begin with. Google has almost all the code in the same source repository. An engineer can look at the code, easily execute the code because it comes with intelligent defaults and standard build process, and contribute enhancements/bug fixes. The other teams are generally grateful for getting improvements. They understand that it's better for the company if the bug is fixed rather than holding onto territory or insisting on their own strange ways.
+
+Google takes care of you all around. From food, health care, generous vacation, onsite gym, and so on, you are well taken care off and can focus on work rather than dealing with life's hassles. There are cases where Google goes above and beyond tremendously. Here is an example that floats around internally. A Googler had worked at Amazon before. Amazon relocated him. Because of the relocation, he had to change his partner's health insurance for some critical and expensive life changing medication. Due to same sex partner and relocation, the health insurance company refused. Amazon was so unhelpful that the HR representative who was forced to deliver the news broke down crying and then quit over it. He switched to Google. The Google HR department negotiated an exception for him with the health insurance and included the necessary change for the following policy year for all employees.
+
+A lot of Google products have a huge impact with over a billion users. Working there, you can feel that you change the world.
+
+I was very happy with the compensation. There are also a lot of opportunities in the company to follow your interest. Pretty much anyone can get an intern, participate in setting coding standards (obviously you have to argue the case for your proposals), interviewing, supporting local schools with tech expertise. Google opened up a lot of opportunities in the community or in general in tech to volunteer in.
+
+Google is considered the largest functioning anarchy. That has its good sides, like the glee of joy for operating without strict oversight. It also has its dark side, like a hands-off management tends to encourage politics.
+
+Another beauty for engineers are internal tools. Your development environment is in the cloud. You can sit down at a loaner computer and be productive within seconds. There is a massive cloud compiling system that shards your compiles across many computers in the cloud. The search function across the codebase is powerful. You'll feel that downloading and compiling code on your own computer in your IDE is something of another epoch, like something from before the industrial revolution.
+
+The Google badge is a wonderful thing to carry. It opens doors to a different world. The office spaces are beautiful with work, rest, and play areas. The MTV location is like a utopian city on its own. Everything in it, food, drinks, work spaces, swimming pools, gym, bowling alleys, showers, and so on are free (for employees). It is a whole world of its own.
+
+Most companies have a one-over-one promotion model. Your boss has to decide to promote you. Your bosses boss has to sign off on it. At Google, the promotion is decided by a relatively impartial committee that due to promoting lots of people has experience in it. You can even get promoted in rare cases against the will of your manager. Rumor has it that managers won't hold a grudge if that happens but support it. The hiring committee looks at a promotion packet that includes reviews from peers. There can even be unrequested peer reviews. In general, it creates an environment that discourages bicycling - bowing to the higher ups and kicking the lower downs hard. However some people have realized that they can hurt colleagues with bad reviews and impunity. It's rare, but colleagues careers took a dive due to someone holding a grudge or simply writing a thoughtless review. (There is some concern about stack ranking, but I don't understand enough of the background to comment on it. There are plenty of discussions with insight elsewhere.)
+
+To underscore how Google is one of a kind, there is an internal database with legendary things that happened at Google. Someone parked his car for many years on the employee parking lot. When after years, he went looking for his car, it was gone. He went to security. He found out that it was simply moved because the parking lot had been repaved. Another Googler lived in the office fulltime to save money on rent. He wrote a guide on how to do that. As there are showers and other facilities, it is possible to do so. And Google let it happen. After a while of saving rent payment, he could afford the down payment on buying his own place. All these stories make Google a wonderful place to work at.
+
+An important topic to bring up is work/life balance. Work/life balance is an amorphous topic that means a lot of different things to different people. Getting up to speed at Google is consuming. Depending on your work, it could take a year to become productive. Many colleagues reported no longer having a personal life after starting at Google. Some colleagues simply love technology and can't think of anything better than working until the AM hours on some tech that gets them excited. You can tell these people by physically looking at them. For them, it is a heaven. If you are a balanced person with personal interests and relationships, you are likely going to be challenged. If you signed up for one of the big five tech companies, you wanted challenge, right. If I would do something differently, it is to take advantage of all time saving things. Pay for a laundry service. Pay for a cleaning service. I've had a moral hangup about doing that because on a moral level, my time shouldn't be more worthy than that of another human being. If I could do it all over again, I'd pay for every possible service to save time. In the grander scheme of things, if you work at Google, your skill is so valuable to humanity that you should make use of it instead of standing in line at the grocery store. I don't mean that in an arrogant way. If you work on a service with a billion users, your ability to make life better for them with another hour of work is worth more than folding laundry. You've paid the price in education, training, and effort to be able to do that. Make use of your power for the great code. (The view that all those perks are only there to keep your nose closer to the grindstone is the wrong way of looking at it from a philosophical point, in my humble opinion.)
+
+For full disclosure, there are some people who coast at Google. They probably don't have any complains about work/life balance or perhaps the worst complaints because they are all about coasting.
+
+Many company mishandle projects. When the next time comes around, they mishandle it in the same way because the people responsible aren't the ones working late nights and weekends. Google does two things to get better: (1) There are honest and public postmortems. They are the pride of a lot of true engineers. (2) Zeitgeist is an annual survey about the work place and the company. The survey is quite exhaustive. Every manager from the CEO to the front-line manager reports on the result of his/her area. Then they take actions to attempt to improve areas that got low scores. Having worked at companies where now improvement effort is done, this annual and systematic process is very refreshing.","If you don't work in MTV (HQ), you will be given work. However if you are passionate and want to advance your career, you should relocated to MTV. Any project that started doing well and getting important seemed to get transferred there. Promotion opportunities are better there. It seemed that everyone who relocated from another location to MTV, was a lot happier.
+
+Officially, the company focuses on impact. In practice, it seems to focus on being highly productive in producing code, but not necessarily in actually succeeding. In theory, if you have a simple idea that doubles the revenue/customer satisfaction, it should be more appreciated than an idea that took a lot of effort/difficulty and had less improvement. But it tends to be the other way.
+
+Promotions tend to be tied to launching a project that makes peers at a higher level happy. That's often easier with an API that happens to be really useful for peers than launches that benefit users. Landing the right kind of project to work on is a big factor of getting a promotion, which is easier in MTV and also encourages politics. A colleague was told directly from his boss that he has to get better at ""turf war.""
+
+A general rule of thumb is that everyone ends up in ads. Non-ads projects tend to be more volatile and have a tendency to end with people ending up on ads projects. This is not necessarily a con. One should simply prepare for it.
+
+There seems to be a general trend as Google gets larger (60K+ employees) and the founders are withdrawing their impact on the company that Google's specialty is fading a bit. Microkitchens stock less eye popping snacks and drinks. The Christmas gift went from a nice bundle of cash to a coveted phone to a cheap phone to simply a donation to a charity of your choice. The hiring bar seems to get lowered to satisfy the need to hire more people.
+
+Managers tend to become managers for their tech skills and not management skills. It definitely shows in the quality of management. Very smart people, very technically capable, not so business and people savvy. This is not necessarily a complete con because a manager without a clue in tech is definitely a lot worse.
+
+There are some stars that people belief that Google still has but doesn't. The myth of 20% time is alive outside of Google. It's discouraged inside of Google. The only person whom I knew to participate in 20% time did so by working on another team, which he wanted to test out before transferring. Outside people belief that 1 day a week a Google can work on anything he/she deems interesting. Management doesn't outright deny it, but it's formulated as: If you work 20% time on something else, it has to have company impact worth 20%. This is not necessarily a con. It's more like a missing pro.
+
+Another shining star that's gone is the ""don't be evil"" motto. It was silently dropped and replaced with ""do the right thing."" Google didn't turn overnight evil. There is some philosophical case to be made why the new motto is better. However it seems with the founders drawing back from company involvement that the dramatic standing up for users of the old times is also fading. Google is still a far cry from Monsanto.
+
+If you work there and want to advance your career, don't volunteer for anything. It is kind of viewed as a ""vacation"" if you volunteer for things. For example at other employers, interviewing was viewed as a prestigious activity reserved for the most trusted employees to shape the future. At Google, any hour you spend interviewing means missing an hour to increase your performance score. You'll be rewarded for finding ways to dug out of the interviewing responsibility. Again this is not necessarily a con, simply something to understand.
+
+You are going to meet some of the brightest and most brilliant people. You are going to meet people with interesting backgrounds. You are going to have wonderfully engaging conversations. But all of that intelligence tends to also have caused nature to create that intelligence at a trade-off (in some people). Perhaps a lack of humanity or emotion was the price of it in some people. You are going to have some lunch conversations that are going to make you spit your food back out, like a colleague seriously proposing to use nuclear bombs to solve social issues. I sometimes felt the need to take a break from the office to be around people who display normal emotions (or any emotion). While the general office culture is very liberal/progressive, there are some pockets of social beliefs that are breathtaking to how little they care about human life or different lifestyles/opinions out of some law of the strong or ultra libertarian reasoning.","Promote managers into management for their manager skills. Train manager in managing skills (both business and people managing skills).
+
+Focus more on the user. It seems that OKRs are more focused on internal metrics than actually understanding the user and making them happy.
+
+Roll back the trend towards becoming a regular company.",5.0,5.0,5.0,5.0,5.0,5.0
+2019-04-10, Staffing Channels Specialist,"Austin, TX",Current Employee ,Feel grateful to work here daily,More than 3 years,0,"Great manager, perks, they care about their people. The culture in the Austin office is incredible, with a lot of energy. People are willing to help one another","Lots of red tape for decision making, hiring process takes a long time. Mine took 5 months and it was quite draining- worth it in the long run but as the company scales they could work on reducing barriers to entry/time to offer.",,5.0,,,,,
+2019-04-10, Staffing Services Associate/Recruiting Coordinator,"Mountain View, CA",Current Employee ,Recruiting Coordinator,More than a year,0,"-Working with amazing, intelligent people who inspire
+-Competitive
+-Fun/Eventful
+-Great company that dabbles in community service
+-Free bus rides/food/micro-kitchens/gym/gym classes
+-Flexibility and lots of independent work
+-Allows for changing processes if inefficient
+-Entry level exposure to recruiting world
+-Ambitious goal-setting","-Often times stressful
+-High workload
+-Hard to fit in perks when so busy",Spend more time with team.,5.0,3.0,5.0,3.0,4.0,5.0
+2019-04-09, Software Engineer,"Mountain View, CA",Current Employee ,Amazing Company to Start Your Career,More than 3 years,0,"Very smart people, tons of independence","Since it's a big company, there can be a lot of variety between teams.",,5.0,5.0,5.0,5.0,5.0,5.0
+2019-04-09, Senior Account Executive,"Chicago, IL",Current Employee ,Great company,More than 10 years,0,"Pay, health benefits, perks, access to clients, insight into big moonshot projects",Internal cross-functional team hierarchy is not weighted evenly,,5.0,3.0,4.0,4.0,5.0,4.0
+2019-04-07, Software Engineer,,Current Employee ,Great company,,0,"Perks/benefits, coworkers, compensation, good culture",Big company so the pace can be slow,,5.0,,,,,
+2019-04-06, Software Engineer,"Mountain View, CA",Current Employee ,Extraordinary coworkers / Empathetic managers / Phenomenal Tech,More than 3 years,0,"Google has some of the most talented coworkers I've ever had the privilege of working with. If you work here and are open, you can learn from everyone you meet. Most of the managers generally care and try to enable you to succeed.",Company management has difficult making pivots across the entire org,,5.0,5.0,5.0,5.0,5.0,5.0
+2019-04-04,,,Current Employee ,Lots of good,More than 5 years,0,"Good benefits, talent, scale, growth",Comp and mobility could be improved,,5.0,5.0,5.0,4.0,4.0,4.0
+2019-04-03,,,Current Employee ,great place to work,,0,"love it, is an amazing company. free food",nothing comes to my mind right now,,5.0,,,,,
+2019-04-04,,,Current Employee ,Amazing work environment,More than 3 years,0,Google is as amazing as ever.,Business maturity has made some orgs more difficult to progress in than others,,5.0,5.0,5.0,4.0,5.0,5.0
+2019-03-30, Business Analyst,"Atlanta, GA",Current Employee ,Great place to work at!,More than a year,0,"Fun and friendly environment, great pay and great benefits","None, this is a great company!",,5.0,3.0,5.0,5.0,5.0,4.0
+2019-03-30, Sales Executive,,Current Employee ,Amazing,,0,"Everything, its amaing woeking there","None, maybe i would say that small office in mex",,5.0,,,,,
+2019-03-30, Software Engineer,,Current Employee ,Good,,0,Good environment and healthy culture,Maybe not too exciting as startups,,5.0,4.0,5.0,4.0,4.0,4.0
+2019-03-31, Product,"San Francisco, CA",Current Employee ,Great place to work for,More than a year,0,"Overall, it was a good experience. Would recommend to anyone looking for a stable career",I don't really have anything to say on this.,"None really, in my opinion the direction is pretty clear and well managed to.",5.0,5.0,4.0,4.0,5.0,4.0
+2019-04-13, Software Engineer,"New York, NY",Current Employee ,Awesome benefits/perks and work culture,More than a year,0,"- Great compensation and benefits
+- After working on a team for a while, internal mobility is encouraged
+- A lot of nice fringe perks and resources, especially at the bigger offices (free cafes, massages)
+- Comfy offices
+- Work / life balance and personal development are heavily encouraged
+- Tech and brand are well established, but there's still room for growth and impact","Most of the cons come from the fact that the product team I work on is very large and spreads across multiple offices. A lot of product teams are pretty large and cross-functional.
+
+- Communication can be a logistical nightmare (lots of emails, meetings, and people involved)
+- Decision-making can often be slow and bureaucratic",,4.0,5.0,5.0,5.0,5.0,4.0
+2019-03-26, Software Engineer,"Mountain View, CA",Current Employee ,Excellent place to work,More than 5 years,0,"* Scale! In Google you can improve the products used by billions of people, or shape the future of the entire industry. Few companies can boast that;
+* Outstanding developer and production infrastructure;
+* Great culture and supportive peers;
+* Tech management done right - usually your managers are your senior peers who are incredibly helpful and have first-hand knowledge of your area;
+* Good compensation and perks.","* Things may move slowly - even the smallest changes and experiments take a long time;
+* In established and seasoned products, your contributions might look small and negligible at first;
+* You mostly work with internal tools, and have no idea what's happening in the wild.",,5.0,5.0,5.0,4.0,5.0,4.0
+2019-03-26,,,Current Employee ,Awesome place to work!,More than 8 years,0,Smart People work here. You will not be bored,"None, I love my job.",,5.0,3.0,3.0,4.0,5.0,2.0
+2019-03-26,,"San Francisco, CA",Current Employee ,Great company to work at,More than 3 years,0,Really great and fun to be at,No big issues to report,,5.0,,,,,
+2019-04-09, Sales Operations Manager,"San Francisco, CA",Current Employee ,"Large company, great benefits",More than a year,0,"Plenty of smart people
+Amazing benefits
+Work life balance on your own terms - complete autonomy on how/ where you get your work done - can can work fewer hours if you plan your time well.","Difficult to accelerate & differentiate yourself
+Multiple teams often working on similar things, can be difficult to see impact
+Huge variance in quality of direct people managers, particularly if below Director level",,4.0,5.0,4.0,5.0,5.0,3.0
+2019-03-22, Google Engineering Practicum,"Mountain View, CA",Former Employee ,Excellent Internship With Loads of Learning Potential,Less than a year,0,"Free food
+High internship pay
+Plenty of resources to learn
+Excellent work life balance","Minor office politics
+Recent public backlash",,5.0,5.0,5.0,5.0,5.0,5.0
+2019-03-24,,,Former Employee ,Great time,,0,Great food and pay stuff,Not as much impact as i would like,,5.0,,,,,
+2019-03-23, Network and Computer Systems Administrator,"Coeur d'Alene, ID",Current Employee ,Owner,More than 10 years,0,i have fun love my job,fun happy loveing my gob,Christopher Michael Edward Coleman,5.0,5.0,5.0,5.0,5.0,5.0
+2019-03-24,,,Current Employee ,Great company to work for,,0,Great perks and amazing benefits.,Food sometimes too spicy and deserts are not as great as they used to be.,,5.0,5.0,5.0,5.0,5.0,5.0
+2019-04-07, Account Manager,"San Francisco, CA",Former Employee ,Great culture,Less than a year,0,Google lives up to its reputation as a best-in-class employer.,Upward trajectory on the sales team can be limiting.,,4.0,,,,,
+2019-03-22,,,Current Employee ,Great place to work,More than 3 years,0,"Great people, maternity leave really supports healing & bonding with baby",Large company that no longer has a startup feel,,5.0,,,,,
+2019-04-05, Software Engineer,"San Antonio, TX",Former Employee ,Great time,Less than a year,0,"Great culture, had a lot of fun at Google",Very difficult work. Tough work/life balance,,4.0,2.0,5.0,5.0,4.0,5.0
+2019-04-06, Staffing Leader,"Mountain View, CA",Current Employee ,Good place to work,More than 5 years,0,Great benefits and overall compensation packages.,Won't admit that it's finally become a behemoth and corporate. It's no longer the fun funky vibe it once one. It's heavily profit driven and less about the social responsibility. The culture has changed and they just won't admit it.,Just own that you're focused on profit. It's ok. Many companies are.,4.0,1.0,3.0,5.0,5.0,2.0
+2019-03-22, Operations Manager,,Current Employee ,Incredible Place to Work,,0,"Perks, People, Culture, Career Development",A lot of competition which can make it difficult to advance,,5.0,,,,,
+2019-03-21, Software Engineer,"Mountain View, CA",Former Employee ,Really great place to work,More than a year,0,"Every is kind and inviting, easy to get help, great pay and benefits, truly awesome place to work",Large company so hard to get to know everyone,,5.0,5.0,5.0,5.0,5.0,4.0
+2019-04-03, Program Manager,"Mountain View, CA",Current Employee ,Great company - very smart people,Less than a year,0,"Great talent, the company does attract the best of the best, great perks and great culture.",A little chaotic in the way strategic initiatives are run... Perhaps would help if we had a lil more centralized leadership. That's not the google way but we should find a way to be more organized in cross pa work,,4.0,4.0,5.0,5.0,4.0,5.0
+2019-03-20,,,Current Employee ,Google is fine,,0,Nice profits like bus food etc,Hard to get return offer,,5.0,,,,,
+2019-03-19, Social Media Manager,"Los Angeles, CA",Former Employee ,Excellent!,More than a year,0,"Amazing experience, fun people, growing exprience, tons of opportunitis",I can't tell I had a bad experience while there,,5.0,5.0,5.0,5.0,5.0,5.0
+2019-03-19,,,Current Employee ,Good experience,,0,high salary and balance work load,no obvious drawbacks until now,,5.0,5.0,5.0,5.0,5.0,5.0
+2019-03-19,,,Former Employee ,Dream job,Less than a year,0,"Benefits, atmosphere, corporate culture, respect of the community","None, really. Great place to work.",,5.0,5.0,5.0,5.0,5.0,5.0
+2019-03-18,,"Mountain View, CA",Current Employee ,Great place to work,More than 8 years,0,Really smart colleagues to work with.,Snacks could be a bit better.,,5.0,,,,,
+2019-03-16, Hardware Engineer,"San Francisco, CA",Current Employee ,Its amazing.,More than 5 years,0,The coworkers are the best.,The pressure is a lot to handle.,,5.0,5.0,,,,
+2019-03-22, Business Development Manager,"Mountain View, CA",Current Employee ,Great place to work!,More than 5 years,0,"- Compensation is very competitive
+- Perks are really compelling
+- Maternity/Paternity leave way above industry standards
+- Internal Mobility is great","- Role scope may be too narrow
+- Internal bureaucracy is becoming an issue
+- VPs and Directors never leave, hampering growth opportunities for the team",- Replace leaders that score low on employees feedback,4.0,5.0,5.0,4.0,4.0,3.0
+2019-03-16,,,Current Employee ,Great place to work,More than 3 years,0,"Work Life Balance
+Big Achievement
+Good perks","Nothing to say, company is so great.",,5.0,5.0,5.0,5.0,5.0,5.0
+2019-03-28,,"Mountain View, CA",Former Employee ,Excellent place to work for if you have the right manager,More than 3 years,0,"- Perks: so so good. Aside from best in class health insurance, free food, laundry, gym, free massages, the 401K is UNREAL and that's just for starters.
+- Options: roles open in basically every job function and across industries. So much to explore!
+- People: Some of the smartest people to work with.","- Feels like you're in a bubble.
+- Changing roles can be extremely hard. Even as an inside employee it's still a struggle
+- Not all managers are created the same. If you get stuck with one you don't see eye-to-eye with your life can be made a living hell.
+- The evaluation process that can feel overwhelming, unnecessary and arbitrary
+- You'll be asked to contribute to a myriad of tangential tasks and projects and they will have no bearing on your evaluation unless they contributed directly to your OKRs","Rewards your employees for the passion work they do that often gets unrecognized, like diversity initiatives.",4.0,4.0,3.0,4.0,5.0,4.0
+2019-03-14,,,Current Employee ,Google,More than 3 years,0,"Great pay, benefits and culture.",A little tough to get promoted.,,5.0,,,,,
+2019-03-11,,,Current Employee ,The Best,More than a year,0,Amazing company and people. Wow.,Nothing that I can think of.,,5.0,5.0,5.0,5.0,5.0,5.0
+2019-03-07,,,Current Employee ,Best place to work,More than 3 years,0,Super awesome people and culture.,Not many to be honest! But perhpas that the company is at risk of becoming too big.,,5.0,,,,,
+2019-03-25, SWE,,Current Employee ,Okay company,,0,Good Flexibility in work hours,"Large corporation syndrome, fair amount of politics",,3.0,,,,,
+2019-03-09, Sales Planner,,Former Employee ,Positive work environment,More than 3 years,0,Motivated to become the best person you can be through inspiring work and colleagues.,Sometimes reviews felt tedious or redundant.,,5.0,5.0,5.0,5.0,5.0,5.0
+2019-03-09, Software Engineer(Internship),"Mountain View, CA",Former Employee ,"Stable, Flexible, and inclusive place to work",Less than a year,0,"A dream place for a software engineer to work. Brilliant colleagues, perfect culture, and inclusive environment.",Sometimes the workload for an internship or new grad engineer might be a little bit boring.,,5.0,5.0,5.0,5.0,5.0,5.0
+2019-03-09, Vice President Corp Dev,"Chicago, IL",Current Employee ,The train keeps rolling,,0,Energetic engaged people. Taking on the likes of AWS and Azure in the Cloud battle.,"Not really known for sales execution, more brand execution is what they are known for.",,5.0,3.0,3.0,4.0,5.0,4.0
+2019-03-07,,"Irvine, CA",Current Employee ,Hey Google,,0,"Breakfast, Lunch, Smoothies, Gym, Maternity/Paternity Leave",Experience can vary based on the team you work on,,5.0,,,,,
+2019-03-22, Software Developer,"Los Angeles, CA",Current Employee ,Good company,More than a year,0,Many Benefits and friendly people,boring job and not the best potential,,4.0,4.0,4.0,4.0,4.0,4.0
+2019-02-15, Inside Sales Representative,"Austin, TX",Current Employee ,Amazing when you look at it as a whole,Less than a year,0,"Everyone I work with is willing to help when you when you need it, give you advice, support, and overall super friendly. The company provides you with a ton of resources, benefits, and I have heard many stories of them helping employees beyond what normal companies would do in special circumstances that shows how much they value you. It is a very transparent workplace that offers employees the ability to speak up and voice their opinions",They encourage you to do 20% projects but really what that means is do 120% work because you still need to get all of your regular work done and it feels like if you aren't doing 120% then you won't move up anytime soon.,"If we are going to have something like 20% projects, then I think the scope and nature of the individuals expectations for their core role should be adjusted to reflect if they are taking on a 20% project or not so that way we can feel comfortable actually doing projects outside of our role that we feel like will add value to Google.",5.0,4.0,5.0,4.0,5.0,
+2019-03-07, Senior Software Engineer,,Current Employee ,Awesome,More than 3 years,0,My dream to work for them.,Scary at time because the number of geniuses,,5.0,,,,,
+2019-03-06,,,Current Employee ,Great Company,,0,The interview process is quick if apply early,don't know about it yet,,5.0,5.0,,,,
+2019-03-18, Legal Specialist,,Former Employee ,Legal: a struggle to get things to change,More than 5 years,0,Lots of work (job security),Lots of work (too much = burnout very fast which was happening all the time),Learn how to be good managers...and don't jump the gun with decisions. Ask the team more.,3.0,1.0,2.0,1.0,4.0,2.0
+2019-03-05, Systems Engineer,"Mountain View, CA",Current Employee ,Great environment and employees are treated with respect,More than 10 years,0,Perks and benefit is top notch,Company is getting too big.,,5.0,5.0,4.0,4.0,5.0,3.0
+2019-04-03, Software Engineer,"Sunnyvale, CA",Current Employee ,Management does not care about you,More than a year,0,+1 star for the good perks.,"I left Google Cloud almost 2 years ago to join a different org in Google. My experience in Cloud was disappointing, and not a day goes by where I don't regret leaving earlier. My current team, while not perfect, treats me with respect; it really goes to show how huge the variation can be across Google.
+
+Here are many lessons I've learned in my previous team which I hope will benefit you:
+
+- If your project is not listed as part of an OKR (Objective & Key Result), no one cares about your project. While most managers will make sure you have a project that can grow your skills and career, many won't and may even try to mislead you into believing your project is more meaningful than it is. Voice your concerns, and firmly ask for a meaningful project. As an L3 engineer, it is not your duty to come up with projects, so your manager has the responsibility to find a good one for you.
+
+- If you feel your career is going nowhere, transfer to a different team (which can be done without manager approval after 1 year). Do not fall into the sunk costs trap of refusing to leave because you didn't get what you wanted out of your 1 year on the team. For my first half year at Google, I fixed bugs, set up system health monitoring, did deprecations, refactorings, migrations, etc but never had a genuine project. I thought that after a half year of BS work, I would be given better opportunities. Then, I was assigned a monolithic project. I worked long hours to move the project forward. However, our sibling team repeatedly bailed on their responsibilities in the project, and I had to continuously adapt the design accordingly. Eventually, it became clear that our sibling team was not going to contribute anything, and I felt I could no longer leave the team because the project would require significantly more work than initially anticipated. After one year of working on this project, our management decided not to launch without any basis. If you're not treated well after a year, don't think your coworkers and boss will suddenly start treating you well in your second year or even third year. Don't be idealistic or loyal because Google was rated #1 in employee happiness; it's a big company and not every team is the same.
+
+- Management is perfectly fine wasting 1+ years of your time rather than have an honest conversation about the relevance of your project. On my previous team, this was the norm, not the exception. See the previous bullet point for one example, but this had also happened to my next project, as well as many of my coworkers' projects. The reality is: Managers don't face as much penalty for cancelled projects as engineers. Some managers have 30 reports working under them on a variety of projects, and the performance evaluation has a word limit and a limit of 5 projects. If a project fails, managers can just add more words to the other projects. However, as an entry-level engineer, you may only be working on 0-2 projects, so a cancelled project is much more detrimental to you. The same applies for cross-team collaborations. Make sure the partnering team has a tangible investment in your project. People have a tendency to promise commitments for a reputation boost, but when it comes to actually doing the work, they will flake if there's nothing in it for them. One way to reduce the chance of your project getting abandoned is to make sure your project is part of your team's (or the partnering team's) OKRs. Managers have an explicit responsibility to fulfill their OKRs.
+
+- In 1-on-1 meetings, do not believe everything your manager says about your career path. Actions speak louder than words. Has your manager been giving you ample project opportunities for growth? Are you getting opportunities for impact comparable to your peers? If the answer to these questions is no, you're not on a strong path to promotion, no matter what your manager says. At Google, performance evaluations are done at a cycle of every half-year. In my second cycle, my manager told me I performed well, and was on track to getting promoted in the next cycle. In the following cycle though, my manager said it may take another 1 year before I would get promoted, even though I never received any indication I had gone off-track. While I would imagine most managers are honest about your career growth, some aren't. By telling you that you have a chance at promotion in the next cycle even if it's not true, they have effectively kept you for another half-year and postponed any consequences for their dishonesty until then. Also, it does not matter if you're assigned an unimportant project or your coworkers failed to do their part. No one is going to say: ""Johnny's project failed to launch, but Johnny did an excellent job and deserves to be promoted anyway"" because it implies someone else should be blamed, and no one is willing to make that sacrifice for you. Also, the promotion committee frankly doesn't care; they need to see measurable impact because that's one of the criteria for promotion, regardless of whose fault it is.",,1.0,1.0,1.0,4.0,1.0,
+2019-03-03, Software Engineer,"New York, NY",Current Employee ,just,Less than a year,0,it is the biggest it company. cares for its employes.,hard to get job in google,give jobs according to skill not our collage qualifications,5.0,5.0,5.0,5.0,5.0,5.0
+2019-03-03, Data Analyst,"Mountain View, CA",Current Employee ,This is headline,Less than a year,0,"Great company culture, who does not like google",Too much politics from management side,,5.0,5.0,5.0,5.0,5.0,3.0
+2019-03-04, Vice President R&D,"Palo Alto, CA",Current Employee ,Love it,More than 8 years,0,A great place to develop and learn!,It's lost the sense of urgency and agility over time.,Kind of part of mngt.,5.0,,,,,
+2019-03-04, Senior Ae,"New York, NY",Former Employee ,Great for Stability/Work Life Balance,More than 5 years,0,"Benefits, diversity, innovative, stable company. Peers are some of the smartest and brightest in the industry. Great for working moms.",Very little room for upward development in structured promotion framework,,5.0,5.0,5.0,3.0,5.0,5.0
+2019-03-03, Administrative,,Former Employee ,Great place to work!,More than a year,0,Good pay and great benefits,Long hours at times and tight deadlines,,5.0,5.0,5.0,5.0,5.0,5.0
+2019-03-03, Consultant,"San Francisco, CA",Current Employee ,Great company,More than 8 years,0,Many opportunities . Really enjoy working here.,Sometimes you can get lost in a large organization.,Promote more from within.,5.0,5.0,5.0,5.0,5.0,4.0
+2019-03-02, Operations,"Sanford, FL",Former Employee ,Great,More than 3 years,0,"Wonderful place to work, I enjoyed it a lot","None that come to mind, a little stressful at times",,5.0,5.0,5.0,5.0,5.0,5.0
+2019-03-15, Tech,,Former Employee ,n,More than 3 years,0,great perks including late days,none that I would like to discuss,,4.0,4.0,4.0,4.0,4.0,4.0
+2019-03-01, Data Scientist,"Seattle, WA",Current Employee ,Wonderful place to work,More than 5 years,0,"Google treats you like a human, not a number. I’ve worked at other Fortune 100 companies, and no one treats you like Google",Sometimes scale makes things a bit difficult,,5.0,5.0,5.0,5.0,5.0,5.0
+2019-03-11,,"San Francisco, CA",Current Employee ,Good enough that I won't leave,More than 5 years,0,perks are unmatched (food/massage/etc.) and pay is pretty good,If you get a bad manager you're a little stuck.,,4.0,,,,,
+2019-02-28, Software Engineer,"Mountain View, CA",Former Employee ,Great Company to Work For,More than a year,0,"Amazing food, and coworkers. The free perks are also great.",Prepare to work all day and night long~,,5.0,4.0,5.0,5.0,5.0,5.0
+2019-03-14, Analyst,"Mountain View, CA",Former Employee ,Great work-life balance,More than a year,0,Amazing caliber and best company culture,Too slow in product development and too many redundant operational projects,Cut down on overhead by consolidating overlapping workstream,4.0,5.0,4.0,4.0,4.0,3.0
+2019-03-13, Senior Software Engineer Manager,"New York, NY",Current Employee ,"Great place to work, but is feeling more and more like a big company",,0,"Great opportunities, impact, perks, colleagues.","The company is growing too much, and new leadership have changed the culture. It starts to feel more like a big company with less motivated people.
+The perf management process is excruciating.
+For higher levels, seems easier to get in as a connected external leader rather than growing from within.","Nurture your leads internally; especially in the cloud organization, too many people have been brought from the outside at Director level and above, and have really deteriorated the excitement and the culture that I love at Google.",4.0,4.0,4.0,4.0,5.0,3.0
+2019-03-13, IT Resident,"Mountain View, CA",Current Employee ,Good place to start your career in IT but fixed term employment is rough,More than a year,0,"Cool perks, free food, and shuttles.
+
+Intelligent coworkers.
+
+The ability to travel to other offices and rotate with a different team.
+
+Cell phone and internet are paid for by Google.","Fixed term employment adds a large amount of burnout and stress to residents. Even if you successfully pass conversion interviews headcount isn't guaranteed, and is all dependent on level.
+
+Can feel like a backwards step if you have any sort of professional, full-time IT experience.
+
+There are some aspects of micromanagement from managers which carry over to residents.
+
+The program is in a constant state of flux. Management tends to take the program a completely different direction every six months or so.
+
+Repetitive work depending on what area you support.
+
+Opportunities for coding/automation are hard to find and this puts residents at a disadvantage for technical roles as most require some coding knowledge.
+
+Pay is actually not bad for IT support but could be better especially in the Bay Area. Other companies in the bay pay more for the same work and are not fixed-term.","Provide more opportunities for residents to convert into a role internally. The program has become a pipeline for internal transfers but isn't being viewed that way. The attitude of ""you're here to get work experience, not get an internal job"" needs to go away. Other residency programs have guaranteed employment or a very lightweight conversion process and ITRs are still treated like external candidates when applying for jobs internally.",4.0,4.0,4.0,3.0,3.0,3.0
+2019-02-23, Brand Ambassador,,Former Employee ,Amazing!!! I would do it all over again!,,0,Such an amazing company. Treats its employees wonderfully. Feel valued and heard.,Nothing. No cons. I loved working with the team.,Don't ever change.,5.0,5.0,5.0,5.0,5.0,5.0
+2019-02-26, Senior Account Manager,"Seattle, WA",Former Employee ,Best Big Company To Work At,More than 5 years,0,Excellent culture. Leadership that makes the right decisions for our users. It's all about the user experience and we see that transparently throughout the company. Managers are committed to the career development of their team.,Big company so can be difficult to feel like you're having a big impact on such a big company!,,5.0,5.0,5.0,5.0,5.0,5.0
+2019-02-26, Tax Associate,"New York, NY",Current Employee ,Cool,Less than a year,0,Very nice place amazing cool nice,Not any cons idk can’t think,Keep doing you ya the bomb,5.0,5.0,5.0,5.0,5.0,5.0
+2019-02-26,,"Mountain View, CA",Current Employee ,None,More than 5 years,0,"Comfortable, good pay, good food","Less freedom, politics, bureaucracy, duplicated work.",,5.0,5.0,5.0,5.0,5.0,5.0
+2019-03-11, Project Manager,"Mountain View, CA",Former Employee ,Love it here,More than 3 years,0,"awesome benefits, love the food, the people and the environment",had to leave b/c of personal issues,,4.0,,,,,
+2019-03-06, Graphic Designer,"Mountain View, CA",Former Employee ,"Company is OK, but could do better",More than a year,0,"Snacks, busses, breakfast, lunch, dinner",Company prefers to make use of underpaid freelancers who have no job security instead of hiring permanent talent.,,3.0,3.0,3.0,3.0,2.0,3.0
+2019-03-12,,,Current Employee ,Pick the right team for you.,,0,"Free food, a lot of benefits","People come and go fast. After a year of joining my team, everyone who was on the team when I joined was gone.",,3.0,,,,,
+2019-02-24, Software Developer,"Washington, DC",Current Employee ,Good company,More than 3 years,0,Good company to work with,No cons is there,Good Management,5.0,5.0,5.0,5.0,5.0,5.0
+2019-02-24, Software Engineer,,Current Employee ,Google,,0,"Good environment, Good work life balance",No cons at this time,,5.0,5.0,5.0,5.0,5.0,5.0
+2019-02-25, Product Management,"Mountain View, CA",Current Employee ,Awesome company to work in.,More than 8 years,0,Do I really need to write this.,"It's too big, the smaller employees are overlooked.",Take care of the little guys,5.0,4.0,5.0,5.0,5.0,3.0
+2019-02-25,,,Former Employee ,awesome company,More than 3 years,0,fun environment and great people,stressful and very very competitive,,5.0,,,,,
+2019-03-10,,,Current Employee ,Good for a large company,More than a year,0,Lots of benefits and perks,Big so things move slowly.,,4.0,,,,,
+2019-02-24, Software Engineer,,Current Employee ,Great company for SWEs,,0,Working with smart people and getting various benefits as SWE.,At large company it's slower than startups to have more impact.,,5.0,5.0,5.0,5.0,5.0,5.0
+2019-02-12, Programmer Analyst,"Mountain View, CA",Current Employee ,Good place to work.,More than a year,0,"Many - onsite benefits, collegiality, compensation.",Not able to work remote on some teams.,,5.0,5.0,5.0,5.0,5.0,5.0
+2019-02-22, Software Engineer,"Mountain View, CA",Former Employee ,amazing,More than 3 years,0,"work culture, package, management, teamwork, challenging",none. Didn't find anything yet,none,5.0,4.0,4.0,5.0,5.0,4.0
+2019-02-22, AREA SALES MANAGER,"Tampa, FL",Current Employee ,Clear outlook on Google,More than 3 years,0,their organization is great to work for the leadership is a huge factor to why the organization is lead with the most respect and drive!,only con I came across was the workflow of overtime mandated during black Friday and holiday season,,5.0,4.0,4.0,4.0,4.0,5.0
+2019-02-21, Software Developer,"Mountain View, CA",Former Employee ,Good culture,More than a year,0,Good place to work for,None at all as it was good,,5.0,5.0,5.0,5.0,5.0,5.0
+2019-03-07,,,Former Employee ,Great place to work.,More than a year,0,I got to work with smart people,It is a very large company.,,4.0,,,,,
+2019-03-07, Senior Director,"Mountain View, CA",Former Employee ,"Awesome company, Cloud business struggling",More than 8 years,0,"Amazing talent, fantastic perks, world changing tech and projects","Cloud business not ready for prime time. Products and Tech are world class, but the sales org is not Enterprise ready, despite massive investment. Too much investment in techies, need more experienced, value selling reps and meaningful partnerships","For Cloud, get more customer focused, not user focused. Big difference. Adjust arrogance and aloofness and get into the weeds with customer problems to drive value. Need to focus on lift and shift workloads, not just new dev.",4.0,4.0,5.0,4.0,5.0,4.0
+2019-02-20,,,Current Employee ,Still a great place to work,More than 5 years,0,"All the great benefits, perks, etc. really make this a great place to work. Everything from the great free food to good benefits (health, leave, etc.) truly make this a great company to work for.",Salary seems to lag behind the industry. Culture is going through some growing pains.,,5.0,,,,,
+2019-02-16, Engineer,,Current Employee ,Worked in a software team,Less than a year,0,I don't really remember any issues working at google,Good place but too many issues regarding technical stability,,5.0,,,,,
+2019-02-18,,,Former Employee ,Amazing,,0,"Great people, friendly environment, inclusive, great mission","Nothing, it was perfect I had an amazing time",,5.0,,,,,
+2019-02-19, SDE1,,Current Employee ,Awesome company,,0,"Good environment, big name, good wlb",boring projects for junior engineers,,5.0,5.0,5.0,5.0,5.0,5.0
+2019-03-05, Software Engineer,"New York, NY",Former Employee ,Cool work space,More than a year,0,Cool workspace in a pretty cool area,None I can think of,,4.0,4.0,4.0,4.0,5.0,4.0
+2019-02-11, Technical Recruiter,"Mountain View, CA",Former Employee ,Google is amazing,More than 5 years,0,Great team work and culture,Not a lot of opportunities for advancement,,5.0,4.0,5.0,3.0,3.0,4.0
+2019-02-18,,,Former Employee ,Great Company,,0,I enjoyed my experience there,There were no cons while I was there,,5.0,,,,,
+2019-03-04, Senior Software Engineer,"Mountain View, CA",Former Employee ,Great Benefits and Work-Life Balance,More than a year,0,Managers are great and projects are developer directed.,Easy to get frustrated by the overall size of the company and scale of teams.,,4.0,5.0,4.0,3.0,5.0,4.0
+2019-03-02, Associate Account Strategist,"Mountain View, CA",Former Employee ,"Sales-y, false advertising",More than a year,0,"Benefits, access to free food, amenities, cool tech gadgets","change moves very slow, bureaucratic",should take time to understand what employees actually do,3.0,3.0,3.0,3.0,5.0,2.0
+2019-02-17, Product Manager,,Current Employee ,Best big corporate life,More than a year,0,"Perks, Pay, Autonomy, Culture, Mission, and Values",Bureaucracy and decision making stifled by it,,5.0,5.0,5.0,5.0,5.0,3.0
+2019-03-01, Legal,,Former Employee ,Cool place,,0,Micro kitchens around every corner,"Management expectations are high, not necessarily a con, just something to be aware of.",,4.0,,,,,
+2019-02-13, Software Engineer,,Current Employee ,Amazing place,,0,"A LOT to learn. Amazing tech structure. Everyone is really smart. Fast paced. Innovative culture with focus on users.
+
+Also the usuals: amazing free food + snack + @, perks, and much more",Some docs could use some consistent updates. Still can find information in other ways though.,,5.0,5.0,5.0,5.0,5.0,5.0
+2019-03-21, Licensed Massage Therapist,,Former Employee ,Hypocritical management.,More than 5 years,0,If you want to become a slave.,Ageist. Good luck if you are 50yrs old as you won’t turn 51 whilst still employed.,Don’t hire managers that aren’t qualified to be team members!,1.0,1.0,1.0,1.0,3.0,1.0
+2019-02-26, Program Manager,"Mountain View, CA",Current Employee ,"Great perks, welcoming environment and wide range of opportunities",More than 3 years,0,"Great perks, welcoming environment and wide range of opportunities","Politics, different atmosphere/experience depending on teams.",,4.0,4.0,4.0,4.0,5.0,3.0
+2019-02-12, Software Engineer,,Former Employee ,Great Company and benefits,More than a year,0,Great employee benefits and great working environment,No Cons to be reported,,5.0,4.0,5.0,4.0,5.0,4.0
+2019-02-11, Business Development,,Current Employee ,"Great company, great benefits",,0,Challenging work! Great co-workers.,Work life balance. Large company.,,5.0,4.0,5.0,,,
+2019-02-25, Senior Software Engineer,"Mountain View, CA",Former Employee ,"Great benefits, but some issues too",More than a year,0,"Free food, buses that drive you to work, flexible hours, great gyms, and other services.",Too many too smart people without social skills in one place.,,4.0,5.0,3.0,5.0,5.0,3.0
+2019-02-25, Software Engineer,,Former Employee ,"Great place, takes some getting used to",More than 3 years,0,"Great atmosphere
+Good benefits
+Competitive wages",You MUST adjust. Failure to do so might result in unemployment,Keep doing what you're doing while keeping your employees in mind,4.0,,,,,
+2019-02-09, Program Manager,"Mountain View, CA",Current Employee ,The Best,More than 10 years,0,"People, Perks, Food, Opportunities, People",Some entitlement culture with the newer employees,Keep the core culture by retaining key people.,5.0,5.0,5.0,5.0,5.0,5.0
+2019-02-07, Senior Solutions Consultant,"Playa Vista, CA",Former Employee ,Exactly What You Think It Is,More than 10 years,0,All the benefits and working for a company that everyone is interested about.,"Company has grown a lot in the last few years and is no longer the scrappy little company, but the full blown corporation that it now is.",,5.0,,,,,
+2019-02-07, Receptionist,,Current Employee ,Reception,More than a year,0,The people at google are great,There are no cons at google,nothing,5.0,5.0,5.0,5.0,5.0,5.0
+2019-02-21, Executive Assistant,"Los Angeles, CA",Current Employee ,Good place to work with good colleagues,More than a year,0,They have very good people,There is too much work to do.,,3.0,3.0,3.0,3.0,3.0,3.0
+2019-02-05, Account Strategist,,Current Employee ,Account Strategist,Less than a year,0,"Great company, perks, people, work/life balance",On boarding process needs work,,5.0,5.0,5.0,5.0,5.0,5.0
+2019-02-05, Program Manager,"Santa Clara, CA",Current Employee ,Cool Company,More than 3 years,0,"Free food everyday, go in late to work.",As a contractor employees dont respect you.,,5.0,3.0,3.0,3.0,3.0,2.0
+2019-02-06,,,Former Employee ,Awesome place to work,,0,"Overall great culture (though it depends heavily on team), extremely smart and friendly people, and amazing benefits.",Some older teams have more bureaucracy and are slower-moving,,5.0,,,,,
+2019-02-19, Senior Software Engineer,"Mountain View, CA",Former Employee ,good place to work,More than a year,0,"Good salary, interesting projects to work on, free food",The corporate bureaucracy makes things like hiring new people for a team a real pain,"Fix the hiring/interview process. Have people from the teams interview the people they need, rather than having random Googlers interview them.",4.0,4.0,4.0,4.0,4.0,4.0
+2019-02-02, Recruiter,,Current Employee ,Google recruiter,More than 3 years,0,Great culture and future. Very transparent.,I enjoy going to work each day,,5.0,4.0,4.0,5.0,4.0,4.0
+2019-02-05, Software Engineer,,Former Employee ,Google is Great,,0,Everything is Great and would reccomend!,Cant make as much impact as a startup,Keep doing a great job!,5.0,,,,,
+2019-02-19, Secretary,"Mountain View, CA",Former Employee ,Secretary and Human Resource Assistant,Less than a year,0,A lot of experience gained,The workload varied and intense,,4.0,3.0,3.0,3.0,3.0,3.0
+2019-02-18, Machine Learning Scientist,"Los Angeles, CA",Former Employee ,good,More than a year,0,"good team work, good food",not good work life balance,,3.0,3.0,3.0,3.0,3.0,3.0
+2019-02-03, PM Intern,,Former Employee ,Good Company!,,0,"Smart people, good projects, great perks!","Large company, can be beauracratic",,5.0,,,,,
+2019-02-04, Developer,"Los Angeles, CA",Former Employee ,Something comes from the air,More than a year,0,Good people and good meal,Bad apps and bad status,More women should be involved in tech,5.0,4.0,4.0,4.0,5.0,5.0
+2019-02-04, Software Engineer Resident,"Mountain View, CA",Current Employee ,BEST COMPANY EVER!!!,Less than a year,0,Managers don't micro-manage and the people here are awesome.,Foods isn't as good here in San Bruno as it is in Mountain View.,"None, keep up the great job.",5.0,5.0,5.0,5.0,5.0,5.0
+2019-02-18,,"Atlanta, GA",Former Employee ,good,More than 3 years,0,"goof company name, great experience","long hours, not good salary",keep it up,4.0,4.0,4.0,4.0,4.0,4.0
+2019-01-14, Sales,,Current Employee ,love it here,,0,"lots of my friends have been laid off from several startups, there is just too much hype in startups, the only stable startups are those who have raised a series C or over 100M , any other start up is too risky
+stability at google",no cons to working here,keep it up sundar pichai,5.0,5.0,5.0,5.0,5.0,5.0
+2019-02-03, Account Strategist,"New York, NY",Current Employee ,Great company to work for,Less than a year,0,"Lesser red tape than other big companies
+Employee feedback taken seriously
+Many career options
+Endless learning opportunities
+Work with the best talent in the world
+Free Food
+Great Perks
+Flexible working arrangements","Promotions and raises take very long to come by
+Work life balance is questionable
+Unmentioned expectations of dedicating yourself to the company",,5.0,4.0,5.0,5.0,5.0,5.0
+2019-02-03, Site Reliability Engineer,"Mountain View, CA",Current Employee ,It is pretty great,More than a year,0,"Cutting edge code ecosystem that is always improving.
+Great culture and people.",There is always a new tool to adopt because the old one is deprecated.,,5.0,5.0,5.0,4.0,5.0,3.0
+2019-01-30,,"Mountain View, CA",Current Employee ,Great place to work!,More than 3 years,0,Great work life balance and benefits,Forced Stack ranking leads to less promotions,Be clear about expectations to promotion path,5.0,5.0,5.0,5.0,5.0,5.0
+2019-02-16,,,Current Employee ,Good Experience,More than a year,0,Smart people in the company,It is a corporate structure,,4.0,,,,,
+2019-02-16, Software Developer,"New York, NY",Former Employee ,Everything you'd expect,More than a year,0,"there was a friendly atmosphere, fun people to be around, free meals and equipment, and great activities to take your mind off work.","there was little structure and long hours,",,4.0,2.0,5.0,4.0,4.0,3.0
+2019-01-25, Software Development Engineer,"Boulder, CO",Current Employee ,Positive experience with some typical big company problems,More than a year,0,"Google, despite its problems, is a great place to work for. With a few caveats, anyone interested in challenges should consider working here.
+
+1. In contrast to recent complaints within the company about compensation, you are well compensated in engineering here. Period. You might be able to find better at a startup or another big tech firm, but make no mistake, Google pays highly overall. Look at the salaries page here on Glassdoor and you'll see that right away.
+
+2. The office atmosphere in Boulder is great. As a satellite office with experienced-trending engineers, it's more relaxed than Mountain View with most of the same perks. A decent gym, bouldering wall, and full cafeteria are all things to mention.
+
+3. Work life balance, while very team dependent, is generally superb . I work 8 hours a day, don't carry a pager, and feel no pressure to work more than that. I don't feel the slightest bit of scrutiny if I need to work from home, or go to a comfy nook somewhere out of sight to get some work done.
+
+4. Again, in contrast to recent complaints from Googlers, the senior leadership at Google (thinking of Sundar here) is *very* open. Find me another 80,000 person company that has its CEO answer crowd-sourced questions on very emotional issues like compensation and diversity.
+
+5. I generally have positive human interactions here. There's the typical swath of introverted and occasionally awkward engineers, but generally speaking everyone is ""Googley"", i.e. considerate at a level above the average human on the street.","The big cons fall into two categories: engineering and company.
+
+Engineering specific:
+
+1. The internal tools, compared to open source projects and other companies, suffer from immense proliferation and domain overlap. There are too many ways to deploy code, too many ways to look at a metric graph, too many ways to build a Java library, too many ways to spin up an RPC server, and the list goes on. This ultimately means that none of the products are very satisfactory. There's too much license to ""innovate"" on the fundamental building blocks, and the engineering culture as a whole needs to enforce more standards.
+
+2. It's an extremely common practice for engineers (i.e. with a title of software engineer) to have direct reports. The result is a bunch of very technical leaders who don't care as much about people operations. This is great when you need backing for a proposal, but sub-par when you need to talk about career development or other non-technical topics.
+
+3. Technical Googlers are promoted predominately for ""impact"" - think launching a new service, or saving the company $Xm. There does not seem to be heavy motivation to promote engineers who work hard to maintain stable and important systems. It's a running joke that in order to get promoted, it's better to deprecate something reliable and create something new. In other words, Google is an excellent place to gain experience, but to get ""promoted"", you're probably better off seeking out new opportunities.
+
+4. While mostly good people (especially at a company of 80k), Googlers can sometimes come across as entitled. Yes, finances in the Bay Area is hard even on a salary of $120k+, but the perspective on how much of a privilege it is to work here is sometimes lost.
+
+5. Google is struggling with some of the same issues that the US is politically. The company has the best intentions, but does fall into a hysteria over ""diversity"". Less than 50% hiring of females in engineering is seen as a systemic problem. Google is slowly starting to realize that this is mostly a pipeline problem, especially considering that the industry (and company) makes enormous efforts to hire existing qualified women. However, leadership does not seem very interested in respectful but contrary opinions on this topic, as the firing of James Damore demonstrated. If you care about racial and gender equality, but have doubts about a leftist political agenda, you may occasionally feel afraid to speak up at Google.","Select one or two engineering tools for each function and make them wonderful to use. We would be embarrassed to ask external developers to use our own internal coding and deployment infrastructure. What if GCP were so amazing that we used it internally for these processes? That would be a start.
+
+Let Googlers bring themselves to work by listening to contrary (but respectful) opinions on topics such as gender/racial equality.
+
+Promote those engineers who demonstrate a strong influence in maintaining and improving current systems. New products and features are great, but they shouldn't be the only way to get promoted.",3.0,5.0,2.0,3.0,5.0,4.0
+2019-02-01, Software Engineer,"Calif City, CA",Former Employee ,awesome experience the time i worked there,Less than a year,0,environment was great and easy,nothing that I can remember,grat work,5.0,,,,,
+2019-02-14,,,Current Employee ,pros and cons,More than 3 years,0,great people to work with,work politics and corporate overhead can be a lot,,4.0,,,,,
+2019-01-31,,,Former Employee ,Excellent company for working full-time,Less than a year,0,Excellent company for working full-time,Bad management in the middle game,,5.0,5.0,5.0,5.0,5.0,5.0
+2019-01-31, Staff Software Engineer,"New York, NY",Former Employee ,Great company,More than 10 years,0,Amazing technology and problem to work on,A bit too arrogant and feel that googlers are the best of the best.,,5.0,4.0,4.0,5.0,5.0,4.0
+2019-01-31, Data Analyst,"New York, NY",Former Employee ,Great,More than 5 years,0,Learned a lot while I was there,The organization can be quite bureaucratic,Fewer layers of middle management,5.0,5.0,4.0,3.0,5.0,3.0
+2019-01-24,,,Current Employee ,Great Company and People,Less than a year,0,"The vast majority of people are talented, hard working and collaborative. 'A' players at most other companies are average Joes/Janes here - the bar is high. Internal tools and technology are amazingly accessible, and you are trusted to pave your own way. There is a sincere desire among most people to 'do the right thing'.","There have been some growing pains in the past, that the company is still working through. This has been reported in the press one way or another. For some of the newer business units, internal processes and tools are still evolving and can be painful. Remote workers are not as common as at other companies, so you miss out on many of the perks if you're remote.","Keep the focus on strategic investment in growth areas, maintain the culture as much as possible, continue to focus on transparency.",5.0,4.0,5.0,4.0,5.0,4.0
+2019-01-30, Recruiting Coordinator,"Mountain View, CA",Current Employee ,Contracted Recruiting Coordinator at Google,Less than a year,0,"1. As a contractor, you are treated with respect
+2. Benefits (Cafés, gym, transportation) are excellent
+3. You get to be part of one of the most innovative companies on the planet","1. If you are a contractor attempting to convert to an FTE (full time employee) role, it is quite difficult, requires exceptional metrics during your contract position, and is met with heavy competition.
+2. The pay is worse, the stock options are non-existent, and there is a slight divide between FTE's and TVC's, when you work as a TVC at Google. A good example of a divide: TVC's are not invited to company events (e.g. holiday party).
+3. It can be difficult to keep a work life balance (although it is not expected for you to overwork yourself).","Management is very talented and some of the best I have had. One tip (that a lot of managers already practice), is to give constructive criticism so that TVC's, or FTE's alike, can move into other roles/companies with a well-rounded foundation of skills.",5.0,4.0,5.0,5.0,5.0,5.0
+2019-01-29, Software Engineer(Internship),,Current Employee ,Good place for internship,Less than a year,0,"- networking opportunities
+-perks
+-helpful environment","- too many people
+-low conversion rate",,5.0,2.0,5.0,4.0,5.0,3.0
+2019-01-29,,,Current Employee ,Google Tech Intern,Less than a year,0,"work and life balance is great
+and free food","need additional interviews for the return offer
+and food is not good",,5.0,5.0,5.0,5.0,5.0,5.0
+2019-01-27, SWE,,Former Employee ,Good,,0,"good benefit, good salary, lot of talented people",can be hard to get on to a good project,,5.0,,,,,
+2019-01-28,,,Current Employee ,Great benefits,More than 3 years,0,"Great works, including free food, gym and flexibility to choose own hardware",Has become very corporate and engineers cannot switch team easity,,5.0,5.0,5.0,5.0,5.0,5.0
+2019-02-11,,,Current Employee ,Great place to work,,0,"Great benefits, flexibility to change teams. Work/life balance.","Hard to grow vertically, promotions are tough.",,4.0,,,,,
+2019-01-11,,,Current Employee ,Awesome people but getting bureaucratic and process oriented.,,0,"- The people you work with are awesome, smart and driven
+- Some of the work can be super interesting
+- Perks are awesome. Free food, cheap massages, great gyms, offsites, dental, medical and more","- Management can be spotty. Most management have come up the ranks and don't have the skills to be people managers and still want to do the work.
+- Getting things done can be very slow going. Getting bureaucratic and process oriented. Lots of red tape.
+- Salary is low to live in the Bay Area to live with a family. You need to leave the company to progress up levels.
+- Getting promoted can be very very lengthy.
+ - New higher get treated better than experienced staff when it comes to salary and opportunities.",Focus on advancing your staff and not yourself. Being people managers not technical individual contributors. This should at a high level to reward good people managers and don't expect them to be doing large projects distracting them from the teams they manage.,5.0,5.0,5.0,3.0,3.0,4.0
+2019-01-23, Software Engineer,"Mountain View, CA",Current Employee ,Easily the most comfortable place to work as a software engineer,More than a year,0,"- Great chill atmosphere
+- Great benefits
+- Very advanced collaboration tools
+- Easy to change projects/teams within the company","- Cost of living in the Bay Area is the worst
+- Ramping up takes a long time
+- Seemingly lower salaries than other companies of similar size in the area",,5.0,5.0,5.0,5.0,3.0,5.0
+2019-01-25, Technical Writer Intern,"Sunnyvale, CA",Former Employee ,I loved my 14 weeks of internship at Google,Less than a year,0,"Good opportunities to learn, smart and kind people, Lot of flexibility",Nothing that I can think of,,5.0,5.0,5.0,5.0,5.0,5.0
+2019-01-22, Senior Software Engineer,"Mountain View, CA",Current Employee ,Really Fun Job,Less than a year,0,The benefits at Google are amazing,The work is kind of mundane,,5.0,,,,,
+2019-02-06, Director,,Current Employee ,On the turn ?,,0,"Great benefits, incredible people, enormous impact","Culture is changing (becoming much more corporate), leadership no longer believes in being different.",Be honest not hypocritical,4.0,4.0,3.0,4.0,5.0,2.0
+2019-01-20, Product Manager,"New York, NY",Former Employee ,Top notch in every way,More than 5 years,0,Big projects and smart people to work with. Lots of perks that allow you to simplify your life and stay focused on your work.,"Can sometimes feel like a bubble or a different world. I never left the building to eat lunch, for example.",,5.0,5.0,5.0,5.0,5.0,5.0
+2019-01-18, Network and Computer Systems Administrator,"Los Angeles, CA",Current Employee ,network admin,More than a year,0,best workplace i have ever seen,nothing just enjoyed working with google and learnt many things,need to improve scopes for vacancy viewrs,5.0,3.0,4.0,4.0,5.0,5.0
+2019-01-18,,,Current Employee ,Experience designer,,0,Great work life/balance. Lots of good projects to work on.,"Commute to Mountain View is quite far, spend too much time on the shuttle.",,5.0,,,,,
+2019-01-19, Senior Software Engineer,"Mountain View, CA",Current Employee ,"Still a great place to work, but a bit more of a big company now",More than 10 years,0,"Good work-life balance (depending on department), cooperative culture",A bit more bureaucratic than it used to be since it's bigger now. Communication among teams is friendly but can be difficult to keep up.,,5.0,5.0,5.0,4.0,5.0,4.0
+2019-01-19,,,Current Employee ,Great,,0,10/10 best place to work,no bad stuff in google,,5.0,4.0,4.0,4.0,4.0,4.0
+2019-02-21, Software Engineer,"New York, NY",Former Employee ,Past its heyday,More than 8 years,0,"There are a few great reasons to work there - namely: brilliant, compassionate, and overall amazing co workers, the concentration of which you won't find anywhere else. But they don't outweigh the cons.","I spent 8 years overall at Google, leaving twice, going back once and was in serious talks to go back for a 3rd (!) time. I worked on OS X desktop software, Google Breakpad, Google Health, Search, and, in my second stint from Sep 2015-Oct 2017, CorpEng, and was lucky to transfer between Mountain View, SF, and NYC on their dime over the duration of my employment.
+
+Google has some amazing, mostly unrivaled aspects to working there - the co workers, for one. It's taking over large swaths of Manhattan so living & working for Google in NYC makes for a pretty fun lifestyle. Other perks are also fantastic but companies are starting to catch up. What makes Google not worth it these days, in my opinion, is both its seeming organizational inability to harness its employees' capabilities & intelligence to make products that matter AND the fact that people at the very highest levels (like, L-team levels) don't seem to care.
+
+If you're considering an offer, congrats! It is no small amount of meaningful sweat and tears to get an offer from Google. But take into account that the dream of working there comes from a brand that is slowly eroding as Google transitions from Silicon Valley darling to just another company. Sadly, Google as a whole is less than the sum of its parts, and the organizational dynamics that need to be fixed at the highest levels are continually dismissed.","-Go could have been Swift, if the company had gotten behind it
+-Stop prioritizing cool, novel technology over great products",1.0,1.0,5.0,1.0,5.0,1.0
+2019-02-01, Online Candidate Specialist,"Austin, TX",Former Employee ,Not too sure what’s going on,Less than a year,0,"Free breakfast and lunch, free gym,","Pointless work, very repetitive,",,3.0,5.0,1.0,2.0,5.0,2.0
+2019-01-18, SDE1,"San Jose, CA",Current Employee ,food & environment,More than a year,0,food is tasty and working environment is comfortable,too many people at noon,,5.0,3.0,4.0,5.0,5.0,4.0
+2019-02-01,,,Current Employee ,s,,0,1: free and happy. I enjoy working here.,2:less payment and the rule is strict,,4.0,4.0,4.0,4.0,4.0,4.0
+2019-01-28, Web Designer,"San Jose, CA",Former Employee ,"Work hard, play hard environment",More than a year,0,"Awesome coworkers, exciting work environment",Hard to get your foot in the door,,4.0,4.0,4.0,4.0,4.0,4.0
+2019-02-01, Customer Service Representative,"Killeen, TX",Former Employee ,Customer Service Representative/Cashier,Less than a year,0,"Good co-workers. easy job, busy",High turn over and corporate/upper management constantly changing store policy.,"Satisfactory Supervisor....My store manager was knowledgeable, helpful and patient",3.0,2.0,2.0,2.0,1.0,1.0
+2019-01-17,,,Current Employee ,Second to none,,0,"Best and brightest people, great benefits. Senior leaders show immense empathy and commitment to keeping employees happy. Those who complain likely have not worked in any other standard corporation.","As company grows at unprecedented speed, growing pains is visible. Confidential information leaks.",,5.0,4.0,5.0,5.0,5.0,4.0
+2019-01-30,,,Current Employee ,Best place to work,More than a year,0,"Salary, benefits, and general perks",Upward mobility (to director and above) is tough on business side,,4.0,,,,,
+2019-01-29, Human Resources Manager,"Mountain View, CA",Former Employee ,Awesome Place,More than 3 years,0,Good place to be at and nice people.,They take a while getting back to you when you interview,no advice,3.0,4.0,5.0,4.0,4.0,4.0
+2019-01-29, Software Engineer,,Current Employee ,Software Engineer,,0,"Good food.
+Good environment.
+A lot to learn.",Hard to get promoted.,,4.0,5.0,5.0,3.0,4.0,2.0
+2019-01-08, Software Engineer,"India, TX",Former Employee ,good work culture,More than a year,0,good perks and people there,sometime overtime to meet deadline,,5.0,,,,,
+2019-01-23, SWE,,Current Employee ,It's a big company. It feels like a big company. Perks are A++.,More than 3 years,0,"Training opportunities are good. Coffee, food, gym, and other perks are best in class. Lots of opportunity to learn from colleagues.","Like any large company, the team matters more than the company. Lots of re-orgs. Lots of bureaucracy.",,4.0,4.0,5.0,4.0,4.0,4.0
+2019-01-13,,,Current Employee ,work life balance,,0,very good with work life balance,very competitive with all the smart people,,5.0,,,,,
+2019-01-14,,,Current Employee ,Software Engineer,,0,"Work pressure ,growing too fast","work Pressure, dynamic environment and a little uncertain",,5.0,5.0,5.0,5.0,5.0,5.0
+2019-01-13,,"Mountain View, CA",Current Employee ,Sr Inside Sales Manager,Less than a year,0,Great place to work. Learning and Sharing,No cons at all so far,,5.0,,,,,
+2019-01-13, Account Strategist,,Current Employee ,Great place to start your career,,0,"Love the company culture, benefits, work/life balance. Sets you up nicely for any career in marketing.","It's a large company, you have to know how to play the politics",,5.0,5.0,5.0,5.0,5.0,5.0
+2019-01-13,,,Current Employee ,Great company,,0,"Google attracts good, smart people","Many layers means that you can be removed from decision makers, or that advancement can be slow. This doesn't have to be the case, but can be in some divisions",,5.0,,,,,
+2019-01-06,,,Current Employee ,Great change in pace and maturity,,0,Everybody talks about the great perks and benefits but I love how you get freedom to create and make an impact here with great management,"In short, old company was drchrono in Sunnyvale and the managers were v unprofessional with a ton of micromanagement, long hours and low pay.",Keep navigating the ever changing data and tech landscape,5.0,5.0,5.0,5.0,5.0,5.0
+2019-01-09, Business Analyst,,Former Employee ,good,,0,"Lots Of Money to work (90,000$)",Long hours at Google (15),,5.0,,,,,
+2019-01-27, Operations Specialist,"Mountain View, CA",Current Employee ,"Great, but can use some work",More than a year,0,Great new project (Google Shopping),"Not an experienced enough team, needs more leadership",Get more experienced folks.,3.0,3.0,5.0,1.0,2.0,1.0
+2019-01-12,,,Current Employee ,Deisgner,,0,"Great office environment, diverse group of coworkers","Very corporate eviornment, need more Individyal recognition",Improve salaries and improve office locations,5.0,,,,,
+2019-01-26, Eng Manager,"Seattle, WA",Current Employee ,"Still Great, Slightly Less Great",More than 5 years,0,"Great pay and benefits, great coworkers, great collaborative teams",Top executives are out of touch,,4.0,5.0,4.0,5.0,4.0,3.0
+2019-01-08,,,Current Employee ,Best place I've ever worked,,0,Continues to be a fantastic place to work and lead others,None to state at present,,5.0,,,,,
+2019-01-26,,,Current Employee ,"Maybe it was different before, now it's not so great",,0,"Smart colleagues, people are nice, flexible work time.","Lots of stress, bad food, the office is located in the area with no fun, and expensive housing.",,3.0,2.0,4.0,4.0,,
+2019-01-25, Software Engineer,"Mountain View, CA",Former Employee ,Great place to work,More than 3 years,0,"Free food, good benefits, good work/life balance",A bad manager can really ruin things,,4.0,5.0,5.0,4.0,4.0,3.0
+2019-01-25, Software Engineer,"Mountain View, CA",Former Employee ,It was good,More than a year,0,Great coworkers. Challenging problems to solve. Benefits.,Someone you feel nonexistent.,,4.0,3.0,3.0,3.0,5.0,3.0
+2019-01-07,,,Current Employee ,Avoid Startups in this Recessionary environment,,0,"competitive pay, fair company, good mission","previous job was at a gibraltar sunnyvale startup, long hours, low pay, boss favoritism",Keep it up awesome job,5.0,5.0,5.0,5.0,5.0,5.0
+2019-01-10,,,Current Employee ,Awesome place to work,,0,"Intellectually stimulating environment with brilliant people, fast paced work in cutting edge technology, global impact",Not many other places come close :),,5.0,4.0,4.0,4.0,4.0,4.0
+2019-01-20, Game Producer,"Mountain View, CA",Current Employee ,Generally super cushy,More than 3 years,0,"The food/transportation to work are an enormous boon to my personal well being. It's worth noting that Google is huge, and your experience will vary largely by what team you're working on, but generally I've found I'm not super stressed and don't have to kill myself working, which is great.","I've worked on two teams now, and I've seen quite a bit of nepotism-based hiring- the complex hiring process is supposed to weed that out, but it can be quietly undermined if you know how to play the game. Certain people in management positions weren't totally fit for them, and generally a lot of very senior people end up woefully underutilized.","Pay more attention to your employee's concerns- there's been a lot of lip service in the time I've worked at Google, but not a lot of action.",4.0,5.0,4.0,4.0,5.0,3.0
+2019-01-09, Software Engineer,"Kirkland, WA",Current Employee ,Google is different,More than 5 years,0,"Big challenges. Smart colleagues. Outspoken culture. Great compensation, benefits and perks.","Like any big company, it has politics and bureaucracy.",,5.0,4.0,4.0,4.0,5.0,4.0
+2018-12-22, Software Engineer,"Kirkland, WA",Current Employee ,Excellent Place to Work,More than a year,0,"Enlightened management, excellent software development tools, amazing compensation and perks. I've never been treated as well by another employer. It is great to work with so many smart people and to be trusted to manage your time and work. Google truly is an amazingly great place to work, especially in Kirkland, WA.","All minor: Working with so many smart engineers, it can be harder to stand out in the crowd. Some co-workers can act a entitled at times. Having so many TVCs treated as almost second class citizens can be awkward. The corporate culture tends to be very politically correct. The culture tends to reward those that chase the shiny new project instead of polishing/maintaining the project that works. In WA area, some teams' cultures are overly influenced by Amazon's terrible culture.",Ensure that Google continues to promote good work/life balance and isn't overly influenced by Amazon's.,5.0,4.0,4.0,5.0,5.0,5.0
+2019-01-01,,"Austin, TX",Current Employee ,Strategic Partner Manager,More than 3 years,0,"-Great Benefits
+-Above Market Pay
+-Open, transparent culture",-Lack of MBA level jobs outside of the Bay and NYC in lower cost-of-living cities,,5.0,4.0,4.0,4.0,5.0,5.0
+2019-01-18, Senior Manager,"Mountain View, CA",Current Employee ,"Good company for work for, is becoming too large for meet everyone's needs",More than 10 years,0,"Smart people, good collaborative environment, great perks","Too hierarchical, decision making takes too long, is losing the original culture","Focus on getting better at execution, remove red tapes, cut out more middle-mgmt, rebuild the culture that was once there.",4.0,3.0,4.0,4.0,4.0,3.0
+2019-01-02,,,Current Employee ,A Pleasure,,0,"Nice people
+Good food
+If you have a good manager, you'll have a great time.",None that come to mind.,Keep on!,5.0,4.0,5.0,5.0,5.0,4.0
+2019-01-04,,,Former Employee ,Great work environment,,0,Interesting projects and great people,It's a huge company and this can be intimidating for some people,,5.0,5.0,5.0,5.0,5.0,5.0
+2019-01-05,,,Current Employee ,"Great place to work, and no place is Utopia",,0,Culture of respect and transparency. Great care for human resources. Good benefits and pay. Flexibility to move between teams and projects. Many interesting problems. Good people in general.,"The promotion system tries to be fair, and it is often so, but not always. But on the long term, it trends positively.",,5.0,5.0,5.0,4.0,5.0,4.0
+2019-01-05,,,Current Employee ,Web developer,,0,"great company to work with. Hard to follow the job interview process but once you're in, it's great. Excellent benefits",Upper management can . be a little stressful sometimes,,5.0,5.0,5.0,4.0,5.0,5.0
+2019-01-05,,,Current Employee ,Great place to work!,,0,Strong culture of empowering engineers to make the right technical decisions and grow their careers.,Very big company that is in many businesses. Some of those businesses are much less successful than others.,,5.0,,,,,
+2019-01-04, Software Engineer,,Former Employee ,good environment and good learning experience,,0,"free lunch, good mentoring system",kinda of falls to basics when you spend a long time here,,5.0,5.0,5.0,5.0,5.0,5.0
+2019-01-16,,"Mountain View, CA",Former Employee ,"Great place to work, but get in the right groups",More than 5 years,0,"Awesome perks, lots of ownership",Company is getting big - not enough cross-division collaboration.,,4.0,,,,,
+2018-12-21, Customer Solutions Engineer,"Mountain View, CA",Current Employee ,Clearly Not Perfect But Still A Great Place To Work,Less than a year,0,"- There are so many incredibly talented people working here.
+- You have great flexibility to carve out a career path that works best for you
+- The company sets ambitious expectations both technically and otherwise
+- You will absolutely LOVE the benefits here","- It can take a while to see meaningful change in a large organization
+- WAY too many acronyms!!!! It greatly diminishes effective communication
+- The length and format of their interview process leaves much to be desired
+- It's easy for employees to have an ""entitlement"" mindset if left unchecked",Keep striving for excellence and continue to empower every employee to make meaningful contributions at every level of the organization.,5.0,4.0,5.0,5.0,5.0,5.0
+2019-01-01, Data Scientist,"Mountain View, CA",Current Employee ,Full time,More than a year,0,"Great place,great minds to work with.",Nothing is con here.Love this place.,Keep it up!!,5.0,5.0,5.0,5.0,5.0,5.0
+2019-01-06, Writer,"South of the Border, SC",Current Employee ,"If you like working alone, you will love this job",More than a year,0,"No commute, Flexible hours, Fast-paced environment","Not very good at on boarding
+Communication could be better
+Very strong hierarchy. If you are not high up, don’t talk. They don’t really want to hear from you, although they say they do.","Before starting meetings, take 2 minutes to chat with remote workers and let them know you see them as people and not just grunt workers.
+Hiring everyone as independent contractors so you don’t have to give benefits is pretty low. You guys have enough money to give a livable wage with benefits.",3.0,5.0,1.0,3.0,1.0,3.0
+2019-01-12,,,Current Employee ,Not the best place to work for women or people of color.,More than 8 years,0,Food is great. Surrounded by very intelligent people. Benefits are excellent and stock is consistently climbing (over time).,"Significant problems with culture that go unaddressed. Over almost 10 years, the company has remained mostly male and doesn't represent the communities where Google has offices. Many employees are openly hostile to women and people of color, there are significant problems advancing and returning those groups. With a focus on growing the company and hiring fast, hiring for comprehensive skills (including soft skills and respectful behavior) has gone out the window.","Hold leaders accountable that create environments where being sexist and racist is acceptable. That means promoting/rewarding the managers and leaders that meet goals set by the company, and firing managers and leaders that have significant issues with sexism and bias.",3.0,3.0,3.0,2.0,5.0,2.0
+2018-12-22,,,Former Employee ,Trust and Safety,,0,"Startup work culture, energetic and rapidly changing.","TnS Mid level management is not very effective. Often cross location politics, ego-plays hamper effective work- which Googlers are expected to do! Team members often spend more time fluffing than any actual work, and the most hard part the mid-management promotes it!","Improve Mid management levels, reward them for problem solving rather than just showing off (Mostly gas! ) TnS needs to be at par with rest of Google.",5.0,4.0,4.0,4.0,3.0,3.0
+2018-12-29,,,Current Employee ,cool,,0,"cool company, laid back culture",clearing cookies and such takes too much time,,5.0,,,,,
+2019-01-12, Mechanical Engineer,"Mountain View, CA",Former Employee ,Overall very good,More than 3 years,0,"Exciting, every day is different",However it can be extremely stressful at times,,4.0,4.0,5.0,4.0,5.0,5.0
+2019-01-12,,,Former Employee ,Project Coordinator,,0,"good pay, best salary I've had since my last job",long hours with highly competitive colleagues,,3.0,3.0,,,,
+2018-12-23,,,Former Employee ,Its Google,More than 3 years,0,"Googlers, Food, Infrastructure, Benefits, Campus","Politics, Complexity, Projects, Tech debt",,5.0,3.0,4.0,4.0,4.0,3.0
+2018-12-23,,,Former Employee ,Great Atmosphere,,0,Amazing group of people. Work is interesting.,Atmosphere can be quite competitive.,,5.0,4.0,5.0,5.0,4.0,4.0
+2018-12-27, Janitor,,Current Employee ,Good overall,,0,Good work and pay. Poeple are nice,"Boring, no career movement, and it's california",,5.0,5.0,5.0,5.0,5.0,5.0
+2019-01-09, Software Engineer,"Mountain View, CA",Current Employee ,Great technology but many cluttered projects,More than 3 years,0,"- Google has accumulated tons of good technology and many are still on top of the industry
+- Great tools for daily work
+- Encourage diversity","- Not every project is created equal, you need some luck to like your daily work
+- Big tech debt (yes, even it's Google)
+- People are *smart* enough to always move to the projects where they can get promoted quickly, so that means there are also teams that are not popular","Promote the core, detailed works, not fancy ideas and one-shot launches",4.0,4.0,4.0,4.0,4.0,3.0
+2018-12-23, Partner Engineer,"Mountain View, CA",Current Employee ,I’m not sure what to put here,Less than a year,0,Free food and great perks,Disorganized and hard to get things done,,5.0,5.0,5.0,5.0,5.0,4.0
+2018-12-23,,,Current Employee ,love it here,,0,"get the startup feel working at a big company with all big company benefits, love it, great management and teammates as an engineer all i could ask for","be wary of working for startups, especially those that have raised venture debt, many friends have worked for startups and laid off and when recession comes it will hurt","keep it up, love that we are open to new verticals",5.0,5.0,5.0,5.0,5.0,5.0
+2019-01-27, Ops Specialist,"Mountain View, CA",Current Employee ,Inequality in Treatment,More than 3 years,0,Slow progress so there is some work life balance depending on team,"Certain buildings have better food and amenities than others. Does not feel great to be treated less than other swe or tech employees. Compensation reflects this which I get, but culturally this sense of inequality should not exist.
+
+Decrease in perks and benefits and cost cutting is not helping",Get rid of toxic managers and change the culture. It's turning for the worse,1.0,1.0,1.0,1.0,1.0,1.0
+2018-12-21, Designer,"New York, NY",Current Employee ,Production Designer,More than a year,0,"Great place, amazing perks and benefits",Paid leave and medical insurance not included,,5.0,5.0,5.0,5.0,5.0,5.0
+2019-01-28, Intelligence Analyst,"Mountain View, CA",Former Employee ,Corruption and Unethical Conduct,Less than a year,0,You get benefits and support if you follow the corrupt approach,"Working at Google is about being corrupt; that is, support the money making machine. That is why Google is one of the most wealthy companies in the planet.","Of course not, it was enough abuse and corruption.",1.0,1.0,1.0,5.0,5.0,1.0
+2018-12-20,,,Current Employee ,Good,,0,work life balance is great,the work mission is limited,,5.0,,,,,
+2018-12-17,,,Current Employee ,Software Engineer,,0,Good benefits and technical stack.,The project is too narrow and the tools are not generic.,,5.0,5.0,5.0,5.0,5.0,5.0
+2018-12-10,,"New York, NY",Current Employee ,Google Surpasses Realistic Expectations,More than 3 years,0,"Great products. Vision you can feel good about. Fair compensation. Automonomy in your role. Wide array of industries / roles employees are able to explore. Feedback loops give employees that ability to provide feedback to management regularly on their performance. Expectation that you will go above and beyond the minimum scope of your role - those that do, are typically rewarded. What more do you want from an employer.","Younger employees complaining about the company not catering to their individual careers aspirations. There is a misconception out there, that if you get into Google you can move about the company internally super easily. If you're applying to an open role - you're still competing against all external and internal applicants - you're not guaranteed anything. Typical bureaucratic challenges exist that come with working in a larger company.",,5.0,5.0,5.0,5.0,5.0,5.0
+2018-12-20, Software Engineer,"New York, NY",Current Employee ,Great company,More than 5 years,0,"Great culture, great benefits, great people.","It's becoming a large company, perks are being slowly removed, but still amazing.",,5.0,5.0,4.0,5.0,5.0,3.0
+2019-01-03,,,Current Employee ,Google Quant Researcher,,0,"Salary, working env, location, I think it's a top company and deserves it","work-life balance, position, but I think it's a top company and has many cons",,4.0,,,,,
+2018-12-15,,,Current Employee ,Sales,,0,"Set metrics and targets clearly so you understand, great team and management, awesome culture and benefits","No cons here, only a old company where I worked at a Sunnyvale EHR startup, metrics were never on paper and always changed up, horrible culture of brotopia,","Keep it up, lets roll 2019!",5.0,5.0,5.0,5.0,5.0,5.0
+2018-12-18,,,Current Employee ,"Great experience, company, culture and products",,0,"Great experience, company, culture and products",No real down sides here!,,5.0,5.0,5.0,5.0,4.0,4.0
+2018-12-13,,,Current Employee ,Great,,0,Great company to work for,A lot needs to be changed,,5.0,,,,,
+2018-12-14,,,Former Employee ,Person,,0,"great company, awesome work environment","None, i really liked looking at the company",,5.0,,,,,
+2018-12-09, SDE2,"Mountain View, CA",Former Employee ,NICE working in GOOGLE as an INTERN,Less than a year,0,"People are not that busy, so they are nice to help our.
+They did make a suitable intern project that you can finish it in time and learn something.",Food is not good as I expected. People said it is getting worse recently.,,5.0,4.0,4.0,4.0,5.0,4.0
+2018-12-11,,,Former Employee ,great place to work and progress,,0,"work culture, benefits, growth, people,",No cons that i can think of,,5.0,5.0,5.0,5.0,5.0,5.0
+2018-12-11,,,Current Employee ,Best Company to work for,,0,People are smart and friendly,Bureaucracy is slowing things down,,5.0,4.0,5.0,5.0,4.0,5.0
+2018-12-12,,,Former Employee ,Manager,,0,"Good perks, solid facilities and resources","Too much politics, rules, and expectations",,5.0,,,,,
+2018-12-12,,,Current Employee ,Love it,,0,"Interesting work, great ppl, loved the challenge.","Lots of work, excessive at points.",,5.0,5.0,5.0,5.0,5.0,5.0
+2018-12-08,,,Current Employee ,Software Engineer,,0,"* There is endless opportunity
+* You'll never stop learning
+* I haven't thought about money since I joined.","* There's always someone better than you.
+* You'll constantly wonder if you're good enough
+* When people start talking about their employeers, you'll feel awkward saying.",,5.0,5.0,5.0,5.0,5.0,5.0
+2018-12-20,,"Mountain View, CA",Former Employee ,Be sure of the team you are joining,More than a year,0,"Compensation is very good.
+Nice cafeterias.
+Smart people.","As a consensus driven environment it takes a long time to get to decisions. This repeatedly leads to product paralysis.
+Be very careful what team you join when you start as not all teams are the same, and you cannot leave for at least a year, and often will have a hard time after that. Some teams are great, some are terrible, and it is very hard to tell which from the outside.",,3.0,3.0,3.0,3.0,5.0,2.0
+2018-12-11, Software Engineer,"New York, NY",Current Employee ,Software engineer,More than 5 years,0,"Great working environment.
+Good work life balance",Usual big company problems. Hierarchy.,,5.0,5.0,4.0,4.0,5.0,4.0
+2018-12-09,,,Current Employee ,Execellent for engineers,,0,Impact driven. Best tech in the world.,Size matters. Engineers are a bit disconnected with customers.,,5.0,5.0,5.0,5.0,5.0,5.0
+2018-12-09,,,Current Employee ,Execellent for engineers,,0,Impact driven. Best tech in the world.,Size matters. Engineers are a bit disconnected with customers.,,5.0,5.0,5.0,5.0,5.0,5.0
+2018-12-08,,"Mountain View, CA",Current Employee ,Nice place to work,More than 10 years,0,"* Smart people
+* World class infrastructure
+* Diverse selection of projects and teams",Giant company with uneven project and team characteristics,,5.0,4.0,5.0,4.0,4.0,3.0
+2018-12-22,,,Former Employee ,Cool place to work,,0,"Great work environment
+Free food was awsome and the coworkers were driven",Honestly hard to see any cons here,,4.0,,,,,
+2018-12-04,,,Former Employee ,Best Company to Work For!,,0,Atmosphere that promotes the expression of fresh ideas!,It can be an overwhelming machine at times but there are no real drawbacks I encountered.,,5.0,5.0,5.0,5.0,5.0,5.0
+2018-12-06,,,Current Employee ,Review,,0,The people are great to work with,There is lower compensation than expected,,5.0,,,,,
+2018-12-21,,,Current Employee ,good was better,,0,lots of things to learn,more politics now than before,,4.0,,,,,
+2018-12-03, Sales Operations Analyst,"San Francisco, CA",Current Employee ,Still the best place to work!,More than 3 years,0,Amazing company. Still the best place to work.,"Size, which limits opportunities for extraordinary high performers",,5.0,5.0,5.0,5.0,4.0,4.0
+2018-12-06,,,Current Employee ,Mba Intern,,0,"Perks, autonomy, cool products, smart people",Slow career progression for non-tech,,5.0,4.0,5.0,3.0,5.0,5.0
+2018-11-29,,,Current Employee ,Review of Google,,0,"The people are great to work with, good perks.",Wide variety in experience based on team.,,5.0,4.0,5.0,5.0,5.0,4.0
+2018-12-02,,,Former Employee ,Analysts,,0,"Good managers, benefits , some support, nice atmosphere","Long hours, far locations, a lot of work",,5.0,2.0,,,,
+2018-12-01,,,Former Employee ,Great Company With No Down Sides,,0,Really fun work environment with startup,Really no down sides that I saw.,,5.0,5.0,5.0,5.0,5.0,5.0
+2018-12-03,,,Current Employee ,Senior Account Manager,,0,"Great benefits, growth and people to work with and challenge you.",Must be located in an office,,5.0,5.0,5.0,5.0,5.0,5.0
+2018-12-17,,,Former Employee ,intern,,0,great coworkers and all around job,none that I can think of,,4.0,,,,,
+2018-11-26, Designer,"New York, NY",Current Employee ,"Great, but great can always be better",More than a year,0,Great team and support for individuals,"Lots of bureaucracy, not super diverse",,5.0,3.0,4.0,3.0,4.0,5.0
+2018-12-02,,,Current Employee ,Great company to work for,,0,I love Google a lot,Some things are not to great,,5.0,5.0,5.0,5.0,5.0,5.0
+2019-01-04,,,Current Employee ,Manager,,0,"- free, healthy food
+- collaborative workforce
+- fun office","- Could be run more efficiently
+- I was sexually harassed (pretty severely) by 2 engineers and HR didn't take action.
+- Hiring process could be more diligent. I have seen many senior leaders getting hired with poor leadership skills creating lots of turnover among more junior employees.
+- Base salaries are at the lower end","- Provide more leadership training to those leading teams
+- Take sexual harassment seriously (e.g. respond to employees concerns when they raise it, investigate the case, provide training especially to men from India and Middle East)",1.0,1.0,1.0,1.0,1.0,1.0
+2018-12-01,,,Current Employee ,n/a,,0,it's a great place to work!,too much red tape on doing even the smallest processes!,,5.0,5.0,,,,
+2018-11-29, Staff Accountant,"Los Angeles, CA",Current Employee ,Accountant,,0,I like and learned from the beginning accounting,High clerical work in the Sane record,Management and Finance must be close relation in a Organization,5.0,5.0,5.0,5.0,5.0,5.0
+2018-11-29,,,Current Employee ,Good Company to Work for,,0,"- perks are phenomenal, food, health, office",- work life balance is hard to manage,,5.0,4.0,5.0,4.0,5.0,5.0
+2018-11-30,,,Current Employee ,Software Engineer,,0,Awesome job environment to work in,Pressure is there for some parts,,5.0,,,,,
+2018-11-28,,,Current Employee ,Great culture,,0,Very inspiring engineers to work with.,"Easy to get lost, as it is such a big company.",,5.0,3.0,5.0,4.0,5.0,3.0
+2018-12-12, Software Engineer,"Los Angeles, CA",Current Employee ,Good place to work - atmosphere depends on your location,More than 5 years,0,"Good benefits, flexible hours, opportunity if you want it.
+Atmosphere and stress really depends on the location where you work.",Company is getting bigger and it is easier to feel lost in it.,"Be agile, focus on customers and solving real problems instead of just doing interesting work.",4.0,5.0,5.0,4.0,5.0,4.0
+2018-11-17, Program Manager I,"San Francisco, CA",Current Employee ,"Not perfect, but still the best place in the world to work",More than a year,0,"- A company culture that encourages dissent, discourse, transparency, and fairness
+- Strong compensation, from benefits, to perks, to base pay
+- Decent internal mobility opportunities
+- Employees are proud to work on globally impactful products, leading to a great sense of pride
+- Lots of opportunities to get involved in extracurriculars: sports teams, affinity groups, plan events, lead debate on internal company/cultural issues","- A company with over 90k people at the time of this review, and you can feel the size
+- A hierarchical company (due to its size), so don't expect to lead world changing projects and work with the CEO if you're a junior person
+- A company that has valued employees in somewhat of a tiered way: tech jobs are most respected, business jobs are 2nd class, vendors/temps/contractors are treated in an exclusionary way (usually because it is legally required to do so)
+- Employees can be overly sensitive and entitled
+- Mobility is great in the same functional discipline, switching between functional disciplines (i.e. sales to eng) is a nightmare","- Just because a small percentage of the company is screaming and shouting about certain issues doesn't mean it necessarily reflects the viewpoint of the entirety of the company.
+
+- Feels like we're losing our 'edge' and aggressiveness in the markets we're are invested in. We can be Googley and ruthless (a.k.a business savvy) at the same time.",5.0,5.0,5.0,5.0,5.0,5.0
+2018-11-27,,,Current Employee ,Great place to work,,0,"The people are awesome.
+Lots of perks.
+Reduce administrative burdens.
+The food is great.
+There's a wide variety of tasks.",There's sometimes too wide a variety of things you can work on.,,5.0,4.0,5.0,5.0,5.0,5.0
+2018-11-19, Associate Account Strategist,"Ann Arbor, MI",Former Employee ,Make sure you know what role you're applying for,More than a year,0,"Employees, food, benefits, perks, shuttle, basically an all-expenses-paid college.","Company has become way too vertical, performance evaluations are no longer representative and have arbitrary 'unwritten rules' that contradict written rules.","Stop putting people on a bell curve, and recognize that stellar performers are kept via recognition and career momentum.",5.0,4.0,4.0,5.0,5.0,2.0
+2018-11-20,,,Former Employee ,Great,,0,"Great place to work, free food, and great culture.","Big company, prepare to move much slower than a startup.",,5.0,,,,,
+2018-11-21,,,Current Employee ,IT Employee,,0,"Flexible timings, surrounded by technical experts and platform to grow and new ideas","None as of now, all good!",,5.0,,,,,
+2018-12-09, Senior Director,"Mountain View, CA",Former Employee ,Senior Director,More than 5 years,0,"So many brilliant people
+Tons of resources
+Working on amazingly cool technologies
+Great culture - they really care about employees, actively ask for feedback, and act on it (e.g. Set corporate OKR's to improve on problem issues)","Becoming highly bureaucratic
+Growing political back stabbing, especially at the senior management levels",,3.0,4.0,5.0,5.0,5.0,5.0
+2018-11-24,,,Current Employee ,Is very good,Less than a year,0,is very good. is very very good,You work a lot. Like a lot,,5.0,5.0,5.0,5.0,5.0,5.0
+2018-12-08, Software Engineering Manager,"Mountain View, CA",Current Employee ,Google is still the best place to be,More than 5 years,0,"Great place to work, learn new things, grow and innovate. Able to maintain a respectful and healthy workplace culture despite the recent press.",Large company issues have crept up but nothing compared to other behemoths.,,4.0,5.0,5.0,4.0,4.0,4.0
+2018-11-16,,"Mountain View, CA",Current Employee ,meh,More than 5 years,0,"Pays really well
+Free food
+Looks good on resume","Google wants 60-hour weeks. If you have a 150 IQ, Google is okay with 50-hour weeks, otherwise, 60-hour weeks are required to keep your job.
+Work is mind-numbingly boring, e.g. sustaining software written 10-20 years ago, mostly.
+Culture is declining QUICKLY
+Too many people are competing for your job so Google has CS PhDs doing plumbing work.","Add ethics to the review process
+A launch is not always a good thing, often we were plumbing in bad new software from other teams so that those other teams could get their promotion for their launch, but nothing got better.",3.0,2.0,1.0,2.0,5.0,2.0
+2018-11-19,,,Current Employee ,Good place to work,,0,Nice perks. Good work life balance,too slow and too much consensus culture sometimes.,,5.0,5.0,5.0,5.0,5.0,5.0
+2018-11-20, Google Specialist,"Dearborn, MI",Current Employee ,Google,Less than a year,0,Google is one of the beast Company in the world,You have to work hard,,5.0,3.0,4.0,4.0,5.0,4.0
+2018-11-13, Staff Software Engineer,"Seattle, WA",Current Employee ,Hard to beat,More than 5 years,0,"Amazing compensation + benefits (hard to beat in Seattle), office space is cozy. Lots of autonomy. Taking initiative on important things is heavily rewarded.","Growing pains as Google has gone from ~10k to ~100k FTE during my tenure. Processes have mostly scaled, but internal trust and culture have not.",,5.0,4.0,4.0,5.0,5.0,3.0
+2018-12-06,,"New York, NY",Current Employee ,Good compensation,More than 3 years,0,Better than average engineers. Competitive compensation.,Big and beurocratic. Lots of legacy systems. Moves slowly.,,4.0,4.0,3.0,3.0,4.0,3.0
+2018-11-19, Program Manager,"New York, NY",Current Employee ,Great place to work,More than 5 years,0,"Ambitious mission, great colleagues, supportive atmosphere.","Everyone is eager to succeed, which can lead to a pretty competitive environment.",,5.0,5.0,3.0,5.0,4.0,5.0
+2018-12-06,,,Current Employee ,Senior Software Engineer,,0,Good work and life balance,Growth of salaries and career opportunities,,4.0,5.0,4.0,3.0,4.0,3.0
+2018-12-06,,,Current Employee ,"Great perks, bad work-life balance",More than a year,0,"Google’s perks are great: free food, shuttle to work, stock options, fun offices and amenities. The company is also full of really smart people that I’m constantly learning from.","I have zero work-life balance. I work minimum 50 hours per week, often including nights and weekends. The commute is absolutely horrendous. I’m also not a fan of the performance review structure (even though I got good ratings myself). The essays take an insane amount of time to compile and people are often promoted based on how long they’ve been at Google rather than merit.",Restructure performance reviews so that some feedback can be sent anonymously to your manager’s manager. I’ve heard many people say that they are afraid of giving negative reviews to their managers for fear of retaliation.,3.0,2.0,3.0,5.0,5.0,3.0
+2018-11-21,,"Sunnyvale, CA",Current Employee ,Best of the best,More than a year,0,"The best company I've worked for. Culture, perks, the way people are treated. Very thankful for this experience.","Set hours for breakfast, lunch, dinner.",,5.0,3.0,5.0,5.0,5.0,4.0
+2018-11-09, Software Engineer,"Mountain View, CA",Current Employee ,Best Job I Ever Had,Less than a year,0,"Amazing and talented co workers
+best place to work at
+$$$",All the perks makes me not want to leave work,,5.0,5.0,5.0,5.0,5.0,5.0
+2018-11-19,,,Former Employee ,Great pay,More than 3 years,0,"Great pay, good food, fun employees",There were no cons here,,5.0,,,,,
+2018-12-04,,,Current Employee ,Manager,,0,Easy place and people are nice,Employee will require muti-tasking to complete the job,,4.0,,,,,
+2018-12-04,,,Former Employee ,Big Tech,,0,Never have to skip a paycheck.,Google has an over abundance of technicians and under-abundance of thinkers.,,3.0,3.0,2.0,3.0,4.0,1.0
+2018-11-19, Software Engineer,"Sunnyvale, CA",Current Employee ,Positive Experiences,Less than a year,0,"Good opportunities for different technical experiences, good work-life balance, good compensation, great coworkers",Difficult to advance depending on which projects you're contributing to,,5.0,5.0,5.0,4.0,4.0,4.0
+2018-12-02,,,Current Employee ,Its Google,,0,"food, shuttle, technology, perks, health, 401K, brand",Great place to work finace is backend though. Its a tech company first.,,4.0,4.0,4.0,4.0,4.0,3.0
+2018-12-02,,,Current Employee ,g,,0,"perks are pretty good, as is culture",work/life balance is generally moderate to poor,,4.0,2.0,4.0,4.0,5.0,4.0
+2018-11-04, Software Engineer,"New York, NY",Current Employee ,Top Tech Company in the World,More than 5 years,0,"Brilliant colleagues, excellent engineering standards, a clear career progression, ample mentorship, challenging and interesting projects, exposure to the bleeding edge of technologies, excellent work-life balance, top-notch code standards, great benefits, delicious food, beautiful work environment.
+
+Internal mobility is amazing. If you ever feel like you need a new team or a new challenge, you can transfer at will. Joining Google doesn't mean you join a particular team, it means you're entering a huge community of brilliant people doing exciting things who are eager to have you join them.
+
+You'll learn what it looks like when engineering is done right. Stay for more than a few years and recruiters won't be able to get enough of you. ""Ex-Googler"" carries a lot of weight, and I've seen lots of people leave Google to take on shockingly influential roles at startups and other companies.","Promotions are extremely demanding. When in doubt, the entire organization defaults to ""no,"" so you'll need to jump through a lot of hoops to get promoted. Promotions are centered around complexity and impact, which tends to discourage simple solutions to important product problems, as well as low-impact but important work like code maintenance.
+
+There have been some attempts to encourage more code maintenance but in my opinion it isn't being rewarded enough. As a result, there is a number of roles that people take on that you tend not to see, most notably that of the code style stickler whose impact comes in the form of improving existing code.
+
+Also on the topic of impact, you can execute a large, multi-year project and still not get promoted if it doesn't land with the expected impact.
+
+--
+
+This depends on personal preference, but the office spaces are almost universally open-plan, which some people find makes it difficult to focus. Google NYC has been in a real estate crunch for over four years, and people are being hired faster than we can build office space to accommodate them. Lots of trading floor-style desks.
+
+--
+
+Personal projects and side hustles are limited to what doesn't compete with any Google products. In theory it sounds reasonable, but in reality Google has a finger in pretty much every pie, which means you'll have to ask permission for everything you make outside work.",,5.0,5.0,5.0,5.0,4.0,4.0
+2018-11-15,,,Current Employee ,Good place,,0,Pretty good benifits and bank.,Being challanged everyday. Having no life.,,5.0,5.0,,,,
+2018-11-27,,,Former Employee ,cs analyst,,0,great work culture ; good for starters,long hours can be unreasonable,"none, doing fantastic",4.0,,,,,
+2018-11-20,,,Current Employee ,Senior Software Engineer,,0,"Brilliant people, tons of awesome technical infrastructure, focus on technical excellence, great ability to move between projects and become well-rounded.","- Skills inside Google aren't always easily transferrable to other companies because there's so much proprietary infra.
+- People are often way over-qualified for the tasks they're working on.
+- Everything moves too slowly. There are a million gate-keepers and approvals to get for any launch, and way too many voices in the room for any decision.",,4.0,4.0,4.0,4.0,5.0,3.0
+2018-11-11,,,Current Employee ,Amazing,,0,People and culture are terrific,None that I can think of,,5.0,,,,,
+2018-11-05,,,Current Employee ,Google Summer Internship,,0,"Great pay
+Great work life balance
+Great perks/benefits
+Nice people","Very few, work sometimes monotonous.",,5.0,5.0,5.0,5.0,5.0,5.0
+2018-11-21,,,Current Employee ,"Good Company, can be long hours",,0,"great benefits, great people, dynamic environment","Depending on the department and clients, hours can be very long.",,4.0,3.0,4.0,4.0,5.0,4.0
+2018-11-22,,,Current Employee ,good place,Less than a year,0,"comfortable environment, free food, nice people",difficult to promote in google,,4.0,,,,,
+2018-11-06,,,Former Employee ,Project Manager,,0,Great company with creative ideas.,No cons at this point.,,5.0,,,,,
+2018-11-06, Software Engineer,,Current Employee ,Great working environment,Less than a year,0,"Here you receive a great opportunity to solve worthwhile problems with outstanding teammates
+
+Great benefits, great pay",There's the danger of getting too familiar and comfortable with the internal tooling that you lose touch with the tools & trends of greater software engineering community -- it's like a bubble,,5.0,5.0,5.0,4.0,5.0,4.0
+2018-11-02, Software Engineer,"Mountain View, CA",Current Employee ,Like a dream,More than a year,0,"Have been at Google almost 2 years. Google is like heaven for a software engineer. I love contributing to the amazing products and learning from the best in the business. My coworkers are very supportive and positive, and manager really cares about me and my goals.",Lots of super smart people around you means that it’s easy to feel inferior. I’m learning to not focus on this and keep looking forward and getting better every day.,"Have a more detailed plan on company/product direction, and think more about how we can bring the company culture closer. The loud people on the extreme left and extreme right exacerbate conflicts that cut into morale.",5.0,5.0,5.0,5.0,5.0,4.0
+2018-11-21,,,Former Employee ,not too bad,More than a year,0,nice food，nice place ，nice people,i cannot understand what they talk,,3.0,3.0,3.0,4.0,4.0,2.0
+2018-11-05,,"New York, NY",Former Employee ,Outstanding,,0,"All good, excellent benefits, okay salary","Computerized humans, too much pressure",Humanize the company,5.0,2.0,2.0,4.0,4.0,3.0
+2018-11-05,,,Former Employee ,IT Intern,,0,"- Great Food
+- Mentor and Feedback",The pros really outweighed the cons,,5.0,,,,,
+2018-11-19, Legal Specialist,"Mountain View, CA",Former Employee ,"Great benefits, but large enough to get lost in.",More than 3 years,0,"Great benefits, work life balance, and pay for the position.",Company is so large that it can be hard to make any vertical movement.,Hire middle managers that care about the psychological safety of your employees.,4.0,5.0,5.0,3.0,5.0,4.0
+2018-10-31,,,Former Employee ,Nice company,,0,free food and good pay,too much on call work,,5.0,5.0,5.0,5.0,5.0,5.0
+2018-11-01,,"Mountain View, CA",Current Employee ,Good work life balance and perks,More than 3 years,0,Resume filler gets you easy interviews everywhere once you have it,"Expensive city
+Hard to switch teams",,5.0,5.0,3.0,5.0,5.0,4.0
+2018-11-19,,,Former Employee ,Engineer,,0,salary was fine but in line with other companies,work was boring. I disliked it.,,3.0,3.0,3.0,2.0,3.0,2.0
+2018-11-04, Product Marketing Manager,"San Francisco, CA",Current Employee ,Amazing place to work,More than 5 years,0,"Massive scale, excellent food, and vast majority of colleagues are fantastic to work with.","Can be bureaucratic, and office politics matter a lot.",,5.0,4.0,5.0,5.0,5.0,4.0
+2018-11-04,,,Former Employee ,Associate Account Strategist,,0,"Great benefits, Great coworkers and managers",None that I can think of,,5.0,5.0,5.0,5.0,5.0,5.0
+2018-11-02,,,Current Employee ,outstanding performance given by the staff,Less than a year,0,Food in Pantry is always fresh and healthy,Should provide more raw fruits,"Should have provide more raw fruits,overall performance given by Pantry staff Pinky and Bhawani is outstanding, she's always smiling and helping.they always greet and ask if any kind of help required.they need to be appreciated.Kudos to them.
+thanks for making our food more delicious.",5.0,5.0,5.0,5.0,5.0,5.0
+2018-10-30,,,Current Employee ,Love to work here!,,0,"Great benefits
+Amazing culture
+Coworkers feel like family",Can get a bit stressful at times,,5.0,4.0,5.0,5.0,5.0,5.0
+2018-11-10, Senior Software Engineer,"Mountain View, CA",Current Employee ,Not great for new hires,More than a year,0,"* Good pay
+* Free food
+* Good hours
+* Easy work","* No new stock award for (most) first year employees. May take up to two years.
+* Contributions of new employees undervalued. Expect a bad review score your first performance cycle, regardless of actual performance.",Be more generous with stock awards,4.0,5.0,4.0,4.0,4.0,4.0
+2018-11-01, Front End Engineer,"Pittsburgh, PA",Current Employee ,"Amazing place to work, challenging environment",More than a year,0,Google offers the best of the best when it comes to company culture.,I cannot think of anything wrong at Google,"Keep doing what you are doing, keep working hard and striving for success.",5.0,4.0,5.0,5.0,5.0,4.0
+2018-11-01,,,Former Employee ,great to work for,,0,"Good parental leave, lots of flexibility",Go is a terrible programming language.,,5.0,,,,,
+2018-10-31,,,Former Employee ,Great place,,0,Great place to work at every single day,Nothing bad to say. Loved this place.,,5.0,5.0,5.0,5.0,5.0,5.0
+2018-10-31,,,Former Employee ,Good company that I like,,0,The food is pretty good,Could use more options for racquetball,,5.0,,,,,
+2018-11-14,,,Current Employee ,Software Engineer,,0,Good culture in the office,Sometimes difficult to manage projects,,4.0,4.0,4.0,3.0,4.0,3.0
+2018-10-30,,,Former Employee ,Account Manager,More than a year,0,Great Benefits and always surrounding success,Overwhelming at times when everything happens,Keep a goal in mind when talking about topics,5.0,5.0,5.0,5.0,4.0,4.0
+2018-11-13,,,Former Employee ,Google work life balance,,0,"9-5 schedule, good benefits and food",difficulty moving up to leadership positions,,4.0,,,,,
+2018-10-30, Administrative Business Partner,"Mountain View, CA",Current Employee ,Administrative Business Partner - Sales,More than 3 years,0,Fantastic benefits. It's great to have Google on your resume.,"Directors will never understand what you do on a daily basis in this role. Your performance review isn't based on a scale, but instead it ends up being based on a pass/fail opinion. A poor director/admin fit means that the admin will suffer. Admins have to step up to offer emotional/career support for each other because there is not an internal management system in place specifically for them. You will need to give 110% every day because 100% is never enough.",Treat your ABPs like real people.,3.0,3.0,5.0,2.0,3.0,3.0
+2018-10-28,,,Current Employee ,Senior Software Engineer,,0,"Perks, Benefits, Pay are good",Promotion process up is a mess.,,5.0,,,,,
+2018-11-12,,,Former Employee ,Analyst,,0,great workplace to meet fascinating people,work-life balance not as good as it looks,,4.0,,,,,
+2018-11-12,,,Current Employee ,Intern,,0,Great company to work fornwith a great culture,Time off but for the most part was good,,4.0,2.0,4.0,5.0,4.0,4.0
+2018-11-10, Recruiter,,Current Employee ,"Great perks, interesting colleagues, zero work/life balance",More than a year,0,"-Amazing Perks in NYC: gym, rooftop terrace, unlimited food and snacks for breakfast lunch dinner, beautiful spaces
+-Brand notoriety
+-working with smart people
+-lots of resources available to you","-zero work/life balance esp in on east coast
+-disorganized teams
+-focus on making hires and meeting numbers and goals as opposed to the bigger picture
+-very junior staff - very robotic - read off scripts or sound disingenuous
+-lack of diversity",Please make a true and honest effort in hiring a diverse workforce,3.0,1.0,3.0,5.0,5.0,2.0
+2018-10-21, Video,"Mountain View, CA",Current Employee ,Perks/work environment still unmatched by any other company,Less than a year,0,"-Free breakfast/lunch/dinner (vegan options!)
+-Free drinks/snacks
+-Free workout facilities (group classes)
+-Free counselors
+-Google stock
+-Community organizations (LGBT, gamers, women, etc.)
+-Paid on-site: masseurs, financial advisors, trainers, etc.
+-Discounted health plan (free on-site Wellness centers)
+-Discounts to retailers
+-Dog friendly
+-Opportunities to grow career
+-Opportunities to volunteer
+-Work deadlines can be extended under extreme circumstances","-Cubicles (I work with audio/video)
+-Work hours vary
+-Many people here don’t understand day-to-day life skills",Keep valuing all types of employees.,5.0,4.0,5.0,5.0,5.0,4.0
+2018-10-25, Software Engineer,"New York, NY",Former Employee ,Great place,More than a year,0,Lots of really nice perks and good work environment.,Can be a little overbearing in terms of politics and PC culture.,,5.0,5.0,4.0,4.0,5.0,4.0
+2018-10-25, User Experience Engineer,"San Francisco, CA",Current Employee ,UX Engineer,Less than a year,0,"Great projects, supportive teammates, overall a great place to express your creativity and put your technical skills to work.",Can't really think of any. I guess you have to watch your weight because they feed you well.,,5.0,4.0,5.0,5.0,5.0,5.0
+2018-11-09,,,Current Employee ,Head of Sales,,0,"Great culture, great people, great benefits","Bad management, very political and turning into a bureaucratic culture",,4.0,4.0,3.0,4.0,4.0,2.0
+2018-10-25, Senior Software Engineer,"New York, NY",Current Employee ,"Great people and culture, solid benefits, lots of opportunities",More than 5 years,0,"High impact projects, open engineering-based culture, free food","Large company, increasingly top-down and corporate, not as innovative as it used to be",Return to the halcyon days of real 20% and supported bottom-up development.,5.0,5.0,5.0,5.0,5.0,5.0
+2018-10-25, Product Marketing,"Boulder, CO",Current Employee ,n/a,More than 8 years,0,"fun, good food, smart people","busy, stressful, sometimes disorganized, hectic",,5.0,3.0,3.0,4.0,5.0,4.0
+2018-11-25,,"Mountain View, CA",Former Employee ,pockets of incompetence,,0,"Overall, Google pays well and showers people with perks.
+There are pockets of excellence.
+The company is extremely profitable.","There are deep, deep pockets of dysfunction and incompetence at Google. Do your due diligence on the team and manager you're considering joining. There are bozos at every company, and Google is no exception to this rule.",Learn to strategy.,1.0,1.0,1.0,1.0,4.0,1.0
+2018-11-09,,,Current Employee ,China Search Project is Concerning,,0,"Intellectually stimulating place with many ""benefits""",I think the culture has lost its way. It's a shame.,Don't Be Evil...?,2.0,,,,,
+2018-10-23,,,Current Employee ,Software Engineer,,0,Prod of working with awesome people,"big company, less impact of daily work.",,5.0,4.0,4.0,4.0,4.0,3.0
+2018-11-07,,,Former Employee ,Software Engineer,,0,"Great benefits, 401K plan, PTO","crowded work environment, micro management",May be less micro management,4.0,4.0,4.0,5.0,5.0,3.0
+2018-10-23, Senior Software Engineer,"Mountain View, CA",Current Employee ,Perfect,More than 3 years,0,Great experience good people new challenges,Great amount of work that's it,,5.0,4.0,5.0,5.0,5.0,5.0
+2018-10-23,,,Former Employee ,Great place to work,,0,"They give you lots of autonomy
+Great culture",Nothing. This place is a great place to work.,,5.0,,,,,
+2018-10-23,,,Former Employee ,Research Intern,,0,"very good experience, colleagues are smart",too big to stand out,,5.0,5.0,5.0,5.0,5.0,5.0
+2018-11-06, Vice President Sales,"New York, NY",Current Employee ,Great job with lots of benefits,More than 5 years,0,Great work life balance and amazing coworkers,Competitive environment with lots of office politics,,4.0,5.0,5.0,3.0,5.0,4.0
+2018-10-19,,,Current Employee ,Customer Engineer Google Cloud,,0,"Best culture
+Great values
+Friendly people
+Great perks","Big company, you get lost
+Fast paced and very competitive
+Imposter syndrome is real",,5.0,4.0,5.0,5.0,5.0,4.0
+2018-10-22,,,Current Employee ,Google - as magical as you think it is,,0,Too many to list here - all the standard google magic,standard growing pains with an expanding product portfolio,,5.0,5.0,5.0,5.0,5.0,5.0
+2018-10-22,,,Former Employee ,Manager,,0,the place was nice and th people were too,"not enough snacks, and a bit stress ful",,5.0,,,,,
+2018-10-21, Creative LEad,"San Francisco, CA",Current Employee ,Creative Lead,More than 3 years,0,"Fantastic organization, training and development, opportunities to do meaningful work and benefits / perks.",Becoming more like an old-fashioned company.,,5.0,5.0,4.0,5.0,5.0,4.0
+2018-11-04,,,Former Employee ,Janitor,,0,Employees are very clean and tidy,None that I can think of,,4.0,,,,,
+2018-11-03,,,Current Employee ,Counsel,,0,Lots of perks in the office and great location.,Too big to have a global picture of what's going on in the org.,Check in with employees to get feedback on how groups could work more smoothly.,4.0,,,,,
+2018-10-19,,,Current Employee ,Product Manager,,0,"Smart people, great environment","Short on PM, thread out really thin",,5.0,3.0,4.0,5.0,5.0,3.0
+2018-10-19,,,Former Employee ,wonderful place to work,,0,Great people - high caliber. Fun environment,Hard to make impact as one of 60 000 people,,5.0,,,,,
+2018-11-02,,,Current Employee ,"Great work environment, odd team assignment",,0,"Cool vibes with the team, good food, good managers",Got assigned to a random team even though before I signed my offer my recruiter told me that I would be able to go through the team matching process,,4.0,,,,,
+2018-10-29,,"Mountain View, CA",Current Employee ,Average with a hint of arrogance,More than 3 years,0,"Lots of interesting projects to learn from, great place for a junior engineer.",Google culture is full of hype and self imposed sense of uniqueness. If you have worked at a large company before it will feel annoying.,,3.0,3.0,2.0,3.0,3.0,3.0
+2018-10-18, Senior Manager,"Mountain View, CA",Current Employee ,"Great place to work, but too many unmotivated leaders",Less than a year,0,"Complete autonomy, endless learning opportunities, great culture","Too many people are comfortable in their roles and not super driven; while they do a lot to ensure the right people are hired/promoted, under-performers don’t get fired",Do more to measure effectiveness of high level employees -don’t keep them around if they’re not performing at an extremely high level,5.0,5.0,5.0,5.0,5.0,4.0
+2018-10-17,,,Current Employee ,Great company to work at,,0,Smart coworkers. Massive impact. Great products.,Things can be a bit slow,,5.0,4.0,5.0,5.0,5.0,4.0
+2018-10-31,,,Current Employee ,Bleh,,0,"Good work/life balance, benefits, etc.",Politics. Most engineering people eat their lunch by themselves.,,4.0,,,,,
+2018-10-10,,,Current Employee ,Software Engineer,,0,"great food, facility, work environment","too many groups, teams to reach sometimes",,5.0,,,,,
+2018-11-15, Escalation Manager,"Boulder, CO",Former Employee ,WTF are they even doing?,Less than a year,0,"Pay was excellent.
+Perks were great.
+Office was awesome.
+Lunch was usually delicious.","-I started just before a big reorg. I had 9 different managers in 7 months. Each had a drastically different goal for me to achieve.
+
+-No real vision toward anything groundbreaking in terms of the ad products.
+
+-Way too much ego. One manager actually told me, after an inclusivity meeting, that he could only handle so much kumbaya and lesbianism. WTF. You don’t even know me but you say that??",Director level and up should be eliminated.,1.0,2.0,2.0,1.0,5.0,1.0
+2018-10-13,,,Current Employee ,Group Product Manager,,0,"Co-workers are really smart
+Challenging Work","Disingenuous performance review and calibration process
+Promotion process driving decision",,5.0,5.0,5.0,5.0,5.0,5.0
+2018-10-16,,,Current Employee ,java,,0,company is very very good,nothing to say about this,,5.0,5.0,5.0,5.0,5.0,5.0
+2018-10-14,,,Current Employee ,google,,0,really good perks and benefits,none I know so far,,5.0,,,,,
+2018-10-15, Engineering Manager,"New York, NY",Current Employee ,Amazing place,More than 10 years,0,"Scale, values, ambitions. The company continues to be a strong innovator and technical leader.","Large company, process can be bureaucratic",,5.0,5.0,5.0,4.0,5.0,5.0
+2018-10-29, Recruiter,"Houston, TX",Former Employee ,contractor,Less than a year,0,"food, free coffee, bring dog to work","money, benefits, management, hours, compensation",help,4.0,2.0,2.0,3.0,3.0,3.0
+2018-09-28, Software Engineering Intern,"Mountain View, CA",Former Employee ,Amazing time and work!,Less than a year,0,"Work life balance.
+Interesting work.
+Everything you need to stay focused.
+Best in class salary.
+Healthy work environment.","Things progress slowly compared to startups, other companies that believe in move fast break things!",,5.0,5.0,5.0,4.0,5.0,4.0
+2018-10-08,,,Current Employee ,Great company,,0,Unbelievably smart people that are driven and want to make an impact,Long hours and lot's of people trying to own the same thing.,,5.0,,,,,
+2018-10-29,,,Former Employee ,Analyst,,0,Good company culture and work environment,None that I had working there,,3.0,,,,,
+2018-10-14,,,Former Employee ,Software Engineer,,0,Fantastic Work Environment. Great opportunities to advance.,Nothing to say about cons,,5.0,5.0,4.0,5.0,5.0,4.0
+2018-10-25,,,Current Employee ,All about the people,More than 10 years,0,"Benefits, people, opportunities for growth, performance management, 360 degree reviews","Large corporation - standardization, spectrum of roles",,4.0,4.0,5.0,3.0,5.0,4.0
+2018-10-09,,,Current Employee ,"Great people, nice benefits",,0,You'll work with the best co-workers in the world and the benefits are world class.,Salary is below market and upward mobility is reserved for few.,,5.0,5.0,5.0,4.0,4.0,4.0
+2018-10-10,,,Former Employee ,Great,,0,Great perks such as gym bikes and food,Lots of pressure from competition,,5.0,,,,,
+2018-10-24,,,Former Employee ,Partner Engineer,,0,Life-work balance is excellent. Very generous benefits.,"Bureaucracy, office politics, little room to grow. Too top-heavy.",,4.0,4.0,5.0,2.0,5.0,4.0
+2018-10-09,,,Current Employee ,Google,,0,Great place to work at,Have some improvements to make,,5.0,5.0,5.0,5.0,5.0,5.0
+2018-10-22, Senior Software Engineer,"Mountain View, CA",Current Employee ,Pretty good,More than a year,0,"Good food, workers, workplace, and work life balance",Bad cultural experience in terms of managerial fit,,4.0,4.0,4.0,5.0,5.0,3.0
+2018-10-23,,,Former Employee ,Good starting point for new grads,,0,Good place to start career with friendly coworkers and good benefits,"Easy to feel like a cog in the wheel, ad-driven business model, internal mobility can be difficult",,4.0,,,,,
+2018-10-23, Global Security Customer Service,"Mountain View, CA",Former Employee ,Security Investigations,More than 3 years,0,Great coworkers and great benefits,Security Management still improving as the department is still young,,4.0,4.0,4.0,3.0,4.0,4.0
+2018-10-07,,,Current Employee ,Software Engineering Manager,,0,Work on variety of interesting problems,Large company may not be as agile as smaller startups,,5.0,,,,,
+2018-10-06,,,Former Employee ,Coder,,0,"great minds, challenging work, felt sense of achievement after assignment completion",working on multiple projects can be distracting but it is a company need,,5.0,3.0,3.0,5.0,3.0,4.0
+2018-10-07,,,Former Employee ,Company,,0,fun atmosphere and Fun people and good benefits,I have no cons for this comapny,,5.0,5.0,5.0,5.0,5.0,5.0
+2018-10-20,,,Current Employee ,"Decent Place to Work, But Large",,0,"Good perks, good benefits, generally smart people.",Getting more large and corporate. Promotion process is clunky and slow.,,4.0,,,,,
+2018-10-29, Electrical Engineer,"Sunnyvale, CA",Current Employee ,Google is racist company,Less than a year,0,O you have got to be kidding me.......,Is ran by a pack of 12 years old kids.........,"These ""hiring managers"" too young to be managers ; if their only qual is being freshly minted out of college............ They just waste my time with these stupid basic electrical questions.......... Just What In The World You Senior Managers Thinking....????? You don't know how to manage real technical talent ; you make this 20 something kids in charge.......gdi ; what a pack of fools you people are........",1.0,1.0,1.0,1.0,1.0,1.0
+2018-10-16, Product Manager,,Current Employee ,"High stress, unclear future values",More than 3 years,0,"- competitive compensation and good benefits
+- very smart colleagues
+- generally honest and transparent internal culture
+- incredible opportunities if you can find them","- super high stress, depending on the team and role
+- nosedive on faith in executive leadership since Sundar Pichai, Ruth Porat, and Kent Walker started driving the company (not living up to Google values)
+- guaranteed product thrash on virtually everything not already making serious revenue
+- general lack of empathy among leaders and in what's valued in people managers",Stop burning user trust and don't earn Facebook's ruthless and duplicitous reputation. Holding true to values is the only difference between building utopia and building Black Mirror.,3.0,2.0,3.0,3.0,4.0,2.0
+2018-10-05, Operations Manager,"New York, NY",Current Employee ,Operations manager,More than 5 years,0,"Perks, food, spaces, culture, health care and work-life balance","Flat org, hard to grow",,5.0,5.0,5.0,5.0,5.0,5.0
+2018-10-18,,,Former Employee ,Fun perks - wouldn’t contract there again,,0,"Perks were great, as well as being around intelligent people.",Being a contractor I didn’t recrive a lot of responsibility or work. I felt very unused & undervalued,Don’t overlook people,2.0,3.0,3.0,3.0,4.0,1.0
+2018-10-01, Intern,"Los Angeles, CA",Former Employee ,Intern Experience,Less than a year,0,Excellent environment to work for,Office is too comfortable to work for,No advice,5.0,5.0,5.0,5.0,5.0,4.0
+2018-10-04,,,Current Employee ,Software Engineering Intern,,0,"Best IT Company, Great work-life balance, Talented people","Conversion is hard, they don't care what your internship project",,5.0,5.0,5.0,5.0,5.0,4.0
+2018-10-04,,,Former Employee ,Great atmosphere,,0,Great atmosphere to work in.,Stressful sometimes but that's okay,,5.0,4.0,5.0,4.0,4.0,5.0
+2018-10-04, Operations Project Coordinator,"Mountain View, CA",Current Employee ,Excellent Company,More than a year,0,"Forward thinking Tech company. Really fun place to work. Free activities, meals and cafe. Not all play - you will work!","If you are a Temp, Vendor, or Contractor (TVCs) check how long you are allowed to work at Google before you need to take a break in service (often two years and then you must take a six-month break-in-service before returning).",Recent changes have been made to exclude TVCs from certain authorizations and group activities that they had before. This creates a bit of a chasm between permanent and non-permanent employees which may change attitudes and cause an eventual culture shift.,5.0,4.0,5.0,4.0,3.0,5.0
+2018-10-04,,,Current Employee ,Overall is very good,,0,"Free food, great culture, and talented colleagues",Things move a little bit slow,,5.0,5.0,5.0,5.0,5.0,5.0
+2018-09-30, Anti,"Sunnyvale, CA",Current Employee ,Loved my time there!,More than a year,0,"- standard silicon valley perks (free food, high salary, smart colleagues, etc.)
+- a dizzying amount of resources for learning anything from machine learning to meditation
+- flexibility and autonomy of work hours
+- strong support system especially when it comes to career growth
+- opportunity to have an impact on hundreds of millions of dollars of revenue
+- satisfying to stop spammers and fraudulent agent in their tracks","- standard massive company bureaucracy stuff
+- golden handcuffs - a lot of people tend to end up in positions they are overqualified for and uninterested in, except for the money of course
+- silicon valley traffic and expenses aren't for everyone. much easier if you're young and single",,5.0,5.0,5.0,5.0,5.0,5.0
+2018-10-02, Senior Program Manager,"Sunnyvale, CA",Current Employee ,Good company to work for,More than 5 years,0,"Benefits, mobility, exposure, talented people around","Too top heavy, less growth within",Grow the teams,5.0,4.0,5.0,5.0,3.0,4.0
+2018-10-17,,,Current Employee ,Brand Ambassador,,0,"Supportive, Innovative, lots of intelligent people","Departments have poor communication, i.e. creative team and marketing team don't connect well.",,4.0,,,,,
+2018-10-14, Product Marketing Manager,"Mountain View, CA",Current Employee ,Product Marketer,More than 5 years,0,"- Great benefits and salary
+- Fascinating product and technical challenges
+- Lots of opportunity to grow/learn/change your career focus","- Work life balance is pretty brutal
+- If you are not an engineer, it can feel like an extremely conventional company
+- Struggling to scale/maintain the culture that made it great.",Creating better/more/more accepted paths to part-time work would be extremely helpful for diversity and inclusion efforts.,3.0,1.0,3.0,5.0,5.0,3.0
+2018-10-17,,,Current Employee ,So far it has not been so long,,0,I hope the feedback is better than i can do on my own,Very lengthy and it gets frustrating to fill out so many things,I have not been too long on this,3.0,,,,,
+2018-10-17,,,Former Employee ,Was ok to work there but not fast paced,,0,great food offered but quality went down a bit with time as employee count went up,pace of work is slow and have too many hires for a small piece of work.,,2.0,4.0,2.0,2.0,2.0,2.0
+2018-10-14,,,Current Employee ,Great company overall,,0,"- interesting projects & flexibility in what you work on
+- very meritocratic compared to other companies
+- superstar teammates
+- best internal tools in the business
+- perks, amenities & pay","- team culture could be more fun and casual
+- too big and bloated in some ways, a lot of internal competition (though that is good in many ways)",,4.0,3.0,2.0,4.0,5.0,5.0
+2018-10-14, Tax Director,"New York, NY",Current Employee ,Work life balance is gr8,,0,Work life balance is gr8,Lack of tax strategies oversight,,4.0,,,,,
+2018-10-14,,,Current Employee ,Software Engineer,,0,It provides good work life balance,It is getting too big,,4.0,,,,,
+2018-09-15, Designer,"Mountain View, CA",Current Employee ,Designer,More than 3 years,0,"Best tech talent
+Great benefits and perks
+Exciting projects","Almost too many talented people - so much that incredible talent often is under-utilized
+Management indecision and planning can lead to constant strategic pivots
+Big accomplishments are the norm and sometimes not appreciated or recognized",,5.0,4.0,5.0,5.0,5.0,4.0
+2018-09-25,,,Former Employee ,Amazing workplace,,0,Great work life balance. Employees were all wonderful. Management helps you every step of the way.,No cons. Everything was amazing.,Keep up the great work.,5.0,,,,,
+2018-10-12,,,Former Employee ,Good,,0,"Good environment, nice people, free stuff","Tough Environment, difficult process, hard work",,4.0,3.0,5.0,3.0,3.0,3.0
+2018-09-27,,,Former Employee ,Great Place!,,0,Cool environment and smart people,Workload can be very stressful at times,,5.0,,,,,
+2018-09-27,,,Current Employee ,It was great.,More than 8 years,0,Very very very nice people,Absolutely no cons to report,Keep being awesome.,5.0,5.0,5.0,5.0,5.0,5.0
+2018-10-11, Product Manager,"Mountain View, CA",Current Employee ,Product Manager,More than 8 years,0,Dynamic and tech savvy teams,"Long working hours. Xfn challenges.
+Many teams trying to solve the same problem, causes waste",,4.0,3.0,4.0,5.0,5.0,4.0
+2018-09-23,,,Current Employee ,Great Company,,0,"Great Pay, Great Flexibility, Nice Coworkers,",None really other than constant work that we never seem to have enough time to complete.,Be a little more patient with the teams. We are only human.,5.0,4.0,3.0,4.0,5.0,3.0
+2018-09-26,,,Former Employee ,Good,,0,"Good place to work, good pay","High expectations, lots of bosses",,5.0,,,,,
+2018-09-26,,,Former Employee ,Data Scientist,,0,"Good pay, good environment, smart people","high housing price, heavy work load",,5.0,5.0,5.0,4.0,5.0,5.0
+2018-09-24,,,Former Employee ,Cart Boy,,0,Super fun in my opinion,Dont read this okay alright,,5.0,,,,,
+2018-09-24,,,Former Employee ,Associate,,0,Awesome work environment and benefits,no cons as such for Google,,5.0,4.0,5.0,4.0,5.0,4.0
+2018-09-22,,,Current Employee ,Great Company,,0,Nice culture. Nice manager. Work life balance.,The interview process is very long.,,5.0,5.0,5.0,5.0,5.0,5.0
+2018-10-06,,,Current Employee ,Very challanging,More than 8 years,0,New challenges everyday with some of the best technologies on earth,Keeping job title and pay correct,Should have better job descriptions of expected priorities for task completion,4.0,5.0,5.0,5.0,3.0,5.0
+2018-10-05,,,Current Employee ,OK job,,0,work life balance is good,growth is slow and complicated.,,4.0,5.0,4.0,4.0,4.0,3.0
+2018-09-16,,,Current Employee ,PeopleOps,,0,"Great benefits, awesome perks, smart people",Takes a long time to get things done,,5.0,,,,,
+2018-09-28,,,Former Employee ,Director,,0,"Awesome benefits, great company culture","Disorganized, poor hiring practices, not honest about gender equity issues",Fix the hiring!,3.0,3.0,5.0,5.0,4.0,4.0
+2018-09-20,,"Mountain View, CA",Current Employee ,Supply Chain Program Manager,Less than a year,0,"Life balance, the cultural is the best.","I dont really have Cons at this moment,.",,5.0,5.0,5.0,5.0,5.0,5.0
+2018-09-20,,,Former Employee ,Data Analyst,,0,"No work pressure,Friendly,Will have access to everything",nothing i can think of,,5.0,,,,,
+2018-09-20,,,Former Employee ,Awesome and supportive place to work,,0,The culture - the people are amazing! Hands down some of the smartest people you'll ever work with,It can be very large and bureaucratic at times,Do not re-org the company so often,5.0,,,,,
+2018-10-04,,,Former Employee ,Enjoyed It,,0,"Staff are kind, compassionate, and more importantly, they are willing to Google your questions for you. :)","Sometimes people decided to use Bing rather than Google, which made me shed quite more than just a few fragile teardrops.",,4.0,3.0,5.0,4.0,5.0,4.0
+2018-09-19,,,Current Employee ,Hardware Engineer,,0,Best place to work and grow,It's getting too big and crowded,,5.0,,,,,
+2018-09-11, Senior Recruiter,"Mountain View, CA",Former Employee ,Amazing company! The best in its class!,More than 10 years,0,"I was at Google for over 10+ years and can’t say enough about what a great company it was to work for. They have outstanding benefits, pay, culture and opportunities for growth. While there, I felt the company lived by their motto, “Don’t Be Evil” and later “Do the Right Thing.” It wasn’t a marketing tactic, it was how they conducted business. Companies continue to try and model their best practices.",It is a performance culture so be prepared to work hard and smart.,,5.0,4.0,5.0,5.0,5.0,4.0
+2018-09-18,,,Current Employee ,Great place to work,,0,Everyone here is wicked smart,Too many unhealthy snacks and too many massages ;),,5.0,5.0,5.0,5.0,5.0,5.0
+2018-09-17,,,Former Employee ,Software engineer,,0,Good work environment is good for me.,I dont think there is any cons.,,5.0,,,,,
+2018-09-17,,,Former Employee ,My experience at Google USA,,0,"Great place to work, friendly people",Very busy schedule and high demands,,5.0,,,,,
+2018-09-17,,,Former Employee ,Good place to work if you are not eager to do something,,0,You can balance work and life here. Good benefits for engineers.,You may not be able to participate in some interesting projects in the beginning.,,5.0,,,,,
+2018-09-30,,,Current Employee ,Review,,0,"Rewarding, good teamwork, cool locations","Exhausting, Low pay, long commute, grunt work",,4.0,,,,,
+2018-10-17, Hardware Engineer,"Mountain View, CA",Current Employee ,CEO who doesn't listen to employees,More than a year,0,"-Free food (snacks and cafes)
+-Massage chairs","-Hard to get promoted
+-Poor planning on projects for such a big company","Listen to employees. They are the ones breaking their backs to build this company. If so many are leaving because of projects like Maven, Jedi and Dragonfly, Google should drop those projects.",1.0,2.0,1.0,2.0,3.0,1.0
+2018-09-15,,,Current Employee ,It's Google,,0,"- High salary
+- Free barista
+- Smart people","- Bad food
+- Traffic is terrible",,5.0,5.0,5.0,5.0,5.0,5.0
+2018-09-30, Data Analyst,"Mountain View, CA",Current Employee ,data analyst,More than 3 years,0,good benefits. work life balance. low pressure,very political environment. too many layers. Communication overheads.,,3.0,5.0,3.0,3.0,3.0,2.0
+2018-09-15,,,Former Employee ,Google EP Intern,,0,Awesome Perks! In addition you actually get to work on real projects unlike many internships similar to it.,One con is that you are not encouraged to work overtime.,,5.0,5.0,5.0,5.0,5.0,5.0
+2018-09-29,,,Current Employee ,Amazing experience,,0,"Great work environment, great product",Everything about working here is great,,4.0,,,,,
+2018-09-30,,,Current Employee ,Meh,,0,"Good pay, benefits, and free food.",Spend more time sending emails than doing actual work.,,2.0,,,,,
+2018-09-29,,,Current Employee ,Software Engineer,,0,Good work and challenging projects.,Bad management. Too much politics.,,3.0,3.0,3.0,3.0,3.0,3.0
+2018-09-04, Account Strategist,"Mountain View, CA",Former Employee ,The hype is real.,More than a year,0,It's Google. The benefits are great. The people you work with every day are incredibly smart. The environment can be an addicting place to work in.,"Google is still a big company, so personal/career growth can be slow. Find the right people internally to act as your champions and you'll be fine.",,5.0,5.0,5.0,5.0,5.0,5.0
+2018-09-13, Software Engineer,"Mountain View, CA",Former Employee ,Overall good company to work with,More than 3 years,0,"- Quality team members
+- A lot of different projects to work on
+- High automony","- Crowded workspace
+- Very long dining hall line",,5.0,5.0,5.0,5.0,5.0,5.0
+2018-09-14,,,Current Employee ,good,,0,everything is good at google,there is currently no cons at google,,5.0,5.0,5.0,5.0,5.0,5.0
+2018-09-09, Account Manager,"Houston, TX",Former Employee ,"Great vision, but sometimes unrealistic goals",More than 3 years,0,Great company to work with,Extremely hardworking team and requires lot of time commitment,,5.0,5.0,5.0,5.0,5.0,5.0
+2018-09-13, Associate Compensation Analyst,"Mountain View, CA",Former Employee ,Compensation Associate,More than 3 years,0,"Great team, high level work output, very principled",Performance review and promotion process has a lot of room for improvement across Google,Make sure the people you are promoting to manager are ready to lead! Just because they are strong individual contributors doesn't mean they will be good leaders.,5.0,,,,,
+2018-09-26,,,Former Employee ,Good place to work,,0,"scale, impact, tech, fun, people","politics, slow, lostmojo, old company",,4.0,5.0,3.0,3.0,5.0,3.0
+2018-09-09,,,Current Employee ,Love it,,0,"Great culture, pays well, balanced.",High living cost of the area,,5.0,4.0,5.0,5.0,5.0,5.0
+2018-09-09, Video Producer,"Mountain View, CA",Former Employee ,Challenging and rewarding work,More than 3 years,0,Very transparent company despite its size. Managers and colleagues help with your personal and career growth.,No real complaints. I wish I could've stayed.,,5.0,5.0,5.0,5.0,5.0,5.0
+2018-09-27,,,Current Employee ,Great Company,,0,Love this place so much,Everyone is so smart,,3.0,4.0,4.0,3.0,3.0,4.0
+2018-09-23, Strategy and Programs Manager,"Mountain View, CA",Former Employee ,"Great culture, but lots of cooks on some projects",More than 5 years,0,"Great colleagues, focus on work life / balance, perks and salary.",Lots of projects created to give people work and too many cooks for each project,,4.0,5.0,4.0,3.0,4.0,4.0
+2018-09-11, Senior Software Engineer,"Denver, CO",Former Employee ,Love it!,More than 5 years,0,Great food and perks!,None! What a great place to work!,Keep rockin!,5.0,5.0,5.0,5.0,5.0,5.0
+2018-08-30, Accountant,"Egypt, AR",Former Employee ,Accountant,More than 3 years,0,Because it is a wonderful global company,There are no negative aspects to work in Google,,5.0,5.0,5.0,5.0,5.0,5.0
+2018-09-22, Software Developer,"Los Angeles, CA",Former Employee ,Good company,More than a year,0,Nice work environment with good mix of people,No such that I noticed,,4.0,,,,,
+2018-09-22, Software Engineer,"San Francisco, CA",Current Employee ,Software ENgineer,More than 3 years,0,Innovation opportunities to learn and grow,"Bureaucracy, management politics and bias",,4.0,3.0,4.0,3.0,4.0,3.0
+2018-08-31,,"Mountain View, CA",Current Employee ,Amazing place to work for,More than 3 years,0,"Great culture, amazing career opportunities, super interesting projects",Best company I've ever worked for,Keep doing what you're doing!,5.0,5.0,5.0,5.0,5.0,5.0
+2018-09-06, Assistant,"Los Angeles, CA",Former Employee ,Superb,Less than a year,0,Great opportunities for personal growth,Fast paced and highly demanding,,5.0,5.0,5.0,5.0,5.0,5.0
+2018-09-06,,,Current Employee ,Software Engineer,,0,"Great work environment, can work with many talented engineers.",Google becomes too big to get many career oppotunities.,,5.0,5.0,4.0,4.0,5.0,4.0
+2018-09-21,,,Current Employee ,"Great Company, Known Your Worth",,0,"Overall, an unarguably fantastic place to work.","Little focus on retention, career development outside of one's org, or building transferrable skills. The larger the company grows, the more issues with defined roles; silos tend to manifest.",,4.0,3.0,4.0,3.0,5.0,4.0
+2018-09-06,,,Current Employee ,Awesome,,0,"Great team culture, love the place.",Google is now a big company.,,5.0,,,,,
+2018-09-19, International Product Manager,"San Bernardino, CA",Former Employee ,Great company!,More than a year,0,"ceo, work life balance, projects",Sometimes interns were not given enough of an opinion,Allow interns to do a bit more,4.0,4.0,4.0,5.0,4.0,4.0
+2018-09-19,,,Former Employee ,Software Engineer,,0,"Good working environment, flexible working time","Big company, hard to get promotion unless with aggressive team and leader",,4.0,4.0,4.0,3.0,4.0,4.0
+2018-09-20,,,Current Employee ,Good employer,,0,"Relaxing working environment, pets allowed.",Pay not as good as to financial institutions in New York City.,,4.0,,,,,
+2018-09-04,,,Current Employee ,"Google people, ambitious objectives",,0,People are excellent and most have good intentions. Company has ambitious objectives and has grown remarkably. High quality senior leadership.,Too many cultural disputes takes away from shared objectives.,Make clear decisions on cultural hot topics and then live with the consequences,5.0,3.0,4.0,4.0,4.0,4.0
+2018-09-04,,,Former Employee ,Software Engineer,,0,Perks perks perks perks perks.,California just wasn't for me.,,5.0,,,,,
+2018-09-17,,,Current Employee ,A fun ride,,0,"Smart, collaborative people
+Good salary and benefits
+Welcoming culture",Hard to grow outside Mountain View,,4.0,4.0,5.0,4.0,5.0,4.0
+2018-09-18, BSA Analyst,"Sunnyvale, CA",Current Employee ,BSA,More than 5 years,0,"Massages, Perks, Food, cutting edge tech",Developers get too theoretical so we end up not delivering anything,,4.0,3.0,4.0,3.0,5.0,3.0
+2018-09-18, Vendor Manager,"Mountain View, CA",Current Employee ,Very good overall but not the right thing for me,More than 3 years,0,"Flexible work hours, lots of internal possibilities for switching roles","Lots of bad managers who dont know what they're doing, creating a toxic workplace and sti stick around the by being shuffled to different teams",Look under the shiny surface,3.0,4.0,3.0,4.0,3.0,3.0
+2018-09-01, Part Time Cashier,"New York, NY",Current Employee ,Part time,More than 3 years,0,My dream in one time work in google and you gave me chance am try to best for google,Trying something new with google and sunder pichai,Indian culture teach also satisfaction to cutomer and am do like that,5.0,5.0,5.0,5.0,3.0,5.0
+2018-09-27,,"New York, NY",Former Employee ,"Great from afar, dysfunctional from within",,0,"There are pros to working at Google - it looks great on the resume because of its history, it is a known quantity in the industry, performers get a lot of stock, it's not yet an antiquated giant (but moving in that direction pretty fast.) , generally people are friendly (lower the level, better the people - the opposite is also true. Higher the level, worse the ""Googleyness"" of the people)","- Free food : I have actually had better ""free"" food at other companies, and this free food comes at a high price - you work - all the time. Through lunch. Through breakfast. Sometimes through dinner. Quality isn't so great either.
+- Management - really terrible (horrible) management. They are completely out of sync with what is needed, or what is missing, a lot of them are simply cruising, and generally they are pretty terrible @ their job. Of course there are some great teams, and if you are lucky, you will end up in these teams
+- Burnout - especially on the cloud side - is happening at an alarming rate
+- To put it simply, people are overloaded and they break - I have sadly seen it happen to several great , solid engineers (there is a reason why the average googler stays there for < 3 years","There is a lot of good stuff here - find it, treasure it, guard it and spread it. Google was never made by tech - it was made by brilliant, hard working people who chose to do so and not monetize it themselves - you are rapidly losing your biggest asset, and you don't even realize it",1.0,1.0,2.0,3.0,3.0,1.0
+2018-08-28,,,Current Employee ,Sales,,0,Diverse culture and set of opportunities.,"Large corporation, very different businesses, original Google culture getting lost.",,5.0,3.0,4.0,5.0,4.0,4.0
+2018-08-31,,,Current Employee ,Engineering Practicum Internship,,0,A great program to start your CS career and highly recommend any college freshman and sophomore to apply.,"Bay area housing -- the relocation bonus is not enough to cover all of the living costs. Need to find the right team on a topic that you love, otherwise it could be quite boring (and lonely?)",,5.0,5.0,5.0,5.0,5.0,4.0
+2018-09-07, Software Engineer,"Mountain View, CA",Former Employee ,Good Work but Hectic,Less than a year,0,"Perks, intellectual atmosphere, salary, google brand.","Work Life balance, you may work on things never done before so they will be challenging, too many genius people who think they are always right and can be jerks.",Make google jump in more areas.,4.0,2.0,5.0,5.0,5.0,3.0
+2018-08-29,,,Former Employee ,Partnerships Manager,,0,Tons of opportunity. Great people. Excellent perks. Fast-paced and autonomous.,Corporate hierarchy. Slow-moving HR. Growth boundaries that disregard exceptional performance/motivation.,,5.0,4.0,5.0,4.0,5.0,4.0
+2018-08-30, Technical Program Manager,"Sunnyvale, CA",Current Employee ,The best company to work for!!,More than 5 years,0,"Great attention to employee needs and happyness. Work with best and the brightest. Very positive attitude at work, openness and all voices count when it comes to company prosperity.","The organizations grow very fast, lots of unnecessary mid-management, who waist peoples presios time , just to justify their salaries.",Burocracy and lots of unnecessary mid-level management in technical program management ladder in Cloud.,5.0,5.0,5.0,5.0,5.0,5.0
+2018-08-30,,,Former Employee ,SWE Intern,,0,Great place to work! lots of brilliant people and free food,you get so spoiled by all the goodies and perks :(,,5.0,,,,,
+2018-09-01, Software Engineer,"San Francisco, CA",Current Employee ,A company culture build around the millenial sterotype,Less than a year,0,Cost or budget is never a concern.,"The company culture is like a millennial personified--by lunch on the first day I was already annoyed by the exceedingly in-your-face liberal political culture. Evals and promotions are based on the importance of your project and your ability to kiss up to peers. Lunches are mediocre at MTV and everyone there's a long wait during typical lunch hours. The hiring process results in a more consistent level of hires, but despite their claims the average hire at a 65K or 80K+ populous company are at best Bs rather than As. Nobody cares to do actual work, and the open floorplans means you'll have to tune out personal non-work-related chatter all day.",If a manager has over a dozen reports than chances are their reports are goofing off all day.,2.0,3.0,2.0,2.0,4.0,4.0
+2018-08-25, Administrative Business Partner,"Sunnyvale, CA",Current Employee ,Great company - Long hours depending on position,More than a year,0,"Great culture, offices, benefits, people.",Working with execs requires long demanding hours (to be expected).,,5.0,5.0,5.0,4.0,5.0,5.0
+2018-08-28, Medical Sales Representative,"Egypt, AR",Current Employee ,Product Manager,More than 3 years,0,Love Marketing so much an have willing,Some stress but will reomove it,Be Smart,5.0,4.0,5.0,4.0,4.0,4.0
+2018-09-11,,,Former Employee ,Account Executive,,0,"Great people, interesting work, great office space","Hardcore mentality, long hours, competitive culture",,4.0,,,,,
+2018-08-24,,"Los Angeles, CA",Current Employee ,Software Eng,More than 3 years,0,The place on the planet to work,Not all the people get to work on the best projects,,5.0,4.0,5.0,5.0,5.0,4.0
+2018-08-27, Software Engineer,"New York, NY",Current Employee ,Best place to work,Less than a year,0,You get to work for GOOGLE. That's a lot to tell,Nothing. You can proudly say you work in GOOGLE,Do you hire people with no working experience but loves coding?,5.0,5.0,5.0,5.0,5.0,4.0
+2018-09-10,,,Current Employee ,Analyst,,0,"Interesting work, great company to work for","Large organization, culture within different teams vary",Keep hierarchy and minimum,4.0,,,,,
+2018-06-30, Product Manager,"New York, NY",Current Employee ,Undeniably a great place to work,Less than a year,0,"- Outstanding benefits, competitive compensation
+- Big focus on employee well-being and happiness
+- Great internal culture
+- Fantastic food, and 3 meals a day offered in major offices
+- Beautifully designed and fun offices
+- A huge amount of trust is placed in employees
+- Extremely transparent company
+- Managers aren't overbearing on things like work hours—a lot of autonomy
+- People are candid and direct at all levels without being rude
+- Challenging and interesting work
+- Tons of resources available to grow and learn new things
+- Google has a ton of money and is able to throw lavish events for employees
+- Google does actively try to be a good citizen in the world
+- Upper management takes employee concerns to heart and actively tries to address them
+- Working at Google = people throwing themselves at you to offer you a job","- Onboarding is a very steep learning curve due to all the jargon, internal tools, internal software tools/languages, and new processes to learn
+- All the home-grown stuff makes it hard to keep up with what the rest of the world is doing
+- Bottom-up culture promotes innovation but lack of enforced decision-making can make things messy internally (e.g. why Google has so many chat apps)
+- Engineers are the heart of the company and as such can be highly entitled
+- Typical tech industry struggles with building a diverse workforce
+- Everything you need is provided for so it's easy to spend your entire life at work
+- Painful promo process, hard to switch career ladders internally
+- Just slightly cultish :)",,5.0,3.0,5.0,4.0,5.0,4.0
+2018-09-07,,,Current Employee ,Amazing ambitious workplace,,0,"Filled with extremely smart and talented people.
+Several projects are ambitious and try to solve the bigger picture.
+Tons of perks.
+Inclusive environment.
+Freedom to choose what one wants to work on.
+Variety of things available to work on.","Very large company, hard to make large impact.
+Lot of work duplication.",,4.0,,,,,
+2018-08-26, Software Engineer,"Mountain View, CA",Former Employee ,Software Engineer,More than 5 years,0,They offer great free food.,Food is too good and impact productivity,,5.0,5.0,5.0,5.0,5.0,5.0
+2018-08-26,,,Current Employee ,Great Place to work,,0,"Compensation, benefits, and autonomy",Siloed environment at times,,5.0,5.0,5.0,5.0,5.0,4.0
+2018-08-26,,,Current Employee ,sde,,0,it is a good place to work,I have not find any issues,,5.0,,,,,
+2018-08-22, Logistic Management,"New York, NY",Current Employee ,Good,More than 10 years,0,excellent and benificial for evry employee,Im looking in hard wark with smart,Management planing is very important,5.0,3.0,5.0,5.0,3.0,2.0
+2018-08-22,,,Former Employee ,Senior Program Manager,,0,The people. The perks. The overall atmosphere upbeat and forward-thinking.,Heavy focus on making products easy to use results in limited help available for clients who prefer a more hands on customer engagement.,,5.0,,,,,
+2018-08-22, Software Engineer,"Boulder, CO",Current Employee ,"Love working at Google in Boulder, CO",More than 3 years,0,"Excellent people, interesting work, free meals, amazing benefits.",Big companies have a larger overhead of process than small ones.,,5.0,5.0,5.0,5.0,5.0,5.0
+2018-08-19, Senior Software Engineer,"Seattle, WA",Current Employee ,"Great teammates, projects, pay, and perks",More than 3 years,0,A consequence of the crazy hiring bar is that everyone you work with is very smart and you can rely on your teammates to get things done.,"I guess some of the typical big company stuff, like it sometimes taking longer for a project to complete.",,5.0,5.0,5.0,5.0,5.0,5.0
+2018-08-22,,,Current Employee ,Awesome,,0,"Super smart co-workers.
+Good work life balance.",Perf takes a long time and promotions are hard.,,5.0,5.0,5.0,5.0,5.0,5.0
+2018-08-22, Intern,"Los Angeles, CA",Former Employee ,Great Company to work with,Less than a year,0,Everything is great and I liked it very much,no cons as such for this company,,5.0,,,,,
+2018-08-21,,"Mountain View, CA",Former Employee ,Great coworkers and good environment to learn,More than a year,0,"In addition to the amazing perks, Google was a really great environment to learn - there are tons of really smart people you can learn from.",Could be hard to advance in the company.,,5.0,5.0,4.0,3.0,5.0,5.0
+2018-08-16,,,Current Employee ,Youtube Partner Account Manager,,0,"Food, training, people, location, experience.",Sometimes your co-workers are a bit anxious because they are behind computers all day but that is it.,"It is ok to smile more, make noise and put some music. They are just a bit shy.",5.0,4.0,4.0,5.0,5.0,5.0
+2018-08-19," Software Engineer, Tools and Infrastructures","San Bruno, CA",Current Employee ,Best Company in the world!,Less than a year,0,"Smart & hardworking teammates, perfect work-life balance and great benefits","Google only use its own tools, as a new-grad student, I do feel some pressure learning so many tools at the same time.",,5.0,5.0,5.0,5.0,5.0,5.0
+2018-08-16, Worker,"Los Angeles, CA",Former Employee ,Wonderful company,More than a year,0,I don't know what to say...probably everything.,No real downsides in my opinion.,Keep up the good work!,5.0,4.0,4.0,5.0,5.0,5.0
+2018-08-19, Copywriter,"New York, NY",Former Employee ,Great place to work,More than a year,0,"sense of community
+
+opportunity for career progression",can be very time demanding,,5.0,,,,,
+2018-08-19, Account Executive,"Austin, TX",Current Employee ,Google Cloud Sales,More than a year,0,"Working with brilliant people, being a part of an org that's in hypergrowth",Red tape/complexities of a large company with a large amount of stakeholders,,5.0,4.0,5.0,5.0,4.0,5.0
+2018-08-19,,,Former Employee ,Great place to work,,0,Has a great company atmosphere,I can not think of any!,,5.0,4.0,5.0,5.0,5.0,5.0
+2018-09-01,,,Former Employee ,Everything you’d think,,0,Amazing perks atmosphere and chances to grow,Potential to drink the koolaid and loose sight of some realities,Transparency is key,4.0,,,,,
+2018-08-15, Google Engineering Practicum,"Mountain View, CA",Former Employee ,Engineering Practicum Intern,Less than a year,0,"Pay, work life balance, team placement, relevant to the field you’re working in even if you’re just a freshman/sophomore",Housing is not provided for you,,5.0,5.0,5.0,5.0,5.0,5.0
+2018-08-30, Intern ,"San Francisco, CA",Current Employee ,Software Engineer,More than a year,0,good culture but it's good,boring projects but it's fine,,3.0,4.0,4.0,5.0,3.0,4.0
+2018-08-15,,,Current Employee ,Engineer review for google company,,0,Good work environment for all people,The location of their office isn’t my favorite,,5.0,5.0,5.0,5.0,5.0,5.0
+2018-08-29,,,Former Employee ,Product Marketing Manager,,0,The perks. Working with smart people.,Lots of consensus building.,,4.0,5.0,5.0,4.0,5.0,4.0
+2018-08-14, Software Engineer,"Mountain View, CA",Current Employee ,Software Engineer,More than a year,0,"Friendly environment, great benefit, great career opportunity",living cost is too high in bay area,,5.0,5.0,5.0,5.0,5.0,5.0
+2018-08-14, SRE,"Mountain View, CA",Former Employee ,Site Reliability Engineering,More than 5 years,0,"Great people, decent culture, good pay.","Company is changing their values, becoming big corporate America, which is exactly what I didn't want.","Look at how you are changing, it's not what made you successful so why change?",5.0,2.0,4.0,4.0,5.0,2.0
+2018-08-28,,,Current Employee ,Competitive perks and pay,,0,"Competitive perks and pay, great work life balance",Large corporation with hard upward mobility,,4.0,5.0,5.0,4.0,5.0,2.0
+2018-08-24,,"Mountain View, CA",Former Employee ,It's a boost for a better things,More than a year,0,"1. I had great managers (their managers though.....eh)
+2. pretty good micro-cultures
+3. free food
+4. free transportation (if you're full time)
+5. free classes (if you're full time)
+6. lots of pto (if you're full time)
+7. you work with some of the best and brightest
+8. the networking post-Google is pretty amazing
+9. you work with some very proactive people
+10. lots of social opportunities
+11. WFH whenever you want (as long as you're full time)","1. contractors are treated with second class status, you feel bad for them, for example, I could WFH whenever I had an appt, for a contractor, you lose 1/2 day pay for such. granted this also very dependent on the manager too. my first manager was strict with the contractors and by the book, my second one was very much 'I don't care where you work from so long as you get it done'
+2. this is a company with billions of dollars that simply doesn't care to keep all employees insured
+3. C-Level executives are pretty indifferent to the 'little guy'
+4. be more diverse
+5. not much opportunity for advancement unless someone leaves
+6. work life balance is a tough achievement if at all, I worked a lot of odd hours
+7. unconscious bias is a real problem within the thinking of hiring managers
+8. if you're going to transfer an employee to a different part of the country, maybe give them more than a months notice? I saw co-workers marriage fall apart because their manager simply 'forgot to schedule a meeting sooner'
+9. it's very political (big little lies in a tech setting)
+10. communicate feedback more effectively
+11. be more diverse","listen to everyone on your team, let everyone enjoy the perks, be more aware of your direct reports",3.0,2.0,3.0,2.0,5.0,3.0
+2018-08-28,,,Current Employee ,Not the same company it used to be,,0,"Amazing perks: Food, massages, you name it.",Becoming extremely bureaucratic. Can be comparatively slow to grow.,,3.0,4.0,3.0,3.0,5.0,1.0
+2018-08-13,,"New York, NY",Former Employee ,Good Company,More than a year,0,Great benefits in the office,Bureaucracy can be limiting to creatitivy,,5.0,,,,,
+2018-08-13, Test Manager,"Seattle, WA",Former Employee ,The best company of my career.,More than 5 years,0,Very wide range of opportunities to work in.,Performance review process is very lengthy and in depth.,Don’t micro manage your people.,5.0,5.0,5.0,4.0,5.0,3.0
+2018-08-12,,,Current Employee ,Great company to work,,0,"Innovation
+Problem scale
+Great people
+Work life balance",Nothing that I know of. I like working here,,5.0,,,,,
+2018-08-07,,,Current Employee ,good,,0,The food is good a lot.,The work is very hard.,r,5.0,5.0,,,,
+2018-08-25,,"Irvine, CA",Current Employee ,"understading data workflow, and how it effect to bussiness",,0,close to home and steady,"overtime, hardworking and average pay",more promotions,3.0,4.0,4.0,5.0,4.0,4.0
+2018-08-09, Software Engineer,"New York, NY",Current Employee ,"Great place, especially if you find a project you like",More than 5 years,0,"Solid engineering practices, respectful colleagues, great benefits, and amazing free food.",It sometimes feels like it's gotten very big. Lots of great brains behind every problem means it's not straightforward to make your mark.,,5.0,4.0,5.0,4.0,4.0,4.0
+2018-09-06,,"Mountain View, CA",Current Employee ,Playstore Production Associate,,0,This team has the potential to be best they can be but they need to get out of their own way with their egotistical know it all attitude.,"This Playstore Production Management team are some of the most pompous, arrogant, juvenile punks I have ever had the misfortune of coming across. My manager wanted to know when things weren't getting done or were going wrong but when I approached him he would be defensive, accusing, openly blaming and quite snotty and offensive. This is not the hallmark of anyone cut out to manager other people. When approaching him with concerns or mistakes, he would twist and turn things around on me that I was blaming other people. And I thought, are you for real? The female manager was one of the most pompous peacocks that could of used a little ego balancing and reality check. I have news for you, you cannot brow beat, lecture and force feed your sloppy training program and then get on your high horse and lecture people that they are not meeting your expectations. Your training program was like trying to follow an untied off balloon let go in a room. This team is scatterbrained and cocky and comes across as hair on fire, them gets snippy when things go wrong. Then you will get a email that says ""Oh, now I see how this was confusing, my bad!"" Well, the damage was already done. Here's a clue. Treat your contractors like the qualified, professionals who have brains, skills and common sense that you fail to acknowledge or bother to allow an ounce of autonomy to prove themselves without your nitpicking micromanaging.","You need to implement some people management, soft skills and people development. The behavior of your management on this team is unacceptable.",1.0,1.0,1.0,1.0,1.0,
+2018-08-24,,,Former Employee ,Google,,0,Cross talk is excellent industry leading,Stressful atmosphere due to high level of competition,,3.0,,,,,
+2018-08-08,,,Former Employee ,Good company to work,,0,Good company to work and learn,Nothing to say against the job,Keep improving,5.0,,,,,
+2018-08-08,,,Current Employee ,Best Company,,0,Benefits. Co Workers. Experience. People. Shuttles,Work hours. Management. Process. Location. Commute,,5.0,5.0,5.0,5.0,5.0,5.0
+2018-08-07, Software Engineer,"Seattle, WA",Current Employee ,Good place to work,More than a year,0,Smart coworkers good benefits lots of respect,Culture makes you want to work harder than you would at other companies.,,5.0,4.0,5.0,5.0,5.0,5.0
+2018-08-07,,,Current Employee ,Engineer,,0,"Fun, fast paced, good amenities","Felt pressured to push harder than other, smaller conpanies",,5.0,1.0,5.0,4.0,5.0,3.0
+2018-08-21, Strategic Partner Development Lead,"Mountain View, CA",Current Employee ,"Comfortable, but not always best for ambitious people",More than a year,0,"Interesting stuff going on in the company, really high comp, good work/life balance, nice people","Get bored on the business side, too crowded at the top to move up, super bureaucratic about promotions, low impact work, lack of ownership of work due to teams being too big (over hired), real talent is on the eng side",Stay lean,4.0,5.0,4.0,3.0,5.0,4.0
+2018-08-18, Software Engineer,"San Francisco, CA",Current Employee ,Awesome,More than a year,0,Good working environment and facilities are awesome,You need to be very careful,Good,4.0,4.0,5.0,5.0,5.0,5.0
+2018-08-18, Intern,"Mountain View, CA",Former Employee ,Forcing me to write a review,Less than a year,0,Just ignore this guys. Stupid website.,Why the hell do I need to do this. Oh lord.,,4.0,,,,,
+2018-08-03,,,Current Employee ,Program Manager,,0,"Great perks, overall great people to work with. Open culture.",Variance in experience depending on which team you'll be joining. Engineering heavy,,5.0,,,,,
+2018-08-06,,,Former Employee ,Great Company and Perks,,0,"You are working with some of the smartest people.
+Great Perks and Pay
+Love the atmosphere",Not that I know of,,5.0,4.0,5.0,5.0,5.0,4.0

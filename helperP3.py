@@ -22,7 +22,7 @@ def init_glassdoor():
     
     chrome_options = webdriver.ChromeOptions()
     
-    # driver = '/Users/jihwanseung/Documents/sp_2019/info4300/venv/bin/chromedriver'
+    driver = '/Users/jihwanseung/Documents/sp_2019/info4300/goworkat/venv/bin/chromedriver'
     
     chrome_options.add_argument('--disable-extensions')
     # chrome_options.add_argument('--profile-directory=Default')

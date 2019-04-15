@@ -1,0 +1,225 @@
+date,employee_title,location,employee_status,review_title,years_at_company,helpful,pros,cons,advice_to_mgmt,rating_overall,rating_balance,rating_culture,rating_career,rating_comp,rating_mgmt
+2019-04-02,,"San Francisco, CA",Current Employee ,"Great team, good work/life balance",More than a year,0,"- Great team: nice people to work with, they are strong contributors and care for each other.
+- Good work/life balance and unlimited PTO: there are times when the team has to put some extra hours but most of the time we're flexible and we encourage each other to take time off then we need.
+- Beautiful SF office!
+- Extremely interesting industry
+- The company is maturing and transitioning from the typical startup to a more structured org
+- The team is growing fast","- Highly regulated market with regulations that change very quickly: the direction could change rapidly and it's harder to have long term plans. This could be a bit frustrating for some people, very exciting for others.",,5.0,5.0,5.0,5.0,4.0,5.0
+2019-04-01,,,Current Employee ,Amazing team and exciting/rewarding work!,More than a year,0,"- Fast-paced environment with tons of interesting problems to solve!
+- I find myself surrounded by an amazing, passionate group of people who really care about each other and the work we do.
+- It’s an extremely exciting time in the cannabis industry and as a leader in the space, every person on the team has the opportunity to make a massive impact.
+- Lots of autonomy - a very rewarding experience for self-motivated folks looking to stretch themselves forward in their career.","- Not really a negative, but given the nature of the industry, things can be a bit chaotic at times. People who are excited by that challenge will thrive in this environment.
+- Split offices have led to a bit of split culture. Need to spend more time focused on uniting the two offices.",,5.0,5.0,5.0,5.0,5.0,5.0
+2019-03-26, Senior Software Engineer,"San Francisco, CA",Current Employee ,Volatile but rewarding environment,More than a year,0,"Unusually high degree of autonomy.
+I've worked here for two years and the thing I love most is the ability to push initiatives and have a direct hand in how the company operates. Company culture is quite unlike any place I've worked previously. There's a lot of camaraderie and in-jokes among the engineering team, without going so far that people seem unprofessional or immature.
+
+Work life balance is quite decent. There's crunches at times, but we don't glorify them. On call support works on rotation, and has improved dramatically in my time here (rather low stress these days).
+
+Career growth opportunities feel pretty exceptional here if you're able to take a lot of ownership. I've felt fortunate to find a place I can focus more on the work than playing politics and fighting for raises. Engineering managers do a decent enough job of being advocates, and not micro-managing.
+
+Overall I believe this place does well at rewarding people who communicate clearly, directly, and in good faith. I'd say it especially favors people who are willing to do more than simply execute on tech specs and are willing to get their hands dirty with the ""glue work"" as it were.
+
+Overall, in engineering at least, I'm pretty happy this place hasn't become a stereotypical tech bro playground, as may be often assumed by outsiders.","Volatile industry creates thrash in priorities.
+Understaffed leads to a lot of thrash in priorities.
+Uncertainty leads to a bit of ""shooting from the hip"" from management at times (which is what on the same token, creates the opportunity for autonomy to thrive) but still, creates thrash.
+
+Most top level priorities have been too product focused for a while, and engineering hasn't had the proper chance to really address issues with legacy systems.
+Tech debt persists despite relatively small initiatives to alleviate it.",Work on defining career development paths better. Some people thrive in a more open ended environment while some need a more concrete path of expectations defined.,4.0,4.0,4.0,5.0,4.0,4.0
+2019-03-27,,,Current Employee ,Great people & interesting challenges,,0,"- The nature of the industry means that Eaze tends to attract risk-takers, innovators and people who are genuinely passionate about cannabis (rather than the type who are simply looking for a big exit)
+
+- I've been at a number of companies that advertised a ""fun"" culture, Eaze is the only one that lives up to that promise (especially within Product & Engineering)
+
+- Managers and leadership that are compassionate, care about employees' well-being and willing to work with you when personal needs come up
+
+- Amazing new SF office
+
+- Fantastic work-life balance: there are crunch periods like any other start-up, but efforts are recognized and breaks are encouraged.
+
+- Lots of opportunities to grow, challenge yourself, and figure out new solutions to problems you've never seen before.
+
+- You get to work in cannabis!","- Regulations and restrictions on cannabis can be frustrating to deal with, especially as regulators can change things without much warning.",,5.0,5.0,5.0,5.0,5.0,5.0
+2019-03-26, Product Manager,"San Francisco, CA",Current Employee ,Interesting problems,Less than a year,0,"* The employees are the nicest I've ever worked with
+* Lots of autonomy
+* Tons of challenging problems to solve
+* Lots that's left to build and create (you're not just maintaining an already working system)
+* Great work/life balance
+* Beautiful office and views","* Lots of technical debt due to how the site was originally created, which slows down development
+* Lack of brand direction and marketing leader
+* Needs work on diversity of employees (although people are aware, care, and trying to change that)",,5.0,5.0,5.0,5.0,5.0,5.0
+2019-03-26, Internal Communications Manager,"San Francisco, CA",Current Employee ,"Enjoying the Moment, Every Day",Less than a year,0,"People really live the values. The perks are awesome (like many startups in the area) but you really feel a sense of contributing to the mission as an individual on a greater team. People are super passionate and go the extra mile to get things done. And everyone is overall just really cool. Also, the offices are DOPE.","Not really a con, but if you aren't prepared to put in a lot of hours and energy, you won't succeed. Work/life balance can be tough if you don't plan ahead and set everyone else up for success.",Keep showing your employees how much they matter. It means a lot when they are working so hard!,5.0,3.0,5.0,5.0,5.0,5.0
+2019-03-14,,"San Francisco, CA",Current Employee ,The most fun I have ever had at work!,More than a year,0,"You really feel as if you're on a rocketship, ready to define and takeover a new industry. Leadership is solid, hailing from top companies in technology. People are both driven & passionate, while also knowing how to have a good time. The engineering culture is hilarious, with new memes, stickers of coworkers faces, and air horns that play at 4:20 every day.",It's a wild ride! The MJ industry is turbulent so you need to be ready for unforeseen obstacles.,Continue to keep a high bar for new talent! It seems like managers at times don't realize how attractive this company and industry is.,5.0,4.0,5.0,4.0,5.0,5.0
+2019-03-12, Delivery Driver,"Santa Monica, CA",Current Employee ,Best Job I ever had,Less than a year,0,"Lindsay , Ayla , and Michelle are the best managers/supervisors I ever had. They all so understanding and helpful for everything.",No cons learning environment makes this job wonderful place to grow.,,5.0,5.0,5.0,5.0,5.0,5.0
+2019-04-05, Driver/Depot Assistant,,Former Employee ,Dig into the details of how Eaze doesn't work and you won't take the job,More than a year,0,You work in weed. Fair discount of low shelf products.,"Staff at the 'software startup' are not capable of managing a secure platform, nor serve their dispensary partners. Company is hands off in it's handling of drivers, much like Uber was for many years. Although some of what they have built is impressive, their execution is lacking. No true oversight of dispensary partners leads to a wild west mentality of management.",Go back to the drawing board. You have to take more responsibility for poor management of your service. Treating drivers as just replaceable blips on a screen is not ethical. Your agreements with dispensaries doesn't allow any of them to gain any kind of traction as their profit is extremely small. Employees pay the true price.,1.0,1.0,1.0,1.0,1.0,1.0
+2019-02-19,,,Former Employee ,Political Nightmare,,0,The location of the LA office is awesome and there are always snacks on deck. Generally everyone smokes and is younger so the energy is cool.,"Oh boy... where do I start. This is a clear cut boys club. There are upper management that bring in their buddies to take on roles that they are not qualified for. It can be very frustrating as an outsider because they will always choose loyalty to friends over good business decisions. The place is poorly managed as high ups are rarely in the office and are looking to bask in the fame and hype of the industry than actually do some work. The environment is toxic for everyone not in the club because they all are competing to get in. Whether that be by sucking up or throwing people under the bus. Don’t bother trying to give input or anything because they won’t listen. Instead, they will just take your idea and give it their friend to execute.",Start fresh. From the top down...,2.0,1.0,1.0,1.0,2.0,1.0
+2019-02-04, Driver,"San Francisco, CA",Former Employee ,Cheap & Unorganized,More than a year,0,"The other drivers and people who work in the warehouse are very nice and hard working. Security are really nice and they make a point to remember all of us, which is a lot of people to see every day!
+
+A good starting job to learn how to come to work for a shift. I’d suggest this job to someone in college or HS graduate.","Customers are high or entitled. Company insists they can’t add tips to the payment section showing us they aren’t prioritizing our income. Company wouldn’t even add a tip reminder to their website after customer purchases. Barely anyone remembers to tip in cash, and even if they like you they don’t carry cash.
+
+Management is sketch, every problem is replied with a “we’re working on it!” When it finally happens it’s a lazy version. Drivers asked for better bathroom situation. Management said we got porcelain toilets that ended up still being porta potties. Management said they were increasing our pay but only by $1 morning shifts and $2 evening shifts. During holiday season, management didn’t even pay 1.5 like other retail stores. They tried offering $20 which is only a 1.25 increase, and only for evening shifts. Not for morning shifts.","-Learn professionalism you are in charge of people in a company.
+-Implement tipping on the website, I know you have smart developers it can’t be that hard.
+-The new SF location is an absolute joke, what made you think having the pick up spot the same lane as taking a left to the freeway was a good idea? Old location was way better for drivers.
+- Don’t call competition to make the most deliveries a “bonus” or “Christmas bonus”. No one should have to race to get paid decently.",2.0,3.0,3.0,1.0,2.0,1.0
+2019-02-21, Delivery Specialist,"Oakland, CA",Former Employee ,Worst company ever,More than 3 years,0,The only pro is the flexiblty,"The pay sucks, the product is over priced and is trash, y'all treat the drivers like crap when it's the drivers that keep company running. There's no growth within the company",Just shut down !!!!!!!!!!,1.0,5.0,1.0,1.0,1.0,1.0
+2019-01-24,,,Current Employee ,Unfortunate,More than a year,0,"-Parties with sponsored booze
+-Working for a company with a (hopefully) bright future
+-Fully stocked snacks kitchen with food and booze.","-Pay is VERY minimum compared to what other companies are paying for the same title/position
+-VERY full of nepotism. Management brings in friends from past companies even if the person is not qualified or knowledgable in the cannabis industry.
+-We have to pay for parking, which is $30 a day, essentially we are working 1 hour a day to pay for parking, to come to work.
+-Little availability for upward movement. Because of said nepotism, there is not much room for career advancement.
+-Director travels 80% of the time. Said they had open door policy, then experienced retaliation when was told of issues that needed to be improved. Not much of a safe, open-communication type environment - when you are afraid to tell the truth for fear of being retaliated against.
+-Team members have had to quit because management refused to either give pay increase or bring on full time. Other team members are on brink of having to get second job to supplement income. Shame- when this company if fully funded - why be so cheap with quality talent?
+-Management is micro-managing control freak, which makes team feel suppressed and anxious. Multiple team members have gone to upper management to attempt to remedy but nothing has been corrected.
+-Have seen in the past, multiple team members let go for personal issues - not much professionalism in upper management.","-Pay your employees fairly
+-Stop with the nepotism - hire qualified management
+-Listen to your employees when they have a concern and do not retaliate against them for being honest.
+-Jim has amazing vision, I hope he puts the right people in place to execute.
+-SO much potential - will be sad to see it go to waste over lack of qualified management.
+-Crowd source why so many people quit, or become unhappy over time.",1.0,3.0,1.0,1.0,2.0,1.0
+2019-01-02,,"San Diego, CA",Current Employee ,Eaze San Diego,,0,"Friendly co-workers
+Work/Life balance.","Immature staff.
+Not friendly.
+Will TRY and make you feel isolated and intimidate you. Not sure if anyone else is going through this or has gone through this. For what reason with me? I am not sure. I definitely don't let shenanigans like this get to me, but I am more curious as to why treat an employee this way? What is this? High school? Lol.
+Will talk about you, while laughing, and making eye contacts towards you.
+So currently a bad experience for me. Not worth going through this for a paycheck. It's unnecessary.",Communicate with staff on how to be more professional.,1.0,5.0,1.0,1.0,3.0,
+2018-11-20,,,Former Employee ,Dont work here,,0,cool people. good snacks. decent office locaiton,They make you park on the street,,2.0,1.0,1.0,1.0,1.0,1.0
+2018-10-23,,"San Francisco, CA",Current Employee ,Fired Up!,Less than a year,0,"I'm super excited about the future ahead for Eaze. With the upcoming November voting cycle, we are likely going to see a number of new states open to the idea of recreational cannabis delivery. Most are starting to allow adult/medical use and the future looks very bright. The team here is constantly on the pulse of news events and we all share internal developments as transparency is one of the values we hold dear. This is a hard industry in general because the constantly changing regulatory environment and federal ""grey areas"" but this team is a great group of problem solvers trying to do the right thing for the entire industry. I feel like I'm making a huge difference in the world even on tough days because we work together to get it done. It will be great to look back years from now and know I had a hand in creating this.","This place moves fast and you have to take lots of ownership on your own work. Don't expect to get a playbook handed to you, it's up to you to tackle the challenges ahead. Very rewarding work but not for the anyone looking for an easy job.",Keep hiring great people so we can take this industry over. Also love hearing from friends and family about seeing all the billboards.,5.0,4.0,5.0,5.0,5.0,3.0
+2018-10-12, Customer Service Specialist,"San Diego, CA",Current Employee ,A Startup with a Heart,Less than a year,0,"There is a strong sense of shared mission among all the areas of this company. Culture is congenial, open, and full of energy. Creative thinking is welcomed and management goes a long way to make everyone feel like they have something to bring to the table. Every shift I worked I felt like I was part of something bigger.",Nothing that other startups don't suffer: Things change very quickly so you have to keep up and keep the whining to a minimum.,Place more resources into engineering so that some crucial usability issues can be addressed more quickly.,5.0,5.0,5.0,2.0,2.0,5.0
+2018-11-17, Software Engineer,"San Francisco, CA",Former Employee ,Software Engineering,More than a year,0,"Free meals, good location, nothing else","CEO, High Turnover, Poor leadership across the board, awful working environment. Not recommended","To the board, change CEO and leadership team",1.0,1.0,1.0,1.0,2.0,1.0
+2018-11-07,,"San Francisco, CA",Current Employee ,"Coworkers are great, management is lacking.",More than a year,0,"- Growing industry, lots of exciting challenges
+- Some really fun people work there","- There isn't much autonomy in work, you are delegated a task and given a timeline.
+- There is no push back for work assigned and it feels like managers only manage up.
+- Some of the management is inexperienced in the area which they lead, it can be frustrating because management is often prescriptive of solutions despite being hands off.
+- Management will make decisions regarding employees without seeking feedback from peers or speaking to the employee.","- Talk to your employees, figure out why they are unhappy.
+- It's an open office, everyone hears what you say.
+- Stop the nepotism.",1.0,1.0,1.0,1.0,3.0,1.0
+2018-09-05, Former Employee,,Former Employee ,Management is Awful,Less than a year,0,The culture of the Los Angeles office is terrific. Everyone is very self-disciplined with strong work ethic. The company as a whole is a fantastic start-up with plenty of opportunity to grow.,"-The office politics of the company are embarrassingly immature.
+-They are ""open by default"", but have zero transparency with their employees & tend to hide things from them.
+-Every role is micro-managed to an unnecessary degree & multiple people have left due to the person in charge being so difficult to work with.
+-Executive management is inexperienced & doesn't know how to effectively manage a team.
+-The positive reviews on this company were 100% written by the executive management team.",Do an audit of who you are putting in charge to run the ship. Clean house & put people who are actually excited about the cannabis industry & have good intentions.,2.0,1.0,2.0,2.0,2.0,1.0
+2018-07-06,,,Former Employee ,Messy startup,,0,"-Execs and onboarding teams will ""inspire"" you with propaganda on leading California's new marijuana industry
+-Cool people
+-Free snacks","-They're all about transparency, but business-decisions and strategies that change the day-to-day for entire teams are still made with zero transparency and with very little time for teams to prepare. When it comes to projects and such, valuing transparency invites too many cooks in the kitchen and makes execution really inefficient.
+-Too many inexperienced employees with manager or director titles; poor hierarchical order and needs additional leadership training
+-Culture of working late and unspoken expectation to work after hours and on weekends",Focus less on giving motivational speeches and more time working on everyone's leadership abilities and developing the right culture.,2.0,2.0,2.0,1.0,3.0,3.0
+2018-06-21, Team Leader,"San Francisco, CA",Current Employee ,Great start-up!,Less than a year,0,Great technology. Relationships with eco-system are strong.,Normal growing pains of a start-up.,Keep up the good work. The team is getting stronger every day!,5.0,5.0,5.0,5.0,4.0,5.0
+2018-03-26, Engineering Director,"San Francisco, CA",Current Employee ,Fast growing company with very interesting challenges,More than a year,0,"The company is growing like crazy. There are very interesting challenges for the eng team (similar to what uber, lyft, postmates have) plus additional ones because of the industry and regulations.
+The team is extremely collaborative and the colleagues are great people I enjoy working with.","With 3 offices directors and above sometimes have to travel a bit to keep in contact with each other, otherwise, they have to rely on remote communication that is not always ideal.",,5.0,5.0,4.0,5.0,4.0,4.0
+2018-02-28,,,Current Employee ,Buckle Up! It's a Fast Ride!!,,0,"Moves at the speed of light. No time for red-tape, employees are given a ton of autonomy. Very transparent culture, very flat hierarchy despite titles. Everyone pitches in and gets their hands dirty","Too many execs for such a small company. Communication across the board isnt the best, but its improving.","Do not force the culture to stay the same. Allow the company's culture to grow as it grows. Try and engage individual contributors more, as well as middle management. Its most important for mgmt to all be on the same page.",5.0,5.0,5.0,5.0,5.0,5.0
+2018-02-28, Delivery Driver,"San Diego, CA",Former Employee ,Eaze.com Employee Review,More than a year,0,"Friendly, Amicable coworkers.
+Made my own schedule.
+Awesome tips.","No communication between Eaze & Contracted Employees.
+Broken promises.","Communicate, Communicate, communicate!!
+Allow for time needed , when applying changes.
+Stand by your employees.",2.0,4.0,1.0,1.0,2.0,1.0
+2018-01-03,,"San Francisco, CA",Former Employee ,"Exciting company, weak fundamentals",More than a year,0,The legal marijuana industry is exciting and Eaze is the largest consumer software player. The company is run responsibly and has a business that's miles ahead of local or out-of-state competition. This lack of competition meant the office was typically relaxed and workdays were short.,"The product and engineering teams are a major weak spot. Poor vision and often out of touch with users. Engineering has a lot of legacy baggage and leadership was more interested in dabbling in design and product management than confronting technical challenges before they were fires. This led to constant delays, frustration, and employee turnover.","Focus on employee retention, be humble. Employees are leaving because they do not feel respected, engaged, or challenged in their work.",3.0,5.0,3.0,3.0,4.0,3.0
+2017-12-20,,,Former Employee ,Failing company,,0,"There are nice offices to work in, and the location for the Los Angeles (Santa Monica) offices is great to grab lunch with friends.","No organization, recruitment of employees is a joke.
+Exec team are clueless, they don't hire to improve the business as they feel threatened.","You should look inwards to see if you want to move forward as a business. Try and be truthful in your recruiting, Don't be afraid at hiring people that could be better than you, it will help the business in the long term.",1.0,1.0,1.0,1.0,2.0,1.0
+2017-12-11,,"San Francisco, CA",Former Employee ,Set My Career Back by Years,More than a year,0,The good people are good. All 12 of them.,"Eaze was a very hostile and uncomfortable working environment. Many senior staff (all white tech bros, even the ladies) have issues understanding what is acceptable workplace conduct/behavior and what is not. Many times in dealing with management, I was shunned, siloed away, and then chatted about behind my back via different office communication platforms.
+
+I was gaslighted by multiple VPs and Directors, and when I left, many of my former coworkers applauded my decision.","Get some major HR/sexual harassment training.
+
+Stop running your company the way Donald Trump fake runs the country.",1.0,2.0,1.0,1.0,3.0,1.0
+2017-12-12,,"San Francisco, CA",Former Employee ,Be Aware - Typical StartUp with no vision,More than 3 years,0,"In a good category, cannabis.",Horrid HR. Terrible lack of vision setting from the board. No vision. Brutal to vendors and treats customers for just their money not their loyalty. Jim Patterson is a known terrible personality from the tech world. Too young and inexperienced to be a 'CEO'.,Rethink what Eaze could be and what Eaze actually is becoming.,1.0,1.0,1.0,1.0,2.0,1.0
+2017-10-27, Operations Manager,"Los Angeles, CA",Former Employee ,Great place to work,Less than a year,0,Great culture and good people. Always down to smoke later.,People were stoned. But really chill yah know?,Get stoned yourselves.,4.0,4.0,5.0,4.0,4.0,4.0
+2017-07-30,,"San Francisco, CA",Former Employee ,"2+ yrs at Eaze, results are in: Eaze is an awesome company to work for but is no walk in the park. Get ready to WORK!",More than a year,0,"- Work environment is incredibly stimulating
+
+- Constantly changing, get experience working with multiple departments and directly impact the company's success
+
+- Strong leadership
+
+- Solid investment backing and rapidly growing revenue - Eaze isn't going away anytime soon.
+
+- First to market and leader in the industry.
+
+- A rock-solid legal team in an industry with many legally gray areas helps inspire confidence in company longevity.
+
+- Generous PTO and awesome HR. In a constantly changing / unstable environment (such is the nature of a startup / the marijuana industry), HR is reliable, consistent and works tirelessly to serve Eaze employees and improve their quality of life.
+
+- A great place to take your career to the next level
+
+- Diverse and evolving company culture
+
+- Awe-inspiring growth and success.
+
+- As ""Flat"" as a company can be at the stage it's at. Still a hierarchy and risk of being siloed, but vastly improved over the past year and upper management is consciously working to continue to improve.
+
+- Work with multiple departments and directly with execs on a daily basis to ensure daily operational success.
+
+- Great office locations
+
+- Incredible opportunity to grow/develop career and skill sets in entry and mid level positions (but you must pursue it aggressively, nothing is handed to you).
+
+- Eaze is not disrupting a market, they have created a new one and continue to develop new initiatives which are shaping the industry
+
+- There is no ""Lyft to Uber"" for Eaze. Eaze is well funded and internal numbers are constantly shattering records. As leadership regularly reminds the company, ""Our biggest competition is ourselves - this is ours to lose.""
+
+- Eaze is making money AND helping people at the same time. A rare combination in business! It makes for a very satisfying and fulfilling job.
+
+- Jim Patterson, the CEO, makes sure to be accessible and responsive to all employees (which is quite an accomplishment given his daily workload and responsibilities). He does not, however, initiate communication with employees he doesn't directly work with day-to-day which can be perceived as disinterest. If you are waiting for your opportunity to establish/develop your relationship with the CEO, don't. Just initiate the conversation and Jim will engage.","- Incredibly high level of stress with zero tolerance for excuses
+
+- Work most / all holidays and weekends due to peak hours being when everyone else is not at work.
+
+- Poor communication from leadership
+
+- #1 problem-solving method: ""throw more money at it"" which can be detrimental when a permanent/long-term solution is critical and/or time sensitive.
+
+- Management is inadequate at detecting signs of burnout and low morale and tends to abandon those who burn out. Many incredible employees have been let go or left because of this which is very costly to the company in terms of churn and acquiring/retaining talent.
+
+- If you want to grow your career within the company, you must do your current job perfectly while additionally exceeding expectations and doing the job you want to be promoted to. This proves to be all but impossible sometimes. When you set the bar too high and fail to meet expectations you're shooting yourself in the foot. However, not setting the bar high enough often results in missed opportunities. Finding the balance between consistently delivering what's expected and exceeding expectations on a regular basis is difficult but essential.
+
+- A barrier between mid-level employees and career development. For leadership positions (ie VP, Head of, Director, etc) Eaze does not promote from within. This creates a barrier for entry level employees as a result since mid-level positions only open up when a team lead/manager is fired or leaves.","Continue to prioritize closing the gap between management and employees. At the current stage the company is in, working as one cohesive unit is critical. When this is not the case, it has proven to have catastrophic results.
+
+Communicate with other departments and study/learn what they do and how they do it. Oftentimes the solution to a problem lies within another department's expertise.
+
+Execs / VP's have a poor understanding of how entry / mid level employees do their job and what they do which often leads to confusion and backlash for the entry and mid level employees. A VP / Exec at a tech company asking an entry level employee how they do the most basic form of data entry does not inspire confidence.
+
+Eaze has four company motto's which define its culture. The one motto which employees regularly fail to follow is ""Say what you do, do what you say."" It's a great motto and inspires confidence until it isn't true.
+
+Continue the Win the Day initiative and continue to rotate members from each department as representatives for Win the Day. This has huge value for company success as well as employee morale.
+
+Continue to invest in the development and improvement of management. In recent months Eaze has more aggressively invested time and resources in manager training/improvement and it has had an incredibly positive impact. Keep that momentum going!
+
+Remember to blink every now and then and most importantly...enjoy the moment! :)",5.0,2.0,5.0,4.0,5.0,4.0
+2017-07-29, Product Manager,"San Francisco, CA",Current Employee ,Great place to work,Less than a year,0,The company is growing really fast and there is a lot of opportunity for personal and career growth. Eaze has a truly world changing (for the better) mission that everyone can get behind.,"Lot's of new people and managers still figuring out team dynamics. The company is not as diverse as it could be, but management is making efforts to improve this.",,5.0,5.0,5.0,5.0,5.0,5.0
+2017-07-27,,,Current Employee ,Working here is fun!,,0,The vision of the company is great!,The office is not great and there is a disconnect between teams.,,4.0,5.0,3.0,4.0,4.0,4.0
+2017-06-28,,,Former Employee ,"Great Overall, But Be Warned.",More than a year,0,Eaze was a great opportunity. Most of your coworkers will be very kind and most will be motivated and hungry.,"""Typical growing startup issues"" typically means ""We're understaffed to handle people issues"" and that's the case here. Some departments are better than others when it comes to handling personnel issues. Mine was deplorable.
+
+Many hires from legacy companies, which can create ugly office politics. Maybe a lot of that has departed the company, but it was my primary reason for leaving.",Watch who you hire; there are some LAZY sharks in the water. Consider leveling up the design.,3.0,4.0,3.0,4.0,4.0,4.0
+2017-04-13,,,Current Employee ,Great place to work at with an epic vision,,0,They are all about the office culture here and creating an environment where you can truly advance your career. The kitchen is always fully loaded with snacks and the office is awesome. The truly great thing is the visibility throughout the company.,There is nothing that I can think of! It's a great time to join the team!,Keep on doing what you're doing! Jim is a brilliant CEO and will take this company to epic heights!,5.0,5.0,5.0,5.0,5.0,5.0
+2016-12-14,,"San Francisco, CA",Current Employee ,Best work environment!,Less than a year,0,"Eaze has a killer team, super smart, passionate, and very fun. The culture is collaborative and everyone at the company is empowered to speak their mind and be heard. The product itself is fantastic and getting better every day.",Not an ideal place for very junior employee but is improving as the company grows.,Keep hiring great people!,5.0,5.0,2.0,5.0,2.0,5.0
+2016-07-06,,,Current Employee ,Eaze,,0,"Passionate and collaborate co-workers, fun work environment, being at the forefront of a budding industry, being able to educate and destigmatize medical marijuana. Competitive pay, HUGE career growth opportunities and overall one of the coolest jobs you'll ever have. Free snacks/food, regular happy hours, tons of games around the office, etc!","Typical growing startup pains, but processes being set up and getting better!",Continue cultivating our company culture!,5.0,4.0,4.0,5.0,4.0,4.0
+2016-07-06,,"San Francisco, CA",Current Employee ,Best Company I've Worked At,More than a year,0,"Eaze is working on a problem that everyone here is truly passionate about. We are working toward a mission.
+
+I've not found a better place to grow as an employee. I started here as one of the earliest members of the team and I've found great mentors internally within the executive team and have always had an easy time engaging any member of the exec team when I need support/advice as I grow in my contribution and role in the company.
+
+The employee culture is fantastic--everyone here is truly friends with everyone else.
+
+The business itself is growing like a rocketship--I've worked at and been involved in numerous fast growing venture backed startups, but none of them have as much growth and growth potential as Eaze.","This isn't a place for people who need a lot of direction in order to succeed; though, as we scale, we're growing in our capacity to manage more junior team members. There's a lot of work to be done...and sometimes my girlfriend complains about my work commitment, but that's my choice after all--opportunities like this rarely arise. :)","Keep doing what you're doing:
+- hiring great people
+- disseminating company priorities effectively
+- keeping dialogue open
+
+And we'll continue to be a fantastic place to work at.",5.0,5.0,5.0,5.0,5.0,5.0
+2016-07-06,,"San Francisco, CA",Current Employee ,Fast-paced creative environment,More than a year,0,"Everyone at Eaze has the chance to make a real impact in the direction of the company, as well as the cannabis industry. For the right person, it's the perfect company.","As with any early stage startup, the hours can be long and strenuous - but those hours are mainly driven by passion, not by requirement.",Keep trusting the amazing team we've built to create an game-changing company. This is an opportunity many of us have been waiting for!,5.0,3.0,4.0,5.0,5.0,4.0
+2016-07-06,,,Current Employee ,"A great company, growing quickly",,0,"- Lots of opportunities to have a huge impact on the business
+- Fun co-workers and great perks
+- Super fast growth",Same problems that all high growth companies see.,Communicate the goals of the company frequently. Don't be afraid of repeating things until they sink in.,5.0,4.0,4.0,5.0,5.0,5.0
+2016-02-11, Office Support,"San Francisco, CA",Current Employee ,Eaze,,0,This company is a fun and fast pace with great people to work with and work for !!,"Nothing to complain about , so far so good !",,5.0,5.0,5.0,5.0,5.0,5.0
+2016-01-05, Operations Specialist,"Los Angeles, CA",Current Employee ,Amazing company with tons of opportunity! Such a thrill to work here!,,0,"- A great opportunity to be apart of such a fast growing industry with a startup industry leader
+- Work with really smart people
+- Lots of autonomy
+- Feel like you're making an impact and a difference while shaping the company's long term direction
+- You will continue to learn from the people around you, the industry and the position itself.
+- Overall, a very positive work environment that is fun, yet challenging.","- You will work a lot, but it's a startup so that should be a given
+- Sometimes things are chaotic, it's a startup!...but that usually makes it fun so it could be a pro too",Keep it up!,5.0,4.0,5.0,5.0,5.0,5.0
+2016-01-06,,"San Francisco, CA",Current Employee ,Amazing startup in the fastest growing industry in the US!,,0,Great growth opportunities with a fast growing company. We are moving fast and that creates a lot of opportunities to speak up about ideas that can directly reflect the product and company. Manager are engaging and open to ideas. Our new office space is amazing and creates a real culture driven environment. Lots of good times with your co-workers.,As of right now I have no cons. Growing pains are normal for a startup and management is right on top of changing anything necessary to fix a problem or concern.,Lets keep the company perks coming!,5.0,5.0,5.0,5.0,5.0,5.0
+2015-06-09, Director of Customer Success,"San Francisco, CA",Current Employee ,"Amazing, energized team doing great work!",,0,"Incredible talent, mission driven, company works hard but DEFINITELY knows how to have a good time.",I've had a bit of push back on MMJ stigma from more conservative friends - nothing major though.,Keep bringing in great people!,5.0,5.0,5.0,5.0,5.0,5.0
+2015-04-11,,,Current Employee ,Great place for real time growth and working to help people in need of medical marijuana.,,0,"Great team support, open communication and were changing the ways of reaching out to the community.","So much work, but if there wasn't then we would not have a job. So not a problem with me.",Thank you for this amazing opportunity and look forward to an amazing future.,5.0,,,,,
+2015-04-02,,,Current Employee ,"Fast-paced, incredibly stimulating work environment. Employees are driven and passionate.",Less than a year,0,The company is providing a much needed service to their patients. Coworkers are passionate and always strive to improve. All of my superiors treat me with respect. Bosses are friendly and treat their employees as equals while also effectively managing them and providing constructive feedback on areas for improvement. The company is growing incredibly fast and has huge potential.,"When something needs to get done, there is no room to be lackadaisical - You get it done.",,5.0,5.0,5.0,5.0,5.0,5.0
+2015-04-03, Customer Service Representative,,Current Employee ,Eaze is the best company to have the chance to work for,,0,"Eaze headquarters is a fun, energetic environment for us employees. They care for our well-being and listen to us and our ideas to help the company to grow as a whole.","Hoping for a slightly larger menu, but that's something that can happen as we expand.",No advice -- keep up your end of the good work!,5.0,4.0,4.0,5.0,3.0,4.0
+2015-04-03, Software Engineer,"San Francisco, CA",Current Employee ,Eaze is a fast growing startup with great people,Less than a year,0,"--Everyone is friendly and nice
+--Lots of individual autonomy and trust
+--Fast paced, hungry work environment
+--Some of the smartest people you could work with","There's lots of stuff to do here since we're growing so fast, but that's also a positive in my books!",Upper management should continue doing what they're doing--the vertical management and the open conversation is what makes this place great.,5.0,5.0,5.0,5.0,5.0,5.0
+2015-04-02, Early Employee,"San Francisco, CA",Current Employee ,The Opportunity of a Lifetime,Less than a year,0,"Super sharp founder/CEO who is seasoned and professional; company is well-funded, was first to launch and market leader; cannabis industry is about to explode from a business standpoint -- lots of potential $$$; generous benefits package for a company of this size; convenient SOMA location (2nd & Howard); monthly Eaze credit :-)",My work/life balance is out of whack -- I work all the time because we move so crazy fast (but I love it!),,5.0,3.0,5.0,5.0,4.0,5.0

@@ -1,0 +1,70 @@
+date,employee_title,location,employee_status,review_title,years_at_company,helpful,pros,cons,advice_to_mgmt,rating_overall,rating_balance,rating_culture,rating_career,rating_comp,rating_mgmt
+2019-02-21,,,Current Employee ,"Good company, you're treated with respect",More than a year,0,"Lots of autonomy, great coworkers, good work environment.","Like a lot of startups, the company sometimes seems to fly by the seat of its pants. Just typical growing pains.","Keep explaining to employees why the company is making the strategic decisions it's making, it helps engagement.",5.0,4.0,5.0,4.0,4.0,5.0
+2019-02-21, Account Executive,"Oakland, CA",Current Employee ,Not the worst place I've ever worked,Less than a year,0,Great product and smart developers,"Pays less and has inferior benefits compared to other tech companies in the Bay Area.
+Tough to sell annual SaaS subscriptions to law firms. Tough to make any money selling case subscriptions.",Use that 25m in funding to pay competitive salaries.,3.0,4.0,3.0,4.0,2.0,3.0
+2019-01-09, Customer Success Manager,"Oakland, CA",Current Employee ,"A Company that Prioritizes Its Employees. Great culture, product, and growth.",More than a year,0,"->Aggressive salary growth, with many employees receiving competitive equity in the company, even in entry-level positions.
+->Management philosophy that prioritizes open communication, listening to employee feedback, and making decisions based on company wide ideals
+->Excellent employee benefits. Vision, health dental paid for by the company, with free catered lunches, flexible spending accounts for medical and travel, hiring bonus for referrals, game lounge, office with a view, team event stipend
+-> Strong internal hiring and internal promotions
+-> Extremely fast growth. In one year, moved from 40 to 100 employees and received Series B funding.
+->Excellent product, with industry leading engineering team and compelling design
+->Competent, intelligent, friendly management team","Folks here work very hard. Work life balance is great, but the work is demanding, and not rote or monotone. High expectations of competence from all employees.",Continue prioritizing values based decision making,5.0,4.0,5.0,5.0,5.0,5.0
+2019-01-10, SDR,"Oakland, CA",Current Employee ,A+ Company,Less than a year,0,"I feel super lucky because I love coming to work:
+-I am surrounded by intelligent, motivated, hardworking, fun, and genuinely good people
+-Management is invested in the growth of all employees
+-Collaborative work environment that truly values everyone's opinion
+-Amazing product",I have no negative sentiments at this time,,5.0,5.0,5.0,5.0,5.0,5.0
+2018-12-18,,,Current Employee ,The people here are great,More than 5 years,0,"Wonderful environment
+Motivated and smart people
+Unified vision and direction
+No brogrammers","There have been some (perhaps typical?) growing pains as we have scaled up, but I am confident that we will look back and see them as minor bumps in the road.",Everything's going great; we just need to make sure it continues at such an explosive trajectory!,5.0,5.0,5.0,4.0,4.0,5.0
+2018-12-18, Software Developer,"Oakland, CA",Current Employee ,Great dev team and culture,More than a year,0,"The autonomy and resources afforded you mean you learn a lot about many different parts of the stack quickly. We don't place hard deadlines on features so you have the ability to iterate and revise until you feel good about deploying. Senior devs are very knowledgeable and the CEO is a developer so decisions are always made with engineering in mind.
+For career trajectory, this is a great place if you want to work on many different parts of the site/stack and always want coding to be part of your job.","Lack of hard structure might be a downside for some. Tooling around testing, building, deployment, bugs, and logging are all very lacking and take up a lot of dev time.
+If you have management aspirations, might not be the place for you. This may change as the team continues to grow.",,5.0,4.0,5.0,4.0,5.0,5.0
+2018-12-11, Software Engineer,,Current Employee ,Great workplace,More than a year,0,"They focus heavily on long-term team-building and product quality. They clearly want happy long-term employees, not short-term squeezed ones. Employee retention is high in general, and exceptionally high in the engineering department. The company is an ""up and comer"" with ambitious prospects in the legal space, and a decent chance of achieving them. It is a startup with venture capital, but probably stabler than most because revenue is also solid.
+
+Software engineers get a lot of autonomy and ownership of their work. You generally have individual engineering ownership of a product feature. There are no specializations (e.g. front-end, back-end, java, etc.) - so you are generally responsible for a feature end-to-end -- which is great for skill development. There is usually no micromanagement; you often have a couple weeks or more between any kind of meetings with management. Feedback is usually astute and useful. It's a genuinely supportive environment without any real ""company drama"" that I'm aware of. From what I've seen, everyone is good at what they do, and management considers their job to be providing support, not cracking a whip.","This wouldn't be a good fit for everyone. The same development model that gives us a lot of autonomy and ownership of our projects also means there is a lack of structure. If you can handle that, your skills can really shine, but you need more than engineering skill. You need project management skills to provide your own daily structure, to plan out your own feature, to setup meetings with anyone you need for background knowledge and feedback. You need to take initiative to acquire missing information you haven't always been provided. Everyone is always nice and supportive when you ask for these kinds of things-- but you usually have to ask. You often play a central role in defining and/or refining your own feature-spec; you aren't just handed a polished spec document. There is a mentor period to ramp you up, and there are a growing number of processes written up (which you can help with). But if you can't pick up these sorts of softer skills, you might get frustrated and overwhelmed, even if you are a great engineer.",,5.0,5.0,5.0,5.0,5.0,5.0
+2018-12-28,,,Current Employee ,Great culture of intelligent people,More than 3 years,0,"fun, smart, enjoyable coworkers. many of us are friends
+we challenge each other intellectually
+we really think about the small things and try to get them right as we grow
+management is receptive to feedback and cares about the employees
+bright future for the company","action can be slow when mitigating internal problems
+planning has been seemingly ad hoc",,4.0,5.0,5.0,4.0,3.0,5.0
+2018-12-10, Software Engineer,"Berkeley, CA",Current Employee ,Great environment to work for Software Engineers,More than a year,0,"- Respect for engineers
+- Self-directed development cycle without micromanaging
+- Interesting projects which you can choose which you want to work on
+- Enjoyable collaboration with Product, Design, and Customer Success teams","- If you prefer being highly managed and not self-directed, it might be difficult to work efficiently
+- The nap room was left behind at the old office :(",,5.0,5.0,5.0,4.0,5.0,5.0
+2018-12-12, Software Engineer,"San Francisco, CA",Current Employee ,Happy Everlaw engineer for over half a decade,More than 5 years,0,"- Work with smart, interesting, nice people
+- Great benefits, fair pay
+- Top management demonstrably cares about employees' well-being.
+- No sprints, very rare deadline crunches
+- We are given space and opportunity to do things well
+- Work-life balance is respected... generous (not ""unlimited"") vacation","- Remote work is very much an exception
+- Great environment for those who are self-motivated, might be frustrating otherwise
+- You'll largely have to drive your own career growth and development
+- The company infrastructure, technical and otherwise, still has a lot of room for growth",,5.0,5.0,5.0,5.0,5.0,5.0
+2018-08-28,,,Current Employee ,Exceptional Product and Amazing Company Culture,,0,"I have worked at Everlaw for one year and have immensely enjoyed my experience here so far. The people here are fantastic to work with there is a culture of collaboration and transparency that makes coming to work every day something I look forward to. The product is also top-class and our development team is consistently releasing new features to a market that is in desperate need of innovation.
+
+Another plus is that Everlaw has a leadership team that takes the time to build the company the right way. We're growing quickly and changes are hapenning at a rapid rate but major decisions and the reasoning behind them are always shared across the company. It feels to me like individual feedback and input are both welcomed and appreciated.
+
+Lastly, there is a lot of opportunity here for upward career growth. I plan on working for Everlaw for as long as I can.","At this point, I have no criticism of the company.",,5.0,5.0,5.0,5.0,5.0,5.0
+2018-08-28, Sales Representative,"Berkeley, CA",Current Employee ,PERFECT PLACE TO WORK,More than a year,0,"Everlaw values each and every one of their employees. You're opinion, thoughts, concerns are truly valued at Everlaw and the CEO goes out of his way to make sure that everyone feels both heard and appreciated. Everything at the company is done with care, attention to detail and respect and I feel so thankful to work at a place where I'm valued, where my work is valued and where the work of everyone here is valued!","Overall, Everlaw is a great place to work and I would recommend it to any of my peers!",,5.0,5.0,5.0,5.0,5.0,5.0
+2018-07-31,,"Berkeley, CA",Current Employee ,Proactively Seeking New Employment,Less than a year,0,"Everlaw encourages work life balance, however, not sure how much longer it will last. The company is growing due to series B funding.",The “leadership” team is quite young and inexperienced. The focus is metrics and odd company values that many do not follow. Since I started the company has fired 1 to 2 employees a month without any explanation. The clients are small inexperienced legal teams.,"Focus on client relationships versus metrics. Go back to basics with product development. Product design has taken a tremendous hit lately. Listen to your clients, especially when they leave. When your leaders don’t want employees or new hires to shine its time to re-evaluate your leadership team.",2.0,4.0,1.0,1.0,2.0,1.0
+2018-02-24,,"Berkeley, CA",Current Employee ,Great company to work for,More than a year,0,"- Clear ownership of work and really interesting projects
+- Support from management when needed, but no ""micro-managing""
+- Extremely intelligent and motivated coworkers (across all teams)
+- Established HR team and very good benefits (not always the case with startups)
+- Transparent communication from our CEO on company direction and priorities
+- Strong commitment to integrity from everyone on the team
+- Fun team activities",Can't think of any cons,Keep working hard to keep the company culture and commitment to values as we grow.,5.0,5.0,5.0,5.0,5.0,5.0
+2018-01-18, Software Engineer,"Berkeley, CA",Current Employee ,"Awesome Coworkers, Growth Environment",More than a year,0,"Everlaw has an amazing team. Everyone gets along well and the culture is fun and encourages learning. There is support if you need it but employees are granted a lot of autonomy. The work itself is interesting and challenging, and the pressure is to create robust and well thought out solutions rather than getting things out the door quickly.","As the company has grown quickly the culture has suffered a little bit. There are fewer opportunities to take breaks with other employees at work which was a central part of the culture. There are lots of issues associated with scaling up quickly, but I suspect they are typical of any expanding company.","The work culture is what really separates Everlaw from other companies, and I think it's important to continue to focus on it even as we grow.",4.0,4.0,5.0,4.0,4.0,5.0
+2017-05-07, Software Engineer,,Current Employee ,Great team. Great product.,Less than a year,0,"It's an exciting product to work on in an expanding market for sure, but it's more about the team and the culture. Employees are encouraged to get involved in multiple areas, and are able to utilize their strengths to shine while all working towards a common goal. It's an extremely talented group of quality individuals, who are fun and enjoyable to work with. And the work is fun, too.",None that I can think of.,Stay the course.,5.0,5.0,5.0,5.0,4.0,5.0
+2016-07-11,,,Current Employee ,Love this company,,0,Invested and intelligent people that are willing to engage in all aspects of improving the business. A great team culture that is a wonderful mix of fun and learning. I have the opportunity to grow in any direction I choose and get involved in what I am interested in.,We didn't succeed at Escape the Room,,5.0,5.0,5.0,4.0,5.0,5.0
+2016-02-28,,,Former Employee ,Awesome!,,0,"Such a great place to work. People are extremely smart and fun, work is meaningful and ya.",None I can really think of.,,5.0,5.0,5.0,5.0,5.0,5.0
+2013-12-10,,"Berkeley, CA",Current Employee ,I enjoy coming to work every day.,More than a year,0,"Work with a great team of people.
+Very flat organizational structure.
+Diverse set of projects to work on.
+Take breaks when needed for games/crosswords.
+
+I have had a lot of luck in my employment history so far. However, I made the move to work at a company earlier in it's lifecycle. I could not ask for anything more.","There are not any significant downsides to working at EasyESI. I could have gotten a higher paycheck elsewhere, but EasyESI offers options and benefits as well.",Keep doing what you are doing!,5.0,5.0,5.0,5.0,4.0,5.0

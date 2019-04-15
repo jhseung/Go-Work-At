@@ -1,0 +1,373 @@
+date,employee_title,location,employee_status,review_title,years_at_company,helpful,pros,cons,advice_to_mgmt,rating_overall,rating_balance,rating_culture,rating_career,rating_comp,rating_mgmt
+2019-03-10, Design Program Manager,"San Francisco, CA",Current Employee ,Change the way the world works.,Less than a year,0,"Ambitious mission
+Complex problem space
+Kindhearted, collaborative culture
+Transparent leaders
+Low ego
+Diverse teams
+Diverse customers","Consensus driven
+Changing product landscape",,5.0,5.0,5.0,5.0,5.0,5.0
+2019-02-15,,,Current Employee ,Large Company with large company strengths and weaknesses,,0,"Great benefits
+Tuck Shop food is really good. The Wellness Benefit is large and you can use it on a very wide variety of equipment and services. Company matches donations up to a certain amount.
+
+Work Environment
+Newish building with many different work areas. Day to day functions are well organized so that you have relatively little administrative unpleasantness. An awesome Dropstop on every floor takes care of IT needs promptly.
+
+Pockets of Engineering Excellence
+Some parts of the engineering organization are strong: Magic Pocket, sync, and machine learning stand out. Hack Week lives on.
+
+HelloSign Acquisition
+The company may have realized that it is organizationally/culturally not equipped to grow organically and now seems willing to acquire for growth.","Weak Strategic Thinking
+""Evolving"" strategy as each year's strategy proved to not work. Each year's strategy is based on models of the industry where either the model is unconvincing or it is not at all clear why Dropbox's approach is the winning one.
+
+Passive Aggressive Culture
+People are always friendly face to face but beneath the veneer there is a lot of jockeying for power. Power distribution is evident when prizes projects get done by in power teams even though the area is theoretically another team's area of responsibility. People assign overflow tasks to other people even though they are responsible for it. People initially promise to do work and then shirk it without repercussions.
+
+Politics
+Ultimately unsuccessful projects were created and pushed out the door to get people promoted. Many people jump on board early on and generate immediately ridiculous shoddy user research to back up the work. Shallow technology is hyped as awesome and weak initial indicators are seen as good. Many of the promoted people still remain or get promoted even further up to do more damage.
+
+Promotions are based on getting backing from managers and hopping on board initiatives that staff engineers or managers push. Each new set of staff engineers or managers disparages the work of the previous set and advocates for their own work. No one is willing to push back against what they say.
+
+Levels are uneven with some staff or senior engineers/QA who are anything but that. Long time mediocre people are accumulating. Some title inflation for new hires.
+
+The attempt to make the culture more innovative is not working because the people who enforce and benefit from the culture are all still in positions of power.",Keep on acquiring companies.,3.0,4.0,2.0,1.0,4.0,2.0
+2019-03-06, Growth Manager,"San Francisco, CA",Current Employee ,Losing their way and not scaling well,More than a year,0,"-Food
+
+-Work/life balance
+
+-Benefits
+-There are a lot of chances for ownership and a ton of work still to be done.
+
+-The people are great. Dropbox is incredible at finding a diverse range of high quality people.
+
+-Diversity.
+
+-The company culture is very inclusive.
+
+-Still has the feel of a much smaller company.","-People are churning out very fast in the past 9-12mo.
+
+-Busy work is rewarded. A lot of people put out a ton of ""work"", but very little has impact. The volume of work is often used by people to vouch for promotion, bonuses, or transfer to higher roles in other teams.
+
+-Reorgs. The company has had 6 internal re-orgs on teams I have been on since I joined. Imagine working on a project for 6 months, getting everything in line and then leadership decides to do something completely different. This makes it super hard for many people to actually accomplish something start to finish.
+
+-A lot of teams are made up mostly by people who come in through the Dropbox Rotation Program out of school. I find that these teams are highly tribal, not open to criticism, and often do not do very high quality work but know how to play the system very well.
+
+-Peer review process is hit or miss and a lot is open to what feedback your managers choose to include. Moreover if you move to another team you can often be ""re-leveled"" and miss out on promotions or career path opportunities.
+
+-Due to there being so much work to be in certain divisions, a lot of time is wasted on things that have minor impact. On one hand employees milk this because it makes them look like they do a ton of informative work, but on the other hand if you look at things from the big picture we learn slowly and can't scale ideas well.","-Stop reorganizing divisions every few months.
+
+-Invest more in data quality and analytics..
+
+-Stop letting relatively inexperienced or junior staff interview technical candidates with more experience. You miss out on so many amazing candidates because the interviewer is simply not on the candidate's skill or communication level.
+
+-Tuck Shop is cool, but you should trend towards serving healthier options. It becomes patronizing after the initial awe wears off.",2.0,5.0,3.0,3.0,3.0,1.0
+2019-02-23, Software Engineer,"San Francisco, CA",Current Employee ,Great Working Environment,Less than a year,0,"People are nice and willing to help each other.
+Lots of learning opportunities and able to make a real impact.
+Great benefit and perks.","Some legacy code, but it is quite common for all company.",,5.0,5.0,5.0,5.0,5.0,5.0
+2019-02-19, Software Engineer,"San Francisco, CA",Current Employee ,Nothing to complain,More than a year,0,Great culture. Tons of opportunities to learn and grow.,Grow pain. Very heavy context switching.,,5.0,4.0,5.0,5.0,5.0,4.0
+2019-01-29, Engineering Manager,"San Francisco, CA",Former Employee ,Amazing place to work,More than 3 years,0,"Smart people, great perks, mission driven, interesting engineering problems.",No real cons that I can think of other than they're in a very competitive space.,,5.0,5.0,5.0,5.0,5.0,5.0
+2018-12-19, Human Resources,"San Francisco, CA",Current Employee ,Great work-life balance,Less than a year,0,"Great culture. Leadership truly cares about employees
+Great comp, benefits, and perks (amazing food)
+Work-life balance. Work can be challenging at times, but not at the cost of personal life
+Great future outlook and amazing, smart coworkers","Startup growing pain
+Need to formalize processes and promote consistency
+Need to be able to make decisions fast",,5.0,5.0,5.0,4.0,5.0,5.0
+2019-01-01, Line Cook,"San Francisco, CA",Current Employee ,line cook at tuck shop,,0,the food is good and healthy,this is a good company to work for but the chef managers can be malicious and abusives creating a toxic work environment.,pay attention to the employees no matter whats their position in a big company like this one because everyone is important.,2.0,2.0,2.0,2.0,3.0,2.0
+2018-12-14,,,Former Employee ,solid place to work,,0,"Tons of perks, and many smart people to work with.","If you don't use the product, it's hard to identify with as much as consumer software.",,5.0,,,,,
+2018-12-06,,"Austin, TX",Current Employee ,I Love Dropbox!,More than a year,0,"Our mission and product strive to create a more enlightened way of working and that is evident in all that we do. The people that work here at Dropbox are INCREDIBLE. Everyone is intelligent and willing to share their wisdom as well as receive tips and tricks from others. This is truly a collaborative environment where I learn something new everyday. The sky is the limit, you can pitch any idea or project to management to try out and they will work with you to perfect a pitch and get things done.
+Company culture and fun are next level! I bring friends to visit and they are always blown away by our events.
+Work life balance is a top priority.
+Inclusivity is top notch.
+We are a large name in tech, but with a smaller work force which creates a lot of opportunity for individuals/teams to make large impacts.","Not so much a con as it is a warning - Dropbox is a work environment that is ever changing and evolving. If you are someone that needs structure, strict rules, or a step by step guide to you job, this probably isn't the place for you.","Continue evolving, admitting mistakes and making changes, and keep up the great work!",5.0,5.0,5.0,5.0,5.0,5.0
+2018-12-06, Senior Software Engineer,"New York, NY",Current Employee ,Seems great thus far!,Less than a year,0,"Transparency is something that is great to see here - people are pretty open, willing to share information and willing to help you get acclimated. The tech culture seems somewhat mature but with a lot of room to grow as well, and no shortage of interesting problems still yet to solve, which can somewhat be an issue at a post-IPO company of this size. Ethically, this company seems to be in the right place and committed to doing the right thing - as opposed to the issues at other tech giants like Facebook, Google, Uber. Huge emphasis on security culture, which is excellent to see.",Food in New York isn't as good as the amazing Tuck Shop in the SF headquarters!,,5.0,,,,,
+2018-12-05, Engineering Manager,"Seattle, WA",Current Employee ,Work at Dropbox Seattle (growth org),Less than a year,0,"Strong product offering, good culture, nice people, ambitious goals","A little turbulent times as the company matures (processes, tools, long-term planning)",,5.0,5.0,5.0,5.0,5.0,3.0
+2018-12-05,,,Current Employee ,"Great culture, great people",,0,"I have never worked for a company that cares so much for their employees. Dropbox offers an amazing setting to work and gives you all the tools you need to get your job done well. My co-workers and kind and respectful, and the company is self-reflective and ever-changing. I'm so proud to be a Dropboxer!",Decision making can be slow.,,5.0,5.0,5.0,4.0,5.0,5.0
+2018-12-05, Staff Tech Lead,"Seattle, WA",Current Employee ,Nice company,Less than a year,0,The quality of the people here is pretty good! The tech culture is strong.,Work schedule is more intensive than big companies.,,5.0,3.0,5.0,5.0,5.0,5.0
+2018-12-05,,"San Francisco, CA",Current Employee ,BEST COMPANY EVER,More than a year,0,"Cafeteria, people, CEOs, vision, values",There are really no cons from my experience.,,5.0,5.0,5.0,4.0,5.0,4.0
+2018-12-05,,,Current Employee ,Growth,,0,"Incredibly smart, humble, motivated and fun people. Great food and company perks",Roles can be a bit ambiguous,,5.0,5.0,5.0,4.0,5.0,5.0
+2018-12-05,,"San Francisco, CA",Current Employee ,Pretty Darn Happy Here,Less than a year,0,"Great culture, friendly people, supportive team, fun events, good compensation. Opportunity for growth and impact.","I'd rather be retired but, you know.",,5.0,5.0,5.0,5.0,5.0,5.0
+2018-12-05, Salesforce Administrative,"San Francisco, CA",Current Employee ,Salesfroce.com Administrator,Less than a year,0,Company vision is outstanding and gears towards team work and respectfulness towards your fellow colleagues. The organization is very transparent and treats all employees well.,A little tough to navigate through on boarding as there is a lot of information to absorb in.,,5.0,5.0,5.0,5.0,5.0,5.0
+2018-12-05, Product Manager,"San Francisco, CA",Current Employee ,"Amazing culture and perks, great teammates",Less than a year,0,"I've only been at Dropbox for a short time, but so far I've had an excellent experience. Beyond the unbelievable perks and benefits (and food!), people are smart, passionate, and very excited about the roadmap ahead of us. I'm actively trying to recruit all my friends to come work here too!","Dropbox is definitely not a startup. We're nearly 2000 people now, so it seems we're working through figuring out how to continue to move quickly and not get caught up in process, but the good news is the leadership team is aware of this trap and is working to avoid it.",,5.0,5.0,5.0,5.0,5.0,4.0
+2018-12-05,,,Current Employee ,QA Engineer,,0,"Excellent work culture
+Super smart people
+Great Benefits
+Love coming to work","Commute is an issue for people not staying in the city
+Would be great if some shuttles could be provided from cal train or bart stations",,5.0,5.0,5.0,5.0,5.0,5.0
+2018-11-19, Data Engineer,"San Francisco, CA",Current Employee ,Perfect place to work,Less than a year,0,On-the-edge technologies and inner tools. Perfect culture and people. Amazing in-camp food.,Commuting to SF (it's always painful).,Take the same direction!,5.0,5.0,5.0,5.0,5.0,5.0
+2018-11-27, Technical Sourcer,"Austin, TX",Current Employee ,Sourcer,More than a year,0,I love the culture that we have here and the benefits,Can't really think of negatives,,4.0,4.0,5.0,4.0,4.0,4.0
+2018-11-08,,,Current Employee ,Best emplopyer,,0,Best food in bay area,Grow too fast and too many junior ppl,,5.0,5.0,5.0,4.0,5.0,3.0
+2018-11-16,,,Former Employee ,lost it's rich culture,More than 3 years,0,"location, amazing food, good benefits","early on this place was so rich in culture, its what made me want to work for dropbox. I looked forward to coming to work with amazing, talented and intelligent people who eventually became very close friends. over time, yes scale happens but this place just fell apart. all the amazing people left, i've heard more people complain about work in the last 6 months than over the last 3 years. hiring felt like we were working in a sweat shop. i'm not sure where all the inspiration went but i will always remember this place when i first joined, it was something no other company had.",,2.0,2.0,2.0,2.0,2.0,2.0
+2018-11-14,,"San Francisco, CA",Current Employee ,"Great product and people, but company hampered by slow execution",,0,"- Strong culture; nice, high-EQ coworkers across all teams; very little politics and infighting
+- Competitive compensation; nice perks (especially Tuck Shop food in SF office)
+- Good product that has been adopted by a massive customer base; large market opportunity","- Analysis paralysis; slow pace of decision making across many parts of the company
+- Slow pace of execution; problem is especially acute in certain key teams at the company
+- Talent quality across many teams has degraded significantly compared to a few years ago","- Senior leadership needs to provide much clearer direction for future of company - that means laying out not just some grand “vision” but an actual plan on how to get there
+- Make major changes in certain teams that have consistently underperformed in the last few years",4.0,5.0,5.0,3.0,5.0,3.0
+2018-08-07, Product Designer,,Current Employee ,"Well-Intentioned, Disorganized, Directionless",More than a year,0,"Benefits and pay are truly excellent. There are generous stipends for transit, wellness, learning and development (books and conferences), and others. Dental, vision, and health are all covered. There is donation matching up to a $1000 per year, unlimited volunteer and paid time off (which, if you're daring enough to request, truly seems unlimited—I have yet to hear of someone's PTO request being declined), and if you're in an office with a Tuck Shop, world-class food served every day. You can gift Dropbox space to friends and family.
+
+The culture values kindness and open-mindedness to a fault, and teams are given massive autonomy to work and ship as they see fit. This means you can have very different experiences depending on your team and manager. This also means if you see something broken, you're generally given the OK to go and fix it if you have the will.
+
+There are company events throughout the year, including team offsites (I've been hiking, on a cruise, to an escape room, and to countless dinners and happy hours), guest speakers, parties, etc. Dropbox seems to spare no expense on events and travel, although I've heard it was even more extravagant in the past.","Dropbox lies squarely in the ""ruinous empathy"" quadrant of business culture. Promotions are measured by the number of friends you make, not the results you achieve, which results in decision making by committee and projects that lag on for months at a time because nobody is willing to take ownership or say ""no."" At the same time, projects spanning 6+ months of research, design, and engineering can be derailed by the opinion of a single manager in the pursuit of ""perfect"" rather than ""better"".
+
+Staff lack a clear vision for Dropbox. Milquetoast strategy updates and new opportunities receive endless bravado but when it comes to actual execution there's little follow-through. Meanwhile, the core Dropbox product continues to suffer from longstanding problems like convoluted sharing and horrendously slow performance.
+
+We use Dropbox Paper, our own docs offering, for absolutely everything—from project management to calendaring to to-do lists to meeting notes. What results is total chaos. There is no sane way to organize docs, which get produced at an astounding rate: product managers regularly compose dozens of new Paper docs in any given week. There is no way we would organize ourselves this way if we weren't so committed to using and abusing our own tool.
+
+Simple bugfixes languish in backlogs for months or years without resolution. Abysmal developer tools and nonexistent analytics slow the company to a crawl.
+
+We talk a big talk about ""designing a more enlightened way of working"" (corporate thinkpieces go up on the blog every few weeks) but how can we hope to improve work for others when our own house is a mess?
+
+All these issues aren't new, and they're well-known to anyone who has been in the organization for longer than a year. We will talk about them and collectively agree they need to be addressed, but for whatever reason, nothing ever seems to happen.","LEAD. Where are you? From down on the ground, seems like you've tapped out. Commit to a direction and see it through. Hold people accountable for results and set real deadlines. Fix the basics.
+
+Standardize from the top down. We aren't a startup anymore, but we still act like one. We need standard platforms and processes across the org for project management, hard requirements for shipping, easily accessible analytics for *all* teams, and a continuous, direct line of communication with customer success so we understand the real problems that users are facing, not the problems we make up for our user personas to face.
+
+Treat remote offices as first-class citizens. There's a lot of thrash that most likely goes unnoticed in SF. Check in to see how people are doing.
+
+Pursue diversity more aggressively. And no, this doesn't mean just hiring more white women. We aren't doing well. Start with staff.",3.0,5.0,3.0,3.0,5.0,1.0
+2018-10-16, Software Engineer,"San Francisco, CA",Former Employee ,"Great place to work, although company vision is lacking",More than a year,0,"Unbeatable perks and wellness benefits, food, people, etc. Compensation is one of the highest in silicon valley after Netflix which is in the middle of nowhere. High employee happiness and great work life balance. Focuses a lot on growth and career advancement. Company and management are very invested in employees and employee retention.",Very young managers many of which who are ex-engineers. Many employees don't believe in the long term company vision. Company is struggling to differentiate itself from competitors.,,4.0,5.0,5.0,5.0,5.0,5.0
+2018-10-18,,,Former Employee ,Not Giving this,,0,"Culture, people, perks and benefits. GREAT work life balance despite people complaining.",Slow decision making and entitled culture that does not produce as fast as it should.,"You need to speed up, bring more products to market and show you are winning.",4.0,5.0,5.0,4.0,5.0,4.0
+2018-08-13, Marketing,"San Francisco, CA",Current Employee ,"Some growing pains, but overall excellent place to work",More than a year,0,"- Everyone who works here is super smart, humble and kind. The recruiting team has done a great job maintaining that culture as we've grown.
+
+- The perks are insanely generous, especially the food served in the Tuck Shop.
+
+- We're working on interesting problems and thinking critically and empathetically about how to improve the way people get work done
+
+- Especially in the younger parts of the company, there's still a lot of opportunity to build teams/processes/etc from scratch. Could be frustrating if you'd rather have all that figured out already, but if you enjoy that challenge you'll be happy here.
+
+- If you care about work/life balance, you can definitely find it here.","- There's a lot of fear internally about breaking pieces of our business model or product or website that have traditionally worked well for the company, which stifles our own ability to take risks and innovate.
+
+- People are almost too nice, which had led to a culture where you need to get everyone's buy in before your project can move forward. This slows us down and also allows one person to block an entire project on a whim.","- Get serious about setting up processes that will help move work forward, faster.
+
+- Don't be afraid to put a stake in the ground with your vision for the future of our product. If we can't commit to points of view around industry innovations, we'll get trounced by competitors who can.
+
+- Empower employees to take more risks. The lawyers shouldn't be the ones running the company.",5.0,5.0,5.0,5.0,5.0,4.0
+2018-07-12, Senior Site Reliability Engineer,"San Francisco, CA",Current Employee ,Couldn't have made a better decision,More than 3 years,0,"Smaller company, impact of my individual work is magnified. Collaboration between teams is amazing. The leads care about my growth and are providing learning opportunities on a everyday basis. The gym in SF is a perfect size. Only a 5 min walk from the train station. Work life balance is recognized by leadership.",The food is too good,,5.0,5.0,5.0,5.0,5.0,5.0
+2018-08-09,,"San Francisco, CA",Current Employee ,"Great intentions, poor execution",More than a year,0,"- Great attention to the inner workings of all processes, and to the underlying needs of employees
+- Transparency and candor around key business objectives and results
+- Care about employee buy-in to company strategy and future","- Atrocious treatment of lower-level talent. Frequent and poorly-executed management changes and poor resource allocation lead to burn out, lack of recognition, lack of strategic direction/support, and high attrition risk at lower IC levels.
+- Too much talk too little action. So much time is spent discussing how to do work and how to be more efficient, but no decisions/actions/tangible or impactful changes are actually implemented.
+- Lack of direct communication. Difficult questions aren't addressed nose -on and danced around, with a patronizing approach vs a 'lets find a better forum and talk this through' approach more appropriate for a smaller company.","- Focus on giving lower level employees more channels to resolve their concerns (they should not be at the mercy of their leads, with little opportunity for change)
+- Be more direct in communication, even if it's not what employees want to hear (i.e. policy/approach toward CW conversions)",3.0,1.0,4.0,1.0,4.0,4.0
+2018-08-08,,,Former Employee ,account exec,,0,innovative and upcoming if looking for excitement,chaotic at times......because new,,3.0,3.0,3.0,4.0,3.0,3.0
+2018-07-19,,,Former Employee ,"Political culture, constant re-orgs, not a great place to start your career",,0,"-Meals are the best part of working here, they splurge on food and happy hour
+-Brand name company although quality of hires and work has declined in recent years
+-Smart, fun coworkers","-Culture is extremely not transparent, decision making is concentrated to those who have been at the company longer
+-Surface level nice people",,3.0,3.0,3.0,3.0,2.0,3.0
+2018-06-19,,,Current Employee ,Great Place to Work,,0,"- Open and friendly work culture. A very inclusive and thoughtful work place where everyone can feel at home
+- Very strong perks
+- Competitive comp","- Slow to make important product and strategy decisions. Makes decisions by committee, not by executive vision
+- Certain teams have incredible influence despite very little actual influence on the business","Don't worry about appeasing everyone. Learn to execute quickly, especially on near-term objectives. There's no need to overplan and do so much work about work",4.0,,,,,
+2018-06-09, Software Engineer,"San Francisco, CA",Current Employee ,Excellent company,More than 3 years,0,"- Excellent company
+- Got most things right",- Staying for a really long time makes you run into incompetent members of the leadership,,5.0,5.0,5.0,4.0,5.0,3.0
+2018-05-29,,,Current Employee ,Solid place to work,,0,"People and culture are as good as you'll find. Smart, motivated, largely apolitical.","Food is too good, you get fat if you're not careful.",,5.0,4.0,5.0,5.0,5.0,4.0
+2018-05-19,,,Current Employee ,Great company,,0,"Culture, people, benefits, opportunity for advancement",Constant change can be negative for some,,5.0,5.0,5.0,4.0,5.0,5.0
+2018-05-14,,,Former Employee ,A+,,0,Just loved working there. People were incredible. Company made very values-based decisions. Technical competency super high.,"Becoming a mature company. Not as much opportunity as there used to be, but prob still good relative to stable companies.",Don't let going public make you too short-cited.,5.0,5.0,5.0,5.0,5.0,5.0
+2018-05-12, Senior Software Engineer,,Current Employee ,Great!,More than a year,0,Autonomy. Still feels small enough. Great food. Lots of problems still to solve.,"Lots of problems to still solve, some would prefer the hard problems were solved already.",,5.0,5.0,5.0,5.0,5.0,5.0
+2018-05-22,,,Current Employee ,Stressful,,0,"- Pay
+- Location
+- Free food","- Stressful deadlines
+- Competitive coworkers
+- Strict bosses",,3.0,,,,,
+2018-05-13,,,Current Employee ,Lots of Energy but Often Misdirected,,0,"Really smart, passionate people in all facets of the job. Food and soft benefits are fantastic and unrivaled by most other companies.","Unfortunately, being in a crowded market requires us to make product bets that often turn out to be dead ends or put pressure on backend infrastructure.",,4.0,4.0,3.0,4.0,4.0,3.0
+2018-04-10, Software Engineer,"San Francisco, CA",Current Employee ,Great working enviorment!,More than a year,0,love the people. My manager is awesome. Amazing 5 star food everyday is nice too,"can be a bit chaotic. Still feels like a fast-moving culture despite the size, but this can make you miss the stability",,5.0,5.0,5.0,5.0,5.0,5.0
+2018-04-12, Developer,"San Francisco, CA",Current Employee ,"Great company, not so great lower management",Less than a year,0,"Amazing benefits
+Flexibility to work from home
+Smart people
+Teammates feel like family
+Relaxed/comfortable environment
+Great product!!!","Weak lower/middle level management
+Scattered processes
+Inconsistent / biased performance reviews and ratings
+Too much work about work
+Some teams are very short-staffed","I would love my job at Dropbox if I felt like my time was well spent on the job I was hired for, and if lower/middle level managers were stronger. Lack of strong team leadership from managers, being short-staffed, and going through ever-changing processes make work stressful and take away any possibility of going above and beyond with innovation. Putting out fires is the norm , and that makes me feel very uncomfortable and unmotivated at times. I don't feel like I'm growing in my career.
+
+Overall Dropbox is an amazing company. I love the product, the C-level management team is fantastic, and I've met some great friends and coworkers. I hope processes improve and resourcing is more appropriately fitted to each group that needs support.",3.0,5.0,5.0,3.0,5.0,4.0
+2018-03-28, Sales,,Former Employee ,"Exceptional Company, Exceptional People",More than a year,0,"A company that truly values its people. It's so rare to work in such a caring and kind environment. The group of folks that Dropbox recruits are innately collaborative and open-minded. I know that this culture has been maintained by the people in senior management and they have been cautious about adding the right talent.
+
+I'm so glad to have been part of the team and look back fondly on my time spent there.",Some career paths are not as developed as they should be. It would be great for more junior folks to have an idea of what their futures could look like.,Keep up the great visibility to employees in all offices. It was great getting color on how executive decisions are made.,5.0,5.0,5.0,5.0,4.0,5.0
+2018-03-24, Software Engineer,"Seattle, WA",Current Employee ,.,More than 3 years,0,"Really strong engineering team. Teammates are curious and competent. I enjoy knowing that any random person I meet on a cross-functional project will generally be a pleasure to work with.
+
+Plenty of big challenges to sink your teeth into. If you're up for the task, career growth has a stellar trajectory.
+
+Work-life balance is excellent both on a weekly basis and regarding vacation. Unlimited vacation lives up to its claims here.","Managers frequently come from engineering which leads to uneven quality. This is both a cause and symptom of high churn at the lower levels of management -- bad if you subscribe to the idea that people work for good managers, not jobs. Let's just say that you should really like the job.
+
+Lots of competitors in the space. Unfortunately the heavy hitters are closer to existential threats rather than healthy rivals.
+
+While the core systems are robust, duplicated efforts, wildly changing technical strategy, and poor knowledge-sharing abound. The same kind of self-defeating chaos that politics would generate at a larger company arises here naturally due to ... dare I reuse that startup cliche ... growing pains.
+
+Poor retirement matching.","Control the quality of lower management more carefully.
+
+Outline a stronger technical and product strategy with a time horizon of greater than a year. While it's nice that so many of our recent innovations have come out of random engineers hacking around, it does diminish confidence in leadership's ability to, you know, lead.
+
+The recent rebranding, which appears to have been driven from the top down, makes my eyes bleed.
+
+The core business has been and is doing well, so good job so far.",4.0,5.0,4.0,5.0,4.0,3.0
+2018-03-18,,"San Francisco, CA",Current Employee ,Overall great company to work for within the tech industry,,0,"Great onboarding process, very supportive team/culture/environment, and excellent benefits.",One con for some is the fast paced environment which I personally do not mind.,,5.0,,,,,
+2018-03-08,,"San Francisco, CA",Current Employee ,Great Company Doing Great Things,Less than a year,0,"The employees of Dropbox are smart, engaging, and highly-talented. The benefits are first-class, the Tuck Shop (employee restaurant) is incredible, and the facility comes with all the “tech perks” you can hope for.
+
+Moreover, everyone in the company is motivated by a shared vision and healthy growth-oriented culture.",I wish I could have joined sooner...,Stay focused on your core values (keep it cupcake),5.0,5.0,5.0,5.0,5.0,5.0
+2018-03-05, Enterprise Sales Lead,"San Francisco, CA",Former Employee ,Great Product Company,More than a year,0,"Excellent culture for engineering, marketing etc",investment in self service sales doesn't allow for a traditional sales team (that's what I did there),,5.0,5.0,5.0,5.0,5.0,5.0
+2018-02-28, Software Engineer,"San Francisco, CA",Former Employee ,Couldn't ask for a better company,More than 3 years,0,"- Super smart people
+- Great benefits
+- Respectful, kind culture",I felt that sometimes there was too much attention to detail instead of fast execution.,Keep up the good work.,5.0,5.0,5.0,5.0,5.0,5.0
+2018-03-04,,,Current Employee ,Marketing Analyst,,0,Great co-workers and fun working environment!,Not a clear career path on how to elevate and get promoted.,,4.0,5.0,5.0,3.0,3.0,3.0
+2018-02-16, Engineering Manager,"San Francisco, CA",Current Employee ,Great culture,More than 5 years,0,"- great for parents
+- great team",- growing pains have been a persistent challenge,Maintain the great culture and keep up the good work!,5.0,5.0,5.0,5.0,5.0,5.0
+2018-03-02, Core Account Executive,"San Francisco, CA",Current Employee ,Core Account Executive,More than 3 years,0,"The perks are amazing. Free breakfast, lunch and dinner! Fitness center onsite and amazing views from the rooftop.","The outbound sales org is in shambles! Senior and Middle Level Sales Managers are completely out of touch with reality and have sucked the Dropbox DNA out of the org. Note that I didn't use the word ""Leaders"" or ""Leadership"". Don't be fooled into thinking that they care about your success. Top performers are running away to other companies.","Advice to Dropbox Executive Leadership. You are losing really great employees because of a handful of managers.
+
+""Employees don’t leave Companies, they leave Managers""",1.0,4.0,5.0,3.0,5.0,1.0
+2018-01-25, Senior Software Engineer,"San Francisco, CA",Current Employee ,Senior Software Engineer,More than a year,0,"- Amazing people to work with
+- Fun culture at scale
+- Challenging work
+- Fooood",- At times teams can be too focussed on their own goals with little flexibility(probably usual as companies grow in size),,5.0,4.0,5.0,5.0,5.0,4.0
+2018-02-02,,,Former Employee ,Generally a great time,More than a year,0,"Dropbox is a top-tier tech company with interesting challenges, great coworkers, and a nice environment to do it all in. The benefits are competitive.","Incredibly uneven quality of low-level management. Some long-time engineers are allowed to interfere with any team or engineering project they like, and this has sometimes destroyed teams. Company culture is intolerant of political differences. Retirement plan is not at all competitive.",Don't hire engineers as managers. Don't promote engineers to management. Prevent managers from making engineering decisions.,4.0,2.0,2.0,4.0,4.0,3.0
+2018-02-10,,,Former Employee ,Has worked through growing pains,,0,"Great culture, smart people, and incredible perks/benefits.",Dropbox waited too long to scale it's support structures which led to some growing pains.,,4.0,3.0,5.0,4.0,5.0,4.0
+2017-12-19,,,Current Employee ,Come and do the work you’re destined to,Less than a year,0,"Dropbox can be an intimidating place - extremely smart & capable people, everyone moves fast, decisions happen quickly, tons of exciting work and projects to grab on to, but where to start…
+
+Then it hits you. Dropbox has made it possible for you to come and do your life’s work. It’s a place where you can do and be what you want to be. The culture and atmosphere buzzes from excitement & innovation and exudes passion.
+
+They make everyday decisions easy & painless so you can focus on the work that matters. From the incredible free food to quality healthcare to unlimited vacation to an environment where you’re free to work from where and how you want worry-free (which includes work/life balance).
+
+What you’re left with is the freedom and time to do the work you’re meant to do. And that’s when you graduate from intimidation to empowering.","Giving people the freedom to work how they want means dozens if not hundreds of ways of working. Email, meetings, slack, chat groups, wikis, paper docs, text, etc.
+
+It can be easy to fall in the trap of doing stuff vs. doing what matters.","Encourage simplicity and free people from non-productive distractions (e.g. reply-all chains, documentation paralysis, etc.).",5.0,5.0,5.0,5.0,5.0,5.0
+2018-01-19,,,Former Employee ,Glass House,More than a year,0,"Lots of perks - breakfast, lunch, dinner , $100/mo wellness benefit
+Team events","Doesn't walk-the-walk, often provides lip service to real problems and concerns
+Organizational structure and leadership is constantly shifting as are priorities of the different managers brought in.",,2.0,2.0,1.0,1.0,2.0,1.0
+2018-01-17,,,Current Employee ,Great company with good benefits but still figuring some things out,,0,"Wonderful people who are always willing to help each other out and teach colleagues, great perks at the SF office including an amazing corporate cafeteria, great opportunities to grow your career, volunteer time off, and company culture","Managers can get overloaded, there is some lack of consistent processes in engineering, not a lot of women in infrastructure engineering, few mentor/mentee opportunities",Make sure managers are supported and have opportunities to train and improve.,5.0,5.0,5.0,5.0,5.0,4.0
+2018-01-17,,,Current Employee ,Great place to work,,0,"Really challenging work with a great team who are very self-aware, apolitical, and interested in improving the product, the world, and themselves.. Highly enlightened policies and excellent benefits. Really good work-life balance,","San Francisco location can be challenging for the commute. Dropbox does sponsor a Caltrain Go Pass, which helps tremendously.","For scalability, the company will need to expand beyond San Francisco in a more significant way than it has done to date.",5.0,5.0,5.0,5.0,5.0,4.0
+2018-01-08,,,Former Employee ,Meh,,0,I worked at Dropbox more than 3.5 years. Was great early on and had some amazing people. Lots of my friends were there and I felt it was a supportive place.,The amazing people are gone. Didn't really see how I would grow there if I stayed. EPD sort of had things together by the time I left. The Operations part of the company world was very badly organized with lots of people churn.,,2.0,,,,,
+2017-12-13,,"San Francisco, CA",Former Employee ,Dropbox has a long way to go.,Less than a year,0,"- The food is honestly one of the best parts about working at Dropbox. The culinary teams really go above and beyond almost every single day to serve up really unique and high quality dishes.
+- The office aesthetic is very cool and clean. Dropbox as a company is very design focused and it seems like they took that into account when designing their new office.","- Cocky attitude about being a ""small startup"" that thinks they ""made it"" because they have fancy perks like the other big tech companies
+- Work/life balance
+- Very little room to grow within certain teams
+- Need a lot more process before they'll be successful for the long term
+- Give managers (especially new managers!) much more training before taking on new reports and build teams
+- Need to be more transparent in recruiting process into what job will actually involve","I would re-evaluate some of the lower-level managers you have running teams with very little experience, along with how the recruiting process is being managed. I was misled during the recruiting process and ended up being miserable in the job because I was oversold the role. The recruiting team specifically told me I would be doing certain things I was passionate about to ""close"" me when I was in the offer stage, and that's not a great way to close talent.",2.0,1.0,2.0,2.0,4.0,2.0
+2018-01-04, Product Manager,"San Francisco, CA",Current Employee ,"Wonderful, collaborative culture with awesome people and benefits",More than 3 years,0,"Amazing culture driven by humble, intelligent people. The company takes good care of its employees and actively improves its culture of over time.","A bit too hierarchical - decisions take forever to get made, and execution can get hampered at the last minute by management","Trust your reports and enable them, don’t micro-manage them. Build vision!",4.0,5.0,5.0,4.0,5.0,3.0
+2017-12-15, Software Engineer,"San Francisco, CA",Current Employee ,Dropbox is a great place to work,Less than a year,0,"- Exciting business space.
+- Coworkers are both smart and good to work with.
+- Many opportunities to learn; movement among teams is common.
+- Engineering on-boarding program eases you into the engineering workflow.
+- Plenty of perks, like 3 meals a day, snacks and beverages at all times, all provided for.
+- 100 dollars per month allowance for health and wellness.
+- Transparent culture.",- Vacation time is not accrued.,,5.0,4.0,5.0,5.0,5.0,5.0
+2017-12-05,,,Current Employee ,Hidden Gem in the Tech Company Landscape!,,0,"I'm still relatively new, but from the interview experience, to on-boarding, and the general energy and transparency in the office I am so thrilled to be working at Dropbox! Everyone is welcoming, and fully engaged, the business outlook is impressive, and the perks aren't too bad either (They are top notch!). In a sea full of tech companies and start-ups in the Bay Area, they are holding their own, and more people need to know about what a great place it is.",None that I have seen yet,Increase visibility of the amazing work environment & culture.,5.0,,,,,
+2017-12-14, Coffee Operations Manager,"San Francisco, CA",Current Employee ,Global Coffee Operations Manager,More than 3 years,0,"Amazing owner/founders/management, great benefits, and perks.",not much room for growth.,,5.0,5.0,5.0,3.0,4.0,5.0
+2017-12-13,,,Current Employee ,Software Engineer,,0,"Everybody around me are so smart and this is a great place to learn. As a smaller company there is a ton of opportunities for ownership, and it's definitely one of the most fun places I've worked.",Cafeteria typically has terrible Asian food with the exception of sashimi,Better Asian food in Tuck shop,5.0,5.0,5.0,5.0,5.0,5.0
+2017-10-26,,"San Francisco, CA",Current Employee ,I can't recommend working here to my friends or family,More than 3 years,0,"The Tuck Shop serves great meals, the gym is nice, and so on so forth. The perks are the only real pro.","The best, most visionary leaders in Engineering have left and/or are in the process of leaving.
+Political games are encouraged by EPD leadership.
+Drama is embraced.
+People with real and meaningful experience are ignored routinely.","Stop letting middle managers play dumb political games, it's killing your company.",2.0,3.0,4.0,1.0,4.0,1.0
+2017-11-23,,,Former Employee ,Dropbox,,0,"Great food, lots of in-office perks, good team to work with","Long hours, projects were at times redundant",,4.0,3.0,3.0,4.0,4.0,3.0
+2017-10-15, Account Executive,,Current Employee ,Education Account Executive,More than a year,0,"Great Coworkers, office space and perks","GTM is a complete miss!, haven't had the same offer for more that a qtr, at a time.
+Customer Service is a oxymoron.
+Quotas are too high for the size of deals & discounts needed to win.","Scrub direct sales. Support CX, CS and Engineering, and just admit you are a personal & SMB solution at best.",3.0,4.0,4.0,3.0,5.0,4.0
+2017-09-22, Software Engineer,"New York, NY",Former Employee ,"Great place, with some caveats.",More than a year,0,"The engineering team is some of the best people to work with that I've ever met. The team isn't just smart people: the company does a great job of selecting people who will be able to work well with others.
+
+For an engineer, it's a fun place. They've got a range of really exciting technical problems to solve. And when you solve them, you get to see people actually use what you built.
+
+The company is built as an actual business. The management has been carefully building a sustainable, long-term business. They provide a valuable service, which people are happy to pay for. They've got a good plan for how to continue and grow the business.","Shocking amount of abandonware in the technical stack. Senior people are strongly encouraged to have side-projects in addition to their primary work. But they aren't given time to support it. So there's a lot of widely used code implemented by trusted people, but which is completely unsupported.","* Cut down on the amount of political games among managers.
+* Take a hard look at the what you reward. The current system is good in many ways, but it is encouraging people to build things and then abandon them.",4.0,5.0,5.0,4.0,4.0,4.0
+2017-09-26,,,Current Employee ,Sales,,0,"Great peers - smart, dedicated, helpful, considerate, rockstars.","Middle management not trained well, they won't roll up sleeves to help and continues to dump busy work on the team. Systems and tools confusing with no manpower to fix issues and train sales force. Politics heavy and HR doesn't listen to what employees are saying. Beware ""revenue operations & strategy"" team - they don't operate or strategise.","Read these surveys you keep sending around, we've been waiting for you",1.0,3.0,4.0,1.0,4.0,1.0
+2017-09-11,,,Former Employee ,Partner Account Manager,,0,"Great culture, 3 meals a day with amazing perks. Really inspiring people to work with.",Management in the sales org are struggling. People are continuously leaving the org.,Build out a more robust sales organization with more transparency.,4.0,,,,,
+2017-08-09, Software Engineer,"San Francisco, CA",Current Employee ,Wonderful place to work,More than 3 years,0,"High impact projects affecting millions of users. The technical challenges are immense, and there are many interesting product problems to tackle as well.",Dropbox can be a chaotic place to work. You have to be able to work with others and manage your time well in order to get anything done.,,5.0,4.0,5.0,4.0,5.0,4.0
+2017-08-11, Talent,"San Francisco, CA",Current Employee ,Great people and great times,Less than a year,0,"Amazing culture, amazing leads, amazing food and benefits. People really care about you as a person and all seem to be enthusiastic about their work and the role they play in making it an awesome place to work.","Not great career mapping within recruiting, as there doesn't seem to be a clear vision as to what the possibilities for ones career is. I do believe this is coming soon. The Global Head of Recruiting is learning on the job. They give an impression that they don't really care about technical recruiting and that we are just laborers working to hit a number so they can get a promotion and a bonus.","Don't avoid the Technical Recruiting side of the house. It honestly feels like you don't care at all, and I am not the only one that feels this way.",4.0,4.0,5.0,3.0,5.0,3.0
+2017-07-28, Sales,"San Francisco, CA",Former Employee ,"Good company, needs to mature though",More than a year,0,"Great benefits, an amazing culture of respect and fun. Salary is good.",Grow opportunity is limited. I think the company focuses more on its own growth compared to the growth of its people. Too much politics in the management level.,Set clear goals for the company and stick to it. Stop changing direction and mission every 3 moths.,4.0,5.0,4.0,3.0,5.0,2.0
+2017-07-31, Core Account Executive,"Austin, TX",Current Employee ,"Great culture, greater people",More than a year,0,"Great product, amazing perks and culture of people who are extremely intelligent and always happy to help one another succeed.","Constant moving pieces, tough industry",,4.0,4.0,4.0,4.0,4.0,4.0
+2017-07-12,,,Current Employee ,Strategic Territory Manager,,0,Awesome people to make for an awesome culture,"The food is unbelievable, but watch out, you will gain weight",,5.0,5.0,5.0,5.0,5.0,5.0
+2017-06-29,,,Current Employee ,"Great culture, authentic",More than a year,0,People feel real and leadership team cares and is very transparent.,Some folks have an entitled mentality. Decisions can be tough to get through ranks of leadership.,,5.0,5.0,5.0,5.0,5.0,5.0
+2017-07-13,,,Former Employee ,Amazing people,,0,"An amazing culture founded on amazing people. Brightest people I've worked with, coupled with autonomy and a very caring culture that lets you bring your entire self at work.","Grew quickly and with that, comes growing pains. Depending on the team, there are different more or less experienced managers.",,4.0,5.0,5.0,4.0,5.0,5.0
+2017-07-20, Customer Service,,Current Employee ,Miserable conditions,More than a year,0,"It's a well known company that will look good on your resume when you leave, which you will want to do as soon as you start.","1) managers have no respect or concern for the welfare of their employees
+2) the product is a nightmare - it's coded like something 10 years ago and no one cares - they just want to sell this crap as quickly as possible to as many lemmings as they can find to increase their user count, which they think will drive up the IPO price
+3) customer support? are you kidding me? What a nightmare. It's not just that it's impossible to get support - the customer service agents actively share what should be confidential files and information from a user account when that user writes in with a complaint. I have regularly seen protected information shared among staff members
+4) you'd better be in the clique or else there is no opportunity for career advancement",pack it in. bigger and better cloud sharing services are already eating into your market share and the utter contempt and disdain you show for users and employees is going to come back and bite you.,1.0,1.0,1.0,1.0,1.0,1.0
+2017-06-05, Product Manager,"San Francisco, CA",Current Employee ,Lots of smart people to work with and learn from,More than a year,0,"Great place to work as product manager. Smart people to challenge your thinking if you are looking for constructive feedback. Dropbox gives PMs the opportunity to focus on why a problem is worth solving rather than just focus on churning out features.
+
+It is at a great size where the PM team is large in the sense that there are a lot of great folks to learn from, but small enough that you will likely know all other PM's and can really scale your impact.
+
+More importantly, the co-founders and the executive team really cares about broader issues such as diversity and respecting people from all background. Great perks when it comes to food, insurance, maternity/paternity, wellness etc.",Will have to figure out a way to transition from a single product company to a successful multi product company for long term success.,,5.0,3.0,5.0,4.0,5.0,4.0
+2017-07-16, Vice President,"San Francisco, CA",Former Employee ,No new ideas.,More than a year,0,"Great food in the Tuck Shop... almost everything else is a bit questionable. Some really dedicated, smart people ... but most have left.","Culture is based on ""what do they do at [insert other tech company name]?"" Otherwise they are bereft of new ideas. Execs fleeing regularly.",Since no new ideas have come in 8 years. Think about hanging it up.,1.0,3.0,3.0,2.0,4.0,2.0
+2017-06-15,,,Current Employee ,A company that cares,,0,"Strong cultural values, people have higher integrity than other tech companies I've seen, truly cares about investing in and caring for its employees.","Tons of change all the time, lots of context switching, has trouble making important decisions quickly especially if they hurt feelings",,5.0,3.0,5.0,5.0,5.0,4.0
+2017-06-13, Software Engineer,"San Francisco, CA",Current Employee ,Software Engineer,More than 3 years,0,"Food, flexible schedule, unlimited vacation, and benefits",On call on Friday and weekends,Figure out when we want to go on the market.,5.0,5.0,5.0,5.0,5.0,5.0
+2017-06-07, Product Analyst,"San Francisco, CA",Current Employee ,Amazing place to learn & grow,,0,"* People are honest, thoughtful, and interested in building great products over climbing the corporate ladder
+* Great focus on learning, with lots of awesome opportunities available for early-career employees
+* Still feels like a small company in many ways (friendly, casual)",* Still working out some growing pains on things like performance reviews as the company grows,,5.0,5.0,5.0,5.0,4.0,4.0
+2017-05-24, Software Engineer,"San Francisco, CA",Former Employee ,"Reasonable place to work, huge product issues",,0,"* Lots of employee perks
+
+* Beautiful office
+
+* Amazing food
+
+* Still a good chunk of smart people remaining at the company, though this is changing quickly
+
+* Coworkers were really nice and generally had strong character","* Zero product direction -- CEO has had lots of trouble strategically and has effectively stepped back from that role, meaning that no one with power over multiple orgs is steering the company
+
+* High-level goals dumped at the feet of inexperienced senior managers, who are then responsible for vague product goals (""more collaboration!"") and can't translate them into a product roadmap
+
+* Projects are often too safe, and amount to UI tweaks (a giant overhaul of the barely-used website, for example) or moonshot projects with no strategy or go-to market that eventually die before reaching customers
+
+* A recent de-emphasis on business/sales objectives in favor of shiny consumer toys, despite major strategic pitfalls","Chart a course more concrete than ""collaboration"" or ""the best place to get work done"" -- something that directly translates into a product roadmap with a clear go-to market and value prop for customers. Put customer problems first and business problems second.",3.0,5.0,5.0,4.0,5.0,2.0
+2017-06-03, Account Executive,"San Francisco, CA",Current Employee ,Amazing place to work,More than a year,0,Culture and food and of course the people. Everyone from leadership down to IC's are sharp and have unique backgrounds,Retention especially as the org continues to change and define itself. Need to do better job of managing org-wide changes,Preserve the culture at all costs,5.0,5.0,5.0,5.0,5.0,5.0
+2017-05-24,,,Former Employee ,Uncertain Future,,0,Dropbox has amazing perks (although they're not as great as they were when I started back in 2014).,"Upper management brought in hordes of ineffective middle managers from Microsoft and Google to manage business teams in a misguided attempt to 'grow up' ahead of an expected IPO. These people were universally terrible at their jobs and are now in the process of being let go. People at Dropbox are also extremely nice, but usually not very effective.",Stop letting good people leave in favor of managers who produce literally zero benefit for the company.,4.0,5.0,4.0,4.0,5.0,3.0
+2017-05-31, Software Engineer,"San Francisco, CA",Current Employee ,"People, people, people",More than a year,0,"Passionate co-workers, transparent culture, delicious food.","Tendency to overwork, some expectations that it be ""more than a job"", too much/too frequent management shuffling",,5.0,3.0,4.0,5.0,5.0,4.0
+2017-06-27, Sales Associate,,Current Employee ,Sinking Ship,More than 3 years,0,Good benefits and great people.,No way to make your number. Getting destroyed by the competition on a regular basis.,,1.0,4.0,5.0,1.0,4.0,2.0
+2017-04-28,,,Current Employee ,Great stuff,,0,"Has good perks.
+Great food.","Long hours.
+Noisy neighbors in the office.",,5.0,,,,,
+2017-05-10,,,Current Employee ,Big startup,,0,"focus on execution, quick development process","product manager deficiency, customers upset",,4.0,3.0,5.0,4.0,3.0,4.0
+2017-04-07,,,Current Employee ,"Hyper-Growth, Strong Leadership and Lots of Runway",,0,"Amazing opportunities, strong leadership across most functions, strong business value proposition and operations and lots of runway for building teams and innovative processes using leading technology.",Maturing leads who often don't recognize the necessities of growing up,Keep it up -- hold each other accountable and play to win!,5.0,5.0,5.0,5.0,5.0,5.0
+2017-04-10,,,Current Employee ,"Great coworkers, good growth opportunities",,0,"Inspiring and impactful projects, great coworkers, Tuckshop!","Shrug, not many I can think of",,5.0,5.0,5.0,5.0,5.0,4.0
+2017-04-18,,,Current Employee ,"Great team, solid perks",,0,"My Coworkers make my job as great as it is, and the perks are great",Exec communication could be better,Keep the focus on Dropbox team members,4.0,4.0,4.0,4.0,4.0,4.0
+2017-04-13,,,Current Employee ,All that glitters is not gold.,,0,"Great perks, ok food, wonderful views from the office space. No points for guessing from where! Casual workspace. Good brand awareness outside.","Bunch of newbie leads managing for the first time in life and don't have a clue that they are failing miserably. get a real sense from the team and not look at those artificial pulse scores. Favoritism exist all over, seniors don't even acknowledge juniors in the room to the fact that they don't even look eye to eye when pretending to talk to you. Hiring like crazy and celebrating each hire as if we have gotten a billion dollar customer in.","Look over from the high castle, the village is not in great shape.",1.0,1.0,1.0,2.0,2.0,1.0
+2017-01-31, Senior Software Developer,"San Francisco, CA",Current Employee ,IPO Will be a Disaster,More than 3 years,0,"- I love my view from the Tower
+- I have a ton of options since I came pretty early
+- Lot of cool people to work with","- So much dilution in shares that everyone who thinks we're going to be rich from this IPO is delusional
+- So many young managers that hurt the morale of the teams. Honestly, these kids are way too inexperienced
+- We're far behind on the Enterprise space but kicking butt in the Consumer space. I think it is too late to catch up on the Enterprise side, but for some reason we keep wasting time and energy here.",Get the priorities right. Enterprise or Consumer. It is demoralizing and confusing everyone.,2.0,1.0,3.0,3.0,4.0,1.0
+2017-02-01,,,Former Employee ,Great Company,,0,"- One of the most thoughtful companies, both around their employees and their Users.
+- Some of the smartest/brightest people in the industry.
+- Culture is awesome and fun.
+- Huge impact per engineer.",Not really many for a company of its size. Not as many exciting/innovative projects to work on as there used to be as the company is more focused now.,,5.0,4.0,5.0,4.0,5.0,5.0
+2017-01-29, Senior Software Engineer,"Seattle, WA",Current Employee ,Great Culture and Ready to Help Grow Your Career,Less than a year,0,"Lots of impactful projects (even at satellite office);
+Just the right size - small enough (startup / pre-IPO / less politics) and big enough to have resources and some structure.
+People of different level in the career : e.g. junior people you can mentor and seniors you can learn from;
+Lots of potential - e.g. business;",questions about valuation brought up last year;,keep being crisp about why Dropbox is better than the competition;,5.0,4.0,5.0,5.0,3.0,4.0
+2017-01-19, Technical Recruiter,"Seattle, WA",Current Employee ,Amazing Company Culture,Less than a year,0,"After having been a fan of the product itself and a long-time user, I was hopeful when I joined that they would live up to my very high expectations. So far I've been very pleasantly surprised to learn that the culture and environment is even better than I had expected. After having worked at several large tech companies in the area, I have realistic expectations when it comes to culture and work environment and often after seeing behind the curtains am disappointed with the results, however here I haven't seen anything that is popping that bubble. Even though we work in a satellite office (the HQ is in San Francisco) they are very careful to ensure that we maintain that environment that makes Dropbox special, as well as including everyone and being very transparent so that we don't end up feeling like a lonely island.
+*Benefits here are amazing (even compared with Microsoft, Facebook and the like)
+*Perks include having a catered breakfast, lunch & dinner (if you are going to be working past 5) every day. If you are lucky enough to work in the SF office, then you have your own restaurant with options crafted by a Michelin star chef. We also have a fully stocked kitchen and full bar. We also have a lounge area complete with Xbox One & Sega (old school), full band set-up, pool table, foosball, ping pong table and lots of different working spaces for any kind of work environment requested.
+*Company founders are onsite and super accessible, they really do care about each and every employee and put a lot into everything.
+
+The transparency here is amazing, and if you have an idea or want to try something new out, I've been met with ""yes"" every time. Which is amazing and can offer up unlimited career progression, just don't be afraid to get in and get your hands dirty and get 'er done.","The only con I can find is the location, although we are in the Columbia Tower and the views are seriously the best in the city, I live on the Eastside and thus commute is a headache for me. Luckily we have a generous transportation benefits and a flexible work environment, so I can work from home as needed. The bus routes are the hardest part, trying to find one that will work with my schedule has needed a little work, but that's not really the fault of Dropbox.","Continue to keep the transparency intact, that's a very important part of this culture and the success of the product itself, so it's great to have that to showcase. As we are still very much growing, and growing at a very fast pace, it's important to make sure that we continue to hire people who will maintain that uniqueness that keeps us at Unicorn status, I've seen cases where bringing in the wrong leadership can tank an entire product line, so that's my biggest worry at this point.",5.0,5.0,5.0,5.0,5.0,5.0
+2016-12-20, Software Engineer,"San Francisco, CA",Former Employee ,Culture isn't great for minorities,More than 3 years,0,"- Super smart engineers
+- Great product design team
+- Fantastic perks and location
+- The founders are down-to-earth and relatable","- There is an ever-prevalent sense of entitlement throughout the engineering org
+- Lack of basic social skills - people don't believe in greeting others in hallways
+- Inexperienced and egoistic managers have caused a lot of damage and attrition in the past year
+- If you are a person of color, you may not exist for the rest of them for a long time (I am not a person of color, but I noticed the bias against my colored co-workers)
+- There still exists a boys club
+- Career growth and mentorship is limited
+- Don't work at Dropbox if you are a Product Manager or want to become one in the near future. The attrition rate in PM org is huge and lack of mentorship is appalling. Lots of unhappy PMs.","Fix management issues, if you want you attract long-term experienced employees. Engineers have many options in the Silicon Valley, nobody wants to work for jerks!",3.0,3.0,2.0,3.0,4.0,
+2017-02-08,,,Former Employee ,Great perks and people,,0,Great product and smart people,Slow to execution and too many x-consultants doing product work,Stop changing strategy all the time!,4.0,4.0,4.0,4.0,5.0,4.0
+2017-01-16,,,Current Employee ,Great people & culture,,0,"Smart people, collaborative & social culture","No complaints other than losing the ""start-up"" feel",,5.0,5.0,4.0,5.0,4.0,3.0
+2017-01-27,,"Seattle, WA",Current Employee ,"Driven Culture, Nice and Friendly Environment, Room to Grow",,0,"A great working environment with a warm, inviting, and friendly culture.
+Opportunities to learn from others with a wide range of experiences
+Great brand name recognition
+Strong perks and benefits
+Off the charts food options
+Leadership is very transparent regarding company direction and financials
+Individual growth opportunties",An excess of documentation on any number of topics. Streamlined and simple data can sometimes be tricky to locate,"Continue to provide transparent information on the direction of Dropbox and where we're going.
+Do not try to grow just for the sake of growing.",4.0,4.0,5.0,4.0,4.0,4.0
+2016-12-20, Marketing,"San Francisco, CA",Former Employee ,A slowly sinking ship,More than 3 years,0,"Like many companies, Dropbox has amazing perks -- excellent food, really nice onsite gym, and there's no commute as it's located in SF. Most people at the company are nice, smart, humble, and hardworking, but the hiring bar has been lowered quite a bit over the last year. This is a great place to start your career if you're entry-level.","All that glitters isn't gold. Despite the glitz of the perks, many people at Dropbox are really unhappy. This is due to several things:
+- Bad managers. Like, really bad. Very little training offered to new managers, and the company does not take action on managers who are consistently rated poorly or who have a lot of turnover on their team.
+- Very little career development. If you're mid-to-senior level and you're looking for autonomy and responsibility, this is likely not the place for you.
+- Dropbox is NOT a meritocracy. Many leveling and compensation decisions are based on favorites and are inconsistent from team to team, or level to level.
+- Despite being a relatively small company, it's tough to get things done. Weighed down by red tape and bureaucracy. If you're someone who is execution-oriented and likes to move fast, look elsewhere.","Stick to the values and raise the hiring bar. Stop hiring and promoting bad managers. Train new managers, and get rid of the ones who aren't effective. Provide greater development and mentorship opportunities for people who want them. Hire a more seasoned and effective HR team. Be fair and consistent with compensation and leveling decisions.",2.0,3.0,2.0,1.0,2.0,2.0
+2017-01-19, Software Engineer,"San Francisco, CA",Current Employee ,Great people & amazing office,,0,"Really smart, motivated people.
+Very collaborative culture - people are always willing to help solve problems or answer questions.
+Amazing office space and fantastic perks.","Growing pains as the company grows from a small, agile startup to something bigger that needs more process.
+Leadership can be hit or miss - some projects Dropbox executes on amazingly well but others feel like vanity projects for leadership that won't go anywhere.",,4.0,5.0,4.0,4.0,5.0,4.0
+2017-01-06,,,Current Employee ,Inexperienced management,More than a year,0,"The benefits are great, but they are dwindling as the company looks at saving money. Nevertheless, they are far better than most companies in the area.","The majority of the management have very little experience (due to their age) so the management makes many immature mistakes. The company also things very highly of itself as a global leader that employs only the best in the field, but that's not actually something that's substantiated outside of the company itself. Advancement is nebulous and relies a lot on subjective traits and who your friends are.","Value experience that employees bring from outside of your company walls. Start leveling down the management that are in high levels simply because they have been at Dropbox for years, and start replacing them with experience managers with more industry experience.",2.0,4.0,4.0,1.0,4.0,1.0
+2016-12-19, Account Executive,"Austin, TX",Current Employee ,Really valued employee,Less than a year,0,I am still fairly new to the company but I can already tell you that I feel so valued as a new employee. All of the details going into your interviews and the feedback given are fantastic. The benefits also speak to this.,"The only thing i can see so far is there is no downtown parking, however given an allowance a month helps with this. Plus in my opinion the amount of Pro's outweigh this.",Keep up the amazing work. As a new hire I have never felt more welcomed and appreciated at any other company that I have ever worked for. I am so happy to be apart of this culture and hope to show this type of care and attention to all of our future new hires as well.,5.0,5.0,5.0,5.0,5.0,5.0
+2017-01-05,,,Former Employee ,An amazing place to learn and grow,,0,"The people are incredible, talented, so smart, and very fun to work with. Dropbox also affects hundreds of millions of users, and the problems you solve have a huge impact.",The company is huge now compared to when I first started,"I loved my time at Dropbox, thank you!",5.0,5.0,5.0,5.0,5.0,5.0
