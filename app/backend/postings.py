@@ -18,18 +18,17 @@ from app import app
 """
 def csv_to_postings(csv_name):
 	filename = os.path.join(app.root_path, csv_name)
-	with open(filename, newline='', encoding='utf-8') as f:
-		a = f.read()
-		# print(a, sys.stderr)
-		reader = csv.reader(f.read())
-		postings = []
-		r_count = 0
+	reader = csv.reader(open(filename, newline='', encoding='utf-8'))
+	postings = []
+	r_count = 0
 	for row in reader:
 		if r_count != 0:
 			posting = {'id' : r_count-1, 'title' : row[0], 'link' : row[1], \
 			'company' : row[2], 'location' : row[3], 'summary' : row[4]}
 			postings.append(posting)
 		r_count += 1
+	# print("csv_to_postings, postings: {}".format(postings), sys.stderr)
+
 	return postings
 
 """ Tokenizes a string.
@@ -81,7 +80,7 @@ def jaccard_sim(location, tokens_list):
 def ranked_posting_company(input_location='San Francisco, CA', \
 	input_skill='Java, Python', \
 	csv_name='backend/job_postings/SoftwareJobsInSanFrancisco,CA.csv'):
-
+	# print ("input to ranked_posting_company: {}".format(input_skill), file=sys.stderr)
 	#Convert the given csv name to a postings dictionary
 	postings = csv_to_postings(csv_name)
 

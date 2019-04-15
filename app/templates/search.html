@@ -1,34 +1,52 @@
 <html>
     <head>
-        <link rel="stylesheet" href="/static/bootstrap.min.css">
-        <link rel="stylesheet" href="/static/main.css">
+        <!-- <link rel="stylesheet" href="/static/bootstrap.min.css"> -->
+        <link rel="stylesheet" type="text/css" href="/static/main.css" >
+        <link rel="stylesheet" type="text/css" href="/static/materialize.css">
+        <link href="https://fonts.googleapis.com/css?family=Merriweather|Montserrat" rel="stylesheet">
+        
     </head>
     <body>
-        <div class="topcorner">
-            <p>Project Name: {{ name }}</p>
-            <p>Student Name: ({{ netid }})</p>
-        </div>
-        <form class="form-inline global-search">
-            <h1 style="font-size: 55px; font-family:Futura; color: #4285F4">
-                Go Work At:
-            </h1>
-            
-            <br><br>
-            
-            <div class="form-group">
-                <input id="input" type="text" name="search" class="form-control" placeholder="Your Input">
+        <div class="wrapper">
+            <div class="row form-container">
+                <form class="col s12">
+                    <div class="row">
+                        <div class="top">
+                            <div class="form-text inline">
+                                My skills are...
+                            </div>
+                            <div class="input-field inline">
+                                <input type="text" name="skillset" placeholder="Java">
+                            </div>
+                        </div>
+                        <div class="middle">
+                            <div class="form-text inline">
+                                In...
+                            </div>
+                            <div class="dropdown-locations">
+                                <input type="text" name="location" placeholder="San Francisco, CA">
+                            </div>
+                        </div>
+                        <div class="bottom">
+                            <div class="form-text inline">
+                                In a company that is...
+                            </div>
+                            <div class="select-quality">
+                                <input type="text" name="company_quality">
+                            </div>
+                        </div>
+                    </div>
+                    <button type="submit" class="btn btn-info"> Go! </button>
+                </form>
             </div>
-            <button type="submit" class="btn btn-info"> Go! </button>
-        </form>
-        <form class="form-inline global-search">
-        {% if data %}
-            <h1>{{output_message}}</h1>
-            {% for d in data %}  
+            <form class="form-inline">
+            <h4>Go work at</h4>
+            {% for r in results %}  
                 <br>
-                <p>{{d}}</p>
+                <p>{{r}}</p>
             {% endfor %}
-        {% endif %}
-        </form>
+            </form>
+        </div>
     </body>
 
 </html>

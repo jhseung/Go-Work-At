@@ -8,17 +8,19 @@ net_id = "Ji Hwan Seung: js2687; Ju Un Park: jp848; Yong Jin Cho: yc628; Sang Wo
 
 @irsystem.route('/', methods=['GET'])
 def search():
-	query = request.args.get('search')
+	skillset_query = request.args.get('skillset')
+	company_quality_query = request.args.get('company_quality')
 	# print("b", file=sys.stderr)
 	# print(os.path.dirname(os.path.abspath(__file__)), file=sys.stderr)
-	if not query:
+	if not skillset_query:
 		data = []
 		output_message = ''
 	else:
-		engine.fetch_postings(query)
-		output_message = "Your search: " + query
-		data = range(5)
-	return render_template('search.html', name=project_name, netid=net_id, output_message=output_message, data=data)
+		results = engine.fetch_postings(skillset_query, company_quality_query)
+		output_message = "Companies"
+		print (results, file=sys.stderr)
+		
+	return render_template('search.html', results=results)
 
 
 
