@@ -1,9 +1,10 @@
 # Gevent needed for sockets
 from gevent import monkey
+
 monkey.patch_all()
 
 # Imports
-import os
+import os, sys, logging
 from flask import Flask, render_template
 from flask_sqlalchemy import SQLAlchemy
 from flask_socketio import SocketIO
@@ -14,9 +15,9 @@ app = Flask(__name__)
 app.config.from_object(os.environ["APP_SETTINGS"])
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = True
 
-if 'DYNO' in os.environ:
-    app.logger.addHandler(logging.StreamHandler(sys.stdout))
-    app.logger.setLevel(logging.ERROR)
+# if 'DYNO' in os.environ:
+app.logger.addHandler(logging.StreamHandler(sys.stdout))
+app.logger.setLevel(logging.ERROR)
 
 # DB
 db = SQLAlchemy(app)
