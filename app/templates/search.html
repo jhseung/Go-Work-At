@@ -40,11 +40,13 @@
                 </form>
             </div>
             <form class="form-inline">
-            <h4>Go work at</h4>
-            {% for r in results %}  
-                <br>
-                <p>{{r}}</p>
-            {% endfor %}
+            {% if results %}
+                <h4>Go work at</h4>
+                {% for r in results %}  
+                    <br>
+                    <p>{{r}}</p>
+                {% endfor %}
+            {% endif %}
             </form>
         </div>
     </body>

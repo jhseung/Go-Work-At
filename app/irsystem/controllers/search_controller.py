@@ -13,8 +13,7 @@ def search():
 	# print("b", file=sys.stderr)
 	# print(os.path.dirname(os.path.abspath(__file__)), file=sys.stderr)
 	if not skillset_query:
-		data = []
-		output_message = ''
+		results = []
 	else:
 		results = engine.fetch_postings(skillset_query, company_quality_query)
 		output_message = "Companies"

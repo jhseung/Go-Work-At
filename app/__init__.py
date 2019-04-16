@@ -14,6 +14,10 @@ app = Flask(__name__)
 app.config.from_object(os.environ["APP_SETTINGS"])
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = True
 
+if 'DYNO' in os.environ:
+    app.logger.addHandler(logging.StreamHandler(sys.stdout))
+    app.logger.setLevel(logging.ERROR)
+
 # DB
 db = SQLAlchemy(app)
 
