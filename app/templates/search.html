@@ -12,12 +12,37 @@
                 <form class="col s12">
                     <div class="row">
                         <div class="top">
-                            <div class="form-text inline">
-                                My skills are...
-                            </div>
-                            <div class="input-field inline">
-                                <input type="text" name="skillset" placeholder="Java">
-                            </div>
+                            <!--drop menu for skills-->
+                            <script>
+                                var expanded = false;
+                                function Checkboxes() {
+                                var checkboxes = document.getElementById("checkboxes");
+                                if (!expanded) {
+                                    checkboxes.style.display = "block";
+                                    expanded = true;
+                                } else {
+                                    checkboxes.style.display = "none";
+                                    expanded = false;
+                                }
+                                }
+                            </script>
+                            <div class="multiselect">
+                                <div class="selectBox" onclick="Checkboxes()">
+                                  <select>
+                                    <option>My Skills are...</option>
+                                  </select>
+                                  <div class="overSelect"></div>
+                                </div>
+                                <div id="checkboxes">
+                                  <label for="one">
+                                    <input type="checkbox" id="one" />Java</label>
+                                  <label for="two">
+                                    <input type="checkbox" id="two" />Python</label>
+                                  <label for="three">
+                                    <input type="checkbox" id="three" />C++</label>
+                                <!--continue with more skills-->
+                                </div>
+                              </div>
                         </div>
                         <div class="middle">
                             <div class="form-text inline">
@@ -42,9 +67,11 @@
             <form class="form-inline">
             {% if results %}
                 <h4>Go work at</h4>
-                {% for r in results %}  
+                {% for x,y in results %}
+                    {%for y in }
+                    <!--actually check if this works-->
                     <br>
-                    <p>{{r}}</p>
+                    <p>{{x, <a href=y>Link</a>}}</p>
                 {% endfor %}
             {% endif %}
             </form>
