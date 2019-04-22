@@ -73,24 +73,9 @@ def update_matrix_by_csv(fileName, matrix):
 
 
 def open_inverted_matrix():
-    path = os.path.join(app.root_path, "backend/inverted_matrix.json")
+    path = os.path.join(app.root_path, "./inverted_matrix.json")
     if os.path.isfile(path):
-
-        # check time for each review csv
-        path = "./company_reviews/"
-        path = os.path.join(app.root_path, "backend/company_reviews/")
-        files = os.listdir(path)
-
-        ### GETCTIME / GETMTIME NOT WORKING
-        # print("matrix", os.path.getctime("inverted_matrix.json"))
-        for file in files:
-            # print(file, os.path.getmtime(path + file))
-            if os.path.getmtime(path + file) > os.path.getctime("inverted_matrix.json"):
-                print(file + " has been updated. Updating the inverted matrix...")
-                return create_inverted_matrix()
-            else:
-                print("Reading from existing matrix...")
-                return json.load(open("inverted_matrix.json"))
+        return json.load(open("inverted_matrix.json"))
     else:
         print("Inverted Matrix does not exist. Creating...")
         return create_inverted_matrix()
