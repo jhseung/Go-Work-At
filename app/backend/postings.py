@@ -109,6 +109,9 @@ def ranked_posting_company(input_location='San Francisco, CA', \
 		dic['id'] = postings[index]['id']
 		dic['link'] = postings[index]['link']
 		dic['company'] = postings[index]['company']
+		dic['job_title'] = postings[index]['title']
+		dic['location'] = postings[index]['location']
+		dic['summary'] = postings[index]['summary']
 		ranked_list.append(dic)
 
 	return ranked_list

@@ -17,8 +17,12 @@ def get_company_list(input_skill):
     ranked_postings = ranked_posting_company(input_skill=input_skill)
     # print ("Ranked postings: {}".format(ranked_postings), file=sys.stderr)
     for posting in ranked_postings:
-        s[(posting['company'].lower())].append(posting['link'])
-
+        info = {}
+        info['link'] = posting['link']
+        info['job_title'] = posting['job_title']
+        info['location'] = posting['location']
+        info['summary'] = posting['summary']
+        s[(posting['company'].lower())].append(info)
     return s
 
 def fetch_postings(input_skill='Java, Python', company_quality="nice"):
@@ -44,10 +48,25 @@ def fetch_postings(input_skill='Java, Python', company_quality="nice"):
     
     # print (input_companies, file=sys.stderr)
     ranked.sort(key=lambda x: x[0], reverse=True)
-    return [
-        (company_list[company_id], input_companies[company_list[company_id]])
-        for _, company_id in ranked if company_list[company_id] in input_companies.keys()
-    ]
+
+    final_list = []
+    for score, company_id in ranked:
+        if company_list[company_id] in input_companies.keys():
+            s = defaultdict(list)
+            company_name = company_list[company_id]
+            s['company_name'] = company_name
+            s['company_score'] = score
+            for info in input_companies[company_name]:
+                job_links = {}
+                job_links['url'] = info['link']
+                job_links['job_title'] = info['job_title']
+                job_links['location'] = info['location']
+                job_links['job_summary'] = info['summary']
+                s['job_links'].append(job_links)
+            final_list.append(s)
+    return final_list
+
+fetch_postings()
 
 # if __name__ == '__main__':
 #     main()
