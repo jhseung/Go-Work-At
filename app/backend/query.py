@@ -6,26 +6,28 @@ from .postings import *
 from .helpers import tokenize_and_stem
 from collections import defaultdict
 from scipy.sparse.linalg import svds
+from nltk.stem import PorterStemmer
 
 def tfidf_matrix(tf,idf,companies,word_in,k=10):
-	index_to_word = tf.keys()
+	ps = PorterStemmer()
+	index_to_word = list(idf.keys())
+	for company in companies:
+		if ps.stem(company) in index_to_word:
+			index_to_word.remove(ps.stem(company))
 	word_to_index = {index_to_word[i]:i for i in range(len(index_to_word))}
 	index_to_companies = companies
-	company_to_index = {company_to_index[i]:i for i in range(len(index_to_companies))}
+	company_to_index = {index_to_companies[i]:i for i in range(len(index_to_companies))}
 	n_words = len(index_to_word)
 	n_comps = len(companies)
 	mat = np.zeros((n_words,n_comps))
+	for word in index_to_word:
+		for comp, freq in tf[word]:
+			mat[word_to_index[word]][company_to_index[comp]] = freq * idf[word]
+	words_compressed, _, docs_compressed = svds(mat, k=10)
+	docs_compressed = docs_compressed.transpose()
 
-    for word in tf.keys():
-    	for comp, freq in tf[word]:
-    		mat[word_to_index[word]][index_to_companies[comp]] = freq * idf[word]
-
-    words_compressed, _, docs_compressed = svds(mat, k=40)
-    docs_compressed = docs_compressed.transpose()
-
-    if word_in not in word_to_index: return "Not in vocab."
+	if word_in not in word_to_index: return "Not in vocab."
 
 	sims = words_compressed.dot(words_compressed[word_to_index[word_in],:])
 	asort = np.argsort(-sims)[:k+1]
 	return [(index_to_word[i],sims[i]/sims[asort[0]]) for i in asort[1:]]
-
