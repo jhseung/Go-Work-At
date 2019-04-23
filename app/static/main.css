@@ -9,6 +9,11 @@ body {
     padding: 100px;
 }
 
+.samples {
+    font-size: 10px;
+    color: #80898E;
+}
+
 .show {
     display: block;
 }
@@ -25,7 +30,7 @@ body {
 .card-header {
     width: 100%;
     padding: 0 10px;
-    border-bottom: 1px solid #c9d6de;
+    border-bottom: 1px solid #D2DDE4;
     font-size: 12px;
     font-weight: 500;
 }
@@ -38,7 +43,7 @@ body {
 .badge.cat-badge {
     position: absolute;
     right: 12px;
-    top: 22px;
+    top: 19px;
 }
 
 .badge {
@@ -46,22 +51,37 @@ body {
     font-weight: bold;
 }
 
+.sample-badge {
+    border: 1px solid #D2DDE4;
+    background-color: rgb(177, 219, 198);
+    color: rgb(89, 99, 105);
+    text-transform: lowercase;
+    font-weight: 500;
+    padding: 1px 7px;
+    margin: 0 2px;
+    border-radius: 2px;
+    font-size: 9px;
+}
+
 .tags {
-    border: 1px solid #c9d6de;
+    border: 1px solid #D2DDE4;
     background-color: #EDFFF6;
     color: #52616a;
     text-transform: uppercase;
     font-weight: 500;
     padding: 1px 7px;
+    margin: 0 2px;
     border-radius: 2px;
-    font-size: 10px;
+    font-size: 9px;
 }
 
 .title {
-    font-size: 18px;
-    font-weight: 500;
+    font-size: 16px;
+    font-weight: 900;
     padding-left: 8px;
     max-width: 80%;
+    text-transform: uppercase;
+    font-family: "Montserrat";
 }
 
 .card-body {
@@ -72,14 +92,18 @@ body {
 }
 
 .card-body-left {
-    width: 15%;
+    width: 25%;
     margin-right: 10px;
     display: inline-block;
+    font-size: 11px;
+    vertical-align: top;
 }
 
 .card-body-right {
-    max-width: 75%;
+    max-width: 70%;
     display: inline-block;
+    font-size: 10px;
+    vertical-align: top;
 }
 /*start drop menu style*/
 .multiselect {

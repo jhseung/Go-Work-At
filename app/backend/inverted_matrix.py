@@ -1,4 +1,4 @@
-import os
+import os, sys
 import csv, json
 from collections import defaultdict
 from .helpers import tokenize_and_stem
@@ -73,7 +73,7 @@ def update_matrix_by_csv(fileName, matrix):
 
 
 def open_inverted_matrix():
-    path = os.path.join(app.root_path, "./inverted_matrix.json")
+    path = os.path.join(app.root_path, "./backend/inverted_matrix.json")
     if os.path.isfile(path):
         return json.load(open("inverted_matrix.json"))
     else:
