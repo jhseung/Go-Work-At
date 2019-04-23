@@ -33,7 +33,7 @@ def fetch_postings(input_skill='Java, Python', company_quality="nice"):
     inverted_matrix = open_inverted_matrix()
     company_num, company_list = get_comp_number()
 
-    idf = compute_idf(inverted_matrix, company_num)
+    idf = get_idf(inverted_matrix, company_num)
 
     doc_norms = compute_doc_norms(inverted_matrix, idf, company_num, company_list)
     # print(doc_norms)

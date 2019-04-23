@@ -24,16 +24,17 @@ def get_comp_number():
 
 def create_inverted_matrix():
     inverted_matrix = defaultdict()
-    path = "./company_reviews"
-    path = os.path.join(app.root_path, "backend/company_reviews")
+    path = os.path.join(app.root_path, "./backend/company_reviews")
     files = os.listdir(path)
 
     for file in files:
         if file.endswith(".csv"):
             inverted_matrix = update_matrix_by_csv(file, inverted_matrix)
 
+    path = os.path.join(app.root_path, "./backend/inverted_matrix.json")
+
     # writing
-    json.dump(inverted_matrix, open("inverted_matrix.json", 'w'))
+    json.dump(inverted_matrix, open(path, 'w'))
 
     return inverted_matrix
 
@@ -73,9 +74,9 @@ def update_matrix_by_csv(fileName, matrix):
 
 
 def open_inverted_matrix():
-    path = os.path.join(app.root_path, "./inverted_matrix.json")
+    path = os.path.join(app.root_path, "./backend/inverted_matrix.json")
     if os.path.isfile(path):
-        return json.load(open("inverted_matrix.json"))
+        return json.load(open(path))
     else:
         print("Inverted Matrix does not exist. Creating...")
         return create_inverted_matrix()
