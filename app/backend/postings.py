@@ -27,8 +27,8 @@ def csv_to_postings(csv_name):
 			'company' : row[2], 'location' : row[3], 'summary' : row[4]}
 			postings.append(posting)
 		r_count += 1
-	# print("csv_to_postings, postings: {}".format(postings), sys.stderr)
 
+	# print(postings, file=sys.stderr)
 	return postings
 
 """ Tokenizes a string.
@@ -77,12 +77,18 @@ def jaccard_sim(location, tokens_list):
 			   'link' : 'https://www.indeed.com/rc/clk?jk=6ff	2af73fff171d',
 			   'company':'Uber'}
 """
-def ranked_posting_company(input_location='San Francisco, CA', \
-	input_skill='Java, Python', \
-	csv_name='backend/job_postings/SoftwareJobsInSanFrancisco,CA.csv'):
-	# print ("input to ranked_posting_company: {}".format(input_skill), file=sys.stderr)
+def ranked_posting_company(input_location='sanfrancisco',
+						   input_skill='Java, Python'):
+	"""
+	args:
+	input_location: String of location city
+	input_skill: String of skills separated by comma
+	"""
 	#Convert the given csv name to a postings dictionary
+	csv_name = 'backend/job_postings/' + input_location + '.csv'
+	print(csv_name, file=sys.stderr)
 	postings = csv_to_postings(csv_name)
+	print("postings: {}".format(postings), file=sys.stderr)
 
 	#Tokenize locations and skill sets from the dictionary
 	tokens_location = postings_to_tokens(postings, 'location')
@@ -91,6 +97,7 @@ def ranked_posting_company(input_location='San Francisco, CA', \
 	#Find the jaccard sims of location and skill
 	location_jac = jaccard_sim(input_location, tokens_location)
 	skill_jac = jaccard_sim(input_skill, tokens_summary)
+	print("location_jac: {}".format(location_jac), file=sys.stderr)
 
 	#Create a new association list of indexes sorted by the product of jac sims
 	combined_jac = []
@@ -100,6 +107,7 @@ def ranked_posting_company(input_location='San Francisco, CA', \
 		if product != 0:
 			combined_jac.append((i,product))
 	combined_jac.sort(key=lambda tup:tup[1], reverse=True)
+	print("combined_jac: {}".format(combined_jac), file=sys.stderr)
 
 	#Create a new ranked list of dictionaries 
 	ranked_list = []
@@ -113,7 +121,7 @@ def ranked_posting_company(input_location='San Francisco, CA', \
 		dic['location'] = postings[index]['location']
 		dic['summary'] = postings[index]['summary']
 		ranked_list.append(dic)
-
+	print("ranked_list: {}".format(ranked_list), file=sys.stderr)
 	return ranked_list
 
 

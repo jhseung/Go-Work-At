@@ -69,9 +69,7 @@ def update_matrix_by_csv(fileName, matrix):
                     cons.append(row[8].rstrip())
                     line_count += 1
                 curr_review = row[7]
-                # print(curr_review)
                 word_list = tokenize_and_stem(curr_review)
-                # print(word_list)
                 for word in word_list:
                     if word in curr_dict.keys():
                         curr_dict[word] += 1
