@@ -12,7 +12,13 @@ def get_input():
     return tokenize_and_stem(raw_input)
 
 def get_company_list(input_skill):
-    
+    """
+    input_skill: String with commas separating skillsets
+
+    returns:
+
+    """
+
     s = defaultdict(list)
     ranked_postings = ranked_posting_company(input_skill=input_skill)
     # print ("Ranked postings: {}".format(ranked_postings), file=sys.stderr)
@@ -39,15 +45,27 @@ def fetch_postings(input_skill='Java, Python', company_quality="nice"):
     # print("Using cosine similarity, recommended companies and score: ")
     for score, company_id in ranked:
         comp = company_list[company_id]
-        if comp in input_companies.keys():
-            print((comp, ": ", score), file=sys.stderr)
+        # if comp in input_companies.keys():
+        #     print((comp, ": ", score), file=sys.stderr)
     
     # print (input_companies, file=sys.stderr)
     ranked.sort(key=lambda x: x[0], reverse=True)
+    # return [
+    #     (company_list[company_id], input_companies[company_list[company_id]])
+    #     for _, company_id in ranked if company_list[company_id] in input_companies.keys()
+    # ]
     return [
-        (company_list[company_id], input_companies[company_list[company_id]])
-        for _, company_id in ranked if company_list[company_id] in input_companies.keys()
-    ]
-
-# if __name__ == '__main__':
-#     main()
+            {
+                'company_name': "Dropbox",
+                'company_score': 0.892,
+                'job_links': [
+                    {
+                        'url': 'https://www.google.com',
+                        'job_title': 'Engineer',
+                        'location': 'SF',
+                        'job_summary': 'A job to code',
+                    }
+                ],
+                'company_top_keywords': ['small', 'high salary']
+            }
+        ]

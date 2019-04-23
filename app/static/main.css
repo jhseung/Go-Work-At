@@ -8,6 +8,79 @@ body {
     margin: auto;
     padding: 100px;
 }
+
+.show {
+    display: block;
+}
+
+.subheader {
+    margin-top: 30px;
+    margin-bottom: 35px;
+    color: #8d9da7;
+    font-weight: 300;
+    font-size: 21px;
+    text-align: center;
+}
+
+.card-header {
+    width: 100%;
+    padding: 0 10px;
+    border-bottom: 1px solid #c9d6de;
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.card {
+    position: relative;
+    border: 1px solid #f0f5f9;
+}
+
+.badge.cat-badge {
+    position: absolute;
+    right: 12px;
+    top: 22px;
+}
+
+.badge {
+    border-radius: 2px;
+    font-weight: bold;
+}
+
+.tags {
+    border: 1px solid #c9d6de;
+    background-color: #EDFFF6;
+    color: #52616a;
+    text-transform: uppercase;
+    font-weight: 500;
+    padding: 1px 7px;
+    border-radius: 2px;
+    font-size: 10px;
+}
+
+.title {
+    font-size: 18px;
+    font-weight: 500;
+    padding-left: 8px;
+    max-width: 80%;
+}
+
+.card-body {
+    position: relative;
+    width: 100%;
+    padding: 15px;
+    color: #52616a;
+}
+
+.card-body-left {
+    width: 15%;
+    margin-right: 10px;
+    display: inline-block;
+}
+
+.card-body-right {
+    max-width: 75%;
+    display: inline-block;
+}
 /*start drop menu style*/
 .multiselect {
 width: 200px;
