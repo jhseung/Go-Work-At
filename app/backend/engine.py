@@ -14,7 +14,13 @@ def get_input():
     return tokenize_and_stem(raw_input)
 
 def get_company_list(input_skill):
-    
+    """
+    input_skill: String with commas separating skillsets
+
+    returns:
+
+    """
+
     s = defaultdict(list)
     ranked_postings = ranked_posting_company(input_skill=input_skill)
     # print ("Ranked postings: {}".format(ranked_postings), file=sys.stderr)
