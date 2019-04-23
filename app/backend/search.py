@@ -1,5 +1,7 @@
 import math
 import numpy as np
+import json, os
+from app import app
 
 def bool_search(query, matrix):
     s = set()
@@ -21,7 +23,7 @@ def bool_search(query, matrix):
 
     return s
 
-def compute_idf(inv_idx, n_docs):
+def get_idf(inv_idx, n_docs):
     """ Compute term IDF values from the inverted index.
     Words that are too frequent or too infrequent get pruned.
 
@@ -46,14 +48,22 @@ def compute_idf(inv_idx, n_docs):
         For each term, the dict contains the idf value.
 
     """
+    path = os.path.join(app.root_path, "./backend/idf.json")
+    if os.path.isfile(path):
+        return json.load(open(path))
+    else:
+        print("IDF Matrix does not exist. Creating...")
+        d = {}
 
-    d = {}
+        for word in inv_idx.keys():
+            idf = math.log(n_docs/(len(inv_idx[word])+1), 2)
+            d[word] = idf
+        
+        json.dump(d, open(path, 'w'))
 
-    for word in inv_idx.keys():
-        idf = math.log(n_docs/(len(inv_idx[word])), 2)
-        d[word] = idf
+        return d
 
-    return d
+    
 
 
 def compute_doc_norms(index, idf, n_docs, companies):

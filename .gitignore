@@ -5,4 +5,5 @@ vagrant/.vagrant
 vagrant/site.retry
 vagrant/a4keypair.pem
 .env
-.vscode
+*.vscode
+*.DS_Store
