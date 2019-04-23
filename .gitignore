@@ -6,4 +6,5 @@ vagrant/site.retry
 vagrant/a4keypair.pem
 .env
 *.vscode
+*/.DS_Store
 *.DS_Store
