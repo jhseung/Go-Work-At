@@ -7,7 +7,7 @@ from .helpers import tokenize_and_stem
 from collections import defaultdict
 from scipy.sparse.linalg import svds
 
-def tfidf_matrix(tf,idf,companies):
+def tfidf_matrix(tf,idf,companies,word_in,k=10):
 	index_to_word = tf.keys()
 	word_to_index = {index_to_word[i]:i for i in range(len(index_to_word))}
 	index_to_companies = companies
@@ -20,11 +20,7 @@ def tfidf_matrix(tf,idf,companies):
     	for comp, freq in tf[word]:
     		mat[word_to_index[word]][index_to_companies[comp]] = freq * idf[word]
 
-
-    return mat
-
-def similar_queries(tfidf, word_in, k=10):
-    words_compressed, _, docs_compressed = svds(tfidf, k=40)
+    words_compressed, _, docs_compressed = svds(mat, k=40)
     docs_compressed = docs_compressed.transpose()
 
     if word_in not in word_to_index: return "Not in vocab."
