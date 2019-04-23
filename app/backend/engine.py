@@ -28,7 +28,6 @@ def get_company_list(input_skill, locations):
         info = {}
         info['link'] = posting['link']
         info['job_title'] = posting['job_title']
-        info['location'] = posting['location']
         info['summary'] = posting['summary']
         s[(posting['company'].lower())].append(info)
     return s
@@ -93,7 +92,6 @@ def fetch_postings(input_skill='Java, Python',
                 job_links = {}
                 job_links['url'] = info['link']
                 job_links['job_title'] = info['job_title']
-                job_links['location'] = info['location']
                 job_links['job_summary'] = info['summary']
                 s['job_links'].append(job_links)
             reviews = []

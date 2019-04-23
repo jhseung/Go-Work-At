@@ -24,7 +24,7 @@ def csv_to_postings(csv_name):
 	for row in reader:
 		if r_count != 0:
 			posting = {'id' : r_count-1, 'title' : row[0], 'link' : row[1], \
-			'company' : row[2], 'location' : row[3], 'summary' : row[4]}
+			'company' : row[2],'summary' : row[3]}
 			postings.append(posting)
 		r_count += 1
 
@@ -91,21 +91,19 @@ def ranked_posting_company(input_location='sanfrancisco',
 	print("postings: {}".format(postings), file=sys.stderr)
 
 	#Tokenize locations and skill sets from the dictionary
-	tokens_location = postings_to_tokens(postings, 'location')
 	tokens_summary = postings_to_tokens(postings, 'summary')
 
 	#Find the jaccard sims of location and skill
-	location_jac = jaccard_sim(input_location, tokens_location)
 	skill_jac = jaccard_sim(input_skill, tokens_summary)
-	print("location_jac: {}".format(location_jac), file=sys.stderr)
+	# print("location_jac: {}".format(location_jac), file=sys.stderr)
 
 	#Create a new association list of indexes sorted by the product of jac sims
 	combined_jac = []
-	assert len(location_jac) == len(skill_jac)	#They should have equal lengths
-	for i in range(len(location_jac)):
-		product = location_jac[i] * skill_jac[i]
-		if product != 0:
-			combined_jac.append((i,product))
+	# # assert len(location_jac) == len(skill_jac)	#They should have equal lengths
+	for i in range(len(skill_jac)):
+		# product =skill_jac[i]
+		if skill_jac[i] != 0:
+			combined_jac.append((i,skill_jac[i]))
 	combined_jac.sort(key=lambda tup:tup[1], reverse=True)
 	print("combined_jac: {}".format(combined_jac), file=sys.stderr)
 
@@ -118,7 +116,6 @@ def ranked_posting_company(input_location='sanfrancisco',
 		dic['link'] = postings[index]['link']
 		dic['company'] = postings[index]['company']
 		dic['job_title'] = postings[index]['title']
-		dic['location'] = postings[index]['location']
 		dic['summary'] = postings[index]['summary']
 		ranked_list.append(dic)
 	print("ranked_list: {}".format(ranked_list), file=sys.stderr)
