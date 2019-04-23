@@ -9,4 +9,4 @@ def tokenize_and_stem(review):
         stemmed = ps.stem(word)
         l.add(stemmed)
 
-    return list(l)
+    return unstemmed

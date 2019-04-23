@@ -91,6 +91,18 @@
                             <div class="select-quality">
                                 <input type="text" name="company_quality">
                             </div>
+                            <div class="samples">
+                                <span>e.g.: </span>
+                                <span class="sample-badge">
+                                    work life balance
+                                </span>
+                                <span class="sample-badge">
+                                    high salary
+                                </span>
+                                <span class="sample-badge">
+                                    startup
+                                </span>
+                            </div>
                         </div>
                     </div>
                     <button type="submit" class="btn btn-info"> Go! </button>
@@ -98,11 +110,37 @@
             </div>
             <form class="form-inline">
             {% if results %}
-                <h4>Go work at</h4>
-                {% for r in results %}  
-                    <br>
-                    <p>{{r}}</p>
+                <div class="subheader show">Recommended companies for you</div>
+
+                {% for info in results %}
+                    <div class='card col s12'>
+                        <div class='card-header'>
+                            <div class='title'>
+                            <p>{{ info.company_name }}</p>
+                            </div>
+                            <div class="badge cat-badge">
+                                {% for descriptor in info.company_top_keywords %}
+                                    <span class="tags">{{ descriptor }}</span>
+                                {% endfor %}
+                            </div>
+                        </div>
+                        <div class='card-body'>
+                            {% for job in info.job_links %}
+                                <div class='card-body-inner'>
+                                    <div class='card-body-left'>
+                                        <p><a href="{{job.url}}">{{job.job_title}}</a></p>
+                                    </div>
+                                    <div class='card-body-right'>
+                                        <p>{{job.job_summary}}</p>
+                                    </div>
+                                </div>
+                            {% endfor %}
+                        </div>
+                    </div>
                 {% endfor %}
+
+            {% else  %}
+                <h4>No results found :(</h4>
             {% endif %}
             </form>
         </div>

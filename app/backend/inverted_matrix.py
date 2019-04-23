@@ -1,4 +1,4 @@
-import os
+import os, sys
 import csv, json
 from collections import defaultdict
 from .helpers import tokenize_and_stem
@@ -24,16 +24,25 @@ def get_comp_number():
 
 def create_inverted_matrix():
     inverted_matrix = defaultdict()
-    path = "./company_reviews"
-    path = os.path.join(app.root_path, "backend/company_reviews")
+    path = os.path.join(app.root_path, "./backend/company_reviews")
     files = os.listdir(path)
-
+    pros_matrix = defaultdict()
+    cons_matrix = defaultdict()
     for file in files:
         if file.endswith(".csv"):
-            inverted_matrix = update_matrix_by_csv(file, inverted_matrix)
+            inverted_matrix, pros, cons = update_matrix_by_csv(file, inverted_matrix)
+            company_name = file[:file.index('_')]
+            pros_matrix[company_name] = pros
+            cons_matrix[company_name] = cons
+
+    path = os.path.join(app.root_path, "./backend/inverted_matrix.json")
 
     # writing
-    json.dump(inverted_matrix, open("inverted_matrix.json", 'w'))
+    json.dump(inverted_matrix, open(path, 'w'))
+    path = os.path.join(app.root_path, "./backend/pros.json")
+    json.dump(pros_matrix, open(path, 'w'))
+    path = os.path.join(app.root_path, "./backend/cons.json")
+    json.dump(cons_matrix, open(path, 'w'))
 
     return inverted_matrix
 
@@ -42,6 +51,8 @@ def update_matrix_by_csv(fileName, matrix):
 
     company_name = fileName[:fileName.index('_')]
     path = os.path.join(app.root_path, "backend/company_reviews")
+    pros = []
+    cons = []
     with open(path + "/" + fileName) as csv_file:
         csv_reader = csv.reader(csv_file, delimiter=',')
         line_count = 0
@@ -53,6 +64,10 @@ def update_matrix_by_csv(fileName, matrix):
                 line_count += 1
                 continue
             else:
+                if line_count < 6:
+                    pros.append(row[7].rstrip())
+                    cons.append(row[8].rstrip())
+                    line_count += 1
                 curr_review = row[7]
                 # print(curr_review)
                 word_list = tokenize_and_stem(curr_review)
@@ -69,28 +84,13 @@ def update_matrix_by_csv(fileName, matrix):
             else:
                 matrix[k] = [(company_name, curr_dict[k])]
 
-    return matrix
+    return matrix, pros, cons
 
 
 def open_inverted_matrix():
-    path = os.path.join(app.root_path, "backend/inverted_matrix.json")
+    path = os.path.join(app.root_path, "./backend/inverted_matrix.json")
     if os.path.isfile(path):
-
-        # check time for each review csv
-        path = "./company_reviews/"
-        path = os.path.join(app.root_path, "backend/company_reviews/")
-        files = os.listdir(path)
-
-        ### GETCTIME / GETMTIME NOT WORKING
-        # print("matrix", os.path.getctime("inverted_matrix.json"))
-        for file in files:
-            # print(file, os.path.getmtime(path + file))
-            if os.path.getmtime(path + file) > os.path.getctime("inverted_matrix.json"):
-                print(file + " has been updated. Updating the inverted matrix...")
-                return create_inverted_matrix()
-            else:
-                print("Reading from existing matrix...")
-                return json.load(open("inverted_matrix.json"))
+        return json.load(open(path))
     else:
         print("Inverted Matrix does not exist. Creating...")
         return create_inverted_matrix()
