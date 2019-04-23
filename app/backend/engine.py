@@ -5,6 +5,8 @@ from .inverted_matrix import *
 from .postings import *
 from .helpers import tokenize_and_stem
 from collections import defaultdict
+from .query import *
+from nltk.stem import PorterStemmer
 
 # takes in a sentence, returns a list of stemmed words
 def get_input():
@@ -53,17 +55,35 @@ def fetch_postings(input_skill='Java, Python',
     doc_norms = compute_doc_norms(inverted_matrix, idf, company_num, company_list)
 
     ranked = index_search(company_quality_input, inverted_matrix, idf, doc_norms, company_list)
+    
+    most_rel_word = tfidf_matrix(inverted_matrix, idf, company_list, company_quality_input[0])[0][0]
+    print(most_rel_word, file=sys.stderr)
+
+    ranked_rel_word = index_search(most_rel_word, inverted_matrix, idf, doc_norms, company_list)
+
+    # print(ranked, file=sys.stderr)
+    # print("Using cosine similarity, recommended companies and score: ")
+    final_ranked = []
     for score, company_id in ranked:
+        for new_score, com_id in ranked_rel_word:
+            if company_id == com_id:
+                final_ranked.append((score + new_score,company_id))
+        
+    final_ranked.sort(key=lambda x: x[0], reverse=True)
+    for score, company_id in final_ranked:
         comp = company_list[company_id]
     print("ranked is: {}".format(ranked), file=sys.stderr)
     ranked.sort(key=lambda x: x[0], reverse=True)
+    if comp in input_companies.keys():
+        print((comp, score), file=sys.stderr)
+
     pros_path = os.path.join(app.root_path, "./backend/pros.json")
     pros = json.load(open(pros_path))
     cons_path = os.path.join(app.root_path, "./backend/cons.json")
     cons = json.load(open(cons_path))
 
     final_list = []
-    for score, company_id in ranked:
+    for score, company_id in final_ranked:
         if company_list[company_id] in input_companies.keys():
             s = defaultdict(list)
             company_name = company_list[company_id]
@@ -94,6 +114,7 @@ def fetch_postings(input_skill='Java, Python',
             s['company_reviews'] = reviews
             final_list.append(s)
     print("final_list is: {}".format(final_list), file=sys.stderr)
+
     return final_list
 
 fetch_postings()

@@ -23,7 +23,7 @@ def bool_search(query, matrix):
 
     return s
 
-def get_idf(inv_idx, n_docs):
+def get_idf(inv_idx, n_docs, max_df_ratio=.99, min_df = 4):
     """ Compute term IDF values from the inverted index.
     Words that are too frequent or too infrequent get pruned.
 
@@ -56,8 +56,10 @@ def get_idf(inv_idx, n_docs):
         d = {}
 
         for word in inv_idx.keys():
-            idf = math.log(n_docs/(len(inv_idx[word])+1), 2)
-            d[word] = idf
+            if len(inv_idx[word]) / n_docs < max_df_ratio and \
+                len(inv_idx[word]) > min_df:
+                idf = math.log((n_docs)/(len(inv_idx[word])+1), 2)
+                d[word] = idf
         
         json.dump(d, open(path, 'w'))
 
