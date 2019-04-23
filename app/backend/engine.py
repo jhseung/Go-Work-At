@@ -46,8 +46,11 @@ def fetch_postings(input_skill='Java, Python', company_quality="nice"):
         if comp in input_companies.keys():
             print((comp, ": ", score), file=sys.stderr)
     
-    # print (input_companies, file=sys.stderr)
     ranked.sort(key=lambda x: x[0], reverse=True)
+    pros_path = os.path.join(app.root_path, "./backend/pros.json")
+    pros = json.load(open(pros_path))
+    cons_path = os.path.join(app.root_path, "./backend/cons.json")
+    cons = json.load(open(cons_path))
 
     final_list = []
     for score, company_id in ranked:
@@ -63,7 +66,25 @@ def fetch_postings(input_skill='Java, Python', company_quality="nice"):
                 job_links['location'] = info['location']
                 job_links['job_summary'] = info['summary']
                 s['job_links'].append(job_links)
+            reviews = []
+            review_len = len(pros[company_name])
+            if review_len < 5:
+                for i in review_len:
+                    review = {}
+                    review['pro'] = pros[company_name][i]
+                    review['con'] = cons[company_name][i]
+                    reviews.append(review)
+            else:
+                for i in range(3):
+                    review = {}
+                    review['pro'] = pros[company_name][i]
+                    review['con'] = cons[company_name][i]
+                    reviews.append(review)
+
+            s['company_reviews'] = reviews
             final_list.append(s)
+    
+    print (final_list[3], file=sys.stderr)
     return final_list
 
 fetch_postings()
