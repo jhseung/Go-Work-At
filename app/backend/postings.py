@@ -71,11 +71,13 @@ def jaccard_sim(location, tokens_list):
 	### CURRENT SIM METHOD (subject to update) : location_jac * skillset_jac
 
 	RETURNS: A list of dictionaries sorted by the sim method
-			 Each dictionary has three keys 'id', 'link', and 'company'
+			 Each dictionary has four keys 'id', 'link', 'company', and 'summary'
 
 	EXAMPLE : {'id' : 14,
 			   'link' : 'https://www.indeed.com/rc/clk?jk=6ff	2af73fff171d',
-			   'company':'Uber'}
+			   'company':'Uber',
+			   'summary': 'This job is...',
+			   }
 """
 def ranked_posting_company(input_location='sanfrancisco',
 						   input_skill='Java, Python'):
@@ -86,9 +88,9 @@ def ranked_posting_company(input_location='sanfrancisco',
 	"""
 	#Convert the given csv name to a postings dictionary
 	csv_name = 'backend/job_postings/' + input_location + '.csv'
-	print(csv_name, file=sys.stderr)
+	# print(csv_name, file=sys.stderr)
 	postings = csv_to_postings(csv_name)
-	print("postings: {}".format(postings), file=sys.stderr)
+	# print("postings: {}".format(postings), file=sys.stderr)
 
 	#Tokenize locations and skill sets from the dictionary
 	tokens_summary = postings_to_tokens(postings, 'summary')
@@ -105,7 +107,7 @@ def ranked_posting_company(input_location='sanfrancisco',
 		if skill_jac[i] != 0:
 			combined_jac.append((i,skill_jac[i]))
 	combined_jac.sort(key=lambda tup:tup[1], reverse=True)
-	print("combined_jac: {}".format(combined_jac), file=sys.stderr)
+	# print("combined_jac: {}".format(combined_jac), file=sys.stderr)
 
 	#Create a new ranked list of dictionaries 
 	ranked_list = []
@@ -118,7 +120,7 @@ def ranked_posting_company(input_location='sanfrancisco',
 		dic['job_title'] = postings[index]['title']
 		dic['summary'] = postings[index]['summary']
 		ranked_list.append(dic)
-	print("ranked_list: {}".format(ranked_list), file=sys.stderr)
+	# print("ranked_list: {}".format(ranked_list), file=sys.stderr)
 	return ranked_list
 
 
