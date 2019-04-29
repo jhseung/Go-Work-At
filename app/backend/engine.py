@@ -32,8 +32,8 @@ def get_company_list(input_skill, locations):
         s[(posting['company'].lower())].append(info)
     return s
 
-def fetch_postings(input_skill='Java, Python', 
-                   company_quality="nice", 
+def fetch_postings(input_skill='Python', 
+                   company_quality="startup", 
                    locations="sanfrancisco"):
     """
     args: 
@@ -55,26 +55,26 @@ def fetch_postings(input_skill='Java, Python',
 
     ranked = index_search(company_quality_input, inverted_matrix, idf, doc_norms, company_list)
     
-    most_rel_word = tfidf_matrix(inverted_matrix, idf, company_list, company_quality_input[0])[0][0]
-    print(most_rel_word, file=sys.stderr)
-
-    ranked_rel_word = index_search(most_rel_word, inverted_matrix, idf, doc_norms, company_list)
+    most_rel_words = [word[0] for word in tfidf_matrix(inverted_matrix, idf, company_list, company_quality_input)]
+    print(most_rel_words, file=sys.stderr)
 
     # print(ranked, file=sys.stderr)
     # print("Using cosine similarity, recommended companies and score: ")
     final_ranked = []
-    for score, company_id in ranked:
-        for new_score, com_id in ranked_rel_word:
-            if company_id == com_id:
-                final_ranked.append((score + new_score,company_id))
+    for rel_word in most_rel_words:
+        ranked_rel_word = index_search(rel_word, inverted_matrix, idf, doc_norms, company_list)
+        for score, company_id in ranked:
+            for new_score, com_id in ranked_rel_word:
+                if company_id == com_id:
+                    final_ranked.append((score + 0.2*new_score,company_id))
         
     final_ranked.sort(key=lambda x: x[0], reverse=True)
     for score, company_id in final_ranked:
         comp = company_list[company_id]
-    print("ranked is: {}".format(ranked), file=sys.stderr)
+    # print("ranked is: {}".format(ranked), file=sys.stderr)
     ranked.sort(key=lambda x: x[0], reverse=True)
-    if comp in input_companies.keys():
-        print((comp, score), file=sys.stderr)
+    # if comp in input_companies.keys():
+    #     print((comp, score), file=sys.stderr)
 
     pros_path = os.path.join(app.root_path, "./backend/pros.json")
     pros = json.load(open(pros_path))
@@ -112,6 +112,7 @@ def fetch_postings(input_skill='Java, Python',
             s['company_reviews'] = reviews
             final_list.append(s)
     print("final_list is: {}".format(final_list), file=sys.stderr)
+    # print(skill_tokens(), file=sys.stderr)
 
     return final_list
 
