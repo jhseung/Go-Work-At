@@ -6,6 +6,7 @@ from .postings import *
 from .helpers import tokenize_and_stem
 from collections import defaultdict
 from .query import *
+from .keyword import *
 from nltk.stem import PorterStemmer
 
 # takes in a sentence, returns a list of stemmed words
@@ -44,7 +45,7 @@ def fetch_postings(input_skill='Python',
     # processed_input = get_input()
     company_quality_input = tokenize_and_stem(company_quality)
     input_companies = get_company_list(input_skill, locations)
-    print("input_companies is: {}".format(input_companies), file=sys.stderr)
+    # print("input_companies is: {}".format(input_companies), file=sys.stderr)
     # json.dump(list(input_companies), open("company_list.json", 'w'))
     inverted_matrix = open_inverted_matrix()
     company_num, company_list = get_comp_number()
@@ -56,17 +57,20 @@ def fetch_postings(input_skill='Python',
     ranked = index_search(company_quality_input, inverted_matrix, idf, doc_norms, company_list)
     
     most_rel_words = [word[0] for word in tfidf_matrix(inverted_matrix, idf, company_list, company_quality_input)]
-    print(most_rel_words, file=sys.stderr)
+    # print(most_rel_words, file=sys.stderr)
 
     # print(ranked, file=sys.stderr)
     # print("Using cosine similarity, recommended companies and score: ")
     final_ranked = []
     for rel_word in most_rel_words:
         ranked_rel_word = index_search(rel_word, inverted_matrix, idf, doc_norms, company_list)
+        rel_ranked = defaultdict(int)
+        for new_score, com_id in ranked_rel_word:
+                rel_ranked[com_id] += new_score
         for score, company_id in ranked:
-            for new_score, com_id in ranked_rel_word:
+            for new_score, com_id in rel_ranked:
                 if company_id == com_id:
-                    final_ranked.append((score + 0.2*new_score,company_id))
+                    final_ranked.append((score + 0.1*new_score,company_id))
         
     final_ranked.sort(key=lambda x: x[0], reverse=True)
     for score, company_id in final_ranked:
@@ -111,9 +115,9 @@ def fetch_postings(input_skill='Python',
 
             s['company_reviews'] = reviews
             final_list.append(s)
-    print("final_list is: {}".format(final_list), file=sys.stderr)
+    # print("final_list is: {}".format(final_list), file=sys.stderr)
     # print(skill_tokens(), file=sys.stderr)
-
+    # print(co_mat(['accenture','adobe']), file=sys.stderr)
     return final_list
 
 fetch_postings()
