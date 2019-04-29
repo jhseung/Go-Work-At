@@ -53,7 +53,7 @@ def update_matrix_by_csv(fileName, matrix):
     path = os.path.join(app.root_path, "backend/company_reviews")
     pros = []
     cons = []
-    with open(path + "/" + fileName) as csv_file:
+    with open(path + "/" + fileName,encoding='utf-8') as csv_file:
         csv_reader = csv.reader(csv_file, delimiter=',')
         line_count = 0
 
