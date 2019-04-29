@@ -7,6 +7,10 @@
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-beta/css/materialize.min.css">
         <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-beta/js/materialize.min.js"></script>
+        <link href="css/prism.css" rel="stylesheet">
+        <link href="css/ghpages-materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
+        <link href="https://fonts.googleapis.com/css?family=Inconsolata" rel="stylesheet" type="text/css">
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
    
         
     </head>
@@ -19,43 +23,48 @@
                             <div class="form-text inline">
                                 My skills are...
                             </div>
-                            <div class="row">
-                                <div class="col s12">
-                                  <div class="row">
-                                    <div class="input-field col s12">
-                                      <input type="text" id="autocomplete-input" class="autocomplete" name="skillset">
-                                      <label for="autocomplete-input">Enter Technial Skills Here</label>
-                                      <div class="samples">
-                                        <span>e.g.: </span>
-                                        <span class="sample-badge">
-                                            Java,
-                                        </span>
-                                        <span class="sample-badge">
-                                            Python,
-                                        </span>
-                                        <span class="sample-badge">
-                                            Javascript
-                                        </span>
-                                    </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                              <script>
+                            <div class="chips chips-autocomplete" name= "skillset">
+                            </div>          
+                            <script>
                               document.addEventListener('DOMContentLoaded', function() {
-                                var elems = document.querySelectorAll('.autocomplete');
-                                var instances = M.Autocomplete.init(elems, options);
+                                  var elems = document.querySelectorAll('.chips');
+                                  var instances = M.Chips.init(elems, options);
                               });
-                              $(document).ready(function(){
-                                $('input.autocomplete').autocomplete({
+                              $('.chips').chips();
+                              $('.chips-autocomplete').chips({
+                                  autocompleteOptions: {
                                   data: {
-                                    "Java": null,
-                                    "Microsoft": null,
-                                    "Google": 'https://placehold.it/250x250'
+                                      'Java': null,
+                                      'Ocaml': null,
+                                      'AI': null,
+                                      'Git': null,
+                                      'Javascript': null,
+                                      'NLP': null,
+                                      'Python': null,
+                                      'Microsoft': null,
+                                      'SQL': null,
+                                      'CSS': null,
+                                      'Ruby': null,
+                                      'Django': null,
+                                      'Flask': null
                                   },
-                                });
+                                  limit: Infinity,
+                                  minLength: 1
+                                  }
                               });
-                              </script>
+                            </script>
+                                    <div class="samples">
+                                      <span>e.g.: </span>
+                                      <span class="sample-badge">
+                                      Java
+                                      </span>
+                                      <span class="sample-badge">
+                                      Python
+                                      </span>
+                                      <span class="sample-badge">
+                                          Javascript
+                                      </span>
+                                  </div>
                         <div class="middle">
                             <div class="text">
                                 In...
