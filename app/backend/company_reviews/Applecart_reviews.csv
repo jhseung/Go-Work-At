@@ -1,0 +1,48 @@
+date,employee_title,location,employee_status,review_title,years_at_company,helpful,pros,cons,advice_to_mgmt,rating_overall,rating_balance,rating_culture,rating_career,rating_comp,rating_mgmt
+2019-02-01, Data Analyst,"New York, NY",Current Employee ,"Friendly environment, good culture and exciting work","Friendly environment, good culture and exciting work",0,Everybody here is smart and friendly. Applecart is a young and energetic company.,Growing pains of a startup but nothing major.,,5.0,5.0,5.0,5.0,4.0,4.0
+2018-08-30, Data Engineer Intern,"New York, NY",Former Intern ,Top Notch Work Experience,Top Notch Work Experience,0,"The single best thing at Applecart is the people, cheesy as that sounds. People are incredibly smart, really driven about what they do, and are very supportive. The tech work is interesting and definitely challenging. The mission on the political end is also very rewarding.","Because it's a young company, some of the internal processes are still in formation. That means that there is a lot work to do, but this is also what makes it exciting",,5.0,4.0,5.0,4.0,4.0,4.0
+2018-06-08,,"New York, NY",Current Employee ,"A young, fast-growing company","A young, fast-growing company",0,"- Given the size and growth of the company, you're given a high degree of ownership and autonomy.
+- The political side of the company provides a strong sense of mission and accomplishment that is not present in most adtech companies.
+- The work environment and culture is top notch. Everyone is friendly, hard-working and helpful.","- The engineering talent leans toward the junior end of the spectrum. Currently hiring more senior members but the current ratio means that some degree of process or architecture can be pretty green.
+- The current office is overflowing. Limited call and meeting space. Moving offices in July so this should be resolved shortly.",Great job,5.0,5.0,5.0,5.0,5.0,5.0
+2018-04-17, Data Science Intern,"New York, NY",Current Intern ,Exciting opportunities at fast-growing startup,Exciting opportunities at fast-growing startup,0,"Echoing previous reviews: a lot of very brilliant people working on open-ended problems. The company is growing rapidly but hasn't lost the feeling of being a united team. I've never felt like I was stagnating in terms of professional or personal growth, and because of the rapid growth, there's a ton of room for owning and leading different projects that really matter.","There is a lot to be done. You really have to exercise and balance that decision-making skill of what's best to do overall versus what's most important right now. The growth has been a bit of a pain point, but I wouldn't consider that a con.","The growing pains have been a bit more noticeable, but I'm glad to see that they've been addressed in a big way. Otherwise, I think team/company management is doing great!",5.0,5.0,5.0,5.0,5.0,5.0
+2017-08-07, Anonymous Intern,,Former Intern ,New Markets Intern Review,New Markets Intern Review,0,"1. Amazing company culture. Everyone is intelligent, innovative, and will help you whenever they can.
+
+2. Company pays for outings such as baseball games, parties, and celebrations.
+
+3. The intern program is structured and projects are constant.
+
+4. Team leaders and founders are superb.","1. Sometimes you will have to put in hours after work.
+
+2. This isn't necessarily a con but you are given a lot of freedom to complete your projects. Sometimes you will want more direction but will be forced to lean on your expertise.",Keep up the hard work!,5.0,5.0,5.0,5.0,4.0,5.0
+2017-06-23,,,Current Employee ,Really Smart and Passionate Culture,Really Smart and Passionate Culture,0,"A lot of very brilliant, interesting people. Company is fast growing.",Early stage startups can be very hectic.,,5.0,5.0,5.0,5.0,5.0,5.0
+2017-01-31, Product Delivery Analyst,"New York, NY",Current Employee ,Orange you glad you work at Applecart?,Orange you glad you work at Applecart?,0,"- Amazing coworkers
+- Great office location
+- Exciting and data focused work
+- Almost everyday is a learning experience
+- Relaxed yet engaging work environment
+- The company is expanding and transitioning to nonpolitical work","- Quick deadlines sometimes require some longer hours, but the work is always worth it",,5.0,3.0,5.0,5.0,3.0,5.0
+2017-01-05,,,Current Employee ,Impressive Data Startup in the Political Space,Impressive Data Startup in the Political Space,0,"* Exciting clients and large product ambitions
+* Data scientist and engineer playground
+* Highly skilled coworkers
+* Rigorous interview process
+* Responsive and quick acting leadership & founders
+* Direct impact on meaningful real world outcomes","It’s an honest startup that comes with the usual drawbacks like longer hours, quick change and high-stakes work.",,5.0,4.0,4.0,5.0,5.0,5.0
+2016-12-09,,"New York, NY",Current Employee ,"Innovative, Fast Growing Start-Up","Innovative, Fast Growing Start-Up",0,"Applecart is a highly innovative start-up that is constantly finding new ways to grow and new markets to enter. The company got off the ground in 2014 and is already a profitable, bootstrapped start-up. We've found ways to embed experiments into our technology and products to make sure what we're doing is working. The company culture is well-balanced - people work hard and work long hours when they need to, but the office environment is open and relaxed with (lots of) coffee and snacks.
+
+Some pros:
+--Access to founders and team leaders. Leadership is always available and is responsive to new ideas, any problems, and concerns.
+--Ability to take on lots of responsibility quickly.
+--Freedom to find projects that you're most interested in.
+--Flexibility and little bureaucracy.
+--Interesting and exciting work with real-world impact
+--Incredibly scalable product, which gives employees the feeling that they can build something from the ground up.
+--Encouragement to learn new skills
+--Collaborative environment within and across teams
+--Incredibly smart and hard-working employees that genuinely want to help each other and share insights","Not everyone will be comfortable or thrive in a start-up environment. There isn't a ton of structure, which can be great in terms of getting things done efficiently and building new products from the ground up, but it can be difficult for people who might want more direction. Self-starters and people who are able to prioritize for themselves and start new projects from the ground up will work well here - but people who work better with more consistency/constant oversight may have a hard time.",Stay ahead of growing-pains and make sure the current products are solid before expanding. Keep listening to employees and adjust when we need to. Keep rewarding hard-working employees. Stay innovative but try not to reinvent the wheel - some best practices are best practices for a reason!,5.0,4.0,5.0,5.0,5.0,5.0
+2016-08-16,,"New York, NY",Current Employee ,Cutting-Edge Political Startup,Cutting-Edge Political Startup,0,"- Small, nimble organization on the rise
+- In constant development of a highly differentiated offering
+- Can create your own future at the firm
+- Is a profitable business despite being a start-up","- Startups aren't for everyone -- be prepared for lots of responsibility, with a lot to ""figure out"" as you go. Those who crave excessive structure may struggle.","Keep scaling the business, building out and rewarding the team, and pivoting into new capabilities for revenue generation during off-cycle periods",5.0,3.0,4.0,5.0,3.0,4.0
+2016-08-16, Lead Analyst,"New York, NY",Former Employee ,Applecart is great!,Applecart is great!,0,"The company is working on some particularly innovative projects in some particularly outdated industries. As someone who enjoys creating new systems, thinking creatively and being around a very smart group of people, I couldn't have asked for a better experience at Applecart.","I wish that my desk had a drawer so I could stash candy and paperclips in it instead of having to keep them on top of my desk. Also the staff is always growing, which is great for the company but can lead to a shifting culture/work environment.","Keep up the good work, and keep looking for great people who want to be a part of something new and exciting.",5.0,5.0,5.0,5.0,5.0,5.0
+2016-06-14, Founding Partner,"New York, NY",Current Employee ,Founding Partner,Founding Partner,0,"Co-founded Applecart as a senior in college with 2 partners. We have grown the company to over 20 employees, based in Manhattan NYC. We are both a data science and political consultancy firm.","Start-ups teach you so much. However, you're not always prepared for what this world is trying to teach you. Have definitely made mistakes along the way. Eager to learn and be receptive to any former or current applicant to our company.",Be attentive and receptive to advice from all applicants. Respond in a timely manner with as much honesty and clarity as our industry allows.,5.0,5.0,5.0,5.0,5.0,5.0

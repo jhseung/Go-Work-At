@@ -1,0 +1,585 @@
+date,employee_title,location,employee_status,review_title,years_at_company,helpful,pros,cons,advice_to_mgmt,rating_overall,rating_balance,rating_culture,rating_career,rating_comp,rating_mgmt
+2018-11-05,,,Current Employee ,Amazing Company,Amazing Company,0,"great people, great management, love what i do",you need to be reachable and there is some weekend work. diversity is non-existent. everyone here is male and either indian or white.,"we need help to do the work, not more upper management. how about spending some of that money on sales or help to get the work done.",5.0,3.0,3.0,4.0,4.0,3.0
+2019-02-09, Senior Support Engineer,"Richardson, TX",Current Employee ,Startup mode work,Startup mode work,0,"Start up mode work, new technologies, lot of challenges","Lack of standard procedures and enforcement leads issues to re-occur.
+Lack of defined ownerships leads to chaos sometime.",,3.0,1.0,2.0,4.0,4.0,3.0
+2019-01-25, Senior Manager,"Richardson, TX",Current Employee ,Senior Manager at Mavenir,Senior Manager at Mavenir,0,"Flexible hours, work from home when needed","Little training, Long hours, little bonus/raise",Over worked and lack of communication,4.0,1.0,3.0,3.0,3.0,3.0
+2018-10-07,,"Richardson, TX",Current Employee ,Manager,Manager,0,"Agile environment, learning culture, young teams","Hero culture, less of processes",Focus on improving process orientation,3.0,3.0,2.0,3.0,3.0,2.0
+2018-07-28, Product Management,"Dallas, TX",Current Employee ,best people are leaving,best people are leaving,0,Mavenir makes good powerpoint slideware,"Best people are leaving. CEO is a bully and management teams are copying this behavior. Products are not existing. Indian development teams are not under control and delivering bad quality. IMS deployments are replaced by competition, Traditional MVAS business is neglected and put in maintenace mode and 5G and RCS are not delivering successes",go on retirement,1.0,1.0,1.0,1.0,3.0,1.0
+2018-07-06,,"Richardson, TX",Current Employee ,Not organized company,Not organized company,0,"Flexible work time, good work life balance","Not organized company, no employee relation activities",,2.0,3.0,1.0,3.0,2.0,2.0
+2018-06-21, Intern,"Richardson, TX",Current Employee ,Intern,Intern,0,Management is really nice as far as i have seen,None that I have known,,5.0,,,,,
+2018-07-09,,,Current Employee ,Administrative Assistant,Administrative Assistant,0,"There are no ""Pro's"" working here","Company is fraudulent!There are no ""real"" Managers/Employees. Feels like a SCAM. Not a good or helpful company.","Hire competent people instead of being so ""Confused"" about the things that are going wrong in the company.",1.0,1.0,1.0,1.0,1.0,1.0
+2018-03-06,,,Current Employee ,Changing Work Environment,Changing Work Environment,0,Involved in wide array of technologies,future uncertain for some groups,,4.0,4.0,4.0,4.0,4.0,4.0
+2018-02-27,,"Richardson, TX",Former Employee ,Buy out blues,Buy out blues,0,Great people at the Richardson Tx location.,Buyer of Mavenir never seemed to be in touch with division.,,2.0,2.0,3.0,1.0,2.0,2.0
+2017-12-20,,,Current Employee ,Lack of focus,Lack of focus,0,"Short term projects execution is somewhat ok. However, there are frequent changes in directions that creates organizational fatigue and employee burnout.",Long term strategy and execution lack focus and commitment. The detrimental effects of the lack of vision can significantly alter the trajectory of the company.,Be cognizant of the long term vision and commit appropriate resources,2.0,2.0,1.0,2.0,2.0,2.0
+2017-10-13,,,Former Employee ,Senior Systems Engineer,Senior Systems Engineer,0,"Different product line, lots of opportunity.","Not the best paying company, I think.",Should look into the employees' compensation a little more.,3.0,,,,,
+2017-10-02, Senior Director,"Boston, MA",Former Employee ,Service,Service,0,Fast paced always and challenging,None that i can think of ?,none,4.0,3.0,3.0,4.0,4.0,3.0
+2017-09-27, Delivery Lead,"Seattle, WA",Current Employee ,Tech lead,Tech lead,0,opportunity to work on latest telecom technology,Random work and need to improve planning,,5.0,,,,,
+2017-10-06,,,Former Employee ,No Strategy Poor Mgmt,No Strategy Poor Mgmt,0,has some skin in the game for 5G,Poor communication by executives. No clear product strategy. Keep changing their minds on products all the time. Banking too much on 5G which may not pan out since its not clear if they actually have the oomph to deliver,Value your employees. Communicate to them.,2.0,1.0,1.0,2.0,2.0,1.0
+2017-09-20,,,Former Employee ,Director,Director,0,Aggressive and innovative. Focusing on network core for the next generation of the Mobile networks.,Terrible work life balance. Strategy changes often.,Focus on specific areas of strength.,2.0,1.0,2.0,2.0,2.0,3.0
+2017-10-01, Manager ,"Dallas, TX",Current Employee ,Head of anything / if I say where I am from I will be fired,Head of anything / if I say where I am from I will be fired,0,Nothing but 1990s mgt. did anyone see the latest marketing or LinkedIn campaign. Amateur hour.. spelling mistakes .. totally useless. I can believe any reasonable company would spend money on these idiots.,"Useless , incompetent Management - even worst than tartavell. He was not good. I really hope we lose the contract with our Big US client. We are totally useless with only top mgt thinking they are brilliant",Give up you losers,1.0,1.0,1.0,1.0,1.0,1.0
+2017-06-20,,,Current Employee ,Support engineer,Support engineer,0,The people. It's a very pleasant and supportive work environment full of people more than happy to share their knowledge.,The hours. My position is 24/7 support over 3 shifts daily and can wear on you.,They seem detached from daily operation and have been letting people go over the last year due to mergers and the like. Including some experts of certain aspects of operation.,3.0,,,,,
+2017-06-21, Team Leader,"Wakefield, MA",Current Employee ,Lack of direction,Lack of direction,0,Some of the newer products have potential. Recently acquired companies with experienced and knowledgeable employees. Employees who are laid off are given ample notice.,"Constant layoffs, no communicated direction, irrational demands from upper management, low morale. Upper management has created a toxic environment by having random layoffs and not communicating with the rank-and-file employees.","Communicate better with employees, provide direction and guidance, and help create pride in the brand. Start to undo the toxic environment you created.",2.0,2.0,2.0,1.0,2.0,1.0
+2017-03-28,,,Current Employee ,Good fast paced work,Good fast paced work,0,"1) Pays well
+2) Good performers are appreciated and taken care.","1) Work life balance is not great, depending on the project.
+2) Still stuck in telecom vendor market","Change to newer things, explore to newer options other than telecom.",4.0,,,,,
+2017-03-16, Operations,"Kansas City, KS",Current Employee ,Average,Average,0,"100% work from home
+opportunities to learn and contribute","too many mergers and acquisitions
+integrity issues with middle level management. actions does not reflect what is communicated",respect and value all your employees,3.0,2.0,2.0,1.0,2.0,2.0
+2016-11-14,,"Richardson, TX",Former Employee ,Analyst,Analyst,0,"Start-up culture, minimal bureaucracy, lots of opportunities to work directly with upper management.","High value on engineering, less value on marketing. HR does not pay a fair wage, seeks to pay lowest on scale.",Regular town hall meetings with all employees would be helpful.,4.0,3.0,3.0,4.0,2.0,4.0
+2016-04-01,,,Former Employee ,Operation Engineer,Operation Engineer,0,Chance of doing some real work.,Long hours. Hard demand. Harsh management.,,2.0,1.0,1.0,2.0,3.0,1.0
+2016-03-17,,"Mesquite, TX",Former Employee ,Accounting,Accounting,0,"before it was Mitel, working there was wonderful, they provided free snacks, sodas and flexible work schedule. Now that it's Mitel, the accounting dept moved to AZ or India.",They were purchased by Mitel.,,4.0,5.0,3.0,3.0,5.0,3.0
+2016-03-11,,,Former Employee ,Ok,Ok,0,Flexible schedules for some employees.,Management does not always seem to value their employees.,,2.0,2.0,3.0,2.0,3.0,2.0
+2015-10-02, Software Engineer,"India, TX",Former Employee ,review,review,0,"Lots of learning opportunities, there is chance to work in different phases of software development life cycle. Salary is good","Lots of issues. Policy varies person to person, or can say no policy at all. In-efficient and in-experienced people sitting in project management.",TOP management should intervene and streamline the process,3.0,3.0,1.0,3.0,3.0,1.0
+2015-10-19,,"Olympia, WA",Former Employee ,BEWARE,BEWARE,0,"Strategically positioned to be VERY competitive in their industry and be very disruptive to their major competitors (Ericsson, ALU, Nokia Siemens, etc).","Have serious issues with basic business ethics. They are grossly understaffed to deliver to their customer commitments and focus more on selling new business with little regard to delivering on business already under contract. They treat their employees as chattel. Project Managers in particular are used as ""expendable crewmen"" who are there only to take all of the incoming flack from the customer while management ducks behind them and acts surprised at the issues - even though they are repeated informed. PM's are routinely rotated in and out (as in laid off) as scape goats. Very Unprofessional organization. Expected the Mitel acquisition to help - but as of Fall 2015, it has not.",To Mitel management - you have serious issues in Richardson that need to be addressed. It is only a matter of time before the house of cards collapses.,1.0,1.0,1.0,1.0,3.0,1.0
+2015-09-16,,"Dallas, TX",Former Employee ,Mitel shrinking Mavenir,Mitel shrinking Mavenir,0,"If you're on the product side (sales/service) and you keep your head down, you're probably ok.",Anyone else in business support or G&A will be redundant and jobs will move to Mitel corporate in Canada. It may take a long time for Mitel to understand the business and address customers making the road there very long and hard for those having to deal with the customers.,"Clean house at the top of sales and services, bring in real expertise with experience so you get the truth and can address it directly.",2.0,1.0,1.0,1.0,1.0,1.0
+2015-08-17, Senior R&D Engineer,,Former Employee ,S/W Developer,S/W Developer,0,"You get to work on all phases of software development.
+Pay is good.
+Lot of free stuff","There is no formal training.
+The company lacks direction",Make it more systematic,3.0,3.0,3.0,3.0,4.0,3.0
+2015-07-23, Systems Test and Operations Engineer,"Richardson, TX",Current Employee ,system test & operation engineer,system test & operation engineer,0,"good work environment to work , helping people",we can work as ateam,,5.0,5.0,5.0,5.0,5.0,5.0
+2015-08-05,,,Former Employee ,OK Place to work,OK Place to work,0,"Good customers, cutting edge products",No clear directions and how to execute,Help guide your employees,2.0,2.0,3.0,2.0,3.0,2.0
+2015-07-06,,,Current Employee ,Manager,Manager,0,Get to work on cutting edge technology,Extended work hours. Lack of planning and strategy.,,4.0,,,,,
+2015-08-06,,,Former Employee ,Moving to India,Moving to India,0,good people to work with. business growing. potential acquisition,"jobs moving to India, lack of upward mobility, potential acquisition",,1.0,2.0,2.0,1.0,2.0,1.0
+2015-08-04,,,Former Employee ,Send all the jobs to Bangalore,Send all the jobs to Bangalore,0,I really can't think of anything to say good about Mavenir.,They have no qualms about sending all the jobs to Bangalore even at the expense of not meeting deadlines. They don't care about their customers and any contractual obligations they have to them.,"I understand the desire to save money, but at least take your time outsourcing and keep more knowledgeable staff here so you can meet your obligations.",1.0,3.0,1.0,1.0,2.0,1.0
+2015-07-10, Senior Test Engineer,"Laurel Springs, Camden, NJ",Current Employee ,I don't want to vent.,I don't want to vent.,0,"The Mt. Laurel, NJ group are a hard working, dedicated and professional group that believes in producing a quality product.","The company is moving our jobs to India, which I and many other feel is a very bad move.",,2.0,,,,,
+2015-07-24,,,Current Employee ,"Great place to work if you live in India (maybe, I don't live in India)","Great place to work if you live in India (maybe, I don't live in India)",0,none that I can determine,corporate greed is driving the engineering jobs to India.,Good luck. Your're going to need a lot of it.,1.0,1.0,1.0,,,
+2015-07-20,,"New York, NY",Current Employee ,Engineer,Engineer,0,"Have a job, for now.",Outsourcing our jobs to India.,"Keep the people that made this product line profitable, something your other product lines are not.",1.0,1.0,1.0,1.0,1.0,1.0
+2015-06-04,,"Dallas, TX",Current Employee ,Senior Software Engineer.,Senior Software Engineer.,0,"- Fast paced.
+-Soda and snacks","Less tools, less process, less structure and so much less time to complete, too many tasks to complete.","Better tools, better structure is needed.",3.0,1.0,3.0,2.0,3.0,2.0
+2015-05-19,,"Richardson, TX",Former Employee ,VoLTE business,VoLTE business,0,Fast pace environment to learn.,Things changed all the time.,N/A,3.0,2.0,1.0,2.0,3.0,3.0
+2015-06-15,,,Current Employee ,ok,ok,0,It's been bought and someone made tons of money.,"Busy all the time, no personal life",,1.0,1.0,1.0,1.0,1.0,1.0
+2015-05-07,,,Current Employee ,Digital Marketing,Digital Marketing,0,They offer and follow through with very flexable schedule,"A lot of ""firedrills"", C-suite lack team management skills",,4.0,5.0,3.0,5.0,3.0,4.0
+2015-04-03,,,Former Employee ,"Watch out for the ""tone at the top.","Watch out for the ""tone at the top.",0,Flexible working hours and free snacks/drinks.,Too much pressure from the top to achieve results...giving rise to the potential for mistakes and/or errors of omission and improper financial reporting. Also a lack of professionalism in key functional areas.,Be careful how far you push your employees to achieve desired results. Your implicit directions may be misconstrued.,2.0,4.0,1.0,3.0,3.0,2.0
+2014-10-27, Director of Business Development,"Richardson, TX",Current Employee ,Exciting Technology and Growth,Exciting Technology and Growth,0,"Innovation and technology - great products that make a whole lot of sense to describe to customers. Everything moves fast, but people are quick to pitch in to get it done. Management has passion to succeed.",Communication could be better to the staff.,Stay focused on customers and solving problems. Make sure employees both at HQ and remote have good communication and sense of pride in the company.,4.0,4.0,3.0,3.0,4.0,4.0
+2014-10-04, Senior Engineer R&D,"Richardson, TX",Former Employee ,"Great startup:product,team and the management.","Great startup:product,team and the management.",0,"Great startup:product,team and the management.","Nope,Great startup:product,team and the management.",so far it's good.,5.0,5.0,5.0,5.0,5.0,5.0
+2014-06-01, Ops Manager,"Richardson, TX",Current Employee ,Very excited to be part of Mavenir,Very excited to be part of Mavenir,0,"Cutting edge technology, you get to work on VoLTE, RCS and many other cutting edge technologies. The folks working here are razor sharp, no room for average brains or work ethic. Growth is unlimited as long as you prove your worth.","No 401match. Only 3 weeks of vacation. Sometimes its hard to keep work life balance but as long as you enjoy it, you will be happy.",Start making money. Sell only when profitable.,5.0,2.0,3.0,5.0,5.0,3.0
+2014-05-08,,"Richardson, TX",Current Employee ,Good Company to work for,Good Company to work for,0,"work/life balance, good people to work with","no 401k matching, no bonusses",Please do Staff Quarterly Meeting to update the staff on what is going on with the company,4.0,4.0,4.0,3.0,4.0,4.0
+2014-02-21, Technical Manager,"Richardson, TX",Current Employee ,Technical Manager,Technical Manager,0,"Cutting edge technology, the best industry brains work at Mavenir.","Too much work, can't hire fast enough.",Make more profitable sales,5.0,3.0,5.0,5.0,5.0,4.0
+2014-02-05,,"Richardson, TX",Current Employee ,Tremendous learning opportunities,Tremendous learning opportunities,0,"Excellent Work Life balance, flexible timings","Not much opportunity to grow, management is unsure about career paths for the employees",,3.0,4.0,4.0,1.0,2.0,4.0
+2013-10-16, Sales,"Richardson, TX",Former Employee ,"Great Talent Wasted by CEO and his ""insiders","Great Talent Wasted by CEO and his ""insiders",0,Cutting edge technology; bright people; good customers; window of opportunity in the marketplace to be successful.,"Where do I start? CEO should have left a LONG time ago. He's better for a start-up -- not for sustaining a business. He's a dictator -- nothing get's done without him and he's flaky and emotional -- no employee knows the future or direction of the company because the CEO changes like the wind, and that 'wind' can blow really hard!! Small group of insiders that get to do what they want and treat people poorly with no ramifications. Pay is poor, and company financial position is such that none of the employees will benefit from stock when company is acquired or they go public (what a joke!!). External customer satisfaction is very low due to lack of investment in customer care and abandonment of older products.","Get rid of the CEO, add structure to the executive suite, get rid of the head of marketing and business development, hire a real head of global sales, and beef up customer care.",1.0,3.0,2.0,1.0,2.0,1.0
+2013-04-05,,"Richardson, TX",Current Employee ,"Innovative company, growing rapidly","Innovative company, growing rapidly",0,"Growing very quickly, which allows for a lot of finance activities. There is a lot of advancement potential for employees. As a newly certified CPA, I have been able to learn a lot about the corporate environment and put my education to good use.","Due to the fact that the company is small, there isn't a lot of formalize processes and procedures in place, especially regarding career advancement.",,5.0,5.0,4.0,5.0,2.0,4.0
+2013-04-01,,"Richardson, TX",Current Employee ,Unethical and Poor Management,Unethical and Poor Management,0,Leading technology in the wireless telecom industry; flexibility to work from home if necessary,Poor Management; Poor work/life balance; Long hours with little to no appreciation from management. Some practices are pretty questionable and borderline unethical...will do things just to make the bottom line look good.,Do the right thing...not just want YOU want to do.,1.0,1.0,1.0,1.0,3.0,1.0
+2013-02-18,,,Former Employee ,Terrible place to work. Poor work culture/ethics.,Terrible place to work. Poor work culture/ethics.,0,"Good market opportunity, fast growing space.","Poor culture promoted by exec team. Lack of structure, strategy, operating plan.",,1.0,2.0,1.0,1.0,3.0,1.0
+2012-08-11, Dev Engineer,"Dallas, TX",Current Employee ,Dev Reviews of Engineer,Dev Reviews of Engineer,0,teamwork technologies protocols projects culture,"work and life balance, management",more team building activities,3.0,1.0,3.0,2.0,3.0,2.0
+2012-02-24,,"Dallas, TX",Current Employee ,great place to work,great place to work,0,"flexibility, management and great place to work","consistent traveling, and mavenir is not a mature company",management is great at Mavenir,3.0,3.0,4.0,4.0,3.0,
+2011-12-27, Sales,"Richardson, TX",Former Employee ,fun but hard to make money,fun but hard to make money,0,interesting leading edge technology. Lots of opportunity to influence corporate direction,"poor strategy
+existing product late to market
+new products too early to market",sell,2.0,4.0,3.5,2.0,2.0,
+2019-04-25, Senior Principal Engineer,Bengaluru (India),Former Employee ,Great place to learn and enhance career,Great place to learn and enhance career,0,Mavenir is a place where you can learn a lot. Mavenir is working on latest technologies and having many products. Mavenir gives exposure to work in an end to end environment. There are many talented bunch in the organization which can be role model. As a CEO Pradeep have very good knowledge about all the products. Mavenir provides a platform which can be utilized to build an enhance career. Very happy and satisfied with the time spent with Mavenir. All the best.,Some improvements are needed in the way to mature the product before going to field and internal/external documentation needs to be improved.,"Apart from hiring outside, there should be focus on enhancing career path of existing employee.",5.0,5.0,5.0,4.0,4.0,3.0
+2019-04-11,,,Former Employee ,Great people,Great people,0,Managers are technical and hands-n,Indian work culture can be challenging,,5.0,,,,,
+2019-04-06, Software Engineer,Bengaluru (India),Former Employee ,Company review,Company review,0,Decent salary and an environment to learn more,Nothing as such as far as i know,Their are doing fine,5.0,2.0,4.0,5.0,3.0,4.0
+2019-04-20,,,Former Employee ,OK Company,OK Company,0,Decent Salary and good work exposure,High work pressure and long work hours,,2.0,2.0,2.0,3.0,3.0,2.0
+2019-03-29, Senior Software Development Engineer,Bengaluru (India),Current Employee ,Senior Software Engineer,Senior Software Engineer,0,"Work on latest technologies, good place to learn telecom related protocols","Work Culture, nature of work is not defined. should be ready to work on anything",,3.0,3.0,4.0,5.0,5.0,3.0
+2019-03-14,,Bengaluru (India),Current Employee ,Security R & D 2nd staff,Security R & D 2nd staff,0,vulnerability Assessment and security guidence,Good to work here and nice working place,,4.0,4.0,4.0,4.0,4.0,4.0
+2019-03-27, Integration Engineer,Tel Aviv-Yafo (Israel),Former Employee ,Integration Engineer,Integration Engineer,0,Comfortable working hours. Nice people.,Not stable. Uncertainty felling regarding future.,,2.0,5.0,2.0,2.0,2.0,3.0
+2019-03-05,,Bangalore Rural (India),Current Employee ,Platform for Growth,Platform for Growth,0,"1) Employee friendly enviornment
+2) Supportive management
+3) helpful HR and Finance team
+4) Continuous evaluation and recognition for the betterment",working hours needs to reduced,,5.0,4.0,5.0,5.0,5.0,5.0
+2019-03-05, Manager,,Current Employee ,Progressive organisation with a vision and desire to become market leader in the communication network solution provider,Progressive organisation with a vision and desire to become market leader in the communication network solution provider,0,"Employee friendly policies, willing to listen to employee feedback and make a change, young and energetic work environment, opportunities to learn and grow in various new technologies",It's growing but need more time for it to become a mature organisation,Should create more solutions for better work life balance,5.0,3.0,5.0,5.0,5.0,5.0
+2019-03-05, Senior Associate,Bengaluru (India),Current Employee ,Platform for individual contributors and team players,Platform for individual contributors and team players,0,"1) Good compensation package assured for all.
+2) Good work environment.
+3) Good facilities such as free breakfast and dinner for all employees plus free daily evening snacks.
+4)Quick in TAT for any queries.
+5)Good recruitment team - assistance provided anytime","1) No cab facility
+2) Very poor WIFI connection provided for employees
+3) Risk of job security","Give more time for the employees to perform their best.
+Under performers need to be given more motivation than being penalized.",3.0,4.0,3.0,3.0,5.0,3.0
+2019-04-02, Member of Technical Staff ,Bengaluru (India),Current Employee ,Think before joining RnD department,Think before joining RnD department,0,"Could not find any pros. Having worked in multiple telecom companies, I can say this is by far the worst experience as a developer.","No learning for experienced developers.
+Haphazard way of development without any SDLC, unrealistic deadlines.
+Too much politics, unprofessional managers
+Management neither listens to employees nor wants to change.
+No employee benefits, everything from leaves to work life balance depends on your manager. Even if HR wants to implements employee friendly policies, management doesnt let them.","Listen to HR, if not employees, and let them do their job.",1.0,1.0,1.0,1.0,2.0,1.0
+2019-02-14,,,Current Employee ,Multitude of opportunities,Multitude of opportunities,0,"I've been in Mavenir for than 5 years and there's no dearth of work. Being a leader in the IMS space , there are lots of options to work on be it Development, individual node testing or end-to-end testing. If you're a person willing to work hard , then Mavenir is certainly a great company to work for",Work can be hectic and personal life can take a hit depending on the product/role,,4.0,2.0,3.0,4.0,3.0,3.0
+2019-03-10,,,Current Employee ,Poor Work culture,Poor Work culture,0,Still trying to find out,"*There is no c++ based work , they will tell that you will get c++ work but reality is you end up working overtop on scxml . You get to realise after 1 month.
+*People are biggest cons. Region based discrimination is there if you are North Indian in South Indian team you will get bullied. People Mimic till you get frustrated to resign.","Kindly take feedback from new college graduate who are employed , are they getting bullied at work place.",1.0,1.0,1.0,1.0,3.0,1.0
+2019-01-12, Engineer R&D,Bengaluru (India),Former Employee ,Enginner R&D Fresher,Enginner R&D Fresher,0,Good start for a fresherman. Decent pay and exposure,"Lot of Politics, no reward for work! Politics ruled in my team. (AS)",Mavenir can't change because it doesn't want to,3.0,4.0,2.0,3.0,3.0,2.0
+2019-01-20, Integration Engineer,Tel Aviv-Yafo (Israel),Former Employee ,Telecommunication and network company for small to mid-size,Telecommunication and network company for small to mid-size,0,Average pay in the market,Distance management with no real connection to the employees or the customers products.,,3.0,4.0,3.0,3.0,3.0,2.0
+2019-01-16,,,Current Employee ,Member Technical Staff III,Member Technical Staff III,0,Can acquire good technical knowledge. Good pay-scale. Good hike.,Nothing as of now so far,,5.0,5.0,5.0,5.0,5.0,5.0
+2019-02-07,,Bengaluru (India),Current Employee ,Lack of Vision and transparent culture,Lack of Vision and transparent culture,0,Payscale is good and potential for growth is high.,"Lack of vision and clarity in the path forward from management.
+Culture of blame and finger-pointing is promoted
+Bureaucracy is prevalent at all management levels impact overall productivity
+Focus is more on bottom line improvement than top line growth causing high attrition
+Overall emnployee morale is low and hence constant churn of high caliber talent","Bring transparency and merit based growth culture.
+Consequence based leadership capable of listening to the team
+Empower with accountability
+Reward calculated risk and initiative to drive change to status quo.",1.0,1.0,1.0,3.0,4.0,1.0
+2018-12-28, Java Programmer,Tel Aviv-Yafo (Israel),Current Employee ,Problematic. The employers don't want to invest in experienced workers who need to learn new technologies.,Problematic. The employers don't want to invest in experienced workers who need to learn new technologies.,0,Great Union that supports the employees,The managers who believe workers are replaceable,,3.0,4.0,4.0,3.0,4.0,2.0
+2018-12-20,,,Current Employee ,Member of Technical Staff II,Member of Technical Staff II,0,Good learning And Pay based on the rewarding performance,Less onsite opportunity for developers in R&D,,4.0,4.0,4.0,4.0,4.0,4.0
+2019-01-11, Senior Software Developer/Member of Technical Staff III,Bengaluru (India),Former Employee ,Worst company to work,Worst company to work,0,Nothing I can think of (or) came across,"You might have seen companies with worst policies. But Mavenir is the only company with worst HR policies along with worst HR team. (They act lika a Govt Employess, takes a week to give one HR letter)
+
+Worst Team Management & leadership.
+I my may team my manager wanted his subordinates just to say yes even for impossible things...which did not happen. So he started making his own team by recruiting all the team from his ex-company...Now Team is with all his ex employee and one fresher from infosys (I heard he is also searching)
+
+If you want to survive, you must be best in politics & blame game so excel in your career with Mavenir. If you are bad in this, even if you are techincally gud...This is not the company for you.
+
+I forgot to mention....When we as a team(all the teammates) when we gave compliant against manager about all this, it did fireback, as they were intrested in makeing ppl to leave instead of resolving the issue.
+
+If you are very gud in blame game , religious activities & politics.....best company for you",Its a waste of time giving advice to management as they failed when we gave & made us (all the team) to leave the company,1.0,1.0,1.0,2.0,1.0,1.0
+2019-01-08,,Brno (Czech Republic),Former Employee ,"Not suggested, unless you want to leave soon","Not suggested, unless you want to leave soon",0,"Reading the cons, you understand there aren't any pros.","- You could have a very good salary, but due to the huge amount of work they have it doesn't matter, it doesn't pay the effort, reason why every month someone disappears complaining by email, forget work/life balance
+- Bad management in general","There is nothing you can do, Mavenir is Mavenir.",1.0,1.0,1.0,1.0,1.0,1.0
+2018-12-02, Mobile Automation Engineer,Bengaluru (India),Current Employee ,Average company to work,Average company to work,0,"Flexible working hours and Overtime for some projects
+Work from home option is available
+Good Projects with upcoming technologies and lot of things to learn","Yearly increment is less
+Management doesn't follow any process
+People don't value of others time and efforts",Management should follow process so that team working under them can also work with process,3.0,2.0,3.0,3.0,4.0,3.0
+2019-01-04,,,Current Employee ,Pathetic,Pathetic,0,None I can think of,If you are passionate and keen to work in a complete Mess this is the place for you.,Leave,1.0,,,,,
+2018-11-29,,Bengaluru (India),Former Employee ,Culture and policies,Culture and policies,0,Did not find any .,"Worst Culture
+1. Products are not stable any time it may crash in production.
+2. You are expected to be available 24X7X365
+3. If u are not available any day,take approval from manager.
+
+Worst Policies
+1. Imposed the Notice Period from 2 month to 3 Month.
+2. Notice Period recovery is of Gross Salary.
+3. Leave encashment is of Basic salary.
+4. Won't provide any HR letter for the Notice Period recovery policy.
+
+Comapny is making money from the Notice Period Recovery.
+
+Guys please read the review carefully before u join it.
+once u are in, it would be very difficult to leave.
+
+Good Luck !!",,1.0,1.0,1.0,2.0,2.0,1.0
+2018-10-30,,Bengaluru (India),Former Employee ,Member of Technical Staff -3,Member of Technical Staff -3,0,"1. With can survive without doing any work
+2. WFH","1. Manager cheats employees
+2. No career growth
+3. They will promise some things to take back your resignation, later they will cheat
+4. NO hikes
+5. Fires at any time","No use, they will not consider",1.0,2.0,1.0,1.0,1.0,1.0
+2018-09-19,,,Current Employee ,Good company,Good company,0,Flexible. Option for work from home,No work and life balance.,,4.0,,,,,
+2018-09-07, Software Engineer,Brno (Czech Republic),Current Employee ,Good at all,Good at all,0,"Friendly collective.
+Events etc.
+More less free hands.
+You are not strictly watched whether you are able to do your job well.
+Paid sickness!","Year bonus is not very often - sometimes is skipped.
+Employment growth is not handled very well.",,4.0,4.0,4.0,4.0,3.0,3.0
+2018-10-05,,,Former Employee ,Over all a pathetic company,Over all a pathetic company,0,If u r good at politics even though doing nothing u can grow here.others better ignore this.For an example A guy comes to office at 2 PM and leaves at 6 PM and in between does only religious activities during this time being awarded Star award because of his this skill.,"1)You are expected to be available to work 24/7 and 365 days
+2)Now a days annual hike is lesser than service based companies
+3)Most of the products are not developed here instead got through acquisition.Once acquisition is done most or all the employees will be systematically laid off
+4)Badly maintained products, No docs and no person aware of the products so there will be lot so issues so think why point 1 makes sense",Main problem is Mgmt.No point in advising,1.0,1.0,1.0,1.0,2.0,1.0
+2018-09-02,,Bengaluru (India),Current Employee ,fresher working experience,fresher working experience,0,Great for learning if you get into right team,very bad HR and management,,3.0,3.0,3.0,4.0,2.0,1.0
+2018-08-28,,,Current Employee ,Good product based company,Good product based company,0,"Nice work life balance,
+Good to start career",There are no cons apart from heavy working hours.,Nothing much to needed everything was fine,4.0,4.0,5.0,4.0,4.0,5.0
+2018-08-21, Senior Engineer,Bangalore Rural (India),Current Employee ,Good to work,Good to work,0,Good Learning and good pay,"Management is week, need to work on system to improve work life balance",Hire some good Managers,3.0,2.0,4.0,4.0,4.0,2.0
+2018-09-15,,,Former Employee ,Mavenir is place a for more politics and less work,Mavenir is place a for more politics and less work,0,Nothing except work location. Not good for anything.,"If you don't know to play politics then don't go.
+
+1. No work life balance. Your lead will ask you to work late at night.
+2. No annual Increment.
+3. No office activity.
+4. Just for govt policy, they will do something.
+5. You will be sick after going there in some time.
+6. Only junk old projects are there which they will offer you and your career will spoil definitely.
+7. Employees focus to praise seniors only.
+8. Leaves they will give you easily.","Don't think only to make money. Without employees, you cannot do anything. Care to them.",1.0,1.0,1.0,1.0,1.0,1.0
+2018-08-16,,,Current Employee ,Mavenir,Mavenir,0,"Agile, fast moving international working environment",organisation is very fluid and sometimes difficult to navigate,more frequent business updates for all staff to bring staff and high level management closer,2.0,,,,,
+2018-08-13, Human Resources Manager,Tel Aviv-Yafo (Israel),Current Employee ,XX,XX,0,The pepole are great !!,Unstaible company with a lot if changes,XX,2.0,2.0,2.0,4.0,3.0,2.0
+2018-08-14, Tech Lead,Bengaluru (India),Current Employee ,Poor Management and Lack Of Strategic Vision,Poor Management and Lack Of Strategic Vision,0,"1>Flexiable working hrs
+2>Technically strong workforce","1>NFV is down and the company is in bad news
+2>Company lack proper direction and vision
+3>Low quality products
+4>Too many Directors and program managers in Bangalore office
+5>Some of the Directors in system test lacks maturity and poor people management skills",Reduce the number of Directors and program managers and get the Business headed in the Right Direction.,1.0,,,,,
+2018-07-12,,,Current Employee ,about mavenir,about mavenir,0,"Will be working on latest telecom Domain, work from option","no proper management, not many customers",,4.0,4.0,3.0,3.0,3.0,3.0
+2018-07-10, TAC Engineer,Mumbai (India),Current Employee ,Big learning environment and good organisation,Big learning environment and good organisation,0,Nice company and nice working environment,Helpful management and getting chance to grow up,Future growth,5.0,5.0,5.0,5.0,5.0,5.0
+2018-07-10,,,Former Employee ,RnD Engineer,RnD Engineer,0,"Good Exposure, Learning, good team culture",The hike will depend on the team,,4.0,3.0,4.0,4.0,3.0,3.0
+2018-07-04,,,Current Employee ,Working as a Technical Engineer in Mavenir,Working as a Technical Engineer in Mavenir,0,Good to work in Mavenir,Not Available to tell any Cons,,5.0,3.0,3.0,3.0,4.0,2.0
+2018-07-05, Technical Meneger,Bengaluru (India),Current Employee ,"Mavenir - Cutting Edge, Fast, Cross-Functional, Unorganized","Mavenir - Cutting Edge, Fast, Cross-Functional, Unorganized",0,"Latest tech for voice/messaging based sw soutions
+Open, cros-functional work culture
+great exposure for end to end learning
+Above market standard salaries","Unorganized
+Less professionalism
+Work-Life imbalance
+Products instability
+Poor product documentations","1. With company's expansion, its the need of the hour to bring in professionalism, 2. To document tacit knowledge lying in select people's mind.",3.0,2.0,2.0,3.0,4.0,3.0
+2018-07-05,,Sofia (Bulgaria),Former Employee ,Pros and Cons,Pros and Cons,0,"nice and friendly stuff ,flexible working hours and good average salary",the company was acquired in 2015 tech machindra and 2 years after all the employees were dismissed .,,3.0,4.0,1.0,4.0,4.0,
+2018-07-31,,,Current Employee ,"Going downhill , Hope it again comes back on track","Going downhill , Hope it again comes back on track",0,dynamic company gives opportunity to learn new technology,"No Direction, no quality , no ownership . People without experience or capability are promoted to management and that shows in Delivery and Quality failures .
+Any feedback against existing process or decision are not accepted and leading to downfall of the company.",Please do a RCA of the recent failures and try to reach out to the ground level workers to find out the Root cause and correct it . Still possibility is there to get back on track.,1.0,1.0,2.0,1.0,2.0,1.0
+2018-06-17,,,Current Employee ,Mixed Response,Mixed Response,0,Good place to learn new technologies,No Process or proper documentation. Company culture needs improvement.,,3.0,2.0,1.0,3.0,3.0,1.0
+2018-06-05,,,Former Employee ,Good place to work at.,Good place to work at.,0,"Work Culture is favorable.
+Works on latest technologies
+Great innovations",Can improve on HR side.,,4.0,4.0,4.0,4.0,4.0,4.0
+2018-06-05, Executive Team,,Former Employee ,No business transparency and employees not rewarded based on merit,No business transparency and employees not rewarded based on merit,0,"1. Good interaction and support given by investors
+2. Products are relevant to market
+3. Customer install base is a plus.","1. Global Sales head is biased, and does not reward based on performance
+2. Company direction /decisions made by few individuals, with decisions not communicated down the line (even to senior execs)
+3. Very politically motivated organization","1. Change existing leadership team to eradicate cronyism.
+2. Corporation/Support from leadership team to each region needs to be more transparent and not politically driven.
+3. Gauge actual contribution of individuals",2.0,2.0,1.0,3.0,2.0,1.0
+2018-06-11, Software Engineer,"Reading, England (UK)",Current Employee ,"decreasing revenues, Sales of 2017 will not be reached in 2018","decreasing revenues, Sales of 2017 will not be reached in 2018",0,Some good experienced engineers mainly from the former Acision organisation. In 2017 good sales revenues of around 410M$ but mainly received from 1 large customer.,"Unmistakable Signs of a Bad Company , all signs are on red:
+
+- Pardeep Kohli is a bully
+- Over-Worked Employees
+- Lack of Communication
+- Lack of Team Spirit
+- Bad Reputation
+- hire of second rate bragging overrated new management positions","Be disruptive, replace yourself !",1.0,1.0,1.0,1.0,3.0,1.0
+2018-05-03, Lead Engineer,Bangalore Rural (India),Current Employee ,average,average,0,"work from home
+average salary
+etc
+etc
+depend on project","no proper documentation
+no work life balance
+etc
+etc
+etc",,3.0,,,,,
+2018-06-07, Lead Engineer,Bengaluru (India),Current Employee ,Company full of politics. Please change the senior mgmt.,Company full of politics. Please change the senior mgmt.,0,None that I can think of.,"1. People who just keep talking grow.
+2. One should be good in politics to work here.
+3. People just see whom to blame when something goes wrong including senior mgmt.
+4. One is expected to be available on every weekends. You need to request your manager if you are not available on weekends. Worst work life balance.
+5. Worst communication ever from senior mgmt. Everything is kept in dark.
+6. List goes on and on...",I don't think they even care if advice is given.,1.0,1.0,1.0,1.0,1.0,1.0
+2018-04-18,,,Current Employee ,Listen to the people they matter too!,Listen to the people they matter too!,0,"Flexible, pay is ok, always something new going on","The board don’t appreciate the work the people put in, long hours expected but not paid for, work load continues to increase whilst resources decline. No pay rise or bonus for those who actually put in the hours and work.",Listen to the people - they’re the ones at the forefront doing the work! You’ve lost a lot of good dedicated staff members.,4.0,2.0,2.0,2.0,2.0,2.0
+2018-04-23,,,Current Employee ,Mavenir as Company,Mavenir as Company,0,Have the Comverse employees backbone,After merging with several employees the company lost its way...,Focus on innovation,3.0,3.0,3.0,2.0,3.0,2.0
+2018-04-26, Specialist,Bengaluru (India),Current Employee ,Great technology platform and real time product development experience,Great technology platform and real time product development experience,0,"Awesome learning
+Good benefits and HR engagement
+Flexi hours and work life balance","No formal feedback evaluation
+Increments not up to the mark
+No managerial development","Invest more in developmental opportunities for workforce
+More employer branding is required",4.0,3.0,3.0,4.0,3.0,3.0
+2018-04-13, Program Manager,Jakarta (Indonesia),Current Employee ,Good place to work and learn,Good place to work and learn,0,"Opportunity to work in new technologies.
+you can expand your role and learning opportunity.
+Quick decision and turn around","Hurry to release the product.
+Need process alignment and role clarity.",Focus to deliver mature product.,4.0,4.0,3.0,5.0,4.0,4.0
+2018-04-18, Vice President Sales,"Reading, England (UK)",Current Employee ,Siris Capital has made huge mistakes and lost more than half of their investment .,Siris Capital has made huge mistakes and lost more than half of their investment .,0,Mavenir is the T-Mobile USA development House.,To much dependent on 1 large customer. Mavenir is a project based company. Products are not existing. No focus on the former Xura products. Bad delivery times. Bad designed products. No resources available to execute projects.,Centralize development in 1 country. Centralize product management in 1 country. Focus on the former Xura people.,1.0,1.0,1.0,1.0,1.0,1.0
+2018-03-28, SMTS2,Bengaluru (India),Current Employee ,"Typical startup issues, lot of things at the same time.","Typical startup issues, lot of things at the same time.",0,"You learn to work under pressure.
+Lot of work on newer technologies VoLTE, NFV, 5G - but same exposure not present across the board.
+They are driven by customer & will do whatever customer will ask for; Nokias Ericcsons etc are way behind in the thought but are catching up.","Quick-fix mentality is killing the whole show; not just for one issue but each one of them. Balme game all the way from top to bottom.
+Incapable middle management; no human aproach in Ops - they just work with authority.
+Too much pressure for everything; managers get offended when asked why & what questions.
+Too scared of customer.
+No focus on automation especially for a start-up.
+One person has to work on multiple things & results for both suffer - it's the case for almost 80% of the people on this company.
+Horrible work-life balance; especially for people with kids, for bachelors its still ok.
+You will hardly find a Manager or superior whom you can look upto.","Focus on automation at-least for 2 years - get majority of test cases for all products automated.
+Start to push back on whims and fancies of the customer; at-least the big ones. they are not going to go anywhere else.
+Treat people with more respect & foster a culture doing things the right way.
+Train your middle management for managing. Hire a team of strong managers who are non-technical.",2.0,1.0,2.0,2.0,3.0,2.0
+2018-03-06,,Bengaluru (India),Former Employee ,QA Analyst,QA Analyst,0,"Can work on Latest technologies
+Good projects
+Work from home option","Less pay now a days
+HR department has to be standardised",,3.0,3.0,3.0,4.0,3.0,3.0
+2018-03-15,,Mumbai (India),Current Employee ,"Not a great company to work for, certainly not bad","Not a great company to work for, certainly not bad",0,"Good benefits.
+Descent pay.
+Good company values.
+Flexible working hours.","Very bad uppraisals.
+No bonus payouts.
+Lots of work pressure.",Please do look at the glassdoor reviews and give uppraisals and bonus matching the market.,2.0,1.0,5.0,4.0,3.0,4.0
+2018-03-01, Deliveries Engineer,Singapore (Singapore),Former Employee ,Latest technology on virtualized network function.,Latest technology on virtualized network function.,0,Good environment to learn about virtualization technology.,Load of work with no proper technical documentation. Deployment always struggle onsite.,Need to improve on technical documentation.,3.0,3.0,4.0,3.0,1.0,2.0
+2018-03-13,,Tel Aviv-Yafo (Israel),Current Employee ,Product Manager,Product Manager,0,"a company at the forefront of Technology 5G
+Very aggressive and fast moving","In sake of fast moving the company is working completely in miss-order
+the company does not leverage its employees capabilities",,2.0,2.0,1.0,2.0,2.0,2.0
+2018-02-06,,,Current Employee ,worked for 3 years,worked for 3 years,0,work time flexibility is good,apart from salary no other benefits given to employees.,,3.0,2.0,3.0,3.0,2.0,2.0
+2018-01-30, Junior Software Engineer,Brno (Czech Republic),Current Employee ,"Good start, better continue","Good start, better continue",0,"+ experienced coworkers
++ good environment
++ nice company
++ motivation bonuses","- need better coffee
+- better salary",,5.0,3.0,4.0,4.0,4.0,4.0
+2018-01-28,,Bengaluru (India),Current Employee ,Satisfactory,Satisfactory,0,"Good work life balance(depends on your team/project)
+Good onsite opportunities for Testing/Ops people
+Negotiate properly to get handsome offer","Hike is not that great compared to peers
+No onsite for developers",,3.0,3.0,2.0,3.0,3.0,4.0
+2018-01-02,,,Current Employee ,Not a great place to work...,Not a great place to work...,0,"1) Flexible office timings
+2) Work from home (depends on your manager)
+3) Good learning curve, good work","1) Bad pay hikes
+2) No processes are followed, anywhere
+3) HR policies are useless
+4) 3-month notice period
+5) Irrational deadlines
+6) No work/life balance
+7) No appreciation (not even verbal)/rewards to the employees who work hard. All such things are awarded to those bootlicking to the boss. No matter how well you do, you'll never be good enough. You'll always be condemned and taunted.
+8) No team outings/activities most of the time.","Address employee concerns. Treat employees like family, not like slaves who have no personal life.",3.0,3.0,1.0,2.0,3.0,2.0
+2018-01-18,,,Former Employee ,Nothing good to say,Nothing good to say,0,Today there is nothing good there.,"The new Mavenir management only care about their hires, not employees from Xura, plus they only care about US based customers - mainly Verizon. Unfortunately all the money making products aren't from Mavenir.",,1.0,1.0,1.0,1.0,2.0,1.0
+2017-12-05, Smts,,Current Employee ,Go for learning only,Go for learning only,0,"Mavenir is innovative company and they are good in IMS netwrok nodes.
+Now compnay is investing more on 5G technology
+if some one really want to learn mavenir is right place .
+growing company","1) no process in prodect development and delivery .
+2) there is no work life balance for the people who are actually working .
+3) politics in the team also destroying the team environment.
+4) even after 10+ year, company is running like a startup . mostly activities are still track on excel sheet which is certainly not good.",,3.0,1.0,2.0,3.0,3.0,1.0
+2017-12-13,,,Former Employee ,Can be good but...,Can be good but...,0,"flexible working hours, good package",everything moved to India (Pros for them though),,4.0,4.0,2.0,4.0,4.0,3.0
+2017-12-12, Member of Technical Staff,Bengaluru (India),Current Employee ,Very Good Place to Work,Very Good Place to Work,0,"Good place to learn new technologies.
+Flexible work timings.
+friendly environment to work.
+Supportive HR team.
+Company policies and values are very good.",Lack of Process and documentation.,,5.0,5.0,5.0,5.0,5.0,3.0
+2017-12-06,,,Current Employee ,Mavenir (Ex Comverse) current status,Mavenir (Ex Comverse) current status,0,"The human resource material here is one of the best there is in the Hi-tech industry, very flexible working hours","Company is on a ""hold"" for few years with all the merges and buying from position wise and salary",try to do more to keep the key personals,4.0,5.0,4.0,2.0,4.0,3.0
+2017-11-29, Technical Lead,Bengaluru (India),Current Employee ,Technical Lead,Technical Lead,0,"Good work environment.
+Have freedom to explore new technology stacks. You can explore whatever you want provided not screwing up the current project works.
+Good recognition for your hard work.
+Flexible timings.
+Overall a good company to work","Sometimes the work will be hectic and the reason will be sales/delivery team's false committments.
+Lot of improvements to be done in process and best practicises.Mere a CMM tag not going to help in the long run.
+HR and Finance Team needs to be more employee friendly rather than responding like staff in Govt offices.",Employees are slowly losing the pride to say being part of Mavenir. You can easily fix it if you listen to the employees and take some action on glassdoor reviews.,4.0,4.0,5.0,4.0,4.0,4.0
+2017-11-21,,Bengaluru (India),Current Employee ,Mavenir as your workplace,Mavenir as your workplace,0,"Mavenir has a wonderful working environment that's completely informal and where employees are encouraged to ask questions.
+The compensation is highly competitive and top performers are recognized and rewarded
+The scope to learn / implement something new is part of Mavenir DNA which helps keep employees constantly engaged",Work can be hectic at times,,4.0,3.0,4.0,4.0,4.0,4.0
+2017-11-16,,,Former Employee ,Not Bad salary wise,Not Bad salary wise,0,"Good salary, no boundation for overtime depends on employee, if manager is understanding HR is no pain","Bad management, HR department is useless",Focus on building an employee skillwise,3.0,4.0,3.0,3.0,4.0,3.0
+2017-11-02, Mobile App Developer,Bengaluru (India),Current Employee ,"Steep learning curve, flexible timings - good place to grow your career","Steep learning curve, flexible timings - good place to grow your career",0,"Growing company and hence good growth opportunities
+Steep learning curve
+flexible timings
+good for career growth
+salary",tight deadlines,,4.0,3.0,4.0,5.0,5.0,5.0
+2017-10-19,,,Current Employee ,Sustaining,Sustaining,0,"To have 3 sickdays, some colleagues are fine and new technologies",Managers with big guns and stupid took at yuo,,2.0,2.0,1.0,2.0,3.0,2.0
+2017-11-01, Member of Technical Staff,Bengaluru (India),Current Employee ,"Blood sucking morons in android and iOS client development team, no life","Blood sucking morons in android and iOS client development team, no life",0,"Salary - but not for all.
+Short term onsite - but believe me you won't like to go once you are here.
+Cutting edge technologies they say. But market is much ahead. Market works silently and mavenir makes noise.","No work life balance,
+No vacations,
+No Saturday and sundays,
+No festivals,
+No life,
+Non technical people are assigned as technical managers.
+Technical people work as a people manager and don't understand the emotions of employees.
+Worst culture ever. It's a jail where we should be committed for life because of the money.
+
+Your family might divorce you if you are here.
+
+They survive with just one giant client. Wish they shut down contract.",Have some respect over employees life.,1.0,1.0,1.0,3.0,4.0,1.0
+2017-10-25,,,Current Employee ,Not a good place to work. No peace of mind. 3 months notice period,Not a good place to work. No peace of mind. 3 months notice period,0,"Good Infrastructure
+Flexible office timings
+Work From Home
+Flexible office timings","Very bad timelines
+No body shares proper information ( zero transperent)
+Zero Process oriented
+Too much politics",Grow up,1.0,1.0,1.0,1.0,2.0,1.0
+2017-09-18, Senior Software Engineer,Bengaluru (India),Current Employee ,good place to work & learn new things,good place to work & learn new things,0,"i have been working here from last 3 years,best part is you will get to learn new things by domain/technical wise in beginning after that you will get used to the same kind of concepts.team members will help when you are stuck with some issue.",after some time your learning curve will be stopped.need to balance work life balance when you have lot of work.,HR policies are not that much clear,4.0,3.0,3.0,3.0,3.0,4.0
+2017-10-17,,,Former Employee ,Worst for client development Android/ios,Worst for client development Android/ios,0,Teammates who share the same frustration level of working here.,"1. Poor management
+2. HR policies have no say in the company
+3. Will be called any time in the night to fix bugs.
+4. Nobody has any idea of how development should happen.
+5. No peace during weekends as well.",It won't help.,1.0,,,,,
+2017-10-17,,,Former Employee ,Worst client development (Android/IOS),Worst client development (Android/IOS),0,Teammates who share the same level of frustration,"1). Poor management
+2). Developers get call at any time in the night to fix bugs
+3). HR policies have no say in the company
+4). Weekend work mandatory
+5) Slavery",It is of no use,1.0,,,,,
+2017-10-14, Software Engineer,Bengaluru (India),Former Employee ,Hell for Client (Android/iOS) development team,Hell for Client (Android/iOS) development team,0,Nothing - No learning just bug fixing,"- Crazy timelines .
+- No Expertise in this domain.
+- More politics
+- 24 by 7 Slaves
+- Weekend working Mandatory
+- No leaves",Grow up,1.0,1.0,1.0,1.0,1.0,1.0
+2017-09-17,,,Former Employee ,Sr Team Lead,Sr Team Lead,0,1.They are working on new cutting edge technology.,"1. Not any Process oriented .Ad-hoc work allocation.
+2. Not support for employee Growth it term of Knowledge or other professional support.
+3. No work-life balance.
+4.Too Much politics , No transparency.
+5.Company unstable , less customer satisfaction .",,2.0,1.0,1.0,1.0,2.0,1.0
+2017-09-21, Operations Manager,"Porto, Oporto (Portugal)",Former Employee ,No respect,No respect,0,A good place to learn,"Every six months for not saying every quarter you have you job in risk.
+For every job seeker, be aware Mavenir doesn't honour their commitments, they will give you an offer letter, a draft contract, and after you quit from your previous employer they will withdraw the offer and you will be end up like looking for a job, losing social benefits and money from your previous employer because you left the job thinking that Mavenir would honour.
+They don't care if in the past at this company, you work for them from an hospital bed, or working 3 months from a bed...after my child born next day was working instead being with my wife and my child...being every year always classified as outstanding performer...I thought acting like that the company will benefit and I...but now I regret, therefore if you are intelligent just avoid them.","Be honest...if you treat the employees without respect, you will never get their dedication, and your customers will not trust you...",1.0,1.0,1.0,4.0,4.0,1.0
+2017-08-15,,,Former Employee ,LogicaCMG/Acision/Xura opened the world to me,LogicaCMG/Acision/Xura opened the world to me,0,"great people, interesting technologies and projects, travel",great ideas came to market too late,,4.0,,,,,
+2017-07-26, Tech Lead,Bengaluru (India),Current Employee ,Ops Engineer,Ops Engineer,0,Nice place to work and cutting edge technologies,No proper documentations. no proper work-life balance,,3.0,2.0,3.0,3.0,3.0,2.0
+2017-08-07, SMTS1,Bengaluru (India),Current Employee ,Software Build and Devops ENgineer,Software Build and Devops ENgineer,0,"- Good learning opportunity
+- u can mingle and learn politics","- no work life balance
+- compensation is bad",,1.0,1.0,1.0,2.0,2.0,2.0
+2017-06-27, Project Delivery,,Former Employee ,"Good people and tech, not so great company","Good people and tech, not so great company",0,"- surprisingly competent R&D team in Czech Rep - their products tend to work and fixes come stunningly fast
+- some great tech","- unclear vision, ever changing management
+- some very poor quality products",No advice. I don't see any future for this kind of business myself. Move on to other things I guess.,3.0,3.0,4.0,2.0,3.0,1.0
+2017-06-23, Analytic,Brno (Czech Republic),Former Employee ,Analytic,Analytic,0,"Wide benefit system
+Friendly working environment
+Possibility to work from home
+Flexible working time","Almost no career path.
+Illogical managerial decisions.
+Lot of changes which don't make a sense (dismissal quite a lot people which finally were needed and decision to recruit them back... etc.)
+Non-transparent financial department.","It would be better if the changes make a sense and would be more logical. Company should have also plan for the future not only in the technological area but also in connection with finance, budgets...",3.0,3.0,2.0,2.0,4.0,4.0
+2017-07-12,,Raanana (Israel),Former Employee ,Bi developer,Bi developer,0,"Great people in Israel, good social benefits",Too many merges and bad managers along the years made the company deteriorate,,2.0,5.0,3.0,2.0,4.0,2.0
+2017-06-21, Solutions Engineer,Sydney (Australia),Current Employee ,Situation in Mavenir,Situation in Mavenir,0,Now offers a great portfolio of products and solutions at hand that can compete now with the giant telecom vendors.,Not stable at the moment since the objective of the company is to outsource most of its technical roles to India.,,4.0,4.0,4.0,3.0,4.0,3.0
+2017-06-19, Manager ,Bengaluru (India),Current Employee ,Finance Manager,Finance Manager,0,"Excellent Management to work with , company is growing , plenty of opportunities to learn and grow",Lak of information and guidance,,4.0,4.0,5.0,4.0,5.0,4.0
+2017-07-16,,,Current Employee ,Don't bother. Sinking fast.,Don't bother. Sinking fast.,0,"Salaries are higher than elsewhere for similar roles on start, and benefits packages are decent. (This offsets that lack of payrises and bonus payouts).",Telecoms industry is struggling all over and many of the company's products are legacy systems and a good target for cost cutting. Management just bury their heads in the sand and pray they can produce a big sale of new products that they haven't worked out how to build yet. CEO employs friends and family in vastly overpaid middle-management roles. CFO too weak and inexperienced to keep control of cashflow. Company running out of money in 3...2...1...,Update that resume...,1.0,2.0,1.0,1.0,3.0,1.0
+2017-05-26,,Bengaluru (India),Former Employee ,Member Technical Staff,Member Technical Staff,0,"Pay, work life balance, flexibility , friendly work culture",Incompetent/inexperienced HR dept. HR dept needs improvement,,3.0,5.0,5.0,3.0,3.0,4.0
+2017-05-23,,,Former Employee ,Good but ...,Good but ...,0,"Flexibility, good money and that's it!","Poor management, almost no existing HR, no bonues, no salary upgrades, no nothing.",ITIL or any other management tools are a must!,3.0,4.0,1.0,1.0,2.0,1.0
+2017-05-19, Senior Systems Analyst,Bengaluru (India),Current Employee ,operations,operations,0,"new technology
+Lot of things to learn","Highly dis organised
+internal politics
+Compensation are reserved only for closed circles",,3.0,3.0,3.0,2.0,2.0,3.0
+2017-05-15,,,Former Employee ,Very poor management,Very poor management,0,"Interesting project on cutting edge technology
+Good salary","Very poor management and HR is nonexistent
+No carrier or growth opportunity",Pay more attention to your employee,2.0,3.0,1.0,1.0,4.0,1.0
+2017-04-24, Senior Tech Lead,Bengaluru (India),Current Employee ,Ok,Ok,0,Good Learning - that's the only Pros i see,"No work-life balance, Adhoc project planning",,4.0,1.0,3.0,4.0,3.0,1.0
+2017-05-17, Senior Engineer R&D,Bengaluru (India),Former Employee ,Not a good Company for Java Developers,Not a good Company for Java Developers,0,"Good Employee benefits
+Recreation Center as most of companies doesn't have","Not A good company for Java developers as there is nothing to do and nothing work.
+Whatever the java related work is there, it is done by the framework.
+Bad Management.
+Management doesn't see the work, only timings.
+Head Person does all these work.",Level up the Management Skill,1.0,1.0,1.0,1.0,1.0,1.0
+2017-05-11, Quality Engineer,Tel Aviv-Yafo (Israel),Current Employee ,From Past to Future w/o road map...,From Past to Future w/o road map...,0,Good money for pastime in the society of pensioners,A dumb company with a huge number of bosses and no development policy in the future,Dismiss 50% of the management team who do nothing and get huge bonuses,1.0,3.0,2.0,3.0,4.0,1.0
+2017-05-05,,,Current Employee ,Senior Management,Senior Management,0,"Can't really think of one, other than you have a job and get paid at the end of the month. At least for now.","Lack of direction and strategy with a ""I know everything"" attitude. Communication to employees is non-existing and decisions are taken without any consideration to customer satisfaction.",Re-invent yourselves or let others lead the company. Sometimes is good to listen to what others have to say rather than show arrogance.,1.0,2.0,1.0,1.0,1.0,1.0
+2017-03-22,,Brno (Czech Republic),Current Employee ,"Interesring company with very nice agile people, bit messed in higher posts","Interesring company with very nice agile people, bit messed in higher posts",0,"Colleagues, scrum, team spirit. I love working here almost in center of Brno, near to everything. I love how company support us in all we want to achieve",There is lot of goals which I want to achieve and company is giving me support to do it. Administrative is sometimes tought to deal with.,Set the rules and obey it. Pick proper manager with advanced technical and soft skills.,4.0,4.0,2.0,3.0,4.0,2.0
+2017-04-21,,"Ottawa, ON (Canada)",Former Employee ,Zero Stars,Zero Stars,0,potential influence on the future of RAN technologies,extremely low likelihood of success due to very poor management,Keep qualified staff close & pay them market rates.... but most of all trust them and follow their advice... keep them in the decision making loop... Focus...,1.0,,,,,
+2017-02-23,,Bengaluru (India),Current Employee ,Good company for Freshers,Good company for Freshers,0,"Benefits
+Salary
+Flexibility
+work from home
+Highly client interaction",worklife balance differs time to time depending on the delivery basis.,nil,3.0,3.0,3.0,3.0,4.0,3.0
+2016-12-20, Senior Software Engineer,Bengaluru (India),Former Employee ,Worked for 3.5 years - Java Developer,Worked for 3.5 years - Java Developer,0,"One of the best company i have ever worked.
+Decent pay.
+wfh depends on manager.
+Many POC projects from which we can learn lot.","Every thing depends on manager.
+worklife balance differs time to time depending on the delivery basis.",Nil,4.0,4.0,4.0,4.0,4.0,3.0
+2016-11-01,,Bengaluru (India),Former Employee ,Company where you grow only by Mouth not by Work,Company where you grow only by Mouth not by Work,0,"Good products.
+People in Design are really good.
+Decent salary.","You grow here only with your mouth not by the quality work you do.
+No work life balance at all, you will be called by mgmt at late hours in case of escalations and it is happens almost daily, no timings defined, have to work even on many sundays.
+Not much growth perspective also fake titles.
+No Process in place.",Better change the complete top layer and put proper process in place and cut the politics.,1.0,1.0,1.0,2.0,2.0,1.0
+2016-06-15, SSE,Bengaluru (India),Former Employee ,HR management not good,HR management not good,0,"1. A good place to work
+2. Good Salaries
+3. Work life balanced
+4. Nice work","Will never expect any email reply, or phone call reply.
+No one will respond once you left/terminated from employment.","No need, They know very well. They can't change the management system",1.0,,,,,
+2016-03-15, RnD Engineer,Bengaluru (India),Former Employee ,Not very bad... but definitely not good...!,Not very bad... but definitely not good...!,0,"1) One can learn about new technologies. esp IMS network. EPC products are below average.
+2) Company is being funded and has never been in profit, even for a single quarter... still they give hikes to all eligible candidates. Hikes may not be impressive... but still it keeps employees satisfied.","1) Poor work culture
+2) No standard policies for anything.
+3) No documentation and training programs for new joinees
+4) Hikes are pathetic if considering such medium size company
+5) No work life balance, have to work really long hours
+6) No recognition. Those who work may be exploited, yet under rated while appraisals.
+7) Most managers have poor people skills, since mavenir is keen to hire tech managers. This results in high employee dissatisfaction ... which in turn increases attrition
+8) Poorly tested products. Most products are directly tested at customer site
+9) HR team is only a formality. Big shots run this company entirely (hikes, packages, firing, promotions etc). HR's are just puppets. Moreover they are only to create problems for employees, and in no way to comfort/serve them.
+10) Lot of politics.
+11) Bootlickers rule and hard workers suffer in all senses
+12) No values, culture or vision of any sort. Everyone who is part of mavenir, deep inside knows he is not here for long term.",nothing. They dont listen.. so no point.,1.0,1.0,1.0,1.0,2.0,1.0
+2016-01-24, Engineer R&Amp; D,Bengaluru (India),Current Employee ,Challenging work and ample learning opportunities for a fresher.,Challenging work and ample learning opportunities for a fresher.,0,"1. Nice pay, comparable to industry standards.
+2. Direct exposure for a fresher or new joinee if you are capable of quick understanding and debugging.
+3. Ample scope of building sound c++ development skills.
+4. Free breakfast, dinner and snacks.
+5. Instant recognition for hard work and extra effort with rewards.
+6. Flexi timing and approval of leaves without much fuss. wfh available.","1. No organized procedure for knowledge sharing or proper training.
+2. Seniors are mostly over loaded with deliverables and are arrogant towards guiding a new comer.
+3. Testing team not competent enough to debug basic issues and more pressure on developers as a result.
+4. Poor work-life-balance. Working on weekends and over night are common. If you want to be recognized, you have to yield to work anytime overtime.
+5. Appraisal depends on your visibility to the higher management and not always on actual work done.
+6. Worst HR team. Delayed response and very less communication with employees.",Try to bring out the fullest of your employees potential by proper guidance and training. Seniors should be more co-operative in knowledge sharing so that a new comer is incorporated in the process asap and comfortably. Change the mentality of HR team or change them. Introduce work life balance and do not over exhaust the performer. Pay the employee what he deserves while he is working and not when he is preparing to leave.,3.0,3.0,3.0,3.0,4.0,2.0
+2016-01-20,,Bengaluru (India),Former Employee ,Good technical team,Good technical team,0,"Strong technical team.
+Strong initial momentum in EMEA
+Healthy work-life balance
+Access to leadership in Dallas","Leadership lacked medium and long term business sense.
+Focussed more on valuation et all, and not on the setting a solid foundation for sustainable +ve cash flow business.","None as it is not my place- i have not even done 5% in life, what these guys have achieved.",3.0,5.0,4.0,3.0,4.0,3.0
+2016-01-18,,,Former Employee ,Great place to work for,Great place to work for,0,"Great work
+Cutting edge technology
+Flexi work hours",Job will keep you busy,Keep up the great work,5.0,3.0,3.0,4.0,4.0,3.0
+2016-01-31, Engineer R&D,Bengaluru (India),Former Employee ,Incompetent hr,Incompetent hr,0,Work culture was enjoyable...team was superb..lots of perks...,"Legacy product team is often ignored
+Hr team is the most incompetent team I have ever seen..the response time for a mail reply is directly proportional to the number of email ids you put in cc list...they wouldn't respond to your queries.",Completely change your hr team....,2.0,4.0,4.0,3.0,2.0,2.0
+2016-01-03,,Bengaluru (India),Former Employee ,A great place to work,A great place to work,0,"A Lot to learn as applications developed get deployed in short life cycles.
+Good for people interested in large distributed systems as most of the projects involve building large servers in C/C++.",The company has a proprietary platform and hence does not experiment much with newer open source technologies as are used in the web applications world. So one may get out of touch with latest in tech trends by working there too long.,"Th company can do well by using new open source tools and languages, specially for testing applications. Smaller teams work better probably get faster results.",4.0,3.0,5.0,4.0,3.0,3.0
+2015-11-04, R&D Software Engineer,Bengaluru (India),Current Employee ,Below Average,Below Average,0,quality of work is ok but not challenging. good for some experienced people not for freshers.,"no knowledge sharing, no proper training for freshers, if you are fresher it is a bad company.
+no help from senior staff.",Please take care of the company.,2.0,2.0,3.0,1.0,2.0,3.0
+2015-09-18, Senior R&D Engineer,Bengaluru (India),Former Employee ,If you are looking for a technically learning and challenging environment avoid joining,If you are looking for a technically learning and challenging environment avoid joining,0,"Good Pay , flexible timings, free snacks and pizza, good work life balance.","Lack of direction , monotonous work , no technological learning , no challenging work , and lack of innovation at work place.",,3.0,4.0,3.0,3.0,4.0,2.0
+2015-09-17,,,Current Employee ,Good,Good,0,"Very flexible- No compulsion on the working hours provided you complete the work , You can explore the entire code on your own interest without anyone's permission , Snacks on every Friday.","Knowledge sharing is less, No work - life balance",Can organize some events that can free some stress,3.0,2.0,3.0,2.0,2.0,
+2015-09-15,,Bengaluru (India),Former Employee ,Worst Experience Biggest Mistake in my life i joined this company worst HR department,Worst Experience Biggest Mistake in my life i joined this company worst HR department,0,"If you join this company sure you lost your career for freshers. If you send mail to HR & Finance dept. they will not reply.
+There is lot of Politics.End of month they didn't get salary.
+There is no Transportation for freshers, No leave, No proper training, team lead not guide you.
+There aren't many pros to working here. I guess the only one would be that you can get some experience, although it is generally not good experience. You learn how a company should not be run.
+working more then 10-12hr every day.
+Worst HR department Ever.
+If you get the any problems and talk with team lead , and any other person they will give answer i will let you know. I will ping you, i will share you. But real fact is that they didn't tell you about how to do.
+Many time team lead tell you why you are asking me if you get the problems so don't ask me.
+Mostly after lunch time they sleepy mode.
+Working with old technologies,very bad working environment,hard workers will get reword as more work.No appreciations. People will interact much by knowing your language and religion.After join this company you will feel why i joined this company.
+Please don't join for freshers its not good for freshers.","Religious people(Its good to be religious but not being partial to one group),No leaves at all have at work.",Close your company,1.0,,,,,
+2015-08-11,,,Former Employee ,Hopefully Mitel Management will bring positive change,Hopefully Mitel Management will bring positive change,0,"Working on, and shaping new (Leading Edge) telecom technologies. If successful your experience and skills should be in high demand",Management style. Look to Mitel management introducing change and a cultural improvement,,3.0,3.0,1.0,3.0,4.0,2.0
+2015-07-10,,,Former Employee ,No Vision,No Vision,0,"Pay, Free Breakfast , snacks","company has to maintain a quality product line, no vision and
+with Mitel not sure of future",none,2.0,2.0,1.0,2.0,3.0,1.0
+2015-05-31, Technical Lead,Bengaluru (India),Current Employee ,Technical lead,Technical lead,0,"Great opportunity for technical learning. Being a small company, less process and you may get a chance to get involved in A-Z of a project. Salary is decent","Less process, this adds more work pressure as you may end up repeating many tasks. Aquired by Mitel and yet toknow about the impacts of aquisition",,4.0,2.0,3.0,4.0,3.0,4.0
+2015-05-11, Technical Lead,Bengaluru (India),Current Employee ,Leading production support,Leading production support,0,"Feasibility to work with different products , satisfactory pay.
+Good team work. Friendly ambience. Worldwide customer base is an added advantage","Frequent policy change , bad management",,4.0,2.0,3.0,4.0,4.0,2.0
+2015-04-08, Technical Lead,Bengaluru (India),Current Employee ,Lead,Lead,0,"Greater responsibilities , greater opportunities to work on latest technology","Things aren't working for the company in many aspects . Monetary issues is always been a problem.. Hence, everything boils down to finance ( be it outings , bonus , facilities , amenities ) . Dictatorship based organization so that leakage could be controlled through micro management.
+No processes or any initiative that could build good trust with employees .","Nothing much can be advised because this company is competing with huge coffer bigger companies and nothing would change even if something is advised by the employees . At most , respect the employees and show some human values .",2.0,2.0,1.0,4.0,3.0,1.0
+2015-04-23,,"London, England (UK)",Former Employee ,"Great product, super cutting edge technology, terrible HR and management, no career growth","Great product, super cutting edge technology, terrible HR and management, no career growth",0,"Super collagues, impressive technology, good location","Sell and run mentality, no career opportunities, no HR, unstable company with no future, horrible culture",Change senior management team,1.0,3.0,1.0,1.0,3.0,1.0
+2015-03-10, Senior Test Engineer,Bengaluru (India),Current Employee ,Good Company for learning if u want to work in IMS or LTE products.,Good Company for learning if u want to work in IMS or LTE products.,0,Good Salary and career growth,Will feel bored of doing the same work after certain period,,3.0,3.0,2.0,3.0,4.0,3.0
+2015-03-06, Technical Lead,Bengaluru (India),Former Employee ,Used to be a great company; still not a bad company to work for,Used to be a great company; still not a bad company to work for,0,"* In the early days, the work env was awesome! Very employee friendly and most people used to work long hours without being pushed to do so.
+* The hikes used to be great. Still at par or slightly above industry standards.
+* Flexible work hours and work from home policy; this has been tightened after misuse by new employees
+* Good employees are handsomely rewarded.
+* Opportunities to travel/move abroad if you are in operations.","* The management only cares about a few star employees and that becomes very evident at times
+* The HR function is messed up, especially after the HR executives of Airwide came in via the acquisition. Not sure if it has improved lately
+* Highly unorganized! This was fine when the company was small but no significant efforts have been made to get things in order during its growth stage. Gets frustrating at times.
+* Office politics has increased.",Fix the HR. Get things more organized.,4.0,3.0,3.0,4.0,4.0,3.0
+2014-11-12, Engineer,Bengaluru (India),Current Employee ,no working environment,no working environment,0,"timings,salary,the products.development,testing,company with benefits, personal growth ,","environment and working culture,senior level management,racism",please look into the bottom of the tree employees also,2.0,2.0,2.0,2.0,3.0,1.0
+2014-09-19, Engineer R&D,Bengaluru (India),Current Employee ,Love the work culture,Love the work culture,0,"I joined this company as a fresher and my experience in the first job has been much better than my friends working in other companies.
+- Company policies are employee friendly.
+- The senior management is very friendly even to the freshers
+- You actually get to contribute in important projects.
+- Flexible timings","- HR are less in Bangalore center so they take their own time.
+- Dont expect very big perks like those in well established MNC.",Thanks for creating such a nice environment.,4.0,5.0,5.0,4.0,4.0,5.0
+2014-09-22, Senior Engineer R&D,Bengaluru (India),Current Employee ,Currently Employed as Sr. Engineer R&D in Bangalore,Currently Employed as Sr. Engineer R&D in Bangalore,0,"Product company and lot of learning with new technology. good growth i have seen in past 2 years. global reach, so lots of opportunity. good place to work as there are lots of initiatives from the support group.","There is a genuine effort in bringing in the good practices, but till then have to manage with few operations related issue. hardly been assigned to work",keep bringing in new initiatives bring in transparency in the day to day operations,4.0,4.0,4.0,4.0,4.0,3.0
+2014-08-23, Engineer R&D,Bengaluru (India),Current Employee ,Good work . HR department is worst.,Good work . HR department is worst.,0,"Good work,
+Free Breakfast and dinner.
+Free snacks, tea, coffee,
+Flexible timings",Difficult to get work from home now a days.,,3.0,3.0,3.0,5.0,4.0,3.0
+2014-06-21, Technical Lead ,Bengaluru (India),Current Employee ,Satisfied,Satisfied,0,"Great work Culture, no formalities, no process overheads, You get to work in latest technology",Not anything as such. Same grapevine structure as in any other company. You'll get noticed only if you are in the grapevine structure. Not sure about the hike and promotion.,"When there is no issue with one employee, it doesn't mean that he is not performing well. The management must be happy that the employee is not letting the management to face the problem. He has all the virtues that is expected from him : proactiveness, intelligence, problem solving capability, patience,etc.",4.0,4.0,3.0,4.0,4.0,3.0
+2014-04-11, Team Lead Engineer,Bengaluru (India),Current Employee ,Team lead enginner,Team lead enginner,0,Good telecom products to work on. latest cutting edge technology work,new technology is a challenge to work.,,4.0,4.0,4.0,4.0,4.0,4.0
+2014-04-18, Technical Lead,Bengaluru (India),Current Employee ,Not Sure which way company is heading,Not Sure which way company is heading,0,As a small company you learn to work in adverse condition and learn quick . So basically you learn to survive . If you are really good you can demand what you want .,As any other company you need to fight if you want anything . For example hike and onsite you need to literally fight for it .Too much workload . Now as the company is expanding too fast not sure if they will really sustain if any recession happens. The risk is even if they loose any big customer they have to fire ppl.I n my two year i have seen 4 employees getting fired due to non-performance .,HR dept is really bad . Pls improve in this area.,2.0,1.0,2.0,3.0,3.0,2.0
+2014-02-17, Software Engineer,Bengaluru (India),Current Employee ,Working in Mavenir Systems since 2 yrs,Working in Mavenir Systems since 2 yrs,0,Great things to learn in spite of so many people coming so fast,Wish Managers could give more opportunity.,Need to focus on Managers and their team relationship,4.0,3.0,3.0,3.0,3.0,3.0
+2014-02-17,,,Current Employee ,Ok,Ok,0,"When small it was fun..Lots of good work, responsibility & recognition as well.",Some employees have no or very less work while few employees get ton of work & they are taken for granted.,"Do not take employees for granted.
+Look out for employee aspirations and provide some long-term growth planning to them.",3.0,3.0,3.0,3.0,3.0,3.0
+2014-02-12, Senior Software Engineer,,Current Employee ,There is great opportunity if you work hard.,There is great opportunity if you work hard.,0,"Work From Home, free food. Good people to work with.","HR is worst in India. If you are looking for 10-6 job, this is not for you.",Pay attention towards HR malfunctioning.,4.0,2.0,3.0,4.0,3.0,3.0
+2013-10-29, Senior Systems Engineer,Bengaluru (India),Current Employee ,Good place to work!,Good place to work!,0,"Excellent knowledge base
+Peers are technically strong
+Management is friendly",HR department needs to improve,,4.0,4.0,4.0,4.0,4.0,4.0
+2013-10-09,,,Current Employee ,Tough but worth it,Tough but worth it,0,good work culture and highly talented people,far way from the main city,,4.0,,,,,
+2013-10-02, Engineer R&D,"Reading, England (UK)",Current Employee ,"Fast paced, leading edge company who are the forerunners in future technology","Fast paced, leading edge company who are the forerunners in future technology",0,"Working on new and futuristic products, constantly learning and taking on new challenges. Flexible employer, what you put in you get out, fits around family life.
+Opportunities to travel and relocate globally.
+Good pay and benefits.",If you can't re-prioritise or only have one gear then this isn't the place for you.,Continue to communicate with staff on business goals and achievements.Knowing what's going on and the plans for Mavenir is important to our feeling part of the organization and its future.,4.0,4.0,3.0,4.0,4.0,3.0
+2013-08-30,,,Current Employee ,Engineer R &D,Engineer R &D,0,"Work life balance.(Hell lot of it ) especially if you are into Java based Project.
+Good people .
+Leaves (ah! 2 Weeks off was a simple task here)
+Lot of time if you can focus on skill development all by yourself.
+High chances of converting your stay here into paid sabbatical. But you'll have to be focused as its natural to become lazy when you really don't have anything to do.
+Good work happening in C++ Space.","No quality work
+Even if luckily you got something to work on, it would not be any better than crap.(Completely true for Java stuff)
+No policies of any type defined .",Do you guys really have some vision ??,3.0,5.0,2.0,2.0,3.0,1.0
+2013-08-08,,,Current Employee ,Good company to begin with,Good company to begin with,0,"learn things
+friendly people
+Flexible timings
+Good company to begin with","office far away from main city
+salary is 6 something for freshers",management should be more open to employees,4.0,,,,,
+2013-09-04,,,Current Employee ,Come with your guard up and eyes opened,Come with your guard up and eyes opened,0,"Leading products, fast reacting, access to value experience , company is well thought of by operators and so Mavenir employees probably valued by the competition","Bad work life balance, poor leadership and no processes or decision making","Sell it and go, need someone in who can grow a business",1.0,2.0,1.0,2.0,4.0,1.0
+2013-07-04, Senior Engineer R&D,Bengaluru (India),Current Employee ,"Mavenir systems Bangalore , Manyata tech Park","Mavenir systems Bangalore , Manyata tech Park",0,"Good perks and salaries. Good policies, good working environment. Veterans working in Mavenir from past 5-8 years seem to be very satisfied with Mavenir and its benefits and incentive plans.",Management team is very aggressive. Any non performing asset is sacked off immediately without warnings. Seen some top level guys being sacked on very short notice for non-performance.,Need more staffing and better processes,4.0,3.0,5.0,5.0,5.0,4.0
+2013-07-21, Senior Systems Engineer,Bengaluru (India),Current Employee ,If you are looking at Java profile in Mavenir don't ever join here,If you are looking at Java profile in Mavenir don't ever join here,0,"Easy life
+Nobody cares what you do or what you don't do.
+Salary is good","They promise you work on java, but then you will have to work on a proprietary language in the company.
+At times the work pressure is tremendous.
+Manager does not care about you.","Don't make fake promises to your employees.
+Take care of your employees",2.0,3.0,2.0,1.0,4.0,1.0
+2013-08-01, Technical Lead,Bengaluru (India),Current Employee ,Company with no future vision and no ethics,Company with no future vision and no ethics,0,Good learning experience if you are in good projects.As things are very dynamic here you will learn to survive and switch and adapt in a very short time.,"No future vision in higher management , it seems they want to shell the company when ever they will get a good deal . The HR department in Bangalore is pathetic . You get designation on basis of your closeness to the managers not n basis of work . The only thing they cares is the deadline not the quality . Too many managers in Bangalore office .","Reduce the managers , you need more engineers to grow not managers.",1.0,1.0,1.0,2.0,3.0,1.0
+2013-04-12,,,Current Employee ,good company to work in,good company to work in,0,work load is high and pace is fast. But you learn a lot if that's what you like to do.,too busy and you always have too much to do.,,3.0,,,,,
+2013-02-01, Engineer R & D,Bengaluru (India),Current Employee ,Good compensation but not enough learning,Good compensation but not enough learning,0,"Flexible timings , choose your time to work also have work from home options. people use it regularly
+Less work load,
+decent Compensation,
+Free snacks....","No learning whatsoever in terms of getting to know new technologies , you will gain product knowledge , but that will be useless once you make a switch again...
+
+Lack of innovative activities to keep employees sticking around .
+
+Company is still in its shell and lacks direction , in terms of growth and management.",,3.0,4.0,2.0,3.0,4.0,2.0
+2013-03-03, Technical Lead,Bengaluru (India),Current Employee ,Racist company with no moral values,Racist company with no moral values,0,Compensation and work life balance,Racist company. Nobody will listen to you. Can get fired if somebody in the mangement does not like you. Absolutely no learning. Think twice before join.,Learn to let go of racist people in the management. Will hurt the company in the long run,1.0,3.0,1.0,1.0,4.0,1.0
+2013-01-19, Senior Engineer Testing and Customer Operation,Bengaluru (India),Current Employee ,Too much workload without any appreciation from higher management .,Too much workload without any appreciation from higher management .,0,"Good learning and quality work . If you are workalhcolic then its good for you , Don't expect you can have a cool 8.30 hour job life.","Too much workload . If you start working hard and taking responsibility they will start overloading you without taking care of any benefit or employee satisfaction . The higher management set unrealistic , impossible deadline without/with any consultation with the team most of the time. The old employees are better paid and less loaded with work compared to new employees(who joined in 2012). HR dept is pathetic with no employee friendly policy .The company is growing but lacking basic infrastructure and people are sharing cubical . Its a struggle @ lunch time to get food and seat to have lunch .",Treat employees as human being not machines . Try to normalize the salary of employees currently the salary difference in same level and experience is too much. Give a better professional place and environment to work .,2.0,1.0,1.0,4.0,3.0,1.0
+2012-07-09,,,Current Employee ,"Good products, chaos organisation","Good products, chaos organisation",0,"Very interesting and leading products, supported by industry respected products from the Airwide and a big customer set from the Airwide.","Mavenir management seem not to know how to run company of the size. Responsibility seem to be deliberately left unclear, with result of gap and overlap. Most decision come from informal and uninformed Dallas discussion rather than using real information and logic. More friendship based than capability. Old Airwide managers are know what they are doing and when step in things get solved in logical way and quickly. Wish same were true for whole company.",,2.0,,,,,
+2012-05-10,,,Former Employee ,What a mess,What a mess,0,"Interesting products, worldwide presence, some very talented people. Mavenir is in the right place in terms of products in the telecoms market","This company is a mess. Its direction changes on a weekly basis. Who is steering the ship? Development center in India is demotivated, a few people have knowledge and don't share it.
+A lot of decisions are done in corridor chat in Dallas.","Put a structure in place to allow for some growth, otherwise, the company will fail. Its current organization is not scalable.",2.0,4.0,2.0,2.0,2.0,
+2012-01-23, Senior Test Lead Engineer,Bengaluru (India),Current Employee ,Not a good place to work...,Not a good place to work...,0,You will learn C++ and to once will learn how to manage testers,"1) Incompetent Sr Management.
+2) Too much of politics, people are recognized, appreciated based on how well the employee is chamcha to his senior.
+3) Some times compensation given is not fair as few people who are having less experience will get atleast 20% more than a person having more experience.
+4) Work given is not that satisfactory, as if one is stuck is some issue or he is unable to resolve the issue, he will be marked as under performer and will not be given good work at all..",NONE,1.0,1.5,1.5,1.5,2.5,
+2011-12-21, Engineer,Bengaluru (India),Current Employee ,Good place to work,Good place to work,0,"decent work
+good pay
+flexible timings
+opportunity for growth","needs more direction
+need to focus more on quality",None,5.0,5.0,4.0,5.0,4.0,
+2011-11-19, Senior Engineer,Bengaluru (India),Current Employee ,its work culture is good,its work culture is good,0,salary is good in current market . No performance variable in CTC so your inhand salary is good. Flexible work times .,Small company . one has to change work priority and technical domain as per situation .,As in india the employee count is growing very fast concentrate on the HR dept .,4.0,3.5,4.0,4.0,4.0,
+2011-10-31,,,Former Employee ,Not one to Join Now,Not one to Join Now,0,Mavenir has an ambitious vision for the future. Some might say over-ambitious but it is good for a company to aim high.,"Mavenir's senior management are ruthless when it comes to laying off people. Expect no loyalty.
+
+Unless you sit at the big table, don't expect stock, bonuses or pay rises. In your contract? So's the exception clauses buddy!
+
+You are there to work, work, work and kowtow. Don't like? Go work somewhere else.
+
+Don't like the way the place is managed? The chaos of bad decisions? Who cares?
+
+Not big pals with one of the senior team? Then you're just office furniture.",Treat your staff with some respect.,1.0,3.0,1.0,1.0,1.0,
+2011-08-19,,,Current Employee ,International experience without private life,International experience without private life,0,"Rapidly growing multinational business, gives great experience about dealing overseas teams. Still small enough company to know most people. Dynamic environment, opportunity to see the world.",They seem to feel that US employees are just a financial liability compared to oversees employees.,"People do count! They need life, they need weekends (sometimes). Invest into your future, not just short term!",2.0,2.5,1.5,3.5,2.5,
+2011-08-19,,,Current Employee ,A company to avoid,A company to avoid,0,Co workers are quite OK.,"The whole organisation seems adrift, especially after they acquired Airwide. There's very much a hire and fire mentality. Indeed, they have let quite a few go people this year. It's all about cost cutting.
+
+You get to feel very down because you can't do your job properly and you feel like the customers are being let down.
+
+Finally, joining what was Airwide is pointless because everything is managed out of Mavenir, and only those who are part of a tight clique in the US get treated well.","Even for small companies it should be all about the customer, all the time. Be confident, not arrogant because it drains morale and in the end customers see though it.",1.0,3.0,1.0,1.5,1.0,

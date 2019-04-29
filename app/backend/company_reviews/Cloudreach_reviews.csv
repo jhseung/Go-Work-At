@@ -1,0 +1,793 @@
+date,employee_title,location,employee_status,review_title,years_at_company,helpful,pros,cons,advice_to_mgmt,rating_overall,rating_balance,rating_culture,rating_career,rating_comp,rating_mgmt
+2019-01-23,,,Current Employee ,Great place to work.,Great place to work.,0,"- Exciting industry
+- Great work/life balance and flexibility
+- Transparency (frequent Q&A with leadership, quarterly business updates, etc.)
+- Communication & Collaboration made really easy with cloud-based solutions
+- Unlimited PTO, comprehensive benefits (medical, dental, etc.)
+- Big emphasis on promoting your personal growth. If you express an interest in a subject, you are encouraged to learn about it
+- Leaders trust their employees
+- Fun offices (some are dog friendly)
+- Relaxed environment without sacrificing hard work
+- Individuality is respected and valued
+- Colleagues across the globe","- Colleagues travel for projects a lot, so sometimes it can seem like people are coming and going
+- Growing pains that come with every org growing at this rate, but leadership is working hard to implement processes that help the org scale",Love how you make everyone feel part of the business through clear and transparent communication,5.0,5.0,5.0,4.0,4.0,4.0
+2019-04-22,,,Former Employee ,Not quite as advertised,Not quite as advertised,0,"Unlimited time off
+Quarterly events were fun but not sure how long they will continue for the leadership was beating around the bush about it
+Some interesting projects","New people fundamentala seemed rushed new levels were all over the place
+Finance and expense operations need work should be better for a consulting company where majority of us have to travel on a weekly basis and are the bread and butter of the organization
+vision is all over the place
+Leadership is disconnected",Not sure,2.0,,,,,
+2019-03-19,,,Current Employee ,miss the old Cloudreach,miss the old Cloudreach,0,still some great people here (though seems like they are getting pushed to the background for new blood though which is a shame).,"used to be fresh and bold, now just feels like we are trying to be every other giant boring corporation. too by the book. new people from big corps with no understanding of what made cloudreach special seem to be the only ones with a say on anything anymore which is a shame.","pretty sure you can grow in size as a business and still be creative and bold in how you run things. do we need to model everything we do after what you've seen at the big corps youve worked at? its all so vanilla. we have smart people with fresh ideas, shame we are trying so hard just to be like everyone else. company used to be very authentic, can we get back to that?",3.0,3.0,3.0,3.0,2.0,2.0
+2019-04-18,,,Former Employee ,Leadership woes,Leadership woes,0,They value tech talent and are willing to invest in tech training,"The leadership team does not know how to lead. There are many biases and disriminatory practices by cetain 'leaders'. Instead of addressing the issues, these people continue to get reassigned to newly created positions with goofy titles and fake responsibilities.",Get rid of fakers in leadership roles. Listen to your valued employees when they express concerns about lack of direction. These intelligent and talented people are in high demand - pay attention to them or they will be gone.,1.0,3.0,2.0,1.0,3.0,1.0
+2019-04-18, Cloud Architect,"Atlanta, GA",Former Employee ,"Beware, not cloudy as defined or as you think.","Beware, not cloudy as defined or as you think.",0,None. Googling for solutions is their tool. They know how to use the search engine well.,"Mere certification does not help. This, they fail to understand. The Cloud Architects and the Lead Cloud Architect I worked with might know only about AWS cloud., but, they lack to have a whole Application knowledge, Application Integration knowledge, Data structures, etc.. and will not be able to help for refactoring Applications. All young folks with certifications and they think they know everything. This is wrong. They lack manners, rude and unformattted behaviour.","Define ""Cloudy"" well and implement it or reflect upon it really. Talking one thing and doing one thing is ridiculous. Hire really experienced folks and not just young folks who lack manners and just manage to get some certifications and think they know it all. Very arrogant and poor manners and such consultants are a disgrace to the Software Engineering world.",1.0,3.0,1.0,1.0,3.0,2.0
+2019-03-18, Csd,,Former Employee ,The growing pains are still...growing,The growing pains are still...growing,0,"Flexible work arrangements, snacks/beer at offices, worked with some smart folks on engagements. After a few projects under your belt you can leave for better comp to a more stable company. Some unique projects (but need to be lucky to get staffed on one). TGIF was a nice touch.","Upon the acquisition of Relus there has been a huge uptick in staff aug projects. This has already caused burn out.
+
+Internal promotions seems to be based on tenure, not talent. The tenured cloudreachers promoted to the “Leader” roles are protective of the company and not their people. It is apparent that most of the internal promotions to “Leaders” had never proved they can be a people manager and are now just winging it and learning on the fly. I know many CSDs (like myself) had left because their line manager never had their support.
+
+- Expense payout never meets SLAs","Sales org needs more strategic direction on which opportunities to go after and not just the low hanging fruit (staff aug thrown from AWS).
+
+If the company is going to grow quickly and hit revenue numbers - be competitive with salaries and bring in talent with consulting AND technical backgrounds.
+
+ Hire more external, experienced managers to North America.",3.0,5.0,4.0,5.0,3.0,3.0
+2019-03-03, Sales,,Former Employee ,Disheartening,Disheartening,0,Seemingly transparent goals shared regularly. Trying hard to put structure in place.,Several ‘leaders’ are far from just that and put on a very different front when in front of the company and the CEO. Expect constant changes to your role and compensation measurement; you’ll never know what to expect. Layers upon layers of management with few do actually do the work; burning good people out.,"Leadership 101: praise in public / criticize in private.
+Allow line staff review the leadership; may give you eye-opening insight.",3.0,2.0,4.0,3.0,4.0,2.0
+2019-02-15, Technical Architect,"Atlanta, GA",Current Employee ,"Good Company, Growing Trying To Find Their Way","Good Company, Growing Trying To Find Their Way",0,"Great culture, they try hard & great people",some confusion & growing pains. some people are in over their heads.,"create eneterprise ready offerings....too much of the solutioneering is done on the fly by talented people, which isnt scalable.",3.0,5.0,5.0,3.0,3.0,3.0
+2018-12-16, AWS Partner Business Dev,"Remote, OR",Current Employee ,Great place to work!,Great place to work!,0,"Very similar company to Relus, we were recently acquired by CR",Still waiting on my compensation plan,Be a bit quicker on the income piece,4.0,4.0,4.0,5.0,3.0,4.0
+2018-11-16, Cloud Architect,"Atlanta, GA",Current Employee ,CEO is Mr. Dreamy!!!!!!,CEO is Mr. Dreamy!!!!!!,0,"I just came back from our all company event in Cancun (on the beach?!?!?) in Mexico!! We have a new CEO and leadership team who gets it and they are working hard to make this company even more amazing. It goes without saying our that our new CEO is a handsome hunk, but he’s also crazy smart and has lived all over the world. But I sat with him at dinner in Cancun and he’s so down to earth and so friendly that he connects with all employees. For those who haven’t met him yet, you need to meet him to understand. I talk about our CEO because I believe you need to understand a company’s leaders to understand the company. And the leadership team is made up of inspirational people who I believe will steer this company in the right direction. Our best days are ahead so you should join now if you want to have a career high point.","We need to catch up. Many things are missing for a company our size, but it’s a chance to be a part of the solution.",We are supporting you as employees. Keep it up so I can keep telling all my friends that my company is better than theirs.,5.0,5.0,5.0,5.0,5.0,5.0
+2018-10-03, Cloud Systems Developer,,Current Employee ,Keeping everything Cloudy,Keeping everything Cloudy,0,"Super friendly and helpful people everywhere you go, the company's got some exciting future plans",Need to solidify the training process. More focus on hands-on training and less so on online courses or certifications.,,5.0,5.0,5.0,5.0,5.0,5.0
+2018-10-03,,,Current Employee ,"Immature Company, Lacking Real Depth of Opportunity","Immature Company, Lacking Real Depth of Opportunity",0,"I imagine this company would be great fun if you're in your 20's and looking to drink beer at work, play video games on the job, and work with very little supervision/accountability. There are some genuinely smart, talented technical people working here, though with the state of things it's hard to say how long they'll stay.","If you're looking to truly grow in your career, look elsewhere. Inexperienced and unqualified people sit in business-critical and leadership roles in the company, lacking any real training or guidance in how to effectively lead teams and grow their team members. Often times it feels like people are just ""winging it"" and learning as they go how to lead teams, often at the expense of their people.
+
+All of the diversity and inclusion efforts are very shallow and surface level to give the company a good image and don't address the real, internal issues and work environment. Examples of official, company sponsored events include binge drinking on a party bus and an all-you-can drink company-wide kickoff event in Mexico. Are we the most innovative cloud computing company in the business, or a bunch of college kids on spring break? As if being a woman in a mainly male tech company isn't challenging enough, Cloudreach throws a bunch of alcohol into the mix and makes it even more inhospitable.","What this company really needs is to seriously mature and think about the type of environment it provides for it's employees, and what that message sends about who belongs here. Spend time training your leaders so they can invest in growing your people. Stop promoting and keeping unqualified people in leadership roles.",1.0,2.0,1.0,1.0,2.0,1.0
+2018-08-31,,,Former Employee ,A very disappointing experience,A very disappointing experience,0,for the most part the people are nice and willing to work with you. they have cloudy lunch every Friday. It's definitely an engineering heavy company but not much of a sales org. I believe the new CEO will be a positive person to bring much needed change.,"I think Cloudreach is two very different companies if you compare them in the UK and the US. I saw too much leadership in the US leave very quickly, which is disconcerting. I saw two sales manager and a channel manager quit within a period of 4-5 months. They hired a CMO and he only stayed for 2 months. I saw a few sales people quit in a short period of time as well. I experienced a total lack of support for the sales org. There's not much of a marketing dept to help generate demand, I didn't see that the channel managers worked successfully with AWS & Azure to where they were willing to proactively cooperate with the sales org. AWS & Azure expected Cloudreach to bring them deals and Cloudreach expected the same out of them. AWS told partners that they expected them to have their own demand gen, marketing, events and activities to generate business and Cloudreach just does not have these capabilities yet. I was met with a lot of resistance any time I wanted to do an event or activity to generate demand. The comp plan is demotivating. You have to book all of your trips on your own credit card and I personally had several issues in being paid on time and correctly, which is very stressful. The company does not reimburse for lunches. This adds up quickly when you're an outside rep and are constantly traveling for business. This point was brought up to management many times and nothing was ever done about it.
+ I think many of these issues are due to the fact that the company is working towards accelerating its growth and they don't quite have the right management and procedures to sustain this growth.","Sustainable growth is key to ensuring employee retention and morale. Listen to your people as they have your best interest in mind. I'm excited for all the growth the company is working towards but if your average employee tenure is 1.5 years or less, you'll have a hard time sustaining this growth. I wish you guys the best luck!",2.0,3.0,2.0,1.0,2.0,1.0
+2018-08-12,,,Current Employee ,A good company overall when compared with other consulting firms but it's time to mature internal processes,A good company overall when compared with other consulting firms but it's time to mature internal processes,0,"Excellent and supportive colleagues, opportunities to learn, and opportunities to work on challenging and sometimes cutting-edge cloud enablement projects. Access to cloud solution providers at a high level.","Two words: expenses and corporate cards. The company calls on its consulting employees to travel quite a bit. This is expected; what's not expected is incurring many thousands of dollars in personal debt while awaiting reimbursement. This is actually a quite serious 'con' because it can mean stress and a degree of hardship caused by doing one's job and is a long ago solved problem for most other orgs in this space (it's a simple formula: corp AMEX, Concur, corporate rates for airfare, hotels and rental cars, etc.).","North American leadership: decisively address the expenses issue. There are talented people who're staying away from, or leaving Cloudreach - despite its many virtues - because it lacks a solid layer of consistent, professionalized logistical support for staff who're called upon to travel. It will be increasingly tough to attract and retain the types of people the company needs to succeed with enterprise engagements if this isn't tackled.",4.0,3.0,4.0,3.0,4.0,4.0
+2018-08-21,,,Former Employee ,"Great company , very very busy","Great company , very very busy",0,They are in hyper-growth mode so there is a ton to do. (good),They are in hyper-growth mode so there is a ton to do. (Also bad),"You have good people, make the effort to keep them.",4.0,3.0,5.0,5.0,4.0,5.0
+2018-07-30,,,Current Employee ,"Great growth potential, work/life balance, & opportunity in an exciting industry sector","Great growth potential, work/life balance, & opportunity in an exciting industry sector",0,"-Phenomenal work flexibility and benefits (work from home/remote, open offices with amenities, quickly responding HR to any benefits questions, Mac laptops, free lunch every Friday, etc etc)
+-Culture/camaraderie: people clearly care about colleagues, are quick to welcome and include new joiners, Slack channels are used effectively to build community, keep teams in touch, and keep fun in the workplace.
+-Tons of opportunity for growth, learning new skills (both technical and business), working for big-name clients
+-Startup feel to the environment, innovation is encouraged & lots of opportunity to grow in and beyond your role
+-High level of transparency: leadership make a sincere effort to inform the whole business, top to bottom, of upcoming changes and the reasoning behind them","-As a rapidly growing company, Cloudreach changes quickly: if you don't handle change well or expect things to stay the way they have always been, this environment is not for you","Keep going! Change is to be expected from a company that has doubled in size every year. Focus on keeping that transparency with your team, delivering great work, and promoting the Cloudy values to current and prospective employees.",5.0,5.0,5.0,5.0,5.0,5.0
+2018-09-04, Enterprise Cloud Architect,"Atlanta, GA",Former Employee ,Cloud Architect,Cloud Architect,0,"Pays for cloud certifications, can work remotely","Bad attitude. Mere young certified folks who don't understand applications or the whole picture. Politics and hatred among team members. Using foul language and mocking, bad mouthing the clients behind their backs. lack of professional conduct. Be careful. Do not join.",There is lack of cloudiness. Bad..Mere certification is.not.enough.,1.0,3.0,1.0,1.0,2.0,1.0
+2018-07-13,,,Current Employee ,Culture going downhill - big ego'd men behind the wheel,Culture going downhill - big ego'd men behind the wheel,0,"-Global kick off events are cool and fun
+-Career progression opportunities for those willing to sell out and drink the kool aid
+-Some really great and really smart people
+-Camaraderie among employees
+-Decent pay & benefits","Blackstone is slowly eating away at the culture.
+Male entitlement is rampant and loathsome; men get promoted into leadership roles after bro'in out over a few beers and fancy dinners. Cool bro. High five bro.
+The offensively artificial communications and ridiculous illusion of transparency and honesty. The PR team are PUPPETEERS who spin the truth, evade tough questions, and cover up the dark secrets. Dance for us, puppets, dance!","Go back in time and don't sell to Blackstone. In all seriousness, i'm afraid things may be too far gone to offer advice at this point and the management team will just scoff at it, not daring to even consider a moment of self reflection. The company will continue exploiting and disappointing its employees while the leadership team chases their big exit. Once that happens, the executive team will collect a huge payout from their equity, go on a fancy vacation in st. maarten, send their kids to obscenely expensive boarding schools, and move on to other companies to do it all again. Meanwhile, the little people will be left behind, many without jobs, and only a memory of the company that they used to love that will cease to exist.
+
+Before all goes up in flames you could also try hiring more women into leadership. Or just A woman. a single woman. not single like relationship-wise, but as in 1 woman. Don't want to get too crazy with more than 1!!! Or just hire anyone/anything into leadership that is not a clone of the dudes you have right now. maybe an iguana. or a poodle, or a cheese stick, i don't know just something different.",2.0,2.0,2.0,3.0,3.0,2.0
+2018-07-25, Engagement Manager,"New York, NY",Current Employee ,Great Overall,Great Overall,0,Great company culture with a focus on professional development.,Could help teams by streamlining routine processes.,Keep up the good work.,5.0,5.0,5.0,5.0,4.0,5.0
+2018-06-07, Business Development,"Dallas, TX",Former Employee ,HyperGrowth & Lots of Potential,HyperGrowth & Lots of Potential,0,"Growing, relevant & innovative tech company that helped to pioneer, and remains at the heart of the Public Cloud movement. Deep expertise in both SI and MSP work-streams, with quality support of all phases of the cloud adoption and modernization lifecycle. Cloudreach is well-respected by both clients and CSP partners (AWS, GCP, Azure, Alibaba). Have thus far successfully maintained a unique and attractive culture in the midst of hyper-growth.
+If you are an entrepreneurially-minded, motivated, hard-working, self-starting, caring person... this company is a great fit. Despite the size, there are not a lot of processes and procedures, or formal programs in place. Upside potential is huge. Take initiative, be responsible, assume leadership even when it is not given or expected, and you will do well. In my opinion Cloudreach is still very early on in its growth period, and a successful employee will be able to grow with it.",Hyper-growth and constant change is a challenge. Maintaining culture is essential but challenging. CSP Partner eco-system is saturated and competition is fierce. Remaining Agile and responsive while simultaneously expanding is critical. Top talent will be increasingly hard to retain.,"Strive to remain transparent, especially regarding the pressures that exist due to Private Equity ownership. Run the US differently than EMEA. Empower your employees and resist centralization and hierarchy of power. Company culture and employee buy-in is important. Do not sacrifice, or underestimate the importance of fostering it, especially during the hiring/recruitment process.",5.0,4.0,5.0,5.0,4.0,5.0
+2018-05-24,,,Current Employee ,"Fantastic Company, Hope it Stays this way","Fantastic Company, Hope it Stays this way",0,"Too many to list. Technology in itself is the latest and greatest. Great company culture, very flexible how you like to work and live/work balance is big. Tons of other positives","Not really a con but the company is in extreme growth mode right now. Naturally things you're working on can change in an instant but if you have that expectation already, not a big deal at all. Only real concern is what happens if/when it slows down?
+Would say pay could probably be better but that's made up for in many other ways.
+
+Really hope to spend my career here",Keep doing what you're doing! It has been amazing working here!,5.0,5.0,5.0,5.0,3.0,5.0
+2018-05-14, Cloud Solution Developer,"New York, NY",Former Employee ,A PR nightmare waiting to happen...,A PR nightmare waiting to happen...,0,Looks damn good on a resume; two weeks after leaving I received three amazing offers! Nine months with this bedlam of wannabe tech industry leading knockoffs I increased my annual salary by 22%.,"""Respect the individual and individuality"" is a lie. I have never been so disrespected or talked down to before in my life! Management takes little to no corrective action on such matters.
+
+Security is a total joke, there's no monitoring of work systems.","An anonymous reporting system/tip line for employees would be nice.
+
+There’s no zero monitoring of employees, so why doesn't HR run criminal background checks on new hires?",1.0,3.0,1.0,2.0,2.0,2.0
+2018-03-15,,,Current Employee ,Cloud Systems Developer,Cloud Systems Developer,0,"For the time in my short career, I can honestly say that I love my company and I love the people that I work with. It's a great feeling to be surrounded by individuals that are passionate about they do and who are also focused on growing professionally. The organization is growing quickly, I just hope that we remain focused on the employee and obtaining the overall culture of the company. growing professionally. The organization is growing quickly, I just hope that we remain focused on the employee and obtaining the overall culture of the company.","Cloudreach is still very much so a startup environment so there's not always going to be a process or procedure in place for everything. However, I see this type of situation as a plus it gives the employee the opportunity to think outside the box and really challenge themselves on a daily basis.",Management keep doing what you're doing. Remain transparent and honest with your employee.,5.0,5.0,5.0,5.0,5.0,5.0
+2018-02-06,,,Current Employee ,Great first month!,Great first month!,0,"Almost every employee I've interfaced with is a genuine pleasure to work with and be around. The environment is super flexible in terms of work from home, unlimited time off, and work/life balance. Communications are great and there's visibility into leadership with weekly sync-up meetings. The work is interesting and there is room to move around within the company.","There will definitely be some growing pains as the company scales and moves from start-up to a much larger company. Sometimes the global locations can make working together more of a challenge. Also, career progressions could be clearer. These are all things many companies struggle with.",Stay on top of communications and transparency as much as possible as the company grows!,5.0,5.0,5.0,4.0,5.0,5.0
+2017-07-13,,,Current Employee ,Not the cloudy paradise it seems from the outside,Not the cloudy paradise it seems from the outside,0,"There are some very smart and fun people working for this company, but they're quickly jumping ship for better pay and better opportunities.","Cloudreach is just like every other soulless consulting firm, except we put a lot of effort into pretending we're special and different.
+
+We treat scaling a company like cooking pasta: throw a bunch of it at the wall and see what sticks. We're growing aggressively since becoming acquired by a massive private equity firm, but there is a huge misalignment between recruitment and the business. Recruitment only cares about hitting a massive target, which results in hiring tons of people who aren't the right fit. This leaves already over-stretched leaders to deal with the aftermath of somehow attempting to make it work before eventually firing them. Some top talent has left the company in recent months, with more to follow, because they do not put in the effort to retain high performers.
+
+Cloudreach also shoves its values down your throat at every opportunity, but doesn't live up to them: ""Promote personal growth,"" we make people 100% billable with no time for further training and development. ""Respect the individual"" - but we hire 90% white men.",Actually live up to your values. Support and reward high-performing employees. And hire for quality - not quantity.,2.0,2.0,3.0,4.0,3.0,1.0
+2017-07-05, Cloud Systems Developer,"Chicago, IL",Current Employee ,What a great company!,What a great company!,0,"Culture, knowledge, laptop + cell, standing desks, lunches, certification support, flexible time & work environment.",Learning curve with a Mac (not a huge deal).,Keep staying flexible!,5.0,5.0,5.0,4.0,5.0,4.0
+2017-06-16,,"Atlanta, GA",Current Employee ,Best.Company.Ever.,Best.Company.Ever.,0,"After reading reviews, researching Cloudreach and its core values... I was SO excited to get an offer! I quickly accepted--and haven't looked back since! This has (hands down) been the BEST company I have ever worked for! And I believe....I would get quite a few AMENs if you ask other Cloudreachers!
+
+The PEOPLE are Cloudreach's greatest asset! I have not met a person who was not amazing to work with……or who wasn't insanely Cloudy & Cool! (Hence--one of our Core Values are to be easy to work with)...Everyone I've met thus far fully understands and lives by this value!
+
+Cloudreach values culture--and our interview process (although intense) does its best to find people who just......""get us"" ………..People who are excited to be apart of something GREAT! People who want to DO something great---with GREAT people! It feels like a family here….as if we've known each other all of our lives.
+
+Unlimited PTO is not a hoax--it's simply one of the MANY Cloudy perks to add to the list! A few other perks…… ?? MacBook, latest iPhone.......or Droid, if you must! ;-) Friday Cloudy Lunches, FUN family-style quarterly events where you get to meet so many other teammates across the country for meetings, dinner and social activities ….and of course our Global kickoff----(where the company is sending ALL of our Cloudreachers somewhere insanely cool!) This year we'll be in Lisbon, Portugal, btw :-)
+
+We also value growth. We pay for & encourage everyone in our company to continue to grow their knowledge as well as their career. We promote from within and reward hard work! We also have a mentor program that anyone can join if they want to go the extra mile in progressing their career by shadowing & learning from someone who is where they would eventually like to be.
+
+Not everyone will love us, but the ones who get us, will! You would be lucky to join our cloudy team! :-)",Natural growing pains of a quickly growing company (around processes)...but we try to hire flexible people who get it...,Continue being awesome! Global kickoffs must stay forever ;-),5.0,5.0,5.0,5.0,5.0,5.0
+2017-06-04,,,Current Employee ,So lucky to work here,So lucky to work here,0,I am a remote worker and still feel close to my coworkers and genuinely cared about my my leaders and peers. There is a wealth of opportunity in this company to grow as a personally and career-wise. I feel so lucky to work here.,There aren't any at this time.,,5.0,5.0,5.0,5.0,5.0,5.0
+2017-06-05,,,Current Employee ,More than 'one' step ahead,More than 'one' step ahead,0,"Intelligent, innovative people.
+Genuinely live by company values.
+Cloudreach treats it's employees with respect and supports them to do the best possible work.",No cons at this time...,Keep It Cloudy,5.0,5.0,5.0,5.0,4.0,5.0
+2017-05-18,,"Atlanta, GA",Current Employee ,"Great culture, huge upside, fun times","Great culture, huge upside, fun times",0,The people and the culture. Period. I've never had so much fun coming to work on a daily basis. This is a place where the company values don't just show up in the handbook and then you never see them again. Most people at Cloudreach embody the values.,"This is a rapidly expanding company in a rapidly changing industry. There are expected growing pains when it comes to establishing consistent standards and productizing offerings. However, with the influx of new personnel I have high hopes that we will have the resources to tackle the necessary items over the next 6-12 months.",Stay true to the core values as we continue to expand and open up stock awards to incentivize loyalty and investment into the Cloudreach brand.,5.0,4.0,5.0,5.0,4.0,5.0
+2017-05-18, Cloud Systems Development Leader,"New York, NY",Current Employee ,Good times - Fast paced,Good times - Fast paced,0,Its a pleasure working here. Cloudreach embraces its values and implements some advanced technologies. Every day is a new adventure.,"Nothing blatantly jumps out regarding what can be improved . When little things inevitably pop up, management does a good job of listening and implementing fixes.",Keep doing what you're doing. Cloudreach is an enjoyable place to work and learn. Hopefully Cloudreach will continue to grow and dominate the cloud market.,5.0,5.0,5.0,5.0,5.0,5.0
+2017-04-25,,"New York, NY",Current Employee ,Great opportunity for self-starters looking to work with the latest/greatest cloud tech,Great opportunity for self-starters looking to work with the latest/greatest cloud tech,0,"- Opportunities for growth and development within your role and across the organization
+- Collaboration with a global community
+- Great perks such as lunches every Friday, quarterly meetings & kickoffs in cool locations, comprehensive benefits packages
+- Relaxed work environment & culture
+- Management trusts its employees
+- Opportunities to create and innovate (company-wide hackathons and other fun activities/competitions)
+- Growing rapidly!!! Very cool to have joined the company and see how far we've come in a short time. Very excited for what's ahead.","- No hand-holding here. This isn't necessarily a con...for the right person, this is a pro. Everyone is very supportive, collaborative, and eager to help. But at the end of the day, it's up to you to do the learning and apply that to your role/project. People are trusted to work autonomously and do what it takes to get the job done.
+- Challenging work. If you're not up for working with the latest tech and with people that will push you to grow, then look elsewhere!
+- Lots of change ahead due to rapid growth, but there is a wonderful team dedicated specifically to Keeping this Change Cloudy. Change can be scary, but so far, it's been exciting to be part of... if you're looking for a stagnant role at a static company...this is not the place for you.","Leadership has done a great job of keeping everyone informed of exciting changes following the recent acquisition. Their passion and vision for Cloudreach's mission and future is inspiring, and I'm excited for the bright future ahead! Keep on keeping it cloudy.",5.0,5.0,5.0,5.0,4.0,5.0
+2017-04-26, Cloud Systems Developer,,Current Employee ,Lets Make Work Fun Again,Lets Make Work Fun Again,0,"- Surrounded by intelligent colleagues that always make themselves available to teach
+- Management genuinely cares about your individual progression and career goals
+- You are pushed to learn more/do more to make yourself better
+- Everyone is very cognizant of whether you're burning out or not, and pushes you to take vacation if you need it
+- Tons of Cloudy perks like lunch on Fridays, unlimited PTO, little gifts on holidays",No cons at this time.,Make sure the keep the culture as we go through this crazy growth,5.0,5.0,5.0,5.0,4.0,5.0
+2017-03-06, Systems Developer,,Current Employee ,Fantastic place to work,Fantastic place to work,0,"I love working here. Cloudreach is all about cutting-edge technology wrapped it in a brilliant, friendly culture. It's obvious that employees here are interested in both their work and the people they work with - it's not just another job.
+
+Opinions and ideas are treated with respect, and feedback is taken seriously, with a good level of transparency in communication. Usually when a new service/process/etc. rolls out, feedback is requested and you can start to see changes and work based on that feedback very quickly.
+
+I've been treated extremely well as a remote developer. Communication across the company often involves people from multiple offices, so keeping employees engaged is treated as a priority here. Good balance of travel, too.
+
+Finally, unlimited vacation time! Time off and work-life balance is important here, and the minimum amount of PTO encouraged by the leadership team is more than many US companies offer even after years of employment there.","With smaller teams, large projects, and cutting-edge technology, things can get hectic. I like this aspect and have been able to adapt without much effort, but it's not for everyone.
+
+If you're working out of an office, team get-togethers are often over drinks and/or meeting up after work. This can be tough to keep up with if you're not one to go out, or if you have a busy family life. I've never seen this become an issue with anyone here, and the culture is still welcoming in other ways, but it can be a turn-off for some.","- Keep on living up to the company values!
+- As the company continues its huge growth, make sure our hiring processes keep up.",5.0,5.0,5.0,5.0,5.0,5.0
+2017-03-07,,,Current Employee ,A cutting-edge company that cares for its people,A cutting-edge company that cares for its people,0,"Cloudreach is an organization that truly lives by its values! No work environment is perfect but most of the people here genuinely try to work by these values. This is especially seen in many members of management. While they are our manager first, many genuinely care about the people they are managing and do their best to help us reach personal goals, maintain a work-life balance, and often bend over backwards to help us when we need time off.",You need to be willing to frequently travel to work with difficult clients for a very long period of time (think a project lasting for several months). This can be a tough part of the job for some people to deal with.,,5.0,4.0,4.0,5.0,5.0,4.0
+2016-07-21,,"Chicago, IL",Former Employee ,Mixed Review,Mixed Review,0,"This is a relatively young, very ambitous, and energetic company with an overall great vibe. They are doing great things with cutting edge technology - no doubt a great field to be in and they definitely got in at the right time! The employees here are very helpful to each other and I would say a generally happy workforce. This is the place to work for technical people with high energy, enthusiasm, and willingness to learn. You will certainly be praised and rewarded for advancing yur professional certifications, especially in the AWS discipline.","As a young company with a predominantly younger (under 30) workforce, there are some immaturity problems, even within the leadership team. There is definite inconsistency among the management team, and favoritism is blatant in some cases. Some leaders are very supportive and hands-on with their reports, others provide insufficient support and are quick to criticize. If you are considering a position with this company, be sure to vet the manager you will be reporting to prior to accepting. it will make a difference.",take a look at your leadership team and provide some guidance to strengthen that team to better support the people that make you money.,3.0,5.0,4.0,5.0,5.0,3.0
+2016-06-23,,,Current Employee ,An exciting time for a great company,An exciting time for a great company,0,"Amazing company culture & values
+Start-up atmosphere with the business maturity of a larger organization
+Excellent leadership
+Truly impressive client list
+Career growth opportunities",Leadership is still working out the corporate structure as we rapidly expand,Keep the culture Cloudy!,5.0,5.0,5.0,5.0,4.0,5.0
+2016-06-23,,,Current Employee ,Keepin' it Cloudy,Keepin' it Cloudy,0,"Cloudreach takes their values seriously which is why it's a great place to work. You'll be challenged and have fun.
+
+Take a look at the values and if they describe the kind of people you'd like to work with, Cloudreach is the place for you.",Nothing major. Some very small growing pains as the company expands.,KiC,5.0,5.0,5.0,5.0,5.0,5.0
+2016-04-27, Sales Development Representative,"New York, NY",Former Employee ,Awesome place to work,Awesome place to work,0,Awesome people to work with. Very interesting work and on the cutting edge of technology. Cloudreach is the place to be if you are in tech or have an interest in cloud technology. They integrate an awesome work environment and start-up feel while working with established clients in the corporate world. They are pioneers and would recommend this company to anyone.,None that I can think of.,,5.0,5.0,5.0,5.0,3.0,5.0
+2016-04-18, Sales,"Atlanta, GA",Current Employee ,Sales,Sales,0,"Awesome culture! It is rare to see a company truly take a people-first approach to their business, but Cloudreach delivers! Leadership is top notch. Truly a ""team"" mentality here. I can't say enough good things about this company.",Incredible growth in a short period of time which has caused some growing pains with our processes . However the plan is in place to improve it and I'm confident we'll get there.,Keep doing what you are doing!,5.0,5.0,5.0,4.0,5.0,
+2016-03-30, Project Manager,"New York, NY",Current Employee ,Awesomeness!!,Awesomeness!!,0,"Great company with amazing people to work with. Everybody had a lot to offer and folks really help each other at Cloudreach. The content of work is never boring so if you're used a slow environment and want a change, then Cloudreach is for you! Plenty opportunity to grow and really direct the course of your career. Overall an awesome place to work!","Work/life balance can be a challenge when working difficult projects. Things can unexpectedly change, but that can also be exciting too.",,5.0,4.0,5.0,5.0,3.0,5.0
+2016-02-29,,"New York, NY",Current Employee ,"Cool company and culture, leader in its space","Cool company and culture, leader in its space",0,"-More AWS certified engineers than any others in the cloud consulting space
+-Relaxed culture, employees are trusted and expected to hit the ground running
+-Growing rapidly!
+-Global w/ locations across Europe and North America
+-The people are friendly and extremely willing to help","-Can sometimes feel a bit disorganized, but that is because the company is growing at such a rapid pace and management is trying to figure out the best practices for a company with, what is now, such a global presence",,4.0,5.0,5.0,4.0,4.0,5.0
+2016-02-29,,,Current Employee ,Awesome place,Awesome place,0,"The people are really awesome. Really no other way to slice it. I've worked at a bunch of other places and only one came close to the actual real (not bulls**t we say we're team oriented) team atmosphere. There are a bunch of perks which are nice, but I really am happy that I love going to work because I don't work with a bunch of self serving A-holes. Co-workers genuinely care and are willing to bend over backwards.","Well, I don't call them cons, but if you don't like anything on this list you should probably look elsewhere.
+
+- Uncharted waters. You get to make up processes and product for new areas the company is going. If you like cookie cuter mindless work, it's probably not for you.
+- It's quick paced, and no, that's not translation for lots of hours. But if you like working for a fortune 50, it's not going to be your pace.
+
+One actual con, they don't cover lunch in the per diem when you travel. Which buy USA standards is, well, odd. I'm used to getting an allotment and spending it as I see fit on which ever meal or snack I wanted.","Travel is a total PITA, so don't put your employees out anymore than they already have to. Remember, probably only 1 in 10 workers wants/is willing to travel in the first place.",5.0,5.0,5.0,3.0,5.0,4.0
+2015-12-14, Business Development,"Chicago, IL",Current Employee ,Dynamic Company with Amazing Opportunities,Dynamic Company with Amazing Opportunities,0,"Provides an exciting culture, ability to work alongside talented individuals, focus on challenging projects, and be a part of a rapidly growing business. Fellow Cloudreacher's are always willing to help if needed. Everyone is committed to the same goal and the outlook could not be brighter. All in all, a fantastic place to work.",None at the time being.,,5.0,5.0,5.0,5.0,5.0,5.0
+2015-11-24,,"New York, NY",Current Employee ,Exciting company with bright future,Exciting company with bright future,0,"-people: great people who truly embody the values that the company was built on
+-personal development: perfect environment for a self starter who wants to have ownership over their career path
+-morale: the excitement and optimism is truly palpable
+-inspiring work that nurtures creativity: you are encouraged to use your brain here and contribute your vision to the growth of the company
+-work life balance
+-great position in the market","if I had to choose, could be a bit more transparent but significantly better than other companies that I've seen",keep it up!,5.0,5.0,5.0,5.0,4.0,4.0
+2014-12-08, Cloud Systems Engineer,"New York, NY",Current Employee ,Fosters learning & personal development,Fosters learning & personal development,0,"Coworkers are always willing to help, even from across the pond; cool NYC office in coworking space allows for meeting all sorts of people; personal development is promoted and encouraged; travel opportunities if you want them; salary bumps after getting training certifications",Working for a global company has its challenges - your direct supervisor may be in the UK and unable to give you guidance immediately. This pain is eased by using cloud hosted services like Google Hangouts for communication.,Keep up the good work!,5.0,5.0,5.0,4.0,4.0,5.0
+2014-12-04,,"New York, NY",Current Employee ,Fantastic culture and great growth opportunity in NYC office,Fantastic culture and great growth opportunity in NYC office,0,"So many pros - there is a massive dedication to employees from company leadership, and that view has trickled down to everyone else. Everyone is easy to work with and friendly, happy to share knowledge, and just generally fun to be around. Leadership team is very communicative so you have a good sense of what is going on in the business and the overall health of the company.
+
+There's lots of room to grow too. They just opened 3 offices internationally with tons of opportunities to get your hands on big projects. The company is very open to letting employees work abroad and management is invested in growing your career and making sure you are happy.
+
+For a startup, benefits are also pretty fantastic. Great vacation plan (especially for the US), excellent health coverage, and free lunch on Friday doesn't hurt :)","There are some growing pains, which is to be expected. Being in one of the newest offices, it can be a bit intense as there are fewer resources to go around, but the projects are interesting and the people are smart so it is worth it. You will learn a lot.
+
+Definitely not the place for someone who doesn't love what they do and want to talk about the cloud - a lot.",Keep doing what you're doing!,5.0,5.0,5.0,4.0,4.0,5.0
+2019-03-06,,,Former Employee ,CR Life,CR Life,0,"* Good learning curve
+* Awesome team
+* Quarterly trips domestic, international
+* Fair amount of projects
+* Loads of tech events","* HR can interfere in most ways
+* Project assignment to the right talent",,4.0,5.0,5.0,5.0,5.0,2.0
+2019-01-03,,,Current Employee ,After a few years...,After a few years...,0,"Been with Cloudreach several years. It has plenty more ups than downs but sometimes struggles under the weight of its own growth; it surges regularly, then needs to spend time balancing. If newbies can get through the first 6-12 months they generally do well and form very strong bonds. There is a distinct character type works at Cloudreach, it's easy to spot. Usually outgoing and smart; it's extremely rare to find people you can't get along with.
+
+Company falls over itself trying to communicate in numerous ways, in fact sometimes too many ways, the transparency is generally high but can be overwhelming.
+
+Lots of opportunity for growth and crossing job boundaries/ regional borders for those interested.
+
+The changes have been noticeable this year. The VC owners beginning to assert themselves, new CEO still to impose himself. Acquisitions in general have been very smart, the US monster is now awakening. These are not bad things.","Cloudreach can often be it's own worst enemy. Moving too fast, a desire to do things in a certain way, sometimes lack of process. Compensation is finally being addressed after a few years being behind the curve, though I would have preferred shares. Free beer and lunch is fine to a point but would like to see more meaningful grown up benefits. Deep expertise is sometimes hard to find, but the smart people have an attitude of ""I will figure that out"" but it may take time. Staff attrition comes and goes but rarely to competitors, often moves into different sectors, reflecting growth of the individuals.",If you want people to be fully invested in the success long term then share those gains with stock.,5.0,5.0,5.0,5.0,3.0,4.0
+2019-02-10,,,Current Employee ,Used to be great - becoming a boring corporate machine which lacks innovation,Used to be great - becoming a boring corporate machine which lacks innovation,0,"Still some good people left
+Flexible working hours and holiday benefits are good","Culture diminishing - hiring bar has lowered in both a technical and social capacity.
+Trying to meet aggressive recruitment targets set by new leadership who don't grasp what made the company successful and differentiated it from competitors.
+Lots of the fun perks are quickly disappearing - no quarterly trips
+Leadership are very closed about the real company strategy - founders used to be open about what was happening - the new corporate leaders just make vague meaningless statements now.
+Pay is below market rate
+People get mistreated - extra efforts go unnoticed.
+Engineers now often get left on projects for long periods of time in a bodyshop capacity.
+Longer standing employees get rewarded less than new joiners who are less experienced.
+Most of the projects the company has are using older less innovative areas of Cloud technology which means you don't learn new skills as much as if you worked somewhere more progressive like Cloudreach used to be.
+In some cases Cloudreach is struggling to remain far enough ahead of its customers Cloud proficiency to add strategic value.
+Took over 1 year (and still counting) to work on restructuring the company and halted a lot of the previous opportunities of career progression in the meantime - Cloudreach didn't care that lots of good people left during that time and those losses are beginning to show.","Treat your people fairly, you run a consultancy, the people are your greatest asset.",1.0,5.0,1.0,1.0,2.0,1.0
+2018-12-04,,,Current Employee ,Positive Atmosphere,Positive Atmosphere,0,"+ Working with smart people
++ Lots of opportunity for learning, internally through the L&D team or with external companies
++ Fast Growing = getting involved in things that stretch your abilities
++ Great atmosphere to work in, people are friendly, enjoy the perks like going for lunch with others in the office","- Lots going on, can be hard to keep up!",n/a,5.0,5.0,5.0,5.0,5.0,5.0
+2018-11-18,,"London, England (UK)",Current Employee ,"Amazing culture. Lots of fun, but not for the faint-hearted","Amazing culture. Lots of fun, but not for the faint-hearted",0,"Exposed to great tech. Ability to make a real difference.
+Plenty of learning and career opportunities as the company continues to grow.
+Culture is great, incredibly talented colleagues.
+Great customers and exciting projects.
+Incredible growth, who doesn't want to be part of a winning team!","There are some tools and processes which are only being improved recently. Most people are passionate about innovation and change, and aren't very forgiving of that, but inn fairness, when growing at this pace, it's easy to outgrow processes very quickly.
+Some other areas like the ""formal"" career progression paths need sorting (happening now).","Keep inspiring people to do what they do. Be genuine, for better or worse.",5.0,5.0,5.0,5.0,4.0,5.0
+2018-11-19,,,Current Employee ,"Never a dull moment, truly a cutting edge cloud company!","Never a dull moment, truly a cutting edge cloud company!",0,"You could never get bored at a company like Cloudreach. The company is growing really quickly and there are so many opportunities for people with the right outlook.
+
+It does take patience and maturity sometimes, given the amount of initiatives underway at any given time and the pace of change, but it's been my experience that people are judged on the quality of their ideas and how they deliver against these.
+
+The company scores high on innovation and has an aggressive growth strategy that is on track. I am truly exciting to think of where we will be in the next 2-3 years.","There are so many things to do and so many well meaning people trying to push in all sorts of directions, sometimes initiatives get jammed up by one another.
+
+I have also seen some people not make it at Cloudreach because they are not able to successfully assert themselves and get the development they are looking for. This is not a place for wallflowers.","Keep up the positive energy. Continue to go after the interesting work, leading with technology.",5.0,4.0,5.0,5.0,3.0,5.0
+2018-11-18, DevOps Lead,"Edinburgh, Scotland (UK)",Current Employee ,"Awesome people, Great culture!","Awesome people, Great culture!",0,"So many good things!!! An amazing place to work, wonderful culture, and the most fantastic people. Smart, friendly, and the Cloudy Values are wonderful",Rapidly growing company is starting to experience some growing pains due to transition between a startup-sized company and a larger enterprise. The chaos and progress gaps can be frustrating at time.,"Don't lose focus on your people. The people make the culture, and keep Cloudreach the amazing place to work that it is.",5.0,3.0,5.0,5.0,4.0,4.0
+2018-11-07,,,Current Employee ,Been here few years now and never stopped loving it!,Been here few years now and never stopped loving it!,0,"- Excellent growth opportunities, ability to move between roles and offices
+- awesome office atmosphere, attitude of most other Cloudreachers is excellent, plenty of social events every day of the week
+- despite all the growth, so far the culture has not degraded
+- good leadership and bunch of very clever talented people around who are a pleasure to be learning from","- organisation of certain efforts and projects could be better, duplication of effort or time wastage keeps happening
+- benefits could be better","Keep it going, but try to provide more structure to some of the activities",5.0,4.0,5.0,5.0,4.0,4.0
+2018-10-21,,,Current Employee ,So far so great!!,So far so great!!,0,Autonomy. Flexible Working. Great Benefits including unlimited annual leave. Intelligent colleagues. Global Company. Great Values. Good Central Location,"None so far!!! A couple months in to tenure and everything has been as expected so far. Definitely work hard, play hard mentality but lots of social initiatives to get you through the day.","Try not to stop rolling out the things that make the company unique (lunches, quarterlies, global stretch)",5.0,5.0,5.0,3.0,3.0,5.0
+2018-10-04,,,Current Employee ,Cloud Systems Developer,Cloud Systems Developer,0,"Snacks and Drinks in the office, Cloudy Lunch on Fridays, quarterlies, international offices with the opportunity to work temporarily/permanently in. Incredible opportunities for personal growth and development. You will learn a lot here.","Burnout, burnout, burnout. Only as ""Cloudy"" as the customers we work for and we work for some really non ""Cloudy"" companies - e.g. regularly have to deal with customer company bureaucracy . I won't mention customers for potential legal reasons but you may have to come to terms with some of your morals - I've now done work for companies who I would never ever apply for and I have had sleepless nights thinking about it. Customers pay a lot for the technical expertise we provide, the problem comes when they expect unreasonable amounts of work in very short spaces of time because of the investment they're making. It's a recipe for burnout and one that I'm currently combatting and I won't last much longer if it continues.","Stand up for and listen to your technical members when dealing with customers. I've learnt to stand up for myself here at least and never let management look after my interests, because they won't. Start looking into the quality of projects you pass onto your developers.",3.0,1.0,2.0,5.0,4.0,2.0
+2018-09-25,,,Current Employee ,Great place to work,Great place to work,0,"Always busy, but GOOD busy! Loads of work to tide you over, keep you busy and to help you learn new skills.",Easy to feel overwhelmed unless you are used to working within a high pressure environment.,"Keep it up - you are engaging and helpful from what I've experienced thus far, and it helps on a day-to-day basis with helping staff feel valued, included and appreciated.",5.0,5.0,5.0,5.0,5.0,5.0
+2018-10-19, Engineer,"Vancouver, BC (Canada)",Current Employee ,We are growing faster than we can keep up with,We are growing faster than we can keep up with,0,"- Culture is awesome
+- Coworkers are incredible
+- Great office location and events
+- Opportunities to work on fun projects
+- Personal development budget","- The global compensation review was promised around a year ago. Still nothing! Some salaries are as much as 50% under the current market rates!
+- Some management positions have been filled with people with no previous management experience
+- It seems like we are struggling to adapt to our growth
+- No real career progression path. If you want to move on to a better role, you gotta either change BU or go into management","Be careful with letting your best people leave. Most people who are leaving have given plenty of warning, and it's a shame we are not doing much to keep them around.",1.0,5.0,1.0,2.0,,
+2018-09-08,,,Current Employee ,Decent company to start with,Decent company to start with,0,"Good learning resources to use
+Work with the latest technologies
+Friendly and enjoyable work environment","Salary is low
+Benefits are minimal and keep changing
+Limited ability to grow your career
+Substantial increase in procedures, drastically slowing down work deliverables","Be good to your employees, and they will do great things for you
+
+Ease up on the procedures, so we can begin delivering work results again",3.0,3.0,4.0,1.0,2.0,1.0
+2018-09-24,,,Current Employee ,Smoke and mirrors,Smoke and mirrors,0,"The offices are great, when you get to see them on Friday. TGIF!
+
+Cloudy lunch is a good way to catch up with people, even if it always makes you feel like a poor student. Guess I’ll enjoy the free water.
+
+Beer tap is cool, when there’s beer in it. Cheers!
+
+Sparkling water tap is nice, when there’s CO2 left in the tank. Guess I’ll enjoy the tap water again.
+
+Mini fridge is great if you like Coke, or Diet Coke. Great health initiative.
+
+Shared fridge is awesome, when it has more than milk in it. Cuppa?
+
+Personal development time is good. Hope you don’t mind spending it on lunch and TGIF.","People hired years ago in technical positions have been promoted into leadership positions, irrespective of their lack of leadership skills. As a result high level management is a joke.
+
+Diversity and inclusion should be known as smoke and mirrors.
+
+The global compensation review has been promised for over a year, still no action whatsoever. The reported average engineer salary is 50% below market.
+
+They can’t even afford new laptops that cost as much as the daily rate for an engineer. Old laptop owners are asked to keep them longer ""due to budgeting constraints"".","Implement a retention policy.
+Hire competent managers.
+Pay people decently.",1.0,1.0,1.0,1.0,1.0,1.0
+2018-08-30,,,Former Employee ,"Not as advertised, beware the culture","Not as advertised, beware the culture",0,"Local, clean, free snacks, gym membership",It's like a weird cult,,1.0,1.0,1.0,3.0,3.0,1.0
+2018-07-25,,"Edinburgh, Scotland (UK)",Current Employee ,"The best place to work, period.","The best place to work, period.",0,"I joined Cloudreach due to the amazing culture, and it has far exceeded my expectations. The people here are so great to work with, super SUPER smart, and know how to have fun in the office (whilst delivering world class services to our customers).
+
+I can honestly say I have not had this much fun at work in eons, and I love the challenges we take on every day.
+
+The opportunity is there to work with the coolest technology, with some of the brightest minds in the industry, with some of the best customers.
+
+The growth is staggering, so be ready to stay busy (and challenged!)","The is a small company that is growing up very quickly. Some supporting systems and tools are still not quite there yet, but there is more focus than ever on getting these projects sorted out.","Stay on course. The focus on being the market leader in the cloud native space is the right place to be. Keep hiring awesome people, the party is just getting started (but gets better every day)",5.0,4.0,5.0,5.0,4.0,5.0
+2018-07-25,,"London, England (UK)",Current Employee ,Exciting and growing with strong people and innovative values,Exciting and growing with strong people and innovative values,0,"Encourages individual thinking and collaborative working
+Exciting and hyper growing organisation in a vibrant hungry market
+Understands the right motivations and perks for employees to get the best from them
+Diversity and Inclusion is a reality not just a statement
+Really fun place to work especially for young professionals","Expected challenges with scaling up a start up company, with expected growing pains
+Desire to call things differently to other companies sometimes can create confusion
+Perks and benefits can lead to unexpected behaviours of right over privilege",Focus on implementing quickly end to end business processes to support customer centric vision and business goals. More detail on value add KPI's and metrics,4.0,4.0,5.0,5.0,4.0,5.0
+2018-07-02, Global Payroll Lead,"London, England (UK)",Current Employee ,9 months in,9 months in,0,"Really great culture which is endorsed by everyone
+Really good communication from management and very inclusive
+Can't deny I love the snacks and the lunches",Hypergrowth has it's own set of issues but we're all working on these,Get on top of the hypergrowth! We need to be scalable,5.0,5.0,5.0,5.0,4.0,5.0
+2018-07-23, Cloud Systems Developer,"London, England (UK)",Former Employee ,Works,Works,0,"Free food
+Quarterlies
+Relaxed dress code
+Work life balance is OK","Respect the individual is not real
+Pay is under market rate
+No clear career opportunities
+Compensations and benefits are not good at all
+Management is not good",,1.0,3.0,2.0,1.0,1.0,1.0
+2018-06-22,,,Current Employee ,An opportunity not to be missed,An opportunity not to be missed,0,"- Personal Development time & resources!
+- The office space!
+- The people!
+- The usual 'benefits'
+- Feedback is taken onboard & acted upon :)
+Someone from each BU gets the opportunity to play their part in the interview process, keeping the culture 'cloudy'",There's so many of us we have to split up for Cloudy lunch now & take up 3/4 restaurants :(,Keep keeping it Cloudy! :),5.0,5.0,5.0,5.0,4.0,5.0
+2018-07-11, Systems Engineer,"London, England (UK)",Former Employee ,Once a nice Company now floating in a Dark BUBBLE,Once a nice Company now floating in a Dark BUBBLE,0,"- Great learning and travel opportunities.
+- Good working equipment
+- Good life work balance.
+- Healthy and inspiring work environment filled with nice furniture, sleek design and well stocked fridge with healthy snacks.
+- Pushes for individual growth through certifications and time allocation for learning.
+- Awesome name on your CV
+- Fun Kick-offs and Quarterly","- A lot of unqualified and misfit personnel in executive management, senior management and strategic positions.
+- Two faced Senior management doesn't believe in an equitable financial rewards scheme for staff but for the selected few.
+- A facade with a chaotic benefits scheme and an inciting experience package to distract employees.
+- Loads of unfulfilled recruitment promises
+- Worst Pensions Benefit
+- Absence of Life Insurance
+- No access to most benefits until you pass probation
+- Home of dirty and childish politics
+- Senior management are in the habit of handpicking and witch-hunting leavers
+- Inequitable pay, spot bonus, awards and stock options policy (if you are in the favour of the high and mighty you get a cut)
+- No all-encompassing bonus scheme nor pay-rise policy in place in a very competitive market in London
+- Lack of Top notch technical talents in Software Engineering and Software Engineering Management
+- Loads of incompetent people as SME's and practice leads here and there.
+- A consulting company pretending to be a cloud software leader but has only two bogus software products and some average accusations.
+The investment and believe in software engineering/R&D is insignificant and their vision of been a software company is totally based on wishful thinking.
+- Cloudreach has a non-functional software team that runs like a consultancy/support centre and there is no clear strategy on the future of the company.
+- Nothing in Cloudreach is based on design but by accident.
+- Cloudreach's management tend to be very disrespectful, shameless and inglorious at least at the level of the UK offices. They will employ any ignoble and immature tactic to push you out of the door once it is clear your time is up. This is the only company that a number of celebrated foundation members of staff were shown the door unceremoniously without remorse.
+For most of the people that think they were once untouchable, they did face the same fate as well.
+
+- Cloudreach is filled with a lot of angry old employees who grumble at different levels of injustice and the death of the once Cloudy Culture that made Cloudreach Tick.
+
+- The unlimited holiday scheme favours more the back office staff who are not directly critical to Cloudreach's billing as opposed to the Engineering consultants at the battlefront on customer sites.
+
+- Another con working for Cloudreach is how slow change is enacted. Any policy change that favours the employees or intelligent enough to boost the company’s industrial prowess takes forever to come into fruition (See Software and Benefits above).
+
+- Endemic corruption due to poor organisation processes or a wilful circumvention of the process in place by people in management who are used to sweeping decisions/transactions under the carpet.
+
+- Misogynist environment where the ideas and decisions of women are rubbished or not taken seriously. An environment where some few men in management think they can't be brought to books or their decisions can't be questioned by a woman.","- Be agile when it comes to change and taking risks
+- Accept the consequences of risks taken in good faith
+- Have a better reason to retain people
+- Operate an equitable Employee and benefit policy across board in the organisation
+- Design and execute plans rather than becoming faint hearted when it comes to execution.
+- Employ competent hands to drive your Big Data , Software Engineering and R &D and leadership teams
+- Be more graceful in your treatment of people be it current staff, those that have resigned or those that are about to be relieved.
+- Operate a more open, transparent performance measurement metric system.
+- Reward people handsomely for their efforts irrespective of the team they work.
+- Promote cross team collaboration and communication.
+- Don't try to be cool or nice, Be genuinely Nice!!
+- Act fast and honestly on feedback instead of fighting it, jumping into defence or trying to witch-hunt the source.
+- Stay connected to your staff and don't be out of touch with the reality on ground.
+- Management should be on ground to promote its own values and stop boycotting events they sell as an experience to employees.
+- Lead by EXAMPLE
+- Effect a massive overall of the leadership team.",1.0,3.0,2.0,2.0,1.0,1.0
+2018-05-24, Business Development Consultant,"London, England (UK)",Current Employee ,Company is going places!,Company is going places!,0,"Great enterprise client base
+Partnerships with all public cloud vendors - cloud agnostic
+No legacy products or services to hold company back
+Great modern central London offices with snacks, beer & games area!","Lots of new people, so can be difficult to know who to align with
+Some confusion around product/service definitions (which is known and being addressed)",Keep it cloudy under Blackstone ownership - keep listening to and acting on employee feedback!,5.0,5.0,5.0,5.0,5.0,5.0
+2018-05-14, Cloud Systems Developer Lead,,Current Employee ,Currently in a (sometimes painful) growth phase,Currently in a (sometimes painful) growth phase,0,They actively encourage and require certifications for major cloud platforms. This helps employee familiarity and skill and they will gladly pay for study materials. Lots of cultures represented in a very international office. Meal vouchers for lunches and weekly lunch out as an office.,"Currently in a growth phase and looking to snag big contracts, so there's a tendency to accept whatever jobs and terms come along. Job roles and titles are defined but rather fluid, and progression paths are unclear. Re-location package isn't the best.",Don't let us turn into a high-tech staffing agency.,3.0,5.0,4.0,3.0,3.0,4.0
+2018-03-07,,"London, England (UK)",Current Employee ,"Lots of change, but what matters most hasn't changed :) People-centric company with great career opportunities","Lots of change, but what matters most hasn't changed :) People-centric company with great career opportunities",0,"The leadership team really cares about the people and there is a huge investment of both time and money into the culture and taking care of staff. Despite huge growth targets, the company continues to invest in regular offsites to bring global staff together (almost all expenses paid), welcoming office spaces with plenty of supplies, food, drink etc, and a dedicated Learning and Development team to promote career development culture.
+
+Comments suggesting it is becoming a bodyshop are very misleading as this is very much not the case. We have been told there will be a big focus in the coming 6 months on career development for technical roles, as well as plans for how to win more innovative exciting work. There is always change in a growing company, but the things that really matter are not changing (the focus on treating people well).
+
+Because it's a growing company, there are a huge number of opportunities for personal growth and promotion into new roles. The company has always been and continues to be great at giving people a chance to grow into roles and stretch themselves.",It is easy to work too hard because there is always more work to do and it's interesting and challenging work - there is still very much a startup mentality in that sense. It's down to the individual to put their own limits in place and make sure they are keeping a good balance - it is a mature environment where people are trusted to set sensible boundaries. Perhaps some of the younger staff members struggle a bit with managing this themselves.,Make sure that we continue to focus on treating people well and creating a pleasant place to work. We should continue to think about what leadership means at Cloudreach and ensure that all leaders are upholding these expectations.,5.0,4.0,5.0,5.0,4.0,4.0
+2018-03-29,,,Current Employee ,"Fast paced, huge growth, pushing boundaries","Fast paced, huge growth, pushing boundaries",0,"expansive, great place to learn and develop, exposure to constant change, good people, strong company ethos and values, a great chance to see a start up undergo hyper growth transformation",growing pains are significant and will continue to be for a good while yet,resource all of your teams adequately to meet the hyper growth demand,4.0,2.0,4.0,4.0,3.0,3.0
+2018-03-07,,,Current Employee ,An incredible place to work,An incredible place to work,0,"Tl;dr: I love working at Cloudreach.
+
+The people are great. Anyone who’s interviewed here knows it’s hard, and we get it right on the whole.
+That means smart, energetic people who want to make sh*t happen, in all parts of the business. I love that. That energy and drive needed to grow and adapt year and year isn’t seen in most companies. I've met a lot of people here I regard as friends, which is the best indicator perhaps of cultural fit.
+
+Linked to the people, I love the culture. People are friendly, and the company tries hard to foster matrix relationships - with cloudy lunches, quarterly/kick off trips, birthday parties, etc all frequent and way more inclusive than one sees at other organisations. I saw some comments last weeks that most companies have “sales kick offs”. We take the whole company, which I think is critical to our culture.
+
+On the “work” side, I enjoy the fact we have a pretty broad spread of clients across multiple industries, and of all shapes and sizes. I also love that we are success, and continue to be the leaders in most things that we do.
+
+Salary and benefits are pretty good - increasing year on year, although we’re not quite there vs. a multi-billion dollar “GSI” yet - but equally, this is a much more pleasant and dynamic place to work - in my view, pretty much free of the politics and nonsense you see elsewhere.","Is it hard work, as others have noted? It certainly can be. That’s what happens when you grow a company, but I feel we’re doing it in the “right” way - e.g. if I can’t do something due to time and flag that up, it’s fine.
+No one stays late to impress their boss - but they may work late because they care about achieving something. The working arrangements are pretty flexible I should say, depending on whether you’re with a client or not.
+Having said that, it’s not for everyone. If you want to work somewhere relatively static, and with clear well documented processes, that’s not here right now. Cloud is red hot, and we’re growing fast as we capitalise on this (before someone else does).
+
+Linked to that growth, people do (accidentally) step on each other’s toes a bit in terms of remit currently. That’ll settle down as the roles bed in, but you should bear it in mind if you prefer a really clean and well documented role vs. other people.
+
+I don’t recognise the issues being written previously - makes me wonder sometimes if it’s another company they’re writing about accidentally (or intentionally!), but at 500 people, I guess we can’t all know each other well. What I do know is that I’ve spoken to several of the leadership team, from Pontus down, and all are committed to making/keeping this a great place to work - so please do shout up to one of them, they can probably help with whatever challenges you can see. Claiming that CloudreachCares doesn’t exist (as an example) was one thing I read last week. That’s utter BS - we’ve given thousands in both monetary and time commitments to charity. I agree the suggestion process could be clearer and maybe we need to be more transparent in terms of what’s been given, but just “get involved” rather than posting some bile on the internet. It’s easy to solve, like most things in life, with a conversation.","- Be more transparent about initiatives that are underway already
+- Focus on executing as many tangible positive changes this financial year
+- Find a way to drive a more feedback driven culture. I feel comfortable with things currently here, but perhaps other's don't?",5.0,4.0,5.0,5.0,4.0,4.0
+2018-03-06, Cloud Systems Developer,"London, England (UK)",Current Employee ,"Great company, great people, great attitude and culture!","Great company, great people, great attitude and culture!",0,"We are very well looked after, and there is a great attitude from everyone throughout the entire org chart from the top down.
+Work/life balance is a real priority that is taken seriously. If you have some initiative and are willing to innovate, you will be supported in your endeavours.",Working on-site with clients means I tend to miss out on some of the delights and luxuries provided back at the office!,,5.0,5.0,5.0,5.0,5.0,5.0
+2018-02-28,,,Current Employee ,Great place to work!,Great place to work!,0,Respecting the Individual is real,Lots of flexibility required - not for everyone,,5.0,4.0,5.0,5.0,4.0,5.0
+2018-02-23,,"London, England (UK)",Current Employee ,Disappointed in what we've become,Disappointed in what we've become,0,"- Off-site quarterly events twice per year
+- Flexibility to work from home
+- Most colleagues are smart and a pleasure to work with
+- Decent benefits for a company its size","- The work you do nowadays has stopped being about moving fast, trying new technologies and innovating only to become carrying out extremely boring and trivial work for red tape organisations.
+- Hours are long and there tends to be a general workaholic culture, with some people showing clear signs of burnout.
+- Related to the above, even cloudy lunch is becoming a non billable staff perk.
+- Hiring is at full speed, with offices taking up more new starters than they can handle.
+- Due to the above, there is a widespread feeling that we are becoming another one of those body shops everyone in IT knows about.
+- The main drink served is Kool-Aid. Drink it, and you are automatically regarded as a ""cloudy"" individual.
+- For management, the cloudy values only work one-way: if you have an issue internally, you are told to be ""Easy to work with"", which is management speak for keep your head down and go back to work.
+
+From my own experience, the recent reviews added here are mostly true.","At the end of the day, what is this company worth without its people? Should you not start acting on the feedback you're getting?",2.0,1.0,2.0,2.0,3.0,1.0
+2018-02-16, ,"London, England (UK)",Current Employee ,A different kind of 'Cloudy'.,A different kind of 'Cloudy'.,0,It used to be a good place to work!,"The hours are long.
+Recent changes in the company mean the atmosphere is poor these days - Many people are unhappy.
+Those who play the game are rewarded and genuine good people are leaving or want to leave (and the culture is going with them).
+Internal emails that communicate company changes are awful and demonstrate a lack of awareness / connection to those on the ground.
+The other negative reviews below are also very accurate.",Keep it Cloudy!,2.0,1.0,2.0,2.0,3.0,3.0
+2018-02-13, Cloud Systems Developer,,Current Employee ,Nice atmosphere,Nice atmosphere,0,"Work with some fantastic people
+You will learn a lot of new skills
+Good company perks - cloudy lunch, quarterly gatherings","Management can be indifferent to your problems
+Unlimited holiday is a con - your manager has the ultimate say and the answer is often no
+Other companies pay a lot more","Be more considerate of your staff, they work hard for you.",3.0,4.0,4.0,4.0,2.0,3.0
+2018-03-01, Engineer,"London, England (UK)",Former Employee ,Not all that glitters is gold,Not all that glitters is gold,0,"+Some good benefits
++Unlimited holidays
++Good performance review process","- It's all about how well you play the game these days.
+- Too much politics
+- A few strange hires have been made recently, not very ""cloudy"", it seems the recruitment get all the attention and shine to help them make the numbers.
+- Cloudreach Care initiative is fake, was a good idea but now it is all just about social media and ""looking"" good from the outside.
+- Hours are super long and if you are not seen to respond to an email at lighting speed then you are not contributing, even just adding a +1 gets you noticed by the right people.
+- We get promised interesting project work but that only goes to those who play the game.
+- Cloudy values go one-way only for the management team.
+- Those who play the game are rewarded and genuine good people are leaving or want to leave (and the culture is going with them).",Go back a few years and look at the company it was then vs what you have now. Not all that glitters is made of gold.,1.0,1.0,1.0,1.0,2.0,1.0
+2018-03-01,,,Current Employee ,Goodbye Cloudy Culture,Goodbye Cloudy Culture,0,I get a salary that pays my bills,The company has turned from a people first employer to just hiring and hiring and putting bums on seats. Far too many politics going on within and makes for a hostile environment. Very sad to see the cloudy days are but a distant memory.,Get back to putting people first and respecting the individual. It’s the people who have built up cloudreach.,1.0,1.0,1.0,1.0,1.0,1.0
+2017-12-17,,"London, England (UK)",Current Employee ,Awesome place to work!,Awesome place to work!,0,"The people and culture are the heart of this business, and that is felt via an amazing office atmosphere on a daily basis. Extras: The Office is great, Benefits are amazing, as well as an awesome work-life balance!",None really at this point!,,5.0,5.0,5.0,5.0,5.0,5.0
+2017-11-23,,,Current Employee ,Cloudy: Fluffy and Corporate,Cloudy: Fluffy and Corporate,0,"- Talented colleagues
+- Great for your CV
+- AWS and Azure expertise and learning","Trying very hard to be a ""different"" consultancy in a ""cloudy"" way. ""Cloudy values"" are very fuzzy but are essentially HR policies used by management to justify themselves in gray areas, micromanage, command and also ""sell culture"" to customers, just like a good set of magical HR policies. ""Cloudiness"" enforcement and communications are trying to be super controlled but are messy.
+
+- All negative reviews are true, especially the last ones.
+
+- Work required is too much for what it pays to junior and senior staff alike.
+
+- Benefits like unlimited holidays are HR fluff. Expect lots of fluff.","Get off your ""cloudy"" horse",2.0,2.0,2.0,2.0,2.0,2.0
+2017-11-14, Vice President ,Pune City (India),Current Employee ,My company,My company,0,Great culture. Employee friendly. Good work.,Not many cons working with Cloudreach,,5.0,4.0,4.0,5.0,4.0,4.0
+2017-11-10, Cloud Systems Engineer,Paris (France),Current Employee ,Nice place to work - Amazing Co-workers,Nice place to work - Amazing Co-workers,0,Cloudreach has great values and culture. It is a pleasure to wake up every morning to work with nice and smart people.,"Carrer opportunities are difficult to take (internal interview processes, case studies...).
+But Cloudreach is growing fast and new carrer paths may appear.",Keep focusing on our culture and values as we grow.,5.0,5.0,5.0,4.0,4.0,4.0
+2017-10-20,,"Vancouver, BC (Canada)",Former Employee ,Great place to start your career,Great place to start your career,0,"Unlimited Vacation
+Lots of travel opportunities
+Great development opportunities
+Work with the latest technologies
+Leader in their space
+Great Work/Life balance
+
+Cloudreach is a place where it is up to you to make your career. They will support you in what you want to learn and where you want to go in your career, but it is up to you to expend the energy to get there. The people here have been amazing and friendly. The culture is welcoming and the international kickoff parties have been some of the best I have ever been to. The work/life balance has been fantastic and I would recommend this to anyone young who wants to both travel and develop their career.","Sometimes chaotic due to being a rapidly growing company.
+Salary is midrange and benefits are still being worked on.","Keep it Cloudy, make sure you continue to communicate.",5.0,5.0,5.0,5.0,3.0,4.0
+2017-10-09,,"Edinburgh, Scotland (UK)",Former Employee ,facade,facade,0,"-Opportunity to learn lots of different technologies, and to travel.
+
+-Fun company do's and getaways","-Middle management have 0 knowledge of the technologies we're delivering and cannot make decisions which ultimately means junior staff must take the responsibility.
+
+-Far too many managers and not enough people to do the work
+
+-No cohesion across business units: Sales, CloudOps, Dev Team, etc.
+
+-Management disingenuous about the companies motives and ""Cloudy values"". The values only exist when management want them to and primarily are used as a recruitment tool.
+
+-HR is laughable. Hope you never need to contact HR at Cloudreach.","Start being honest with your staff about the company's direction. Also try asking for feedback from your staff about their line managers. You'll discover some managers which are not good at their job. You already have staff reviewing their colleagues on a yearly basis, ask them to also review their managers.",2.0,2.0,2.0,3.0,2.0,1.0
+2017-09-06,,"London, England (UK)",Current Employee ,Best company ever!,Best company ever!,0,"Culture & people
+Uncapped holiday policy
+Free food in the office
+Learning opportunities",I can't think of any,"There are a lot of smart people working at Cloudreach. Make sure they don't get bored. Present them with other career opportunities within the business, pay rise etc.",5.0,5.0,5.0,5.0,3.0,5.0
+2017-07-23, Devops Engineer,"Edinburgh, Scotland (UK)",Current Employee ,Cloudy Culture,Cloudy Culture,0,"Fantastic people, awesome benefits and huge growth",I challenge you to find any cons at Cloudreach,,5.0,5.0,5.0,5.0,5.0,5.0
+2017-07-13,,"London, England (UK)",Current Employee ,Raw tech and business success combined,Raw tech and business success combined,0,"Friendly, smart, open and caring people. Keeps going from strength to strength and it is amazing to be part of a winning team!",There is a lot of change which is inevitable for a fast growing organisation. You have to be prepared enjoy that aspect.,Keep it up!,5.0,4.0,5.0,5.0,4.0,5.0
+2017-06-26, Cloud Systems Engineer,"London, England (UK)",Current Employee ,Finally !! i found it :),Finally !! i found it :),0,"Smartest people I have ever worked with, the easiest team to work within I have ever encountered. Individuality is celebrated here and everyone discovers their true place at the table bringing their individual approaches, skills and ideas to the team. Personal growth plans have extraordinary scope and is encouraged with the backing and resources to make sure you succeed. I feel extremely lucky to have been given the privilege to join such a great team. This company deserves it's reputation.",cons? hmm... have not found any serious ones yet. oh... except maybe the crunch crisp cereal has always gone by Tuesday morning - they need to buy more crunch crisp and less chocolate and cheese !! ;),keep it going exactly as is - never let anyone influence the company away from the cloudy values.,5.0,5.0,5.0,5.0,5.0,5.0
+2017-05-31, Devops Engineer,"Vancouver, BC (Canada)",Former Employee ,A great company to work for!,A great company to work for!,0,"Cloudreach is really amazing company. I was part of CR for 3 years and it was by far the best company I worked for. I learned so much during the 3 years and it prepared me very well for my next career challenges! Some of the best pros I would like to mention:
+- The people - everyone is very friendly, smart, helpful, positive. Really great people and you will enjoy working with the team
+- Quarterly meetings - 2 smaller local events (But still great ones) and 2 of the quarterlies usually involves flying to secret location (Barcelona, Mallorca, Lisabon, Boston, Chicago, Whistler, Harrison hot springs - just to name the ones during my stay here)
+- Uncapped vacation - how cool is that, you can take as much days off as you want (But not take a year off obviously:)
+- Great office locations - always in the city centre of big cities like Vancouver, New York, London, Chicago, Edinburgh, Dallas, Munich, Berlin, Amsterdam, Paris to name the main ones. Also lots of opportunities to visit other offices, or even relocate if that's what you wish for (Many many people have relocated to their dream city thanks to working in Cloudreach)
+- The offices are cool, they all look pretty, modern, with things like pool table, foosball, beanbags etc. Also lots of beer, snacks, lunching out every Friday. You will get nice Mac, 2 big screens, nice phone (choose pixel or iphone in Vancouver)
+- Career opportunities - it really is up to you how would you like to shape your career. I worked at 3 different positions during the 3 years and all you need to do is to show interest and prove you got what it takes to take the new position. Many people are also switching between departments and relocating to different cities if that's their career goal. You will have your line manager who will do their best to help you to progress your career the way you want to.
+- The management - everyone is very friendly and very open, including the management. James and Pontus started this company and have done amazing job growing it. They are as transparent as they can, they are not shy to share the revenue numbers and growth plans. There are regular meetings focused on such a updates.
+- The growth - Blackstone recently invested their money in Cloudreach and one of the goal of this investment is a massive growth of CR - more offices, more people. This also means more career opportunities for the employees and more options for relocation if that's something you are interested in
+- No overtime is expected or required - great work life balance. If you want to be top engineer, you may need to spend some time outside of work studying for certifications or improving your skills in certain technologies, but that's not expected, it's your choice.",- The ops team supports many many customers who are using many different technologies and build various applications - this may be overwhelming for some people and you should be ready to learn a lot and grasp new things quickly.,You are doing great work to keep Cloudreach amazing place to work for. Try to keep the culture as it is right now despite the big growth.,5.0,5.0,5.0,5.0,4.0,5.0
+2017-05-25, Cloud Operations Analyst,"Vancouver, BC (Canada)",Current Employee ,Cloudreach,Cloudreach,0,"Working in an exciting area with Cloud technology. Cloudreach are leaders in the 'Cloud managed service provider' sector. Cloudreach are premium partner with AWS. Nice Perks e.g. Macbook Pro, Google Pixel/ IPhone, and we get taken to lunch every friday! Health insurance is also covered once probation is passed (3 months)",Some shift work approx. once a month you may be required to work form 2pm to 11pm,,5.0,3.0,5.0,5.0,4.0,4.0
+2017-03-27, Cloud Systems Engineer Leader,"Edinburgh, Scotland (UK)",Former Employee ,Big changes are coming ( now for real),Big changes are coming ( now for real),0,"Cloudreach got recently acquired by Blackstone, which means big changes are coming. Some of them are structural, but most importantly its a good investment into Cloudreach to speed up the business.
+I'm sure it's not solving all the issues which were mentioned in other reviews(, especially not instantly), however it should have a huge, hopefully positive impact on the company. Because of this, I would say the pre-2017 'Cons' may not be that relevant anymore.
+
+-The company culture, the approval of the founder and management and some of the perks are definitely making Cloudreach a unique and amazing place to work.
+-Cloud computing is still a booming market where Cloudreach earned a really respectful position in just a few years,
+-It's a great career opportunity for engineers
+-Uncapped holidays are real! :D
+-Inspiring offices and culture
+-Amazing coworkers","-Some internal communication issues -> the management is aware of this and they are trying to fix it
+-Lack of bonuses in the past (May change from 2017)
+-High employee fluctuation
+-Moderate salaries (in a booming market.)","Don't give up the Cloudreach Culture and try to keep your talents, because they are amazing!",4.0,5.0,5.0,5.0,3.0,4.0
+2017-03-01, Operations,"Edinburgh, Scotland (UK)",Former Employee ,[Not a robot] - My time in Cloudreach was Invaluable,[Not a robot] - My time in Cloudreach was Invaluable,0,"All of what you hear are the good parts of Cloudreah are 100% true. Also, for context I worked within Cloud Operations for almost 3 years. I have learned, traveled and experienced so much over my time in employment and I certainly would not hesitate it as a new place to work for anyone looking to shift into Cloud technologies.
+
+There are parts for improvement, which I will mention in a moment, however, ultimately: the people are great to work with, the customers are great to work with, the workload is varied and changing regularly (you will be hard placed to find one day that is the same as the next - depending on your role) and the offices are well looked after and open plan (with plenty of free things if you are looking for that, coffee + misc drinks, snacks, continental breakfast assortments etc).
+
+If your are looking to confirm whether what the recruitment team tells you about is true or not, it is definitely is, and then some.
+
+However, in addition, the values you are indoctrinated with do certainly ring true also, they are definitely not brought up at. every. freaking. opportunity for no good reason. You can feel things like approachability and respect from almost everyone you meet (irrespective of the region you work in!) - that said, Edinburgh is the best office to be in (no subjectivism what so ever...)","I would bare in mind at this point that the highs out weigh the lows, and there are a few lows. However, I would say also that even when I was leaving, the lows that I had to report back appear to all have a plan in place for improving them already (the company is able to adapt quickly to problems it or others identify and report).
+
+So, with that in mind:
+
+- Certain teams need to expand, in terms of business justification, I am sure said teams would be able to present a fair amount of justification per function for such an increase.
+
+- The HR team are much better than when I started almost 3 years ago, and based on my exit interview it does seem as though things will be quickly improving from new roles, initiatives that have been implemented etc. However, until such changes are implemented, I would say the previous HR points raised within other reviews 'did ring true' through my earlier life in Cloudreach.
+
+- Business strategy and initiatives can change fast and often, this can be seen in a good or bad light as clearly, with Cloudreach's success, this agile approach to strategy is working. However, it can be a bit disconcerting from quarter to quarter.
+
+All of that said, I would still also highlight that, although I cannot comment on the future. As Cloudreach have now been acquired by Blackstone. There is certainly an opportunity to iron out any of my points or the points raised in previous reviews quickly and with much greater momentum.","Stay the corse you are on as it is working! However, in doing so, although ticking off multiple small quick wins is great for business updates, I would say more of a focus on the bigger wins would go a massive way across multiple teams or function.",5.0,5.0,5.0,5.0,5.0,4.0
+2017-01-27,,,Former Employee ,DevOps Engineer,DevOps Engineer,0,"Great culture . Everybody is so friendly. Can learn new things , get lots of certificates and build your resume. Awesome quarterlies and cloudy lunches are awesome.",Compensation is lower compare to others which was the main reason for my departure ( huge difference). Ops is on shift work was not my favourite part but some people liked it. Moving to different part of the company may not be easy unless you are willing to relocate.,Increasing the compensation,4.0,5.0,5.0,4.0,3.0,5.0
+2016-12-07, Devops Engineer,"Edinburgh, Scotland (UK)",Current Employee ,cloudreach is cool !!!!,cloudreach is cool !!!!,0,"One of the best company I've worked for !
+Everyone is always availabe to help, learning is made easy.","nothing to report, really.",keep it the way it is !,5.0,5.0,5.0,5.0,5.0,4.0
+2016-10-24,,,Current Employee ,Cloudreach,Cloudreach,0,"Every Friday cloudy lunches in a restaurant close by the office.
+Uncapped holidays are true (although not sure how long this will continue to be for).","When they advertise new MacBooks, do not expect brand new ones fresh from a box. MacBooks tend to be used ones and may be second or third hand.
+Salary is relatively low compared to other companies in Edinburgh.
+With all the bonuses they promise to give out, you would be surprised to hear if people actually receive one throughout the year.
+Extremely similar to call centre work (service desk), be prepared as job description does not reveal a lot.",Enforce actions which are promised.,3.0,3.0,3.0,2.0,3.0,3.0
+2016-09-20,,"London, England (UK)",Former Employee ,Great fast growing company to work for!,Great fast growing company to work for!,0,"Great company to work for if you are not afraid to get your hands dirty. The company is growing rapidly and things are ever changing with it's ups and downs. But overall, it is a great place to work. The people are what make this company so great. Their values ""Being easy to Work with"", ""Respect the individual and the individuality"", ""Being One Step ahead"" and ""Promoting Personal Growth"", are lived by managers and staff on a daily basis which create their core strength.","More clarity on career progression and opportunities is a key element Cloudreach needs to work on. I know it is being looked at, so it won't be long before this is implemented!",Better communication and transparency overall,4.0,5.0,5.0,3.0,3.0,4.0
+2016-09-24,,,Current Employee ,Losing its cloudiness,Losing its cloudiness,0,The people are awesome and the development opportunities are great as you work on some big project very quickly.,"The politics and the typically enterprise feeling. The benefits of the company are great, but they don't apply most the time if your working on-site.","Make the internal systems less enterprise-sy. Its feels impersonal, ridged and uncloudy. Improve your communication with staff, be willing to take constructive criticism and acknowledge wrong doings.",3.0,4.0,4.0,4.0,2.0,3.0
+2016-09-06,,"London, England (UK)",Current Employee ,"Everything I had hoped it would be, and more!","Everything I had hoped it would be, and more!",0,"One of the biggest positives for me is coming into work every day to an atmosphere where everyone loves what they do, loves where they work and has a smile on their face. That is undoubtedly due to the ""Cloudy Culture"" that has been created and the hiring of ""cloudy"" people who live by the Cloudreach values. The office is full of so many nationalities and personalities and we all gel together and work together extremely well. There is a huge sense of drive, ambition, learning and development. Customers are large, enterprise customers, the projects are interesting, exciting and challenging and there is a constant buzz of innovation and ideas spinning around over a coffee on the sofa or a beanbag couch! There are lots of great benefits and there is a fantastic work/life balance. You are given the freedom to create the role and career you want while also being supported.","For me, there are no cons about working at Cloudreach. In terms of cons, from what I have seen, any problems, queries or issues that ever arise that are brought up by staff to management are addressed and ironed out.",The best benefit that was ever brought in was unlimited holiday and it means so much to your employees! Continue to maintain the fantastic culture that you have created for us.,5.0,5.0,4.0,4.0,4.0,4.0
+2016-08-31, Cloud Engagement manager,Amsterdam (Netherlands),Current Employee ,A place of innovation and opportunities!,A place of innovation and opportunities!,0,"Cloudreach is a place of innovation where the company allows you to innovate and be creative.
+
+I have worked here for 2 months now and there have been some major changes as the company scales. Having worked for many different companies globally, these growth pains are normal and create some really awesome opportunities.
+
+Cloudreach is the most flexible, well rewarded and leading edge company to work for and I look forward to see Cloudreach scale!","None. People have to remember that the company is growing at a rapid pace and of course there will be friction, but that is normal and good.",Keep on keeping on. Keep the structure flat and always make sure that no decisions at a higher level limits anyone's creativity.,5.0,5.0,5.0,5.0,5.0,5.0
+2016-08-17, Cloud Leader,"Edinburgh, Scotland (UK)",Former Employee ,Good points and bad,Good points and bad,0,"- Good culture within the engineering team and elsewhere in the business.
+
+- Cloudy Lunches
+
+- Free fizzy drinks!
+
+- No ""Senior"" titles","- A certain member of senior management in Edinburgh. This person tends to voice their opinions which can sometimes be a positive but when their rather vocal feedback is given in a completely unprofessional and often offensive way - it stops being funny and is just demotivating and infuriating.
+
+- Based in Leith and planning to move (may have moved by now) to an office which isn't big enough for the rate of growth.
+
+- Some very sulky folks working in the Edinburgh office and it feels like it's night and day away from London and Vancouver as a team in terms of bonding.","Ultimately the main problems here are:
+
+- You have senior management in Edinburgh not reflecting the values of the business.
+
+- You have the culture in Edinburgh miles away from Vancouver or London.
+
+- You have very rare visits from senior management in London (HQ) to Edinburgh to ensure the company values are being upheld.",2.0,1.0,3.0,3.0,2.0,2.0
+2016-08-06,,"Edinburgh, Scotland (UK)",Current Employee ,A great place to work,A great place to work,0,"People at Cloudreach really do live the ""Cloudy Values"" every day, and are easy to work with. There's a real community spirit and everyone pulls together globally to ensure projects are delivered successfully. The Directors are easy to chat to and care about the whole business. Cloudreach has grown to nearly 6x the number of employees since I joined but remained (mainly) true to the core values.","Direction can be an issue, with a lot of meetings having no set agenda. Lots of things happening at once with changing priorities can be difficult.","Make sure you remember where we've came from and don't let things change too much. Look at staff numbers in the individual business units compared to this time two years ago, some could do with extra recruitment.",5.0,4.0,5.0,5.0,4.0,4.0
+2016-07-25, Cloud Systems Engineer,Paris (France),Current Employee ,Learning and working amongst smart people while having fun,Learning and working amongst smart people while having fun,0,"At Cloudreach you'll find a lot of smart and nice people to work with, and who will help you progress and solve the complex problems you'll encounter during your missions. There is a very strong personal development and knowledge sharing spirit, which makes Cloudreach an awesome place to to work and boost your skills.
+Also, as the company is growing quite fast, you'll have great carrier opportunities, and evolution is based on merit and not politics.","Some management decisions are not always communicated perfectly, but overall not much to complain about.",,5.0,5.0,5.0,5.0,4.0,5.0
+2016-07-11, Confidential,"London, England (UK)",Current Employee ,Amazing place to work!!,Amazing place to work!!,0,"- Recruitment/ People Ops Team are incredible
+- Working with interesting tech
+- Uncapped Holidays
+- World class training
+- Ambitious and talented team
+- Best company culture - other companies don't come close",- Can't think of any,- Keep it up!,5.0,5.0,5.0,5.0,5.0,5.0
+2016-07-14, Cloud Project Manager,"London, England (UK)",Current Employee ,Great Place to Be,Great Place to Be,0,"Culture, Environment, People and Leadership. All the best things about this company. Great people to work with, sitting at the cutting edge of technology. Trying our hardest to deliver innovation an cutting edge technology to our customers.",Some demanding customers and a lot of work in the pipeline so everyone is busy but we know that people are trying their best to balance the demand of work against current resources.,Keep going but stick to the culture as this is an awesome place to be and as we grow we need,5.0,4.0,5.0,4.0,4.0,5.0
+2016-06-28,,"Edinburgh, Scotland (UK)",Current Employee ,Happy days!,Happy days!,0,"Work-life balance as full time working mum is something I'm in control of here. That's what I love. Trust, space.",There are no downsides specific to this company that I haven't experienced elsewhere. The difference is that we keep it cloudy here and it's a healthy working environment!,,5.0,5.0,5.0,5.0,4.0,5.0
+2016-07-08,,"London, England (UK)",Current Employee ,As good as it gets,As good as it gets,0,"A particular personality type works and does well at Cloudreach - optimistic, friendly, helpful, good humoured, expert in something, always willing to learn and always looking forwards. It's this that makes it so great to work for. It's hard to believe it can get much better than this.",Can be hectic / overworked at times but usually in a reasonably good way. Non-stop. Some processes are a bit lacking / confusing. Some growing pains.,"Don't lose the personal touch and keep the comms flowing. Stay competitive with salary etc, recruiters target Cloudreach hard to get the people. Don't drop your recruitment standards, keep hiring cloudy-fit people.",5.0,4.0,5.0,5.0,4.0,5.0
+2016-07-03,,,Current Employee ,Fun place to work!,Fun place to work!,0,"Lovely people, wonderful company culture, lots of benefits & continuously adding more. Cloudreach is probably the best place I've ever worked at. Great career opportunities and lots of freedom: no fixed workplace, very flexible working hours. Hip offices in exciting locations. Cool customers and really interesting projects. Never a boring day!","It's a young company with a start-up culture so considering how fast the company has grown in the past year there are some processes that just don't work properly anymore, but the management is working hard to solve these problems. It's just a natural process and certainly nothing that should be considered a 'con'.",Thanks for keeping the culture alive despite having to make some changes to our annual kick off events.,5.0,5.0,5.0,5.0,5.0,5.0
+2016-07-31, NOC Operations Engineer,"Edinburgh, Scotland (UK)",Former Employee ,Used to be good,Used to be good,0,"Some investment towards personal development, relatively social place to work.","Cloudreach used to be a great company to work at but this started declining rapidly over the last few years when experienced employees started leaving in droves. Employees were not valued for their loyalty and certainly were not consistently respected based on their skills and the effort which they applied.
+
+Questionable promotions were made, egos too often came before technical experience and sound judgement. Aggressive personalities and biased treatment were rampant. Instances of complete lack of respect for employees' circumstances from managers. Major cultural differences existed between offices.
+
+Things have only got worse since i left as i learn from friends who remain.",Hire those who are motivated and treat them with the same respect that they apply to their work.,1.0,3.0,1.0,2.0,2.0,1.0
+2016-06-28,,"London, England (UK)",Current Employee ,"Great people, great job","Great people, great job",0,"The people are the number one reason to work for Cloudreach, everyone is friendly, easy to work with and great to have a beer with after work.
+Opportunities - as a fast growing company there's lots of chance to get stuck in on interesting projects and pick up a lot of responsibility.
+Exciting clients - we work with some of the biggest companies around the world.
+Approachable management - most of management eat lunch with the team and go out for drinks, makes it easy to bring up any issues.
+Travel - quarterly meetings abroad (Mallorca, Amsterdam, Dublin, Barcelona to name a few) and global resourcing means the opportunity to travel to other offices and clients abroad.
+Uncapped holiday!
+Free Friday company lunches!
+Friday beers!","Growing pains - fast growing company inevitably leads to issues with recruitment and processes.
+Delegation - Management needs to delegate more, there are too many bottlenecks and overworked managers.
+Salary and bonuses.",,5.0,5.0,5.0,5.0,3.0,5.0
+2016-06-23,,"Munich, Bayern (Germany)",Current Employee ,"Some teething problems, but great to work for.","Some teething problems, but great to work for.",0,"great freedom within the role, scope to develop, sense of trust between line managers and employees as well as peers, ability to work from anywhere as long as you have a wifi connection, great prospectives, I think this company will come far.","troubles that come with immense growth, a bit of ""improvising"", still a lot of catching up to do on regional specifics, low pay.",,4.0,4.0,4.0,4.0,2.0,4.0
+2016-06-27,,"London, England (UK)",Current Employee ,Excited to go to the office,Excited to go to the office,0,"- Excellent work environment (offices, laptops...)
+- Great mix of different type of characters (especially between tech and non tech people)
+- You feel that the company takes care of you (perks + social / staff events)
+- Flexibility with hours and possibility to work remotely (not for every jobs though)
+- Social aspect of working for Cloudreach. Not only the company organises events on a regular basis but the staff is keen to organise activities too and like to spend time with each other)","- Limited visibility on career progression. The options are there but you need to dig yourself to find out.
+- Its a growing company. Expect growing pains from times to times and remember that you are also being hired to improve organisation as you can !","- Keep the culture alive ! (which is something the management is very aware of. )
+- Communication about internal opportunities and career progression needs improvment",4.0,5.0,5.0,4.0,4.0,5.0
+2016-06-23, Account Manager,"London, England (UK)",Current Employee ,One hell of a journey,One hell of a journey,0,"Fast growth company
+Huge customer demand for our services
+Opportunities coming out of your eyeballs
+Ability to take bull by the horns
+Working with a variety of customers
+Not for the squeamish or slackers. This is rollercoaster ride and you'll get found out if you can't pull your weight
+The people - I'd go for a beer with most of our staff any day of the week - that says a lot","Delegation of authority in a flat org structure (to be expected in a start-up?)
+Recruitment never seems to catch-up with our customer demand","Delegation of authority/responsibility in a flat org structure (to be expected in a start-up?)
+Be more considered in communicating change. This happens at a fast pace and thinking about how the audience may receive and react on the information provided requires some more considered PR as we grow
+Focus staffing on areas where non-specialist skills are required to ensure we take the pressure off more skilled staff
+There are some 'made' people, who are in important positions and are immune to the values held up to most others in the organisation.",4.0,3.0,5.0,3.0,3.0,4.0
+2016-06-18,,,Current Employee ,Impressive,Impressive,0,"I've worked for many companies who believe that they have a strong culture but I have never seen anything like what I have seen at Cloudreach. Every employee is a shining example of what a strong company culture is. Every employee is hugely talented and knows their area of expertise extremely well.
+
+Above anything else, everyone I've met so far are just genuinely nice people who will help you wherever possible.
+
+This company is at the forefront of the cloud movement and there is such huge opportunity ahead of us, particularly when we are viewed as the best AWS partner in the UK by AWS themselves. Not to mention the growing Azure business and already established Google and SalesForce divisions. The clients we attract are huge brands too and I feel honored to be part of a team that is helping them transform their businesses.","Because the company is growing (but is still small) its benefits packages are lacking compared to what is in the industry today. The pension package is pretty small, the cloudy university is basic and really only caters for lower level accreditations (AWS associated etc.). There is no death in service insurance etc.
+
+However, Cloudreach invest heavily in benefits that are aimed at promoting and growing the company culture, such as parties every quarter, company party once a year, free lunch every Friday in a restaurant in Holborn (which is awesome), free snacks in the kitchen, beer in the fridge. Initially I was deflated by the company benefits but then I realised that maintaining the culture is the key to success and is 100% the reason I will stay in this company for as long as I can.",,5.0,,,,,
+2016-06-17, Cloud Enablement Manager,"London, England (UK)",Current Employee ,Best Company Ever,Best Company Ever,0,"Cloudreach is the best company I have ever worked for, end of story. Everything about them and their culture, from the first contact they made regarding my hiring, through to the on-going support and development opportunities they offer is superb.
+
+On top of this, we are simply the best in the world at what we do. The talent working here is second to none. Every employee or Director I have come into contact with have been uber friendly and helpful, and have gone out of their way to promote a 'Cloudy' culture, which is what sets the company apart from any other I've been involved with.
+
+Simply put, join Cloudreach. It's ace.","None. Honestly, nothing bad to say about the firm. It's really as great as it seems on first impressions.",Keep it up!!,5.0,5.0,5.0,5.0,5.0,5.0
+2016-06-15, Cloud Systems Engineer,,Current Employee ,"Infectious enthusiasm, diversity, and genuine expertise","Infectious enthusiasm, diversity, and genuine expertise",0,"Right from the beginning of the interview process you can tell just how enthused people are at working for Cloudreach, and this extends all the way through the business. The staff is ridiculously diverse - it's not uncommon for a quick ""where are you from"" to a new employee to lead to a ten-minute journey across the world, and for a tech company there's a great gender balance. The internal experts lists are a treasure trove of advice, war stories and expert opinions, and pretty much everyone is willing to take time out for a longer chat about anything that they can help with.","The company is still transitioning from a small startup to a more substantial size, and while this is happening really quickly there are still some rough edges process-wise sometimes",You were voted best place to work for in 2013 - don't lose sight of what makes your employees love working for you,5.0,5.0,5.0,5.0,5.0,5.0
+2016-05-21, Devops Engineer,"Vancouver, BC (Canada)",Current Employee ,Start your cloud career here!,Start your cloud career here!,0,Constant interactions across all business units makes it exciting to see how the company is doing as one. Relaxing job and great team to work with.,I dont think there is a con. You make yourself at Cloudreach and you have a voice!,Keep doing what you are doing Cloudreach! Being one step ahead and keeping it cloudy!,5.0,5.0,5.0,4.0,4.0,5.0
+2016-04-06, Devops Engineer,"Edinburgh, Scotland (UK)",Current Employee ,Awesome,Awesome,0,"Customers, technology and culture all tie up into one great package. From the quarterlies in fun locations, to the advanced technology we work with day to day for some of the largest organisations, working here is an exciting challenge and experience!","Nothing I think worth highlighting as a con. With an ever changing business, there is bound to be things that will annoy people but they are vastly outweighed by the pros",,5.0,3.0,5.0,5.0,3.0,4.0
+2016-03-15, Cloud Systems Engineer,"Edinburgh, Scotland (UK)",Current Employee ,A Cloud-Native company,A Cloud-Native company,0,"-Amazing flexibility
+-Really talented and fun employees
+-Great company culture
+-Interesting projects
+-Lots of travelling, if you want
+-Huge effort to keep a good work-life balance
+-Uncapped holidays ( for real!) (EU and US and CA)
+-Support of personal development, career path","-Salary and bonuses
+-Projects can be overwhelming, management tries to fix issues, but sometimes it takes time. ( But the projects are changing in 2-6 months)
+-The company is growing extensively, at the moment it is facing big challenges, how to handle it's current size. It will be all worked out after a while.",-Keep a closer look on salaries and bonuses to follow the market. Cloud computing is one of the hottest skill in 2016.,5.0,5.0,5.0,5.0,3.0,5.0
+2016-03-16, Cloud Systems Engineer,Paris (France),Current Employee ,Amazing company to work for,Amazing company to work for,0,"Awesome company with a great culture. Beautiful offices in city centres, lots of great benefits and good pay. No pointless meetings and hierarchy. Just a lot of people that love what they do. So glad I found this place!",The company is growing extremely fast and sometimes internal administration finds it hard to keep up.,,5.0,5.0,5.0,5.0,5.0,5.0
+2016-02-19,,"London, England (UK)",Current Employee ,"Don't delay, come and play...","Don't delay, come and play...",0,"The single, best reason to work for Cloudreach is the culture. If you want to work as part of a family, not just around colleagues, then you'd be silly not to explore the opportunity of working with Cloudreach. The interview process is multi-tiered for a reason, we hire the best of the best. Are you the best of the best? If so, take the plunge. If not, go work for Accenture or another radically different company.",I honestly can't think of anything to complain about.,Give Kevin Campbell a medal.,5.0,4.0,5.0,5.0,4.0,5.0
+2015-12-29, Systems Developer,"London, England (UK)",Current Employee ,"Employees come first, awesome projects follow closely behind","Employees come first, awesome projects follow closely behind",0,"Cloudreach is the best company I've ever worked for. It's probably the best company you'll ever work for. Why ?
+
+Not just the benefits. Those are great. Not the twice yearly company holidays , which are also cool. Nor the friday free lunches , or the flexible working environment (where possible) , where you can work remotely if you want to and your project allows it. The chances to work abroad in one of the ever-expanding list of offices are cool too. Visiting New York, Buffalo, Niagra Falls, Long Island, Mallorca and Amsterdam all in the space of a year is pretty nice as well. These are all awesome things that make it an enjoyable place to work.
+
+You get to work with the worlds biggest companies, on projects that you'll be proud to have been part of. Using technologies that are in demand, and to develop your own contributions to them. You'll design mammoth migration projects, implement amazing scripting, and help scale systems used by millions of people worldwide.
+
+And the rate you learn at is insanely good. Skilling up and certifications are heavily encouraged at all levels of the business. There is a large pool of very talented colleagues who back you up when you are on a project and are happy to help you learn and grow further. The continued expansion of the company (the London office has more than doubled in size in the last twelve months, 2 new offices in Chicago and Zurich opened recently) provides a lot of varied opportunities for advancement and development.
+
+But what makes it the best company is one very simple fact. Cloudreach cares about you. The know you are a person who has a life outside work. And inside work, they want to do everything they can to make it a place you love to work. They ask you if you are ok with taking a project that might mean travelling beforehand. They ask you if you are happy with a project, with how it's going, with what it requires from you.
+
+And then, importantly, they'll act on it. If you aren't happy with something, and they can improve it, they will do. The resourcing team works very hard to match projects to your personality, skills and interests (where possible), so you'll often be doing things you enjoy in the locations you want to do it in. If you want to travel a lot, they'll try and find projects involving travel for you. If you really don't , they'll try and fit that in too.
+
+Joining Cloudreach was easily the best decision I ever made. I don't just enjoy my job. I love it.","It's very difficult to think of any - some growing pains as the company expands, but these are quickly addressed as time goes on.","Keep it up! There's a great mix of important info that people get to know, sensible decision making that considers the people as well as the business's needs, and a great working environment. Recruiting really talented people inspires existing staff too stretch to their level too.",5.0,5.0,5.0,5.0,4.0,5.0
+2016-01-10,,"London, England (UK)",Current Employee ,I'm lovin' it,I'm lovin' it,0,"- *The* leading company in the cloud SI space. No one else comes close, no matter what they might claim. No legacy hardware nonsense, just pure cloud computing at all stages of the lifecycle.
+
+- Cloudreach hire smart people. They're also friendly and interesting. This makes it a fun and enjoyable place to work. Not seen a particular type of problem before? No worries, throw enough smart people at it and we can make it happen.
+
+- We have great relationships with the major cloud vendors, and a big long list of happy customers.
+
+- Projects and technologies are interesting.
+
+- Cloudreach are well positioned and have a sensible strategy to support larger organisations.
+
+- Events and quarterlies are spectacular.
+
+- The expansion has been incredible, roughly doubling every year. It's been a great ride, and long may it continue. Working for a growing company provides career opportunities for all.
+
+Global domination awaits.","The cons get eroded all the time. A few years back, perhaps our benefits were a bit 'tight', as was typical of a small company focused on growth. These days that's no longer true and we're leading on benefits like uncapped holiday.
+
+It's worth noting that the fun of working in a growing company does of course have some counter-balance in that there's always a *lot* to be done. I enjoy that, but not everyone would. Everyone at Cloudreach is busy! Recruitment will remain a constant challenge - but that's a good problem in general for the company.","We've got a hot two years or so in front of us, let's make sure we capitalise on it and keep up the incredible growth.",5.0,4.0,5.0,5.0,4.0,5.0
+2015-12-08, Salesforce Consultant,"Edinburgh, Scotland (UK)",Current Employee ,Great place to work,Great place to work,0,"Amazing people & culture: There's not a single person I work with who I don't genuinely admire for their skill in their role. There is some serious talent working here. What's more - there's not a single person who I'd not gladly have a beer with after work. Cloudreach would rather not hire for a role than hire someone who will be difficult to work with or who is just ""good enough"". The bulk of my team is based in London (i'm in Scotland), but I don't ever feel ""left out"" - we communicate daily via Google Hangouts.
+
+Caring company: Despite the challenges of fast growth, I do feel like the Cloudreach is making a real effort to make it a great place to work. The benefits are relatively good - especially the ""little things"" like free sit-down meal on Fridays, good parties, fresh fruit and drinks/snacks.
+
+Good Management: the management team are pretty good at communicating what our goals should be, and giving us advice on how to achieve them.
+
+Development: Everyone is actively encouraged to get trained up and gain certifications. I have gained 4 certifications since starting 3.5 months ago. My Salesforce team is really helpful and supportive helping teammates prep for exams - and I think it's the same for the AWS and Google Apps teams.","I sometimes think that the fast expansion in the realms of recruitment can leave potential recruits feeling a bit up-in-the-air. My own recruitment process, while swift once it finally properly got going, involved a lot of chasing and unanswered emails initially. I recommended a couple of friends to work at Cloudreach as well - one was hired quite swiftly, but the other got a fair ways into the recruitment process before losing out to another candidate. However, he wasn't informed that the role was filled despite numerous querying emails, which was a bit embarrassing for me after having raved to him about what a great place Cloudreach is to work. My advice would be to improve communication with recruits - even if it's just a quick email to say ""thanks for the email, we have no news as yet"" or ""thank you, you were great but we've found someone more qualified"". It's not a nice feeling to be left hanging for a job you really want.
+
+Working hours are also quite long - I'm still adjusting to the 9-6 working day. Coupled with a lower-than-industry-standard remuneration, I wound up getting a lower hourly rate at Cloudreach than at my previous role, despite a higher annual salary. It's been worth it for the great culture, however.","Keep on keeping it cloudy! Have a think about reviewing core benefits to retain a long-term workforce, like enhanced parental leave and death-in-service benefit.",5.0,4.0,5.0,5.0,3.0,5.0
+2015-12-09, Devops Engineer,"Vancouver, BC (Canada)",Current Employee ,"Amazing, innovative, and fast-growing company","Amazing, innovative, and fast-growing company",0,"Extremely friendly and warm environment. Get to work with the most up-to-date, current cloud technologies. Company encourages personal growth, and make sure you are happy with the work you do on a day to day basis or help you find tasks that are better suited to your strengths. Very fast growing company which is getting lots of recognition and praise. Lots of incentives such as weekly company lunches, quarterly trips to places all over the world, office stocked with food and drinks. Very trendy office including game consoles, pool tables, lounging area.","As stated in the Pros, company is fairly new (~7 or so years) but growing very fast, so there is quite a lot of process changes that occur. But nothing too unmanageable. Haven't experienced any real Cons besides that.",,5.0,4.0,4.0,5.0,4.0,5.0
+2015-12-08,,,Current Employee ,Unbelievable place to work.,Unbelievable place to work.,0,"The people are amazing and friendly, every day is a challenge and the technologies you are exposed to are current and so interesting to learn about. You learn something new every day and the career paths in this company are unparalleled and are very free flowing.","There are no cons whatsoever, hands down the best place to work.",,5.0,5.0,5.0,5.0,5.0,5.0
+2015-12-04,,"London, England (UK)",Current Employee ,Fun place to work!,Fun place to work!,0,"Beer in the fridge, every Friday lunch in town, cool kick off events in sunny location. besides all the fun stuff Cloudreach has very bright people who are eager to learn and teach.",The communication could be better sometimes,,5.0,5.0,5.0,5.0,5.0,5.0
+2015-11-25, Cloud Systems Engineer,Amsterdam (Netherlands),Current Employee ,Fast growing with many different opportunities,Fast growing with many different opportunities,0,"I started working here because I wanted to do more with AWS, yet what I got now is so much than that. Amazing people in all our offices. The Cloudy feeling is best described by quoting a friend who was with me when I visited the Edinburgh office during a holiday. She was surprised how welcome we where and said:""It doesn't feel like you're visiting a different office more like a you just went to a different floor"". This really describes how easygoing and friendly people are.
+But wait, there is more. The work that we do is so much fun and challenging. You always learn new things and work with smart and innovative people.","If you don't like working with a fun company and awesome people, this could be a problem",,5.0,4.0,5.0,5.0,4.0,5.0
+2015-11-29,,"London, England (UK)",Current Employee ,Cloudreach one of best,Cloudreach one of best,0,"Best company to work with, professional all around you.",I do not think of any but need to look salary structure.,Keep it up the good work and review employee salaries,3.0,3.0,3.0,3.0,1.0,3.0
+2015-11-18, Account Manager,"London, England (UK)",Former Employee ,It's pretty epic.,It's pretty epic.,0,"Fast growth, great people. The company looks after you... weekly lunches at the local restaurants (they've offices in the best cities so you'll get dined in awesome places)... quarterly parties... annual getaways.",Great growth in the company sometimes means training in sacrificed. I hope that there early initial hard work of creating a brilliant company doesn't get diluted.,,5.0,5.0,5.0,4.0,3.0,4.0
+2015-11-13,,,Former Employee ,Great idea undermined by lack of focus,Great idea undermined by lack of focus,0,Interesting projects with a wide range of clients. Some great people who were very dedicated to delivering complex pieces of work.,"Projects were worked on by teams of one or two people billed as instant experts making organisational learning difficult. Management lacked focus, and tried to be all things to all people. Sometimes sold more than it was possible to deliver. Tried to expand too rapidly.","Define a strategic roadmap and the value proposition clearly and then stick to it. Invest in three or four flagship relationships, and then have a long tail of smaller ones. Build non-engineering skills across teams.",2.0,,,,,
+2015-10-26,,"Edinburgh, Scotland (UK)",Current Employee ,A Room Full of Fantastic People,A Room Full of Fantastic People,0,"1. Everyone here is really passionate about what they do and it rubs off on you every day.
+2. Loads to learn and a lot of projects to get involved with.
+3. They are really focussed on learning and training
+4. It's a genuinely fun place to work. Pool table, XBox, Fusball and lots of lunches and events (we are going snowboarding next month).
+5. There's lots of prospects for me to move into different teams and lots of promotions within my current team.",Everyone here is crazy smart and they expect you to be on the ball and quick to learn.,,5.0,5.0,5.0,5.0,5.0,5.0
+2015-11-23,,"Farringdon, England (UK)",Former Employee ,Chaotic,Chaotic,0,Great people and interesting projects,Burn out is high and management use employees as pawn for experiments that often go wrong. Promises have been made in the past and broken by management.,better planning to avoid marooning staff in redundancy because of a bad strategy. pay people their bonuses,1.0,1.0,3.0,3.0,1.0,3.0
+2015-10-10,,"Edinburgh, Scotland (UK)",Current Employee ,Amazing company to work for!,Amazing company to work for!,0,"Great atmosphere, amazing benefits, trips twice a year (Mallorca, Amsterdam this year), lots of opportunities, free lunch with the colleagues on Fridays, the list goes on!","None so far, a little bit of management issues with the operations team... but all in all I can't name any actual downside.",Keep it cloudy and let's reach that goal by 2020!,5.0,5.0,5.0,5.0,5.0,5.0
+2015-09-19, Devops Engineer,"Edinburgh, Scotland (UK)",Current Employee ,Keeping It Cloudy - DevOps Style,Keeping It Cloudy - DevOps Style,0,"Working at Cloudreach is a very enjoyable and fun experience where your technical mindset is always satisfied and challenged providing a wide variety of experience on the latest technologically advancements. Cloudreach is always one step ahead in the market and new technology is always tried and tested in our lab environments. We also have a wide range of technical Gurus where we can come together and ask the experts for advice.
+
+Customer service is also a key element where training is provided to help grow amazing customer relationships which makes incidents and problems a lot easier to deal with and gives it a friendly experience even in the most complex situations.
+
+Cloudreach also has a great social aspect where social events are arranged regularly (Bowling, Paint balling, Go Karting and who can forget going to Mallorca and Amsterdam!). We also purchased a paddling pool in the Edinburgh office to soak up the sun and chill with a beer.
+
+James and Pontus have nailed the company community perfectly and I couldn't wish to be anywhere else!
+
+Bring on 2020!!",There is no BrewDog in the beer fridge. However recently Peroni has been added to the selection.,Our Cloud Leaders have improved as of recent but it would be nice to have 1 or 2 more technical Cloud Leaders with experience and not just reliant on Chris W's knowledge.,5.0,4.0,5.0,5.0,5.0,3.0
+2015-09-25, Devops Engineer,"Edinburgh, Scotland (UK)",Current Employee ,"Fun place to work that definitely ""makes it happen","Fun place to work that definitely ""makes it happen",0,"You get to be hands on with all manner of interesting technology and work alongside friendly people who really know their stuff. The management are as engaged and enthusiastic about making Cloudreach the best place to work they can as everyone else in the company, and do their best to help you create and realise opportunities to advance your career - for example, Cloudreach is helping me move half way around the world by sponsoring my visa and covering the moving costs, as well as obviously having a job waiting for me at the other end (massive thanks to some management and People Ops rockstars for making it happen!). There's a lot of cool perks too, from the weekly Cloudy Lunch (taking over a restaurant every Friday on the company tab), to beer in the fridge, to the quarterlies where we all get to have some fun - especially the kickoff where the entire company flies somewhere sunny for a long weekend together!","The pay is lower than at some other companies, somewhat mitigated by perks and certainly still well above minimum wage. There's a bit of a lack of formal documentation in some areas and no ""single source of truth"", though efforts are being made to improve on that.","Keep doing what you're doing - Cloudreach is a fantastic place to work. Otherwise, try and come to Cloudy Lunch more often ;)",5.0,4.0,5.0,5.0,4.0,5.0
+2015-09-18,,"Edinburgh, Scotland (UK)",Current Employee ,Cloudreach is where you wanna be!,Cloudreach is where you wanna be!,0,"Starting at a new company is never easy, but the guys at Cloudreach really made me feel welcome and like I was part of the team from the get-go. They are super friendly and are more than happy to answer any questions (even when you have a zillion of them.) As a company, they say they look after their people, and they really do! They are more than willing to help where they can, be it professional or personal. Awesome phone, awesome Mac, food, beers, regular social gatherings - what more could a person ask for?",None that I can see so far...,Keep keepin' it Cloudy!,5.0,5.0,5.0,5.0,5.0,5.0
+2015-09-18, Talent Acquisition Specialist,"Vancouver, BC (Canada)",Current Employee ,5 STAR Employer!,5 STAR Employer!,0,"When you boil it down, Cloudreach is a company that puts their employees first! Always! They are strong believers that company success starts with their people. Whether it is a company kick-off event in Europe, the office Xbox, the beer fridge, career opportunities, cloudy lunches or the amazing office locations, Cloudreach is continually thinking of innovative ways to invest in their employees. They care. A lot!
+
+Not only is it a great place to work, you will be working with some amazing people and have some amazing career opportunities. Everyone in Cloudreach is unique, diverse and very easy to work with! You instantly feel a part of the team and a member of the Cloudy family. If you are keen for international work opportunities, gaining professional certifications, attending our Cloudy University, taking advantage of our mentorship program or being a member of a leading tech company, Cloudreach is for you.","There are not many really. It is truly a great place to work. Having come from a more Corporate or well established company, it has been a bit of a transition getting used to the start-up culture. However I have come to realize, the culture is what makes this company. It makes it a fun place to work and motivates its employees to work hard and play hard.",Keep it up! Stay Cloudy!,5.0,5.0,5.0,5.0,5.0,5.0
+2015-09-15,,,Current Employee ,A Great Environment for Improving Your Skills,A Great Environment for Improving Your Skills,0,"- A friendly, professional working environment.
+- Numerous opportunities to improve your skills by applying your knowledge in real world cases, or working towards different certifications and qualifications.
+- A very generous amount of benefits and holidays.
+- The opportunity to meet new, like-minded people at both work and scheduled, annual events or activities.
+- Valuable work experience with many different people with varying skill-sets and knowledge of different technologies.
+- A growing company with many opportunities to advance your career.",- Some processes and job responsibilities are still being developed and defined.,,5.0,5.0,5.0,5.0,5.0,5.0
+2015-09-15, Devops Engineer,"Vancouver, BC (Canada)",Current Employee ,Growing with good people,Growing with good people,0,"Vancouver is full of startups but Cloudreach is unique as they're a small to medium sized company based in Scotland that has the feel of a startup.
+What does this mean? They're really keen on getting the right people in the right positions. It hasn't reached the size where you become a number. The interview process is extensive as I had to go through 7 interviews before receiving an offer. It's about the right fit personality wise.
+The office in Vancouver is very relaxed and they take care of their employees really well. Friday's the entire office goes out for lunch paid by the company. Great location in Gastown. Great team of individuals who go out of their way to help each other.",Some would say working an evening shift one week a month can be considered a downside for some. Likely those with families. You're compensated by having your dinner paid for. This is especially good in the Gas Town area with its abundance of good places to eat.,Keep doing what you're doing ensuring that any new candidates are a right fit for the team.,5.0,5.0,5.0,4.0,4.0,5.0
+2015-09-18,,,Current Employee ,Great place to work,Great place to work,0,"Great growth, technology ahead, passionate and talented team, lots of opportunities",Cons of a fast growing company,,4.0,4.0,4.0,5.0,4.0,4.0
+2015-08-15, Sales,"London, England (UK)",Current Employee ,Great Place to Work,Great Place to Work,0,"Switched on, friendly people. If you want to grow as a professional and learn every day, this is the place for you. Lots of opportunities, perks and general niceness. Couldn't recommend it enough.","Only the challenges of a fast growing company, but that's part of the fun!",Keep inspiring people to do what they do.,5.0,5.0,5.0,5.0,5.0,5.0
+2015-08-25, Business Development,Amsterdam (Netherlands),Former Employee ,How it should be,How it should be,0,"I could not have wished any other company to kickstart my career, steep learning curve, No hierarchy, easy to work with, great work-life balance and nice colleagues",can't think of any right now,Keep it cloudy,5.0,5.0,5.0,4.0,2.0,5.0
+2015-08-12,,"Edinburgh, Scotland (UK)",Current Employee ,Cloudreach Operations,Cloudreach Operations,0,"The people - Everyone is super positive and welcoming every single person without fail loves working for CloudReach, it's really refreshing to be in such an environment.
+Being Cloudy!! working in the cloud.
+Cloudy Lunches every Friday
+Being part of something new and great.",There are no cons at all.,Keep on Keeping it Cloudy,5.0,5.0,5.0,5.0,4.0,5.0
+2015-08-06, Graduate Cloud Systems Engineer,"London, England (UK)",Current Employee ,Great place!,Great place!,0,"- Extremely friendly team!
+- The variety of engineering challenges faced day to day
+- Opportunities to travel
+- Good training courses offered to broaden your knowledge
+- Cloudy lunches",- None so far. Keep it up!,,5.0,4.0,4.0,5.0,4.0,5.0
+2015-09-17,,,Former Employee ,Fake people focus,Fake people focus,0,Innovative environment with some good people to work with,"HR is appalling. They pretend to focus on their people but in the end, they are only looking after themselves and do not support the staff.",,1.0,2.0,1.0,1.0,1.0,2.0
+2015-08-25, NOC Operations Engineer,"Edinburgh, Scotland (UK)",Former Employee ,NOC Operations Engineer,NOC Operations Engineer,0,"NOC provides engineers with a work macbook, the office featured small pool table, foosball and company sponsored snacks&drinks.","Salary slightly above minimum wage with possibility of weekend and night on-call work (paid per work unit). NOC operations engineers are tasked with second line support of Cloudy infrastructure, but company was going in direction of more first line support (resetting passwords, retrieving deleted emails), which dramatically increased workload (not in a fun way). Also the direction company chose to go was to hire unpaid teenagers as work experience interns to offload some of the dull work on them. However, the training of the inters was put on shoulders of the NOC engineers. Dealing with teenagers is not fun, when performance reviews look at your support cases personally, discounting the training duties.","Stop hiring unprofessional interns for unpaid labour.
+Invest in automated systems and move away from manual tasks and first line support. Improve performance review process with clear guidelines of earning and benefits growth.",2.0,1.0,1.0,1.0,1.0,1.0
+2015-07-15,,,Current Employee ,A great place to work,A great place to work,0,"Opportunities to develop a career in cloud computing.
+Genuine, down to earth and very friendly team.
+Company culture.
+Rapidly expanding company, lots of opportunities for those up for a challenge.
+Lots of perks, spot bonus and annual kick off trip are the best.","You are expected to work hard, always busy.
+Growing company, so you have to figure out lots on your own.",Keep it up.,5.0,3.0,5.0,5.0,3.0,5.0
+2015-07-14, Cloud Engineer,Amsterdam (Netherlands),Current Employee ,"Great place to work, fosters creativity and self-improvement","Great place to work, fosters creativity and self-improvement",0,"Great atmosphere, wonderful people and challenging projects.",Can not think of any.,Keep doing what you're doing and you will be a billion dollar company in no time.,5.0,5.0,5.0,5.0,4.0,4.0
+2015-08-13,,,Former Employee ,The most cynical place I ever stepped into,The most cynical place I ever stepped into,0,Colleagues are welcoming and supportive,"In my view, management acted disgracefully.
+Communication was controlled to a level I have never seen before.","I've no doubt you will succeed, at great unnecessary cost to individuals along the way.",1.0,1.0,3.0,3.0,3.0,1.0
+2015-06-20, Devops Engineer,"Vancouver, BC (Canada)",Current Employee ,I feel lucky I work here!,I feel lucky I work here!,0,"Cloudreach is just an amazing place to work. We work with many technologies and one is never bored and can professionally grow very fast. The people are amazing, the job is amazing, the management is just perfect and cloud computing is currently so hot that there is nothing more one can wish for!
+
+To address one of the negative review below: ""Cloudreach is cheap on every way possible"".
+
+From my experience Cloudreach is not cheap at all for the following reasons:
+
+- In total (including statutory holidays), you will get 34 days of vacation per year - plus extra ona day for every 1 year of employment, up to 5 extra days (talking about Canada) - probably not many other companies offers that many vacation
+
+- Yearly kick of meeting in a great location (Barcelona last year, Mallorca this year) - around 150 people attending, Cloudreach pays for everything - I don't consider this as cheap!
+
+- Another 3 bigger events during the year (4 days in whistler this March all inclusive for employees including ski passes, go carting twice a year and another local events)
+
+- Cloudy lunch every Friday when company goes to a nice local restaurant as a team
+
+- There is always food in the fridge and cupboards as well as lots of beers!
+
+- Cloudreach offices are very centrally located, in the downtown of cities like Vancouver, London, New York, Munich, Paris, Amsterdam and Edinburgh - If Cloudreach would be cheap they will find a cheap country for their offices! There are people always traveling between offices and after some time there will be definitely the opportunity to visit your colleagues in a different country
+
+Hope one will understand that Cloudreach is not as cheap as it looks like from the negative feedback:)
+
+Also to address ""Terrible communication"" - Cloudreach management is very open and is giving detail business insides every few months, coming directly from the founders. HR is busy, that is true as Cloudreach is looking to fill maybe 50 positions at any given time, so HR could be slower to respond, but it never happened that my questions will not be answered. Also every employee has assigned a team lead and they have 1on1 meetings every 2 weeks discussing any technical/personal development, so I really don't see any lack of communication anywhere, it is the opposite, everyone is very friendly and every employee has the opportunity to openly talk if something is not right.
+
+Another point from the negative feedback: ""They will push you to accept bad employment terms in order to stay employed"" - of course Cloudreach is not pushing anyone to accept anything. It is up to the individual to decide whether he/she wants to work for Cloudreach or not. If the employment terms are bad for the individual, of course he/she can decide not to sign the offer and look elsewhere!","The only cons from my point of view is that the salary range could be a little higher (talking about Canada), but again, as a whole package the terms are fair",Keep doing what you are doing and everyone will be happy! :),5.0,5.0,5.0,5.0,4.0,5.0
+2015-06-22,,"Munich, Bayern (Germany)",Current Employee ,Great company to work for,Great company to work for,0,"strong company values, great events, team spirit, travel to nice places, open ear from managers, very approachable management and colleagues",I have not encountered any so far,,5.0,4.0,5.0,5.0,4.0,5.0
+2015-06-22,,"Munich, Bayern (Germany)",Current Employee ,Business development in a disruptive market,Business development in a disruptive market,0,"Cloudreach is nicely positioned as a company. It's full commitment to the cloud allows Cloudreach to focus fully on helping customers to benefit from the multiple advantages coming with cloud computing IaaS/PaaS services over traditional solutions. A global, but agile player with an unprecedented collection of talent, with opportunities to work in multiple countries and international community.","It is a growth segment, there is always a lot of work waiting, but when combined with the right level of autonomy to decide on what to work on and fun activities like carting, bowling, etc., then this seems to be attractive for many people.",Keep going,5.0,3.0,4.0,4.0,4.0,4.0
+2015-05-19, Cloud Project Manager,Paris (France),Current Employee ,"Ambitious vision, business focus, people car & Fun","Ambitious vision, business focus, people car & Fun",0,"Cloudreach is a fast-growing international company with a very strong Cloud expertise and a very ambitious vision for the future. While being very business focused, People care & Fun are also two important values of Cloudreach. You instantly feel at home here!
+If you want to be part of the world's Cloud transformation, Cloudreach is probably one of the best places for that.","As any fast-growing companies, Cloudreach has to constantly readapt its organisation structure especially as it is a global company growing all across the globe.
+It may look like a bit disorganised sometimes but largely compensated by the good-willing & smartness of the teams.",Current reorganisation is a key of success for our ambitious plans. Keep up the tremendous job!,5.0,4.0,5.0,4.0,4.0,4.0
+2015-05-28, Service Desk Analyst,"Edinburgh, Scotland (UK)",Current Employee ,Great culture and focus on personal development,Great culture and focus on personal development,0,"- Cloudreach has a big emphasis on personal growth and development. For me, I've been able to expand my technical knowledge in a very short period of time and you can earn certifications with Amazon, Google and Salesforce.
+- A great office culture. Alongside the staff themselves, there are so many little perks around the office - games consoles, a pool table and free food and refreshments.
+- Supportive management and regular 1-2-1 meetings that are focussed on your own development.
+- The company is rapidly expanding and there are numerous avenues where you can pursue a career.",- I haven't experienced any cons from my time with the company.,Keep it cloudy!,5.0,5.0,5.0,5.0,5.0,5.0
+2015-05-20," Cloud Leader, Operations","Edinburgh, Scotland (UK)",Former Employee ,Thoughts of a Former Team Lead,Thoughts of a Former Team Lead,0,"Cloudreach has a unique culture: friendly and knowledgeable colleagues who are all always happy to help out and encourage people to learn and further their understanding. Quarterly meetings bring the company together with fun team-building activities, food and drink. There are always stocked fridges and snack cupboards to keep people full of energy!",I can't think of any!,,4.0,4.0,4.0,3.0,4.0,4.0
+2015-05-14, Not Applicable,"London, England (UK)",Former Employee ,Visionaries on the right path,Visionaries on the right path,0,"Well run company
+Leaders generally care about employees
+Fun social events
+There is always someone to go for a beer with
+Great central location
+Food in the office
+Company phone for everyone
+Established processes even for a small business","Cloud can be a bit dull and overly hyped
+Still establishing who they are
+Employees may feel like commodities if out on the field too long
+Pay is not competitive",Employees maybe loosing sight of the vision. What do we believe in and why do we do what we do? It's also not clear what the end goal is.,4.0,3.0,5.0,4.0,2.0,3.0
+2015-05-06, Service Desk Analyst,"Edinburgh, Scotland (UK)",Current Employee ,"Amazing, fantastic place to work and a great way to kick start my career.","Amazing, fantastic place to work and a great way to kick start my career.",0,"Cloudy lunch
+Quarterly meetings
+Cloudy University
+Cloudy panel
+The people
+Investment in training
+Performance reviews
+Meeting the founders
+Food deliveries every week, beers in the fridge!!",Do not have any!! Apply!!,,5.0,,,,,
+2015-06-12, Devops,"Vancouver, BC (Canada)",Current Employee ,Horrible place,Horrible place,0,"May be some perks, Vancouver location is good and convenient.","Terrible communication, No HR to be around if you need to discuss issues.
+They will push you to accept bad employment terms in order to stay employed, cheap on every way possible
+Management are in England so no where to be reached",,1.0,2.0,2.0,1.0,1.0,1.0
+2015-04-24,,,Current Employee ,Manager,Manager,0,Fast growing start up on a fast growing market brings lots of real opportunities to devops and cloud lovers. Selection process guarantees a reasonable level of expertise and soft skills,Fast growing start up that might be too fast and seems a bit disorganized. Long term vision yet to be translated into concrete directions,"Keep the faith, search for more funding, harden some process and go multi cloud",4.0,4.0,4.0,4.0,4.0,5.0
+2015-03-27, Devops Engineer,"Vancouver, BC (Canada)",Current Employee ,"Cloudreach, the living proof that god loves nerds.","Cloudreach, the living proof that god loves nerds.",0,"Smart, fun, progressive people.
+Interesting ever-changing business.
+Small enough that you're always recognized, global enough that you're literally on top of any technological feat going on in anywhere in the world.","None so far, this is really the most I've enjoyed a job, and I've been working in multinationals for over 10 years.","Thank you, more please!",5.0,5.0,5.0,5.0,5.0,5.0
+2015-04-01,,,Current Employee ,A rapidly expanding company that really values its employees.,A rapidly expanding company that really values its employees.,0,"- Friendly and helpful working environment
+- Clear company objectives, and how your position helps achieve these goals
+- Time and effort spent on you as the employee to ensure you are comfortable and capable in your position
+- Fun gatherings (weekly meals and quarterly meetings)",- personal interaction can sometimes be limited if working remotely (not applicable to most due to mainly being on site based),"Continue pushing forward with the current objectives and maintain the high employee satisfaction achieved. Keep everyone excited about the company's progression, which shouldn't be difficult. Finally, continue to employ enthusiastic 'cloudy' people who are passionate about their work.",5.0,5.0,5.0,5.0,5.0,5.0
+2015-03-24, Cloud Systems Developer,Paris (France),Current Employee ,Great place to work,Great place to work,0,"Working with smart people
+Having really good time here","Wait, what? Cons ? .... no thanks",,5.0,5.0,5.0,5.0,5.0,5.0
+2014-11-04,,"London, England (UK)",Current Employee ,"It really is that good, seriously you should apply.","It really is that good, seriously you should apply.",0,"Genuinely great team, no egos, fun, sociable, smart folk who like what they do. Flat structured with management leading by example and getting their hands as dirty as everyone else. Nice to be able to make a real impact on a daily basis.","Difficult to pick much fault, growing pains with all rapidly expanding businesses but generally these are recognised and plans are put in place to try to keep up.",Keep pushing the business to stay one step ahead.,5.0,5.0,5.0,4.0,3.0,5.0
+2014-10-26, Software Engineer,"London, England (UK)",Former Employee ,Best kickoff I could imagine for my career!,Best kickoff I could imagine for my career!,0,"Brilliant people!
+Challenging project with first class customers where engineers gets involved from the very beginning of the projects
+Processes in constant evolution, your input matters in order to improve them
+Got access to AWS training for
+The culture is the best I came across so far, encouraging sharing of knowledge (through techi breakfast for example)
+Quarterly meetings are a very nice moment as well as the friday's lunch to get to know the people you are working with a bit better",I can't think of any,,5.0,4.0,5.0,5.0,5.0,4.0
+2014-10-07, Software Developer,"London, England (UK)",Former Employee ,"Challenging job, lots of elbow grease required: but lots of fun!","Challenging job, lots of elbow grease required: but lots of fun!",0,"* I found it a great opportunity to learn more than I did at any time before or since in my career
+* Engineers often drive choice of technology (as long as its justified)
+* Wide variety of projects and engagements. So even if you dislike your current project, one that you'll enjoy more is probably just around the corner.
+* Some very very smart people.
+* The most fun company I've worked for — the sort of place where your colleagues become your friends. Two years on from having left, I still meet up every so often with my former colleagues for a beer(s).
+* Lots of beer in the fridge, and you're allowed to raid it at any time.
+* Crazy quarterlies that leave you with stories to dine off for the rest of your life.","* Your working hours can be long. That said, this is part and parcel of working for any start-up, and if that's not what you're looking for, Cloudreach isn't for you.
+* Career progression for engineers wasn't clear. Again, this was from when it was a lot smaller than it was today.",,5.0,3.0,5.0,5.0,4.0,4.0
+2014-10-06,,,Current Employee ,Great Place to Work,Great Place to Work,0,"Fantastic place to work if your passionate about cloud computing especially if you wish to work with AWS.
+Great environment to work in with amazing colleagues.
+Smart, enthusiastic, passionate people.","Glassdoor insist I must write something here.
+Being forced to write a con, Cloudreach might not be for everyone e.g. probably not the place to work if you want to cut hair.",,4.0,3.0,5.0,3.0,4.0,5.0
+2018-08-14,,"London, England (UK)",Former Employee ,une startup en plein developpement,une startup en plein developpement,0,"Tres bonne entreprise a condition de travailler dans les departements valorises (AWS, Azure). De belles opportunites de carriere depuis son rachat en 2017.",Le upscaling fait des degats au niveau de la reconnaisance des employes.,,3.0,2.0,3.0,4.0,3.0,2.0
+2018-02-28, Cloud Enablement Leader,Paris (France),Current Employee ,Super ambiance et projets cutting-edge,Super ambiance et projets cutting-edge,0,"+ Colleagues intéressants et intelligents
++ Direction qui a une vraie focus sur l’humain, inscrit dans les valeurs de la société
++ Temps alloué, même obligatoire, chaque semaine pour développement personnel - soutenu par le management
++ Vision et stratégie claire de la direction pour rester la société cloud impliquée dans tous les projets cutting-edge
++ Société en plein expansion qui une belle avenir devant elle
++ Très bon rémunération
++ Bureaux dans le centre de Paris","Aucun inconvenient, Cloudreach fait tout pour être une société à la fois performante et humaine","Continuer dans cette direction, c'est rare de voir une société si positive et tourné vers l'avenir.",5.0,4.0,5.0,5.0,5.0,5.0
+2017-11-28,,,Former Employee ,Snelgroeiend en je kan veel leren,Snelgroeiend en je kan veel leren,0,Teamspirit. Veel mogelijkheden om te leren en jezelf te ontwikkelen,Arbeidsvoorwaarden niet altijd markt conform. Veel focus op de projecten.,,4.0,4.0,5.0,3.0,2.0,4.0
+2014-06-26, Business Development Manager,Amsterdam (Netherlands),Former Employee ,Snel groeiend bedrijf met meer dan genoeg doorgroeimogelijkheden.,Snel groeiend bedrijf met meer dan genoeg doorgroeimogelijkheden.,0,"Driemaandelijkse vergaderingen de gaafste steden van de wereld, veel lol en gekkigheid, superaardige collega's, gezamenlijke lunch, 25 vrije dagen en een vrije dag met je verjaardag. Nog nooit zo'n fijne, gezellige bedrijfssfeer meegemaakt. Geen extreme hiërarchie.",Ik kan er geen een bedenken.,,5.0,5.0,5.0,4.0,3.0,5.0
+2014-06-03,,,Current Employee ,Cloudreach gaat ergens heen!,Cloudreach gaat ergens heen!,0,"- Zeer sterke richtinggeving van het management.
+
+- Management is super-bereikbaar, heeft altijd tijd om geweldige onafhankelijke ideeën van het team te implementeren.
+
+- Alle teams (over de geo's) lijken niet enkel slim maar ook erg sociaal te zijn.
+
+- Open en samenwerkend milieu, geen tijd voor bulls**t.
+
+- Er is altijd ruimte voor originele ideeën en nieuwe manieren om zaken te doen.
+
+- Werken met top partnerbedrijven.
+
+- Je bent echt bezig met het bouwen van het volgende grote technologische bedrijf bij Cloudreach, in plaats van enkel je brood te verdienen.
+
+- Betaling is goed en voordelen zijn goed.",Sommige interne administratiesystemen zouden beter moeten zijn.,- Meer van hetzelfde :),5.0,3.0,5.0,4.0,4.0,5.0
