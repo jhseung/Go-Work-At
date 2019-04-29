@@ -1,4 +1,5 @@
 from selenium import webdriver as wd
+from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.keys import Keys
 import json, time
 

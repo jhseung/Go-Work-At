@@ -34,6 +34,7 @@ from schema import SCHEMA
 import json
 import urllib
 import datetime as dt
+import sys
 
 start = time.time()
 
@@ -151,14 +152,14 @@ def scrape(field, review, author):
     def scrape_rev_title(review):
         return review.find_element_by_class_name('summary').text.strip('"')
 
-    def scrape_years(review):
-        first_par = review.find_element_by_class_name(
-            'reviewBodyCell').find_element_by_tag_name('p')
-        if '(' in first_par.text:
-            res = first_par.text[first_par.text.find('(') + 1:-1]
-        else:
-            res = np.nan
-        return res
+    # def scrape_years(review):
+    #     first_par = review.find_element_by_class_name(
+    #         'reviewBodyCell').find_element_by_tag_name('p')
+    #     if '(' in first_par.text:
+    #         res = first_par.text[first_par.text.find('(') + 1:-1]
+    #     else:
+    #         res = np.nan
+    #     return res
 
     def scrape_helpful(review):
         try:
@@ -246,7 +247,7 @@ def scrape(field, review, author):
         scrape_location,
         scrape_status,
         scrape_rev_title,
-        scrape_years,
+        scrape_rev_title,
         scrape_helpful,
         scrape_pros,
         scrape_cons,
@@ -290,6 +291,9 @@ def extract_from_page():
     reviews = browser.find_elements_by_class_name('empReview')
     logger.info(f'Found {len(reviews)} reviews on page {page[0]}')
 
+    if len(reviews) == 0:
+        sys.exit()
+
     for review in reviews:
         if not is_featured(review):
             data = extract_review(review)
@@ -310,22 +314,36 @@ def extract_from_page():
     return res
 
 
-def more_pages():
-    paging_control = browser.find_element_by_class_name('pagingControls')
-    next_ = paging_control.find_element_by_class_name('next')
-    try:
-        next_.find_element_by_tag_name('a')
-        return True
-    except selenium.common.exceptions.NoSuchElementException:
-        return False
+# def more_pages():
+#     paging_control = browser.find_element_by_class_name('pagingControls')
+#     next_ = paging_control.find_element_by_class_name('next')
+#     try:
+#         next_.find_element_by_tag_name('a')
+#         return True
+#     except selenium.common.exceptions.NoSuchElementException:
+#         return False
 
-
+i = 0
+j = 2
 def go_to_next_page():
+    global i
+    global j
     logger.info(f'Going to page {page[0] + 1}')
-    paging_control = browser.find_element_by_class_name('pagingControls')
-    next_ = paging_control.find_element_by_class_name(
-        'next').find_element_by_tag_name('a')
-    browser.get(next_.get_attribute('href'))
+    if i == 0 :
+        currentURL = browser.current_url
+        nextpage = currentURL[:currentURL.index("htm")-1] + "_P" + str(j) + ".htm"
+        j += 1
+        browser.get(nextpage)
+        i += 1
+    else:
+        currentURL = browser.current_url
+        print(currentURL)
+        if j >= 11:
+            nextpage = currentURL[:currentURL.index("htm")-3] + str(j) + ".htm"
+        else:
+            nextpage = currentURL[:currentURL.index("htm")-2] + str(j) + ".htm"
+        j += 1
+        browser.get(nextpage)
     time.sleep(1)
     page[0] = page[0] + 1
 
@@ -431,24 +449,28 @@ def main():
         browser.get(args.url)
         page[0] = get_current_page()
         logger.info(f'Starting from page {page[0]:,}.')
-        time.sleep(1)
+        # time.sleep(1)
     else:
         browser.get(args.url)
         page[0] = get_current_page()
         logger.info(f'Starting from page {page[0]:,}.')
-        time.sleep(1)
+        # time.sleep(1)
 
     reviews_df = extract_from_page()
     res = res.append(reviews_df)
+    logger.info(f'Writing {len(res)} reviews to file {args.file}')
+    res.to_csv(args.file, index=False, encoding='utf-8')
 
     # import pdb;pdb.set_trace()
 
-    while more_pages() and\
+    while True and\
             len(res) < args.limit and\
             not date_limit_reached[0]:
         go_to_next_page()
         reviews_df = extract_from_page()
         res = res.append(reviews_df)
+        logger.info(f'Writing {len(res)} reviews to file {args.file}')
+        res.to_csv(args.file, index=False, encoding='utf-8')
 
     logger.info(f'Writing {len(res)} reviews to file {args.file}')
     res.to_csv(args.file, index=False, encoding='utf-8')
