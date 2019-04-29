@@ -16,31 +16,46 @@
                 <form class="col s12">
                     <div class="row">
                         <div class="top">
-                            <script>
-                                $(document).ready(function(){
-                                    $('.modal').modal();
-                                    $('.dropdown-trigger').dropdown();
-                                 });
-                            </script>
                             <div class="form-text inline">
                                 My skills are...
                             </div>
-                            <ul id="dropdown" class="dropdown-content">
-                                    <li><a href="#">Java</a></li>
-                                    <li><a href="#">Python</a></li>
-                                    <li><a href="#">C++</a></li>
-                                    <li><a href="#">Javascript</a></li>
-                                    <li><a href="#">Ruby</a></li>
-                                </ul>
-                                <ul class="skillset">
-                                    <li><a class="dropdown-trigger" data-target="dropdown">
-                                        Click for possible skills</a>
-                                    </li>
-                            </ul>
-                            <div class="input-field inline">
-                                <input type="text" name="skillset" placeholder="Java">
-                            </div>
-                        </div>
+                            <div class="row">
+                                <div class="col s12">
+                                  <div class="row">
+                                    <div class="input-field col s12">
+                                      <input type="text" id="autocomplete-input" class="autocomplete">
+                                      <label for="autocomplete-input">Enter Technial Skills Here</label>
+                                      <div class="samples">
+                                        <span>e.g.: </span>
+                                        <span class="sample-badge">
+                                            Java,
+                                        </span>
+                                        <span class="sample-badge">
+                                            Python,
+                                        </span>
+                                        <span class="sample-badge">
+                                            Javascript
+                                        </span>
+                                    </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                              <script>
+                              document.addEventListener('DOMContentLoaded', function() {
+                                var elems = document.querySelectorAll('.autocomplete');
+                                var instances = M.Autocomplete.init(elems, options);
+                              });
+                              $(document).ready(function(){
+                                $('input.autocomplete').autocomplete({
+                                  data: {
+                                    "Java": null,
+                                    "Microsoft": null,
+                                    "Google": 'https://placehold.it/250x250'
+                                  },
+                                });
+                              });
+                              </script>
                         <div class="middle">
                             <div class="text">
                                 In...
