@@ -88,9 +88,9 @@ def ranked_posting_company(input_location='sanfrancisco',
 	"""
 	#Convert the given csv name to a postings dictionary
 	csv_name = 'backend/job_postings/' + input_location + '.csv'
-	print(csv_name, file=sys.stderr)
+	# print(csv_name, file=sys.stderr)
 	postings = csv_to_postings(csv_name)
-	print("postings: {}".format(postings), file=sys.stderr)
+	# print("postings: {}".format(postings), file=sys.stderr)
 
 	#Tokenize locations and skill sets from the dictionary
 	tokens_summary = postings_to_tokens(postings, 'summary')

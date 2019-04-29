@@ -37,4 +37,4 @@ def co_mat(company_list):
 
 
 	# print(postings, file=sys.stderr)
-	return cooccurence_matrix
+	return cooccurence_matrix.shape

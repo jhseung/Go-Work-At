@@ -68,8 +68,9 @@ def fetch_postings(input_skill='Python',
         for new_score, com_id in ranked_rel_word:
                 rel_ranked[com_id] += new_score
         for score, company_id in ranked:
-            for new_score, com_id in rel_ranked:
+            for com_id in rel_ranked:
                 if company_id == com_id:
+                    new_score = rel_ranked[com_id]
                     final_ranked.append((score + 0.1*new_score,company_id))
         
     final_ranked.sort(key=lambda x: x[0], reverse=True)
