@@ -8,7 +8,7 @@ from collections import defaultdict
 from scipy.sparse.linalg import svds
 from nltk.stem import PorterStemmer
 
-def tfidf_matrix(tf,idf,companies,word_in,k=10):
+def tfidf_matrix(tf,idf,companies,word_in,k=3):
 	ps = PorterStemmer()
 	index_to_word = list(idf.keys())
 	for company in companies:
@@ -23,11 +23,19 @@ def tfidf_matrix(tf,idf,companies,word_in,k=10):
 	for word in index_to_word:
 		for comp, freq in tf[word]:
 			mat[word_to_index[word]][company_to_index[comp]] = freq * idf[word]
-	words_compressed, _, docs_compressed = svds(mat, k=10)
+	words_compressed, _, docs_compressed = svds(mat, k=int(n_comps/2))
 	docs_compressed = docs_compressed.transpose()
 
-	if word_in not in word_to_index: return "Not in vocab."
-
-	sims = words_compressed.dot(words_compressed[word_to_index[word_in],:])
-	asort = np.argsort(-sims)[:k+1]
-	return [(index_to_word[i],sims[i]/sims[asort[0]]) for i in asort[1:]]
+	
+	sims = []
+	for word in word_in:
+		if word in word_to_index:
+			if sims == []:
+				sims = words_compressed.dot(words_compressed[word_to_index[word],:])
+			else:
+				sims = np.add(sims,words_compressed.dot(words_compressed[word_to_index[word],:]))
+	if sims != []:
+		asort = np.argsort(-sims)[:k+1]
+		return [(index_to_word[i],sims[i]/sims[asort[0]]) for i in asort[1:]]
+	else:
+		return []
