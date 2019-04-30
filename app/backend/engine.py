@@ -126,7 +126,7 @@ def fetch_postings(input_skill="",
     # print(skill_tokens(), file=sys.stderr)
     # print(co_mat(['accenture','adobe']), file=sys.stderr)
     # get_keywords(get_company_list_reviews())
-    print(final_list)
+    # print(final_list)
     return final_list
 
 fetch_postings()
