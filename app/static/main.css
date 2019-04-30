@@ -6,7 +6,29 @@ body {
     font-family: "Merriweather";
     width: 800px;
     margin: auto;
-    padding: 100px;
+    padding: 70px;
+}
+
+h2 {
+    vertical-align: center;
+    color: #4b7077;
+    font-style: big;
+    display: inline-block;
+    width: 70%;
+}
+
+
+.title-image {
+    display: inline-block;
+    vertical-align:middle;
+    padding-bottom: 40px;
+}
+
+.title-box {
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    height: 80px;
 }
 
 .title-subtext {
