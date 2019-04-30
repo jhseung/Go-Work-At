@@ -9,20 +9,36 @@
         <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-beta/js/materialize.min.js"></script>
         <link href="https://fonts.googleapis.com/css?family=Inconsolata" rel="stylesheet" type="text/css">
         <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-   
-        
+        <style>
+            h2 {
+            position: absolute;
+            left: 40%;
+            top: 3px;
+            color: #4b7077;
+            font-style: big;
+            }
+
+            img {
+                position: absolute;
+                left: 60%;
+                top: 12px;
+            }
+        </style>
     </head>
+
     <body>
+        <h2><b>Go-Work-At</b></h2>
+        <img src="http://clipart-library.com/img1/1578937.png"  width="100" height="100"></img>
         <div class="wrapper">
             <div class="row form-container">
                 <form class="col s12">
                     <div class="row">
                         <div class="top">
-                            <div class="form-text inline">
+                            <div class="form-text inline title-subtext">
                                 My skills are...
                             </div>
                             <div class="chips chips-autocomplete">
-                                <input type="chips" name="skillset">
+                                <input id="skillset-chips" type="chips" name="skillset">
                             </div>          
                             <script>
                               $('.chips').chips();
@@ -41,12 +57,43 @@
                                       'CSS': null,
                                       'Ruby': null,
                                       'Django': null,
-                                      'Flask': null
+                                      'Flask': null,
                                   },
                                   limit: Infinity,
                                   minLength: 1
                                   }
-                              });
+                                });
+
+                                $(document).ready(function() {
+                                    $('#submitbutton').click(function(){
+                                        
+                                        var a = M.Chips.getInstance($('.chips')).chipsData;
+                                        var words = [];
+                                        a.forEach(function(e) {
+                                            words.push(e.tag);
+                                        })
+                                        var x = words.join(",");
+
+                                        var locationQuery = $("input[name='city']:checked").val();
+                                        // console.log(locationQuery)
+
+                                        var companyQualityQuery = $("input[name=company_quality]").val();
+                                        // console.log(companyQualityQuery)
+
+                                        $.ajax({
+                                            url: '/',
+                                            type: "GET",
+                                            data: { skillset: x,
+                                                    city: locationQuery,
+                                                    company_quality: companyQualityQuery},
+                                            success: function(){
+                                                window.location.href = this.url;
+
+                                                }
+                                        })
+                                    })
+                                })
+                              
                             </script>
                                     <div class="samples">
                                       <span>e.g.: </span>
@@ -61,12 +108,12 @@
                                       </span>
                                   </div>
                         <div class="middle">
-                            <div class="text">
+                            <div class="form-text inline title-subtext">
                                 In...
                             </div>
                                 <p>
                                     <label>
-                                    <input type="radio" name="city" value="sanfrancisco"/>
+                                    <input type="radio" name="city" value="sanfrancisco" checked="checked"/>
                                     <span>San Francisco Bay Area</span>
                                     </label>
                                 </p>
@@ -102,7 +149,7 @@
                                 </p>
                         </div>
                         <div class="bottom">
-                            <div class="form-text inline">
+                            <div class="form-text inline title-subtext">
                                 In a company that is...
                             </div>
                             <div class="select-quality">
@@ -122,30 +169,50 @@
                             </div>
                         </div>
                     </div>
-                    <button type="submit" class="btn btn-info"> Go! </button>
+                    <button type="button" id="submitbutton" class="btn btn-info"> Go! </button>
                 </form>
             </div>
             <form class="form-inline">
-            {% if results %}
+            {% if results == "home" %}
+                <h4>Find your dream company</h4>
+            {% elif results %}
                 <div class="subheader show">Recommended companies for you</div>
 
                 {% for info in results %}
                     <div class='card col s12'>
                         <div class='card-header'>
                             <div class='title'>
-                            <p>{{ info.company_name }}</p>
+                                <p>
+                                    <a class='url-link' href="{{company_to_review_url[info.company_name]}}" target="_blank">
+                                        {{ info.company_name }}
+                                    </a>
+                                </p>
                             </div>
                             <div class="badge cat-badge">
-                                {% for descriptor in info.company_top_keywords %}
+                                {% for descriptor in company_to_keyword[info.company_name] %}
                                     <span class="tags">{{ descriptor }}</span>
                                 {% endfor %}
+                            </div>
+                        </div>
+                        <div class='card-header'>
+                            <div class='card-subtext'>
+                                <p class='pros'>Pros</p>
+                                {% for review in info.company_reviews %}
+                                    <p class='subtext'>{{review.pro}}</p>
+                                {% endfor %}
+                            </div>
+                            <div class='card-subtext'>
+                                <p class='cons'>Cons</p>
+                                {% for review in info.company_reviews %}
+                                    <p class='subtext'>{{review.con}}</p>
+                                {% endfor %}                              
                             </div>
                         </div>
                         <div class='card-body'>
                             {% for job in info.job_links %}
                                 <div class='card-body-inner'>
                                     <div class='card-body-left'>
-                                        <p><a href="{{job.url}}">{{job.job_title}}</a></p>
+                                        <p><a class='url-link' href="{{job.url}}" target="_blank">{{job.job_title}}</a></p>
                                     </div>
                                     <div class='card-body-right'>
                                         <p>{{job.job_summary}}</p>
@@ -155,7 +222,6 @@
                         </div>
                     </div>
                 {% endfor %}
-
             {% else  %}
                 <h4>No results found :(</h4>
             {% endif %}
