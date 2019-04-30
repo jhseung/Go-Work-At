@@ -30,11 +30,12 @@ def get_company_list(input_skill, locations):
         info['link'] = posting['link']
         info['job_title'] = posting['job_title']
         info['summary'] = posting['summary']
+        info['jac'] = posting['jac']
         s[(posting['company'].lower())].append(info)
     return s
 
-def fetch_postings(input_skill='Python', 
-                   company_quality="startup", 
+def fetch_postings(input_skill="", 
+                   company_quality="", 
                    locations="sanfrancisco"):
     """
     args: 
@@ -43,6 +44,11 @@ def fetch_postings(input_skill='Python',
     locations: String of location
     """
     # processed_input = get_input()
+    if not input_skill:
+        input_skill = "software"
+    if not company_quality:
+        company_quality = "salary"
+
     company_quality_input = tokenize_and_stem(company_quality)
     input_companies = get_company_list(input_skill, locations)
     # print("input_companies is: {}".format(input_companies), file=sys.stderr)
@@ -119,7 +125,8 @@ def fetch_postings(input_skill='Python',
     # print("final_list is: {}".format(final_list), file=sys.stderr)
     # print(skill_tokens(), file=sys.stderr)
     # print(co_mat(['accenture','adobe']), file=sys.stderr)
-    get_keywords(get_company_list_reviews())
+    # get_keywords(get_company_list_reviews())
+    # print(final_list)
     return final_list
 
 fetch_postings()

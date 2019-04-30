@@ -14,10 +14,7 @@ def search():
 	print ("skillset query is: {}".format(skillset_query))
 	print ("company_quality is: {}".format(company_quality_query))
 	# print (request.args, file=sys.stderr)
-	if not skillset_query:
-		results = []
-	else:
-		results = engine.fetch_postings(skillset_query, company_quality_query, request.args.get('city'))
+	results = engine.fetch_postings(skillset_query, company_quality_query, request.args.get('city'))
 
 	for result in results:
 		print (result['company_name'])

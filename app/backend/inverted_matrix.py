@@ -15,7 +15,7 @@ def get_comp_number():
 
     for file in files:
         if file.endswith(".csv"):
-            companies.append(file[:file.index('_')])
+            companies.append(file[:file.rfind('_')].lower().replace("_", " "))
             tot += 1
 
     companies.sort()
@@ -31,7 +31,7 @@ def create_inverted_matrix():
     for file in files:
         if file.endswith(".csv"):
             inverted_matrix, pros, cons = update_matrix_by_csv(file, inverted_matrix)
-            company_name = file[:file.index('_')]
+            company_name = file[:file.rfind('_')].lower().replace("_", " ")
             pros_matrix[company_name] = pros
             cons_matrix[company_name] = cons
 
@@ -49,11 +49,11 @@ def create_inverted_matrix():
 # Updates the inverted matrix by reading the company's review csv file
 def update_matrix_by_csv(fileName, matrix):
 
-    company_name = fileName[:fileName.index('_')]
+    company_name = fileName[:fileName.rfind('_')].lower().replace("_", " ")
     path = os.path.join(app.root_path, "backend/company_reviews")
     pros = []
     cons = []
-    with open(path + "/" + fileName,encoding='utf-8') as csv_file:
+    with open(path + "/" + fileName, encoding='utf-8') as csv_file:
         csv_reader = csv.reader(csv_file, delimiter=',')
         line_count = 0
 
