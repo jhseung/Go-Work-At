@@ -126,7 +126,7 @@ def ranked_posting_company(input_location='sanfrancisco',
 
 
 def skill_tokens(min_df=3):
-	input_locations = ['chicago','denver','detroit','newyork','sanfrancisco','seattle']
+	input_locations = ['austin','chicago','losangeles','newyork','sanfrancisco','seattle']
 	tokens = {}
 	for input_location in input_locations:
 		csv_name = 'backend/job_postings/' + input_location + '.csv'
