@@ -45,7 +45,7 @@ def fetch_postings(input_skill='Python',
     # processed_input = get_input()
     company_quality_input = tokenize_and_stem(company_quality)
     input_companies = get_company_list(input_skill, locations)
-    print("input_companies is: {}".format(input_companies), file=sys.stderr)
+    # print("input_companies is: {}".format(input_companies), file=sys.stderr)
     # json.dump(list(input_companies), open("company_list.json", 'w'))
     inverted_matrix = open_inverted_matrix()
     company_num, company_list = get_comp_number()
