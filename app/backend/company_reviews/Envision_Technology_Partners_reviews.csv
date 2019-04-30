@@ -1,0 +1,23 @@
+date,employee_title,location,employee_status,review_title,years_at_company,helpful,pros,cons,advice_to_mgmt,rating_overall,rating_balance,rating_culture,rating_career,rating_comp,rating_mgmt
+2018-08-14, Software Developer,"Denver, CO",Former Employee ,"Good company, good people, structure could improve","Good company, good people, structure could improve",0,"- Smart and friendly teammates
+- Relaxed atmosphere
+- Latest Microsoft technologies
+- Easy commute from Denver
+- Pay and benefits are okay","- Learning the business is hard without healthcare knowledge
+- Opportunities for advancement are limited because everyone reports to two owners
+- Leaders are there, but sometimes had mixed messages on how to do things or who controls what
+- Trying to adopt scum or agile but was doing it wrong","- Adopt Scrum and don't assign work to developers
+- Figure out which people are leaders and which are managers
+- Create paths for advancement
+- Allow for more remote work",3.0,3.0,3.0,2.0,3.0,2.0
+2018-02-14, Software Developer,"Greenwood Village, CO",Former Employee ,Good people in a bad situation,Good people in a bad situation,0,"-Development team was competent and very easy to get along with, overall some great people.
+
+-Good 401k plan.","-No control over any aspect of your job. While the owners are generally nice people, the company is dictated by the opinions of a single self-appointed manager. Any requests and insight that you provide to the owners of the company will be completely disregarded if you are not in the good graces of the manager. Over time I provided direct feedback to ownership about ideas for product improvement, processes to help improve our development efforts, and legitimate concerns about employee morale yet these were all completely ignored because I wasn't liked well enough by the manager.
+
+-Incredibly cliquey environment, favoritism is blatantly expressed to a small group of testers and product owners. There is a small circle of ""liked"" employees that are not held to the same ruleset as the rest of the company. If you are not within this circle you will see yourself and your peers being reprimanded for the same behaviors that are freely exhibited by the ""liked"" employees.
+
+-No personal autonomy to speak of. Your worth as an employee is completely derived by the literal time that you spend sitting in your chair at your desk, not by the quality of your work. You are classified as ""lazy"" if you do not put in overtime every pay period, regardless of the workload that you are given.
+
+-Pay rate far under market value for the given benefits. You receive ""small company pay"" yet you will be given far less vacation time and you will not be allowed to work remotely. These policies are very antiquated, almost every large software company in the area will offer more pay, more vacation time, and allow remote work when reasonable.
+
+I struggle to see any reason to recommend this company to developers looking for work regardless of their experience level. I've written this entire review and haven't even mentioned the numerous downfalls of working on their technologically outdated code base. Simply put, the work environment here is toxic, you will certainly be treated better at most any other software company in the area. The experience that you will gain here simply isn't worth the pitfalls that you will inevitably endure.","Listen to your development staff, they build your product and should be as highly valued as your testers/product owners. You've ignored the ones that have spoken up and the rest haven't said anything because they don't want to deal with the backlash from your appointed manager.",1.0,2.0,1.0,1.0,1.0,2.0
