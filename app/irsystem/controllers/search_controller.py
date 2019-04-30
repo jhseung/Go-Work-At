@@ -14,17 +14,19 @@ def search():
 	print ("skillset query is: {}".format(skillset_query))
 	print ("company_quality is: {}".format(company_quality_query))
 	# print (request.args, file=sys.stderr)
-	if not skillset_query:
-		results = []
-	else:
-		results = engine.fetch_postings(skillset_query, company_quality_query, request.args.get('city'))
+	results = engine.fetch_postings(skillset_query, company_quality_query, request.args.get('city'))
 
 	for result in results:
 		print (result['company_name'])
 		if result['company_name'] == 'accenture':
 			print ("PRINTING")
 	# print (results, file=sys.stderr)
-	return render_template('search.html', results=results)
+	skillset_lst = postings.skill_tokens(min_df=3)
+
+	skillset_dict = dict(enumerate(skillset_lst))
+	print(skillset_dict)
+
+	return render_template('search.html', results=results, skillset_dict=skillset_dict)
 
 
 

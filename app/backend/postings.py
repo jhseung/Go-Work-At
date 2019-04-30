@@ -88,9 +88,9 @@ def ranked_posting_company(input_location='sanfrancisco',
 	"""
 	#Convert the given csv name to a postings dictionary
 	csv_name = 'backend/job_postings/' + input_location + '.csv'
-	print(csv_name, file=sys.stderr)
+	# print(csv_name, file=sys.stderr)
 	postings = csv_to_postings(csv_name)
-	print("postings: {}".format(postings), file=sys.stderr)
+	# print("postings: {}".format(postings), file=sys.stderr)
 
 	#Tokenize locations and skill sets from the dictionary
 	tokens_summary = postings_to_tokens(postings, 'summary')
@@ -119,13 +119,14 @@ def ranked_posting_company(input_location='sanfrancisco',
 		dic['company'] = postings[index]['company']
 		dic['job_title'] = postings[index]['title']
 		dic['summary'] = postings[index]['summary']
+		dic['jac'] = combined_jac[k][0]
 		ranked_list.append(dic)
 	# print("ranked_list: {}".format(ranked_list), file=sys.stderr)
 	return ranked_list
 
 
 def skill_tokens(min_df=3):
-	input_locations = ['chicago','denver','detroit','newyork','sanfrancisco','seattle']
+	input_locations = ['austin','chicago','losangeles','newyork','sanfrancisco','seattle']
 	tokens = {}
 	for input_location in input_locations:
 		csv_name = 'backend/job_postings/' + input_location + '.csv'
