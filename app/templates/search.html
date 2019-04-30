@@ -46,10 +46,40 @@
                                   limit: Infinity,
                                   minLength: 1
                                   }
-                              });
-                              $('.button-info').click(function(){
-                        alert(JSON.stringify(M.Chips.getInstance($('.chips')).chipsData));
-                    });
+                                });
+
+                                $(document).ready(function() {
+                                    $('#submitbutton').click(function(){
+                                        
+                                        var a = M.Chips.getInstance($('.chips')).chipsData;
+                                        var words = [];
+                                        a.forEach(function(e) {
+                                            words.push(e.tag);
+                                        })
+                                        // console.log(words);
+                                        var x = words.join(",");
+                                        console.log(x);
+
+                                        var locationQuery = $("input[name='city']:checked").val();
+                                        console.log(locationQuery)
+
+                                        var companyQualityQuery = $("input[name=company_quality]").val();
+                                        console.log(companyQualityQuery)
+
+                                        $.ajax({
+                                            url: '/',
+                                            type: "GET",
+                                            data: { skillset: x,
+                                                    city: locationQuery,
+                                                    company_quality: companyQualityQuery},
+                                            success: function(){
+                                                window.location.href = this.url;
+
+                                                }
+                                        })
+                                    })
+                                })
+                              
                             </script>
                                     <div class="samples">
                                       <span>e.g.: </span>
@@ -125,7 +155,7 @@
                             </div>
                         </div>
                     </div>
-                    <button type="submit" class="btn btn-info"> Go! </button>
+                    <button type="button" id="submitbutton" class="btn btn-info"> Go! </button>
                 </form>
             </div>
             <form class="form-inline">
