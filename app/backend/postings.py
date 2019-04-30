@@ -119,6 +119,7 @@ def ranked_posting_company(input_location='sanfrancisco',
 		dic['company'] = postings[index]['company']
 		dic['job_title'] = postings[index]['title']
 		dic['summary'] = postings[index]['summary']
+		dic['jac'] = combined_jac[k][0]
 		ranked_list.append(dic)
 	# print("ranked_list: {}".format(ranked_list), file=sys.stderr)
 	return ranked_list
