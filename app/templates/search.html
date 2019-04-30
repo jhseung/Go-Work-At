@@ -41,7 +41,7 @@
                                       'CSS': null,
                                       'Ruby': null,
                                       'Django': null,
-                                      'Flask': null
+                                      'Flask': null,
                                   },
                                   limit: Infinity,
                                   minLength: 1
@@ -56,15 +56,13 @@
                                         a.forEach(function(e) {
                                             words.push(e.tag);
                                         })
-                                        // console.log(words);
                                         var x = words.join(",");
-                                        console.log(x);
 
                                         var locationQuery = $("input[name='city']:checked").val();
-                                        console.log(locationQuery)
+                                        // console.log(locationQuery)
 
                                         var companyQualityQuery = $("input[name=company_quality]").val();
-                                        console.log(companyQualityQuery)
+                                        // console.log(companyQualityQuery)
 
                                         $.ajax({
                                             url: '/',
