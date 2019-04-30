@@ -18,20 +18,26 @@ def search():
 	with open(os.path.join(app.root_path, "./backend/keywords.json")) as f:
 		company_to_keyword = json.load(f)
 
-	print ("skillset query is: {}".format(skillset_query))
-	print ("company_quality is: {}".format(company_quality_query))
-	# print (request.args, file=sys.stderr)
-	if not skillset_query:
-		results = []
-	else:
-		results = engine.fetch_postings(skillset_query, company_quality_query, request.args.get('city'))
+	if not skillset_query and not company_quality_query:
+		return render_template('search.html', 
+							results="home", 
+							company_to_review_url=company_to_review_url,
+							company_to_keyword=company_to_keyword
+							)
 
-	for result in results:
-		print (result['company_name'])
-		if result['company_name'] == 'accenture':
-			print ("PRINTING")
-	print (company_to_review_url, file=sys.stderr)
-	print (company_to_keyword, file=sys.stderr)
+	city_query = request.args.get('city') if request.args.get('city') else "sanfrancisco"
+
+	results = engine.fetch_postings(skillset_query, company_quality_query, city_query)
+
+	# print("skillset_query: {}".format(skillset_query), file=sys.stderr)
+
+	skillset_lst = postings.skill_tokens(min_df=3)
+
+	skillset_dict = dict(enumerate(skillset_lst))
+	print(request.form, file=sys.stderr)
+	print(request.data, file=sys.stderr)
+	print(request.values, file=sys.stderr)
+	# print(request.form, file=sys.stderr)
 
 	return render_template('search.html', 
 						   results=results, 

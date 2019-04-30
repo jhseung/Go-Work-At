@@ -119,13 +119,14 @@ def ranked_posting_company(input_location='sanfrancisco',
 		dic['company'] = postings[index]['company']
 		dic['job_title'] = postings[index]['title']
 		dic['summary'] = postings[index]['summary']
+		dic['jac'] = combined_jac[k][0]
 		ranked_list.append(dic)
 	# print("ranked_list: {}".format(ranked_list), file=sys.stderr)
 	return ranked_list
 
 
 def skill_tokens(min_df=3):
-	input_locations = ['chicago','denver','detroit','newyork','sanfrancisco','seattle']
+	input_locations = ['austin','chicago','losangeles','newyork','sanfrancisco','seattle']
 	tokens = {}
 	for input_location in input_locations:
 		csv_name = 'backend/job_postings/' + input_location + '.csv'

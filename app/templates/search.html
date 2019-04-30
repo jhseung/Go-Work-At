@@ -7,8 +7,6 @@
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-beta/css/materialize.min.css">
         <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-beta/js/materialize.min.js"></script>
-        <link href="css/prism.css" rel="stylesheet">
-        <link href="css/ghpages-materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
         <link href="https://fonts.googleapis.com/css?family=Inconsolata" rel="stylesheet" type="text/css">
         <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
    
@@ -23,13 +21,10 @@
                             <div class="form-text inline title-subtext">
                                 My skills are...
                             </div>
-                            <div class="chips chips-autocomplete" name= "skillset">
+                            <div class="chips chips-autocomplete">
+                                <input id="skillset-chips" type="chips" name="skillset">
                             </div>          
                             <script>
-                              document.addEventListener('DOMContentLoaded', function() {
-                                  var elems = document.querySelectorAll('.chips');
-                                  var instances = M.Chips.init(elems, options);
-                              });
                               $('.chips').chips();
                               $('.chips-autocomplete').chips({
                                   autocompleteOptions: {
@@ -52,6 +47,9 @@
                                   minLength: 1
                                   }
                               });
+                              $('.button-info').click(function(){
+                        alert(JSON.stringify(M.Chips.getInstance($('.chips')).chipsData));
+                    });
                             </script>
                                     <div class="samples">
                                       <span>e.g.: </span>
@@ -71,7 +69,7 @@
                             </div>
                                 <p>
                                     <label>
-                                    <input type="radio" name="city" value="sanfrancisco"/>
+                                    <input type="radio" name="city" value="sanfrancisco" checked="checked"/>
                                     <span>San Francisco Bay Area</span>
                                     </label>
                                 </p>
@@ -131,7 +129,9 @@
                 </form>
             </div>
             <form class="form-inline">
-            {% if results %}
+            {% if results == "home" %}
+                <h4>Find your dream company</h4>
+            {% elif results %}
                 <div class="subheader show">Recommended companies for you</div>
 
                 {% for info in results %}
@@ -178,7 +178,6 @@
                         </div>
                     </div>
                 {% endfor %}
-
             {% else  %}
                 <h4>No results found :(</h4>
             {% endif %}
