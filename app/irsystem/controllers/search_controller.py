@@ -24,7 +24,12 @@ def search():
 		if result['company_name'] == 'accenture':
 			print ("PRINTING")
 	# print (results, file=sys.stderr)
-	return render_template('search.html', results=results)
+	skillset_lst = postings.skill_tokens(min_df=3)
+
+	skillset_dict = dict(enumerate(skillset_lst))
+	print(skillset_dict)
+
+	return render_template('search.html', results=results, skillset_dict=skillset_dict)
 
 
 

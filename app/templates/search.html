@@ -7,8 +7,6 @@
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-beta/css/materialize.min.css">
         <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-beta/js/materialize.min.js"></script>
-        <link href="css/prism.css" rel="stylesheet">
-        <link href="css/ghpages-materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
         <link href="https://fonts.googleapis.com/css?family=Inconsolata" rel="stylesheet" type="text/css">
         <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
    
@@ -23,13 +21,10 @@
                             <div class="form-text inline">
                                 My skills are...
                             </div>
-                            <div class="chips chips-autocomplete" name= "skillset">
+                            <div class="chips chips-autocomplete">
+                                <input type="chips" name="skillset">
                             </div>          
                             <script>
-                              document.addEventListener('DOMContentLoaded', function() {
-                                  var elems = document.querySelectorAll('.chips');
-                                  var instances = M.Chips.init(elems, options);
-                              });
                               $('.chips').chips();
                               $('.chips-autocomplete').chips({
                                   autocompleteOptions: {
