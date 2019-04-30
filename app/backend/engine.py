@@ -64,9 +64,9 @@ def fetch_postings(input_skill="",
     most_rel_words = [word[0] for word in tfidf_matrix(inverted_matrix, idf, company_list, company_quality_input)]
  
     final_ranked = []
+    rel_ranked = defaultdict(int)
     for rel_word in most_rel_words:
         ranked_rel_word = index_search(rel_word, inverted_matrix, idf, doc_norms, company_list)
-        rel_ranked = defaultdict(int)
         for new_score, com_id in ranked_rel_word:
                 rel_ranked[com_id] += new_score
     for score, company_id in ranked:
