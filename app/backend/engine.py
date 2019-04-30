@@ -119,9 +119,9 @@ def fetch_postings(input_skill='Python',
     # print("final_list is: {}".format(final_list), file=sys.stderr)
     # print(skill_tokens(), file=sys.stderr)
     # print(co_mat(['accenture','adobe']), file=sys.stderr)
+    get_keywords(get_company_list_reviews())
     return final_list
 
 fetch_postings()
-
 # if __name__ == '__main__':
 #     main()
