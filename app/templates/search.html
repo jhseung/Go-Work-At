@@ -20,7 +20,7 @@
                 <form class="col s12">
                     <div class="row">
                         <div class="top">
-                            <div class="form-text inline">
+                            <div class="form-text inline title-subtext">
                                 My skills are...
                             </div>
                             <div class="chips chips-autocomplete" name= "skillset">
@@ -66,7 +66,7 @@
                                       </span>
                                   </div>
                         <div class="middle">
-                            <div class="text">
+                            <div class="form-text inline title-subtext">
                                 In...
                             </div>
                                 <p>
@@ -107,7 +107,7 @@
                                 </p>
                         </div>
                         <div class="bottom">
-                            <div class="form-text inline">
+                            <div class="form-text inline title-subtext">
                                 In a company that is...
                             </div>
                             <div class="select-quality">
@@ -138,19 +138,37 @@
                     <div class='card col s12'>
                         <div class='card-header'>
                             <div class='title'>
-                            <p>{{ info.company_name }}</p>
+                                <p>
+                                    <a class='url-link' href="{{company_to_review_url[info.company_name]}}" target="_blank">
+                                        {{ info.company_name }}
+                                    </a>
+                                </p>
                             </div>
                             <div class="badge cat-badge">
-                                {% for descriptor in info.company_top_keywords %}
+                                {% for descriptor in company_to_keyword[info.company_name] %}
                                     <span class="tags">{{ descriptor }}</span>
                                 {% endfor %}
+                            </div>
+                        </div>
+                        <div class='card-header'>
+                            <div class='card-subtext'>
+                                <p class='pros'>Pros</p>
+                                {% for review in info.company_reviews %}
+                                    <p class='subtext'>{{review.pro}}</p>
+                                {% endfor %}
+                            </div>
+                            <div class='card-subtext'>
+                                <p class='cons'>Cons</p>
+                                {% for review in info.company_reviews %}
+                                    <p class='subtext'>{{review.con}}</p>
+                                {% endfor %}                              
                             </div>
                         </div>
                         <div class='card-body'>
                             {% for job in info.job_links %}
                                 <div class='card-body-inner'>
                                     <div class='card-body-left'>
-                                        <p><a href="{{job.url}}">{{job.job_title}}</a></p>
+                                        <p><a class='url-link' href="{{job.url}}" target="_blank">{{job.job_title}}</a></p>
                                     </div>
                                     <div class='card-body-right'>
                                         <p>{{job.job_summary}}</p>

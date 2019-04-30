@@ -9,9 +9,15 @@ body {
     padding: 100px;
 }
 
+.title-subtext {
+    font-size: 16px;
+    font-weight: 800;
+}
+
 .samples {
     font-size: 10px;
     color: #80898E;
+    margin-bottom: 20px;
 }
 
 .show {
@@ -64,6 +70,7 @@ body {
 }
 
 .tags {
+    font-family: "Montserrat";
     border: 1px solid #D2DDE4;
     background-color: #EDFFF6;
     color: #52616a;
@@ -84,6 +91,10 @@ body {
     font-family: "Montserrat";
 }
 
+.url-link:hover {
+    color: #1D71D1;
+}
+
 .card-body {
     position: relative;
     width: 100%;
@@ -97,6 +108,35 @@ body {
     display: inline-block;
     font-size: 11px;
     vertical-align: top;
+}
+
+.card-subtext {
+    padding: 2%;
+    margin: 0;
+    width: 48.5%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.pros, .cons {
+    font-family: "Montserrat";
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 12px;
+}
+
+.pros {
+    color: #FF5142;
+}
+
+.cons {
+    color: #00951F;
+}
+
+.subtext {
+    font-size: 9px;
+    color: #52616a;
+    padding: 2px;
 }
 
 .card-body-right {
