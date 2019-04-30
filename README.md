@@ -8,6 +8,10 @@ Incorporating different information retrieval methods such as Jaccard similarity
 
 Contributors:
 *Ji Hwan Seung - jhseung*
+
 *Sang Won Yoon - jp848*
+
 *Yong Jin Cho - brncho5*
+
 *Ju Un Park - syoon131*
+
