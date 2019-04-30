@@ -79,4 +79,4 @@ def get_keywords(company_list):
 		json.dump(d, open(path, 'w'))
 		return d
 	else:
-		json.load(open(path))
+		return json.load(open(path))
